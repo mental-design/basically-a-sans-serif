@@ -222,12 +222,6 @@
       <string>oe</string>
       <string>eth</string>
       <string>thorn</string>
-      <string>e_with_grave</string>
-      <string>e_with_acute</string>
-      <string>e_with_circumflex</string>
-      <string>e_with_diaeresis</string>
-      <string>e_with_macron</string>
-      <string>e_with_dotabove</string>
       <string>o_with_grave</string>
       <string>o_with_acute</string>
       <string>o_with_circumflex</string>
@@ -238,6 +232,12 @@
       <string>c_with_cedilla</string>
       <string>c_with_acute</string>
       <string>c_with_caron</string>
+      <string>e_with_grave</string>
+      <string>e_with_acute</string>
+      <string>e_with_circumflex</string>
+      <string>e_with_diaeresis</string>
+      <string>e_with_macron</string>
+      <string>e_with_dotabove</string>
     </array>
     <key>public.kern1.percent</key>
     <array>
@@ -328,9 +328,6 @@
       <string>euro</string>
       <string>copyright</string>
       <string>registered</string>
-      <string>C_with_cedilla</string>
-      <string>C_with_acute</string>
-      <string>C_with_caron</string>
       <string>O_with_grave</string>
       <string>O_with_acute</string>
       <string>O_with_circumflex</string>
@@ -338,6 +335,9 @@
       <string>O_with_diaeresis</string>
       <string>O_with_stroke</string>
       <string>O_with_macron</string>
+      <string>C_with_cedilla</string>
+      <string>C_with_acute</string>
+      <string>C_with_caron</string>
     </array>
     <key>public.kern2.PI</key>
     <array>
@@ -478,19 +478,6 @@
       <string>ae</string>
       <string>oe</string>
       <string>eth</string>
-      <string>e_with_grave</string>
-      <string>e_with_acute</string>
-      <string>e_with_circumflex</string>
-      <string>e_with_diaeresis</string>
-      <string>e_with_macron</string>
-      <string>e_with_dotabove</string>
-      <string>a_with_grave</string>
-      <string>a_with_acute</string>
-      <string>a_with_circumflex</string>
-      <string>a_with_smalltilde</string>
-      <string>a_with_diaeresis</string>
-      <string>a_with_ring</string>
-      <string>a_with_macron</string>
       <string>o_with_grave</string>
       <string>o_with_acute</string>
       <string>o_with_circumflex</string>
@@ -498,9 +485,22 @@
       <string>o_with_diaeresis</string>
       <string>o_with_stroke</string>
       <string>o_with_macron</string>
+      <string>a_with_grave</string>
+      <string>a_with_acute</string>
+      <string>a_with_circumflex</string>
+      <string>a_with_smalltilde</string>
+      <string>a_with_diaeresis</string>
+      <string>a_with_ring</string>
+      <string>a_with_macron</string>
       <string>c_with_cedilla</string>
       <string>c_with_acute</string>
       <string>c_with_caron</string>
+      <string>e_with_grave</string>
+      <string>e_with_acute</string>
+      <string>e_with_circumflex</string>
+      <string>e_with_diaeresis</string>
+      <string>e_with_macron</string>
+      <string>e_with_dotabove</string>
     </array>
     <key>public.kern2.percent</key>
     <array>

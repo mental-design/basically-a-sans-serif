@@ -222,12 +222,6 @@
       <string>oe</string>
       <string>eth</string>
       <string>thorn</string>
-      <string>e_with_grave</string>
-      <string>e_with_acute</string>
-      <string>e_with_circumflex</string>
-      <string>e_with_diaeresis</string>
-      <string>e_with_macron</string>
-      <string>e_with_dotabove</string>
       <string>c_with_cedilla</string>
       <string>c_with_acute</string>
       <string>c_with_caron</string>
@@ -238,6 +232,12 @@
       <string>o_with_diaeresis</string>
       <string>o_with_stroke</string>
       <string>o_with_macron</string>
+      <string>e_with_grave</string>
+      <string>e_with_acute</string>
+      <string>e_with_circumflex</string>
+      <string>e_with_diaeresis</string>
+      <string>e_with_macron</string>
+      <string>e_with_dotabove</string>
     </array>
     <key>public.kern1.percent</key>
     <array>
@@ -478,22 +478,9 @@
       <string>ae</string>
       <string>oe</string>
       <string>eth</string>
-      <string>e_with_grave</string>
-      <string>e_with_acute</string>
-      <string>e_with_circumflex</string>
-      <string>e_with_diaeresis</string>
-      <string>e_with_macron</string>
-      <string>e_with_dotabove</string>
       <string>c_with_cedilla</string>
       <string>c_with_acute</string>
       <string>c_with_caron</string>
-      <string>a_with_grave</string>
-      <string>a_with_acute</string>
-      <string>a_with_circumflex</string>
-      <string>a_with_smalltilde</string>
-      <string>a_with_diaeresis</string>
-      <string>a_with_ring</string>
-      <string>a_with_macron</string>
       <string>o_with_grave</string>
       <string>o_with_acute</string>
       <string>o_with_circumflex</string>
@@ -501,6 +488,19 @@
       <string>o_with_diaeresis</string>
       <string>o_with_stroke</string>
       <string>o_with_macron</string>
+      <string>e_with_grave</string>
+      <string>e_with_acute</string>
+      <string>e_with_circumflex</string>
+      <string>e_with_diaeresis</string>
+      <string>e_with_macron</string>
+      <string>e_with_dotabove</string>
+      <string>a_with_grave</string>
+      <string>a_with_acute</string>
+      <string>a_with_circumflex</string>
+      <string>a_with_smalltilde</string>
+      <string>a_with_diaeresis</string>
+      <string>a_with_ring</string>
+      <string>a_with_macron</string>
     </array>
     <key>public.kern2.percent</key>
     <array>
