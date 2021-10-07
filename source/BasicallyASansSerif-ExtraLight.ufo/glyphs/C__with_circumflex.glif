@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C_with_circumflex" format="2">
+  <advance width="1215.122367157073"/>
+  <unicode hex="0108"/>
+  <outline>
+    <contour>
+      <point x="406.70030212402344" y="1208.1899108886719" type="line"/>
+      <point x="478.6790313720703" y="1208.1899108886719" type="line"/>
+      <point x="632.2344207763672" y="1386.0332870483398" type="line"/>
+      <point x="785.7898101806641" y="1208.1899108886719" type="line"/>
+      <point x="857.7685470581055" y="1208.1899108886719" type="line"/>
+      <point x="668.2237930297852" y="1427.7151336669922" type="line"/>
+      <point x="596.2450485229492" y="1427.7151336669922" type="line"/>
+    </contour>
+    <contour>
+      <point x="632.23442" y="39.48071" type="curve" smooth="yes"/>
+      <point x="355.99031" y="39.48071"/>
+      <point x="131.71513" y="263.75589"/>
+      <point x="131.71513" y="540.0" type="curve" smooth="yes"/>
+      <point x="131.71513" y="816.24411"/>
+      <point x="355.99031" y="1040.51929"/>
+      <point x="632.23442" y="1040.51929" type="curve" smooth="yes"/>
+      <point x="821.39617" y="1040.51929"/>
+      <point x="986.18966" y="935.35658"/>
+      <point x="1071.28975" y="780.35608" type="curve"/>
+      <point x="1132.5467" y="780.35608" type="line"/>
+      <point x="1042.89769" y="966.45488"/>
+      <point x="852.45926" y="1095.0"/>
+      <point x="632.23442" y="1095.0" type="curve" smooth="yes"/>
+      <point x="325.92159" y="1095.0"/>
+      <point x="77.23442" y="846.31284"/>
+      <point x="77.23442" y="540.0" type="curve" smooth="yes"/>
+      <point x="77.23442" y="233.68716"/>
+      <point x="325.92159" y="-15.0"/>
+      <point x="632.23442" y="-15.0" type="curve" smooth="yes"/>
+      <point x="852.45773" y="-15.0"/>
+      <point x="1042.89504" y="113.54333"/>
+      <point x="1132.5447" y="299.64391" type="curve"/>
+      <point x="1071.28294" y="299.64391" type="line"/>
+      <point x="986.18052" y="144.63759"/>
+      <point x="821.39092" y="39.48071"/>
+    </contour>
+  </outline>
+</glyph>

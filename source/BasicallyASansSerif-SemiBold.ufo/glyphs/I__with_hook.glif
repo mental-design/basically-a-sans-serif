@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_hook" format="2">
+  <advance width="371.82276281494353"/>
+  <unicode hex="1EC8"/>
+  <outline>
+    <contour>
+      <point x="123.18505859375" y="1341.0391006469727" type="line"/>
+      <point x="123.18505859375" y="1215.5864486694336" type="line"/>
+      <point x="248.63771057128906" y="1215.5864486694336" type="line"/>
+      <point x="248.63771057128906" y="1227.6325988769531" type="line"/>
+      <point x="310.92626717053105" y="1252.5563500394537"/>
+      <point x="354.9722" y="1313.4986538559997"/>
+      <point x="354.9722" y="1384.6472599999997" type="curve" smooth="yes"/>
+      <point x="354.9722" y="1477.95447"/>
+      <point x="279.21859" y="1553.70808"/>
+      <point x="185.91138" y="1553.70808" type="curve"/>
+      <point x="93.42485046386719" y="1553.7080764770508" type="line"/>
+      <point x="93.42485046386719" y="1428.2554321289062" type="line"/>
+      <point x="185.911376953125" y="1428.2554321289062" type="line"/>
+      <point x="209.97938" y="1428.25543"/>
+      <point x="229.51955" y="1408.71527"/>
+      <point x="229.51955" y="1384.64726" type="curve" smooth="yes"/>
+      <point x="229.51955" y="1360.57926"/>
+      <point x="209.97938" y="1341.0391"/>
+      <point x="185.91138" y="1341.0391" type="curve"/>
+    </contour>
+    <contour>
+      <point x="96.30235" y="0.0" type="line"/>
+      <point x="275.52042" y="0.0" type="line"/>
+      <point x="275.52042" y="1080.0" type="line"/>
+      <point x="96.30235" y="1080.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

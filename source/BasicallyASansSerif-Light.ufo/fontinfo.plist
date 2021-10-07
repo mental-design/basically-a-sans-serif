@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <real>1080.0</real>
     <key>copyright</key>
-    <string>Copyright 2020 Mental Design. All Rights Reserved.</string>
+    <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
     <integer>-300</integer>
     <key>familyName</key>
@@ -38,7 +38,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>https://www.mentallydesigned.com/</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright 2020 Mental Design (http://experi.mentallydesigned.com/type/), with Reserved Font Name 'Basically A Sans Serif'. All Rights Reserved.
+    <string>Copyright 2021 Mental Design (http://experi.mentallydesigned.com/type/), with Reserved Font Name 'Basically A Sans Serif'. All Rights Reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Light</string>
     <key>openTypeNameVersion</key>
-    <string>1.000</string>
+    <string>1.100</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>1320</integer>
     <key>openTypeOS2TypoDescender</key>
@@ -112,10 +112,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>300</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-15.0</real>
+      <real>-17.666666666666668</real>
       <integer>0</integer>
       <real>767.8612716763005</real>
-      <real>782.8612716763005</real>
+      <real>785.5279383429671</real>
       <real>1080.0</real>
       <real>1095.0</real>
     </array>
@@ -134,16 +134,17 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>78</integer>
-      <real>70.97999999999999</real>
-      <real>77.22</real>
-      <integer>78</integer>
+      <real>70.60578034682081</real>
+      <real>73.85202312138726</real>
+      <real>80.34450867052021</real>
+      <real>81.15606936416184</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>78</integer>
-      <real>70.97999999999999</real>
-      <real>77.22</real>
+      <real>70.60578034682081</real>
+      <real>73.85202312138726</real>
+      <real>80.34450867052021</real>
+      <real>81.15606936416184</real>
     </array>
     <key>postscriptWeightName</key>
     <string>Light</string>
@@ -154,7 +155,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>100</integer>
     <key>xHeight</key>
     <real>767.8612716763005</real>
   </dict>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O_with_gravedbl" format="2">
+  <advance width="1224.1463414634145"/>
+  <unicode hex="020C"/>
+  <outline>
+    <contour>
+      <point x="562.90244" y="1185.36585" type="line"/>
+      <point x="396.48245" y="1479.5122" type="line"/>
+      <point x="205.81187" y="1479.5122" type="line"/>
+      <point x="372.23187" y="1185.36585" type="line"/>
+    </contour>
+    <contour>
+      <point x="827.19512" y="1185.36585" type="line"/>
+      <point x="660.77513" y="1479.5122" type="line"/>
+      <point x="470.10456" y="1479.5122" type="line"/>
+      <point x="636.52455" y="1185.36585" type="line"/>
+    </contour>
+    <contour>
+      <point x="1167.07317" y="540.0" type="curve" smooth="yes"/>
+      <point x="1167.07317" y="846.31284"/>
+      <point x="918.38601" y="1095.0"/>
+      <point x="612.07317" y="1095.0" type="curve" smooth="yes"/>
+      <point x="305.76033" y="1095.0"/>
+      <point x="57.07317" y="846.31284"/>
+      <point x="57.07317" y="540.0" type="curve" smooth="yes"/>
+      <point x="57.07317" y="233.68716"/>
+      <point x="305.76033" y="-15.0"/>
+      <point x="612.07317" y="-15.0" type="curve" smooth="yes"/>
+      <point x="918.38601" y="-15.0"/>
+      <point x="1167.07317" y="233.68716"/>
+    </contour>
+    <contour>
+      <point x="930.0" y="540.0" type="curve" smooth="yes"/>
+      <point x="930.0" y="364.53141"/>
+      <point x="787.54176" y="222.07317"/>
+      <point x="612.07317" y="222.07317" type="curve" smooth="yes"/>
+      <point x="436.60458" y="222.07317"/>
+      <point x="294.14634" y="364.53141"/>
+      <point x="294.14634" y="540.0" type="curve" smooth="yes"/>
+      <point x="294.14634" y="715.46859"/>
+      <point x="436.60458" y="857.92683"/>
+      <point x="612.07317" y="857.92683" type="curve" smooth="yes"/>
+      <point x="787.54176" y="857.92683"/>
+      <point x="930.0" y="715.46859"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_breve" format="2">
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="-750.19626" y="1180.93458" type="line"/>
+      <point x="-750.19626" y="1041.74367"/>
+      <point x="-635.80896" y="928.73832"/>
+      <point x="-494.91589" y="928.73832" type="curve" smooth="yes"/>
+      <point x="-354.02282" y="928.73832"/>
+      <point x="-239.63551" y="1041.74367"/>
+      <point x="-239.63551" y="1180.93458" type="curve"/>
+      <point x="-322.90654" y="1180.93458" type="line"/>
+      <point x="-322.90654" y="1087.70221"/>
+      <point x="-399.98135" y="1012.00935"/>
+      <point x="-494.91589" y="1012.00935" type="curve" smooth="yes"/>
+      <point x="-589.85043" y="1012.00935"/>
+      <point x="-666.92523" y="1087.70221"/>
+      <point x="-666.92523" y="1180.93458" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

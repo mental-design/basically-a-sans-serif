@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R_with_gravedbl" format="2">
+  <advance width="994.9689117251086"/>
+  <unicode hex="0210"/>
+  <outline>
+    <contour>
+      <point x="427.56464" y="1188.0" type="line"/>
+      <point x="264.62208" y="1476.0" type="line"/>
+      <point x="90.9" y="1476.0" type="line"/>
+      <point x="253.84256" y="1188.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="679.56464" y="1188.0" type="line"/>
+      <point x="516.62208" y="1476.0" type="line"/>
+      <point x="342.9" y="1476.0" type="line"/>
+      <point x="505.84256" y="1188.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="96.86035919189453" y="0" type="line"/>
+      <point x="312.86035919189453" y="0" type="line"/>
+      <point x="312.86035919189453" y="347.14286041259766" type="line"/>
+      <point x="494.20298767089844" y="347.14286041259766" type="line"/>
+      <point x="712.0574417114258" y="0" type="line"/>
+      <point x="967.0689086914062" y="0" type="line"/>
+      <point x="723.2160491943359" y="388.5703659057617" type="line"/>
+      <point x="840.3391940352964" y="449.7435248853683"/>
+      <point x="920.3603599999999" y="572.3862443181199"/>
+      <point x="920.3603600000001" y="713.5714299999999" type="curve" smooth="yes"/>
+      <point x="920.36036" y="915.80886"/>
+      <point x="756.16923" y="1080.0"/>
+      <point x="553.93179" y="1080.0" type="curve"/>
+      <point x="96.86035919189453" y="1080" type="line"/>
+    </contour>
+    <contour>
+      <point x="553.9317932128906" y="864" type="line"/>
+      <point x="636.95558" y="864.0"/>
+      <point x="704.36036" y="796.59522"/>
+      <point x="704.36036" y="713.57143" type="curve" smooth="yes"/>
+      <point x="704.36036" y="630.54764"/>
+      <point x="636.95558" y="563.14286"/>
+      <point x="553.93179" y="563.14286" type="curve"/>
+      <point x="312.86035919189453" y="563.1428604125977" type="line"/>
+      <point x="312.86035919189453" y="864" type="line"/>
+    </contour>
+  </outline>
+</glyph>

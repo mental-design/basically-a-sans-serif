@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_with_breveinv" format="2">
+  <advance width="323.6635514018692"/>
+  <unicode hex="020B"/>
+  <outline>
+    <contour>
+      <point x="417.11215" y="898.31776" type="line"/>
+      <point x="417.11215" y="1037.50866"/>
+      <point x="302.72485" y="1150.51402"/>
+      <point x="161.83178" y="1150.51402" type="curve" smooth="yes"/>
+      <point x="20.9387" y="1150.51402"/>
+      <point x="-93.4486" y="1037.50866"/>
+      <point x="-93.4486" y="898.31776" type="curve"/>
+      <point x="-10.17757" y="898.31776" type="line"/>
+      <point x="-10.17757" y="991.55013"/>
+      <point x="66.89723" y="1067.24299"/>
+      <point x="161.83178" y="1067.24299" type="curve" smooth="yes"/>
+      <point x="256.76632" y="1067.24299"/>
+      <point x="333.84112" y="991.55013"/>
+      <point x="333.84112" y="898.31776" type="curve"/>
+    </contour>
+    <contour>
+      <point x="106.31776" y="0.0" type="line"/>
+      <point x="217.34579" y="0.0" type="line"/>
+      <point x="217.34579" y="777.19626" type="line"/>
+      <point x="106.31776" y="777.19626" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U_with_horn_with_acute" format="2">
+  <advance width="1109.4"/>
+  <unicode hex="1EE8"/>
+  <outline>
+    <contour>
+      <point x="431.53896" y="1188.0" type="line"/>
+      <point x="605.26104" y="1188.0" type="line"/>
+      <point x="768.2036" y="1476.0" type="line"/>
+      <point x="594.48152" y="1476.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="77.4000015258789" y="426" type="line"/>
+      <point x="77.4" y="182.60548"/>
+      <point x="275.00548" y="-15.0"/>
+      <point x="518.4" y="-15.0" type="curve" smooth="yes"/>
+      <point x="761.79452" y="-15.0"/>
+      <point x="959.4" y="182.60548"/>
+      <point x="959.4" y="426.0" type="curve"/>
+      <point x="959.4000015258789" y="928.8000030517578" type="line"/>
+      <point x="1079.60709" y="928.8"/>
+      <point x="1177.2" y="1026.39291"/>
+      <point x="1177.2" y="1146.6" type="curve"/>
+      <point x="1177.1999969482422" y="1238.400001525879" type="line"/>
+      <point x="1026" y="1238.400001525879" type="line"/>
+      <point x="1026" y="1146.599998474121" type="line"/>
+      <point x="1026.0" y="1109.84246"/>
+      <point x="996.15754" y="1080.0"/>
+      <point x="959.4" y="1080.0" type="curve"/>
+      <point x="743.4000015258789" y="1080" type="line"/>
+      <point x="743.4000015258789" y="426" type="line"/>
+      <point x="743.4" y="301.81912"/>
+      <point x="642.58088" y="201.0"/>
+      <point x="518.4" y="201.0" type="curve" smooth="yes"/>
+      <point x="394.21912" y="201.0"/>
+      <point x="293.4" y="301.81912"/>
+      <point x="293.4" y="426.0" type="curve"/>
+      <point x="293.4000015258789" y="1080" type="line"/>
+      <point x="77.4000015258789" y="1080" type="line"/>
+    </contour>
+  </outline>
+</glyph>
