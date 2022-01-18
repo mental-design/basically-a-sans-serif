@@ -31,10 +31,17 @@
       <string>A_with_breve_with_smalltilde</string>
       <string>A_with_breve_with_dotbelow</string>
     </array>
+    <key>public.kern1.B</key>
+    <array>
+      <string>B</string>
+      <string>bitcoin</string>
+    </array>
     <key>public.kern1.C</key>
     <array>
       <string>C</string>
       <string>euro</string>
+      <string>cedi</string>
+      <string>colon_sign</string>
       <string>C_with_cedilla</string>
       <string>C_with_acute</string>
       <string>C_with_circumflex</string>
@@ -46,6 +53,7 @@
       <string>E</string>
       <string>AE</string>
       <string>OE</string>
+      <string>AE_with_acute</string>
       <string>E_with_grave</string>
       <string>E_with_acute</string>
       <string>E_with_circumflex</string>
@@ -65,7 +73,11 @@
       <string>E_with_circumflex_with_hook</string>
       <string>E_with_circumflex_with_smalltilde</string>
       <string>E_with_circumflex_with_dotbelow</string>
-      <string>AE_with_acute</string>
+    </array>
+    <key>public.kern1.F</key>
+    <array>
+      <string>F</string>
+      <string>franc</string>
     </array>
     <key>public.kern1.H</key>
     <array>
@@ -95,12 +107,19 @@
       <string>J</string>
       <string>J_with_circumflex</string>
     </array>
+    <key>public.kern1.K</key>
+    <array>
+      <string>K</string>
+      <string>kip</string>
+      <string>K_with_commabelow</string>
+    </array>
     <key>public.kern1.L</key>
     <array>
       <string>L</string>
       <string>L_with_acute</string>
-      <string>L_with_cedilla</string>
+      <string>L_with_commabelow</string>
       <string>L_with_caron</string>
+      <string>L_with_dotmiddle</string>
       <string>L_with_stroke</string>
     </array>
     <key>public.kern1.N</key>
@@ -108,6 +127,7 @@
       <string>N</string>
       <string>N_with_smalltilde</string>
       <string>N_with_acute</string>
+      <string>N_with_commabelow</string>
       <string>N_with_caron</string>
     </array>
     <key>public.kern1.O</key>
@@ -118,6 +138,7 @@
       <string>ETH</string>
       <string>copyright</string>
       <string>registered</string>
+      <string>guarani</string>
       <string>O_with_grave</string>
       <string>O_with_acute</string>
       <string>O_with_circumflex</string>
@@ -147,12 +168,20 @@
       <string>O_with_horn_with_hook</string>
       <string>O_with_horn_with_smalltilde</string>
       <string>O_with_horn_with_dotbelow</string>
+      <string>D_with_caron</string>
+      <string>D_with_stroke</string>
       <string>G_with_circumflex</string>
       <string>G_with_breve</string>
       <string>G_with_dotabove</string>
+      <string>G_with_commabelow</string>
       <string>G_with_caron</string>
-      <string>D_with_caron</string>
-      <string>D_with_stroke</string>
+    </array>
+    <key>public.kern1.P</key>
+    <array>
+      <string>P</string>
+      <string>peso</string>
+      <string>peseta</string>
+      <string>ruble</string>
     </array>
     <key>public.kern1.PI</key>
     <array>
@@ -163,6 +192,8 @@
     <key>public.kern1.R</key>
     <array>
       <string>R</string>
+      <string>rupee</string>
+      <string>R_with_commabelow</string>
       <string>R_with_acute</string>
       <string>R_with_caron</string>
       <string>R_with_gravedbl</string>
@@ -272,6 +303,11 @@
       <string>u_with_horn_with_hook</string>
       <string>u_with_horn_with_smalltilde</string>
       <string>u_with_horn_with_dotbelow</string>
+      <string>g_with_circumflex</string>
+      <string>g_with_breve</string>
+      <string>g_with_dotabove</string>
+      <string>g_with_commabelow</string>
+      <string>g_with_caron</string>
       <string>a_with_grave</string>
       <string>a_with_acute</string>
       <string>a_with_circumflex</string>
@@ -296,10 +332,6 @@
       <string>a_with_breve_with_hook</string>
       <string>a_with_breve_with_smalltilde</string>
       <string>a_with_breve_with_dotbelow</string>
-      <string>g_with_circumflex</string>
-      <string>g_with_breve</string>
-      <string>g_with_dotabove</string>
-      <string>g_with_caron</string>
     </array>
     <key>public.kern1.apostrophe</key>
     <array>
@@ -334,13 +366,17 @@
     <key>public.kern1.d</key>
     <array>
       <string>d</string>
-      <string>d_with_caron</string>
       <string>d_with_stroke</string>
     </array>
     <key>public.kern1.diesis</key>
     <array>
       <string>diesis</string>
       <string>dagger</string>
+    </array>
+    <key>public.kern1.eszett</key>
+    <array>
+      <string>eszett</string>
+      <string>ESZETT</string>
     </array>
     <key>public.kern1.greater</key>
     <array>
@@ -355,11 +391,12 @@
       <string>h</string>
       <string>m</string>
       <string>n</string>
-      <string>h_with_circumflex</string>
-      <string>h_with_stroke</string>
       <string>n_with_smalltilde</string>
       <string>n_with_acute</string>
+      <string>n_with_commabelow</string>
       <string>n_with_caron</string>
+      <string>h_with_circumflex</string>
+      <string>h_with_stroke</string>
     </array>
     <key>public.kern1.hyphen</key>
     <array>
@@ -401,13 +438,14 @@
     <array>
       <string>k</string>
       <string>kra</string>
+      <string>k_with_commabelow</string>
     </array>
     <key>public.kern1.l</key>
     <array>
       <string>l</string>
       <string>l_with_acute</string>
-      <string>l_with_cedilla</string>
-      <string>l_with_caron</string>
+      <string>l_with_commabelow</string>
+      <string>l_with_dotmiddle</string>
       <string>l_with_stroke</string>
     </array>
     <key>public.kern1.less</key>
@@ -428,7 +466,7 @@
       <string>oe</string>
       <string>eth</string>
       <string>thorn</string>
-      <string>ae_with_acute</string>
+      <string>lira_turk</string>
       <string>e_with_grave</string>
       <string>e_with_acute</string>
       <string>e_with_circumflex</string>
@@ -453,6 +491,7 @@
       <string>c_with_circumflex</string>
       <string>c_with_dotabove</string>
       <string>c_with_caron</string>
+      <string>ae_with_acute</string>
       <string>o_with_grave</string>
       <string>o_with_acute</string>
       <string>o_with_circumflex</string>
@@ -496,6 +535,11 @@
       <string>quotelow9</string>
       <string>quotedbllow9</string>
     </array>
+    <key>public.kern1.pound</key>
+    <array>
+      <string>pound</string>
+      <string>lira</string>
+    </array>
     <key>public.kern1.quotesingle</key>
     <array>
       <string>quotesingle</string>
@@ -504,10 +548,13 @@
       <string>quoteright</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
+      <string>d_with_caron</string>
+      <string>l_with_caron</string>
     </array>
     <key>public.kern1.r</key>
     <array>
       <string>r</string>
+      <string>r_with_commabelow</string>
       <string>r_with_acute</string>
       <string>r_with_caron</string>
       <string>r_with_gravedbl</string>
@@ -649,12 +696,18 @@
       <string>J</string>
       <string>J_with_circumflex</string>
     </array>
+    <key>public.kern2.K</key>
+    <array>
+      <string>K</string>
+      <string>K_with_commabelow</string>
+    </array>
     <key>public.kern2.L</key>
     <array>
       <string>L</string>
       <string>L_with_acute</string>
-      <string>L_with_cedilla</string>
+      <string>L_with_commabelow</string>
       <string>L_with_caron</string>
+      <string>L_with_dotmiddle</string>
       <string>L_with_stroke</string>
     </array>
     <key>public.kern2.N</key>
@@ -662,6 +715,7 @@
       <string>N</string>
       <string>N_with_smalltilde</string>
       <string>N_with_acute</string>
+      <string>N_with_commabelow</string>
       <string>N_with_caron</string>
     </array>
     <key>public.kern2.O</key>
@@ -671,9 +725,12 @@
       <string>O</string>
       <string>Q</string>
       <string>OE</string>
-      <string>euro</string>
       <string>copyright</string>
       <string>registered</string>
+      <string>euro</string>
+      <string>cedi</string>
+      <string>colon_sign</string>
+      <string>guarani</string>
       <string>O_with_grave</string>
       <string>O_with_acute</string>
       <string>O_with_circumflex</string>
@@ -706,6 +763,7 @@
       <string>G_with_circumflex</string>
       <string>G_with_breve</string>
       <string>G_with_dotabove</string>
+      <string>G_with_commabelow</string>
       <string>G_with_caron</string>
       <string>C_with_cedilla</string>
       <string>C_with_acute</string>
@@ -721,6 +779,7 @@
     <key>public.kern2.R</key>
     <array>
       <string>R</string>
+      <string>R_with_commabelow</string>
       <string>R_with_acute</string>
       <string>R_with_caron</string>
       <string>R_with_gravedbl</string>
@@ -837,6 +896,11 @@
       <string>diesis</string>
       <string>dagger</string>
     </array>
+    <key>public.kern2.eszett</key>
+    <array>
+      <string>eszett</string>
+      <string>ESZETT</string>
+    </array>
     <key>public.kern2.greater</key>
     <array>
       <string>greater</string>
@@ -885,12 +949,18 @@
       <string>i_with_hook</string>
       <string>i_with_dotbelow</string>
     </array>
+    <key>public.kern2.k</key>
+    <array>
+      <string>k</string>
+      <string>k_with_commabelow</string>
+    </array>
     <key>public.kern2.l</key>
     <array>
       <string>l</string>
       <string>l_with_acute</string>
-      <string>l_with_cedilla</string>
+      <string>l_with_commabelow</string>
       <string>l_with_caron</string>
+      <string>l_with_dotmiddle</string>
       <string>l_with_stroke</string>
     </array>
     <key>public.kern2.less</key>
@@ -912,7 +982,9 @@
       <string>kra</string>
       <string>n_with_smalltilde</string>
       <string>n_with_acute</string>
+      <string>n_with_commabelow</string>
       <string>n_with_caron</string>
+      <string>r_with_commabelow</string>
       <string>r_with_acute</string>
       <string>r_with_caron</string>
       <string>r_with_gravedbl</string>
@@ -930,9 +1002,7 @@
       <string>ae</string>
       <string>oe</string>
       <string>eth</string>
-      <string>d_with_caron</string>
-      <string>d_with_stroke</string>
-      <string>ae_with_acute</string>
+      <string>dong</string>
       <string>e_with_grave</string>
       <string>e_with_acute</string>
       <string>e_with_circumflex</string>
@@ -957,6 +1027,7 @@
       <string>c_with_circumflex</string>
       <string>c_with_dotabove</string>
       <string>c_with_caron</string>
+      <string>ae_with_acute</string>
       <string>o_with_grave</string>
       <string>o_with_acute</string>
       <string>o_with_circumflex</string>
@@ -986,6 +1057,11 @@
       <string>o_with_horn_with_hook</string>
       <string>o_with_horn_with_smalltilde</string>
       <string>o_with_horn_with_dotbelow</string>
+      <string>g_with_circumflex</string>
+      <string>g_with_breve</string>
+      <string>g_with_dotabove</string>
+      <string>g_with_commabelow</string>
+      <string>g_with_caron</string>
       <string>a_with_grave</string>
       <string>a_with_acute</string>
       <string>a_with_circumflex</string>
@@ -1010,10 +1086,8 @@
       <string>a_with_breve_with_hook</string>
       <string>a_with_breve_with_smalltilde</string>
       <string>a_with_breve_with_dotbelow</string>
-      <string>g_with_circumflex</string>
-      <string>g_with_breve</string>
-      <string>g_with_dotabove</string>
-      <string>g_with_caron</string>
+      <string>d_with_caron</string>
+      <string>d_with_stroke</string>
     </array>
     <key>public.kern2.percent</key>
     <array>
@@ -1027,6 +1101,11 @@
       <string>ellipsis</string>
       <string>quotelow9</string>
       <string>quotedbllow9</string>
+    </array>
+    <key>public.kern2.pound</key>
+    <array>
+      <string>pound</string>
+      <string>lira</string>
     </array>
     <key>public.kern2.quotesingle</key>
     <array>

@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>SemiBold</string>
     <key>openTypeNameVersion</key>
-    <string>1.100</string>
+    <string>1.102</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>1320</integer>
     <key>openTypeOS2TypoDescender</key>
@@ -135,6 +135,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>postscriptStemSnapH</key>
     <array>
       <real>125.45264986967852</real>
+      <real>134.53801042571678</real>
       <real>143.32218505647262</real>
       <real>143.37445699391833</real>
       <real>161.54517810599478</real>
@@ -143,6 +144,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>postscriptStemSnapV</key>
     <array>
       <real>125.45264986967852</real>
+      <real>134.53801042571678</real>
       <real>143.32218505647262</real>
       <real>143.37445699391833</real>
       <real>179.2180712423979</real>
@@ -156,7 +158,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>100</integer>
+    <integer>102</integer>
     <key>xHeight</key>
     <real>798.5056472632493</real>
   </dict>

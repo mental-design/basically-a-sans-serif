@@ -134,6 +134,8 @@
     <string>G__with_caron.glif</string>
     <key>G_with_circumflex</key>
     <string>G__with_circumflex.glif</string>
+    <key>G_with_commabelow</key>
+    <string>G__with_commabelow.glif</string>
     <key>G_with_dotabove</key>
     <string>G__with_dotabove.glif</string>
     <key>H</key>
@@ -176,14 +178,18 @@
     <string>J__with_circumflex.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>K_with_commabelow</key>
+    <string>K__with_commabelow.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>L_with_acute</key>
     <string>L__with_acute.glif</string>
     <key>L_with_caron</key>
     <string>L__with_caron.glif</string>
-    <key>L_with_cedilla</key>
-    <string>L__with_cedilla.glif</string>
+    <key>L_with_commabelow</key>
+    <string>L__with_commabelow.glif</string>
+    <key>L_with_dotmiddle</key>
+    <string>L__with_dotmiddle.glif</string>
     <key>L_with_stroke</key>
     <string>L__with_stroke.glif</string>
     <key>M</key>
@@ -194,6 +200,8 @@
     <string>N__with_acute.glif</string>
     <key>N_with_caron</key>
     <string>N__with_caron.glif</string>
+    <key>N_with_commabelow</key>
+    <string>N__with_commabelow.glif</string>
     <key>N_with_smalltilde</key>
     <string>N__with_smalltilde.glif</string>
     <key>O</key>
@@ -272,6 +280,8 @@
     <string>R__with_breveinv.glif</string>
     <key>R_with_caron</key>
     <string>R__with_caron.glif</string>
+    <key>R_with_commabelow</key>
+    <string>R__with_commabelow.glif</string>
     <key>R_with_gravedbl</key>
     <string>R__with_gravedbl.glif</string>
     <key>S</key>
@@ -478,6 +488,8 @@
     <string>backslash.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
+    <key>bitcoin</key>
+    <string>bitcoin.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
     <key>braceright</key>
@@ -506,6 +518,8 @@
     <string>c_with_dotabove.glif</string>
     <key>caron</key>
     <string>caron.glif</string>
+    <key>cedi</key>
+    <string>cedi.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
     <key>cent</key>
@@ -514,6 +528,8 @@
     <string>circumflex.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
+    <key>colon_sign</key>
+    <string>colon_sign.glif</string>
     <key>combining_acute</key>
     <string>combining_acute.glif</string>
     <key>combining_acutedbl</key>
@@ -578,6 +594,8 @@
     <string>divslash.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dong</key>
+    <string>dong.glif</string>
     <key>dotabove</key>
     <string>dotabove.glif</string>
     <key>e</key>
@@ -656,6 +674,8 @@
     <string>four_over_five.glif</string>
     <key>fraction</key>
     <string>fraction.glif</string>
+    <key>franc</key>
+    <string>franc.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>g_with_breve</key>
@@ -664,6 +684,8 @@
     <string>g_with_caron.glif</string>
     <key>g_with_circumflex</key>
     <string>g_with_circumflex.glif</string>
+    <key>g_with_commabelow</key>
+    <string>g_with_commabelow.glif</string>
     <key>g_with_dotabove</key>
     <string>g_with_dotabove.glif</string>
     <key>grave</key>
@@ -672,6 +694,8 @@
     <string>greater.glif</string>
     <key>greater_equal</key>
     <string>greater_equal.glif</string>
+    <key>guarani</key>
+    <string>guarani.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>h_with_circumflex</key>
@@ -726,6 +750,10 @@
     <string>j_with_circumflex.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>k_with_commabelow</key>
+    <string>k_with_commabelow.glif</string>
+    <key>kip</key>
+    <string>kip.glif</string>
     <key>kra</key>
     <string>kra.glif</string>
     <key>l</key>
@@ -734,14 +762,20 @@
     <string>l_with_acute.glif</string>
     <key>l_with_caron</key>
     <string>l_with_caron.glif</string>
-    <key>l_with_cedilla</key>
-    <string>l_with_cedilla.glif</string>
+    <key>l_with_commabelow</key>
+    <string>l_with_commabelow.glif</string>
+    <key>l_with_dotmiddle</key>
+    <string>l_with_dotmiddle.glif</string>
     <key>l_with_stroke</key>
     <string>l_with_stroke.glif</string>
     <key>less</key>
     <string>less.glif</string>
     <key>less_equal</key>
     <string>less_equal.glif</string>
+    <key>lira</key>
+    <string>lira.glif</string>
+    <key>lira_turk</key>
+    <string>lira_turk.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
     <key>logo</key>
@@ -752,6 +786,8 @@
     <string>m.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
+    <key>manat</key>
+    <string>manat.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>mu</key>
@@ -764,8 +800,12 @@
     <string>n_with_acute.glif</string>
     <key>n_with_caron</key>
     <string>n_with_caron.glif</string>
+    <key>n_with_commabelow</key>
+    <string>n_with_commabelow.glif</string>
     <key>n_with_smalltilde</key>
     <string>n_with_smalltilde.glif</string>
+    <key>naira</key>
+    <string>naira.glif</string>
     <key>nary_product</key>
     <string>nary_product.glif</string>
     <key>nary_sum</key>
@@ -874,6 +914,10 @@
     <string>period.glif</string>
     <key>permille</key>
     <string>permille.glif</string>
+    <key>peseta</key>
+    <string>peseta.glif</string>
+    <key>peso</key>
+    <string>peso.glif</string>
     <key>pi</key>
     <string>pi.glif</string>
     <key>pilcrow</key>
@@ -916,6 +960,8 @@
     <string>r_with_breveinv.glif</string>
     <key>r_with_caron</key>
     <string>r_with_caron.glif</string>
+    <key>r_with_commabelow</key>
+    <string>r_with_commabelow.glif</string>
     <key>r_with_gravedbl</key>
     <string>r_with_gravedbl.glif</string>
     <key>raised_colon</key>
@@ -926,6 +972,10 @@
     <string>return.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
+    <key>ruble</key>
+    <string>ruble.glif</string>
+    <key>rupee</key>
+    <string>rupee.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>s_with_acute</key>

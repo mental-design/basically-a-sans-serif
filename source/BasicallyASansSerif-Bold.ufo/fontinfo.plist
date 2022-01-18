@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Bold</string>
     <key>openTypeNameVersion</key>
-    <string>1.100</string>
+    <string>1.102</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>1320</integer>
     <key>openTypeOS2TypoDescender</key>
@@ -135,14 +135,16 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>postscriptStemSnapH</key>
     <array>
       <real>151.2</real>
+      <real>154.8</real>
       <real>165.24</real>
       <real>172.8</real>
-      <real>179.99999999999997</real>
+      <real>180.0</real>
       <real>216.0</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
       <real>151.2</real>
+      <real>154.8</real>
       <real>165.24</real>
       <real>172.8</real>
       <real>216.0</real>
@@ -160,7 +162,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>100</integer>
+    <integer>102</integer>
     <key>xHeight</key>
     <real>810.0</real>
   </dict>
