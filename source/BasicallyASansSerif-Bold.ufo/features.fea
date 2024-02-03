@@ -9,6 +9,7 @@ feature aalt {
     feature calt;
 } aalt;
 
+# Position operators
 lookup posops {
     pos @numerics @operators' @numerics <0 60 0 0>;
     pos @numerics @operators' space @numerics <0 60 0 0>;
@@ -16,14 +17,7 @@ lookup posops {
     pos @numerics space @operators' space @numerics <0 60 0 0>;
 } posops;
 
-lookup smile {
-    pos @eyes' hyphen <0 150 0 0>;
-    pos hyphen @eyes' <0 150 0 0>;
-
-    pos @eyes hyphen' <0 60 0 0>;
-    pos hyphen' @eyes <0 60 0 0>;
-} smile;
-
+# Substitute operators
 lookup subops {
     sub @numerics space hyphen' space @numerics by minus;
     sub @numerics plus' hyphen' @numerics by plusminus;
@@ -32,10 +26,19 @@ lookup subops {
     sub @numerics space plus' hyphen' space @numerics by plusminus;
 } subops;
 
+# Align smileys
+lookup smile {
+    pos @eyes' hyphen <0 150 0 0>;
+    pos hyphen @eyes' <0 150 0 0>;
+
+    pos @eyes hyphen' <0 60 0 0>;
+    pos hyphen' @eyes <0 60 0 0>;
+} smile;
+
 feature calt {
     lookup posops;
     lookup subops;
     lookup smile;
     
-    pos @numerics colon' @numerics <0 150 0 0>;
+    pos @numerics colon' @numerics <0 150 0 0>;  # adjust : for time
 } calt;
