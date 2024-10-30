@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_dotaboveright" format="2">
+  <unicode hex="0358"/>
+  <anchor x="-101.43682310469313" y="904.5487364620939" name="_aboveright" identifier="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="-101.43682" y="1006.2919" type="curve" smooth="yes"/>
+      <point x="-101.43682" y="1065.46835"/>
+      <point x="-149.48059" y="1113.51212"/>
+      <point x="-208.65704" y="1113.51212" type="curve" smooth="yes"/>
+      <point x="-267.83349" y="1113.51212"/>
+      <point x="-315.87726" y="1065.46835"/>
+      <point x="-315.87726" y="1006.2919" type="curve" smooth="yes"/>
+      <point x="-315.87726" y="947.11546"/>
+      <point x="-267.83349" y="899.07169"/>
+      <point x="-208.65704" y="899.07169" type="curve" smooth="yes"/>
+      <point x="-149.48059" y="899.07169"/>
+      <point x="-101.43682" y="947.11546"/>
+    </contour>
+  </outline>
+</glyph>

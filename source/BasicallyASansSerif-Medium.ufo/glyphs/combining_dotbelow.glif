@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_dotbelow" format="2">
   <unicode hex="0323"/>
+  <anchor x="-495.2274368231046" y="-116.96750902527076" name="_below" identifier="_below"/>
   <outline>
     <contour>
-      <point x="-388.00722" y="-224.18773" type="curve" smooth="yes"/>
-      <point x="-388.00722" y="-165.01128"/>
-      <point x="-436.05099" y="-116.96751"/>
-      <point x="-495.22744" y="-116.96751" type="curve" smooth="yes"/>
-      <point x="-554.40388" y="-116.96751"/>
-      <point x="-602.44765" y="-165.01128"/>
-      <point x="-602.44765" y="-224.18773" type="curve" smooth="yes"/>
-      <point x="-602.44765" y="-283.36417"/>
-      <point x="-554.40388" y="-331.40794"/>
-      <point x="-495.22744" y="-331.40794" type="curve" smooth="yes"/>
-      <point x="-436.05099" y="-331.40794"/>
-      <point x="-388.00722" y="-283.36417"/>
+      <point x="-388.00722" y="-218.71068" type="curve" smooth="yes"/>
+      <point x="-388.00722" y="-159.53423"/>
+      <point x="-436.05099" y="-111.49046"/>
+      <point x="-495.22744" y="-111.49046" type="curve" smooth="yes"/>
+      <point x="-554.40388" y="-111.49046"/>
+      <point x="-602.44765" y="-159.53423"/>
+      <point x="-602.44765" y="-218.71068" type="curve" smooth="yes"/>
+      <point x="-602.44765" y="-277.88712"/>
+      <point x="-554.40388" y="-325.93089"/>
+      <point x="-495.22744" y="-325.93089" type="curve" smooth="yes"/>
+      <point x="-436.05099" y="-325.93089"/>
+      <point x="-388.00722" y="-277.88712"/>
     </contour>
   </outline>
 </glyph>

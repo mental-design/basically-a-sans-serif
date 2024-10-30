@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sup_N" format="2">
+  <advance width="783.8427023085516"/>
+  <unicode hex="1D3A"/>
+  <anchor x="573.8407390730468" y="1244.9001226358348" name="above" identifier="above"/>
+  <anchor x="573.8407390730468" y="-112.59774109470025" name="below" identifier="below"/>
+  <anchor x="96.30234578627281" y="0" name="hookleft" identifier="hookleft"/>
+  <outline>
+    <contour>
+      <point x="96.30235290527344" y="376.92237854003906" type="line"/>
+      <point x="239.62452697753906" y="376.92237854003906" type="line"/>
+      <point x="239.62452697753906" y="823.5122833251953" type="line"/>
+      <point x="544.2181701660156" y="376.92237854003906" type="line"/>
+      <point x="687.5403594970703" y="376.92237854003906" type="line"/>
+      <point x="687.5403594970703" y="1077.871467590332" type="line"/>
+      <point x="544.2181701660156" y="1077.871467590332" type="line"/>
+      <point x="544.2181701660156" y="631.2815628051758" type="line"/>
+      <point x="239.62452697753906" y="1077.871467590332" type="line"/>
+      <point x="96.30235290527344" y="1077.871467590332" type="line"/>
+    </contour>
+  </outline>
+</glyph>

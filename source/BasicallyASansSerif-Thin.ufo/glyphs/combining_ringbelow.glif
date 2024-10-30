@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_ringbelow" format="2">
+  <unicode hex="0325"/>
+  <anchor x="-494.1818181818181" y="-130.9090909090909" name="_below" identifier="_below"/>
+  <outline>
+    <contour>
+      <point x="-391.32468" y="-192.85714" type="curve" smooth="yes"/>
+      <point x="-391.32468" y="-136.08874"/>
+      <point x="-437.41342" y="-90.0"/>
+      <point x="-494.18182" y="-90.0" type="curve" smooth="yes"/>
+      <point x="-550.95022" y="-90.0"/>
+      <point x="-597.03896" y="-136.08874"/>
+      <point x="-597.03896" y="-192.85714" type="curve" smooth="yes"/>
+      <point x="-597.03896" y="-249.62554"/>
+      <point x="-550.95022" y="-295.71429"/>
+      <point x="-494.18182" y="-295.71429" type="curve" smooth="yes"/>
+      <point x="-437.41342" y="-295.71429"/>
+      <point x="-391.32468" y="-249.62554"/>
+    </contour>
+    <contour>
+      <point x="-424.05195" y="-192.85714" type="curve" smooth="yes"/>
+      <point x="-424.05195" y="-231.56287"/>
+      <point x="-455.47609" y="-262.98701"/>
+      <point x="-494.18182" y="-262.98701" type="curve" smooth="yes"/>
+      <point x="-532.88755" y="-262.98701"/>
+      <point x="-564.31169" y="-231.56287"/>
+      <point x="-564.31169" y="-192.85714" type="curve" smooth="yes"/>
+      <point x="-564.31169" y="-154.15141"/>
+      <point x="-532.88755" y="-122.72727"/>
+      <point x="-494.18182" y="-122.72727" type="curve" smooth="yes"/>
+      <point x="-455.47609" y="-122.72727"/>
+      <point x="-424.05195" y="-154.15141"/>
+    </contour>
+  </outline>
+</glyph>

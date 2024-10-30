@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="C" format="2">
-  <advance width="1217.549727006392"/>
+  <advance width="1206.6406360973012"/>
   <unicode hex="0043"/>
+  <anchor x="634.6363636363636" y="1210.9090909090908" name="above" identifier="above"/>
+  <anchor x="634.6363636363636" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="634.6363636363636" y="0" name="cedilla" identifier="cedilla"/>
   <outline>
     <contour>
       <point x="634.63636" y="17.72727" type="curve" smooth="yes"/>

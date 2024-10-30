@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_ogonek" format="2">
+  <unicode hex="0328"/>
+  <anchor x="-84.85714285714285" y="0" name="_ogonek" identifier="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="-433.35124" y="-165.08571" type="curve"/>
+      <point x="-433.35124" y="-241.48576556651673"/>
+      <point x="-382.8871636594778" y="-336.85714028321854"/>
+      <point x="-241.57981" y="-336.85713995330565" type="curve"/>
+      <point x="-84.85713958740234" y="-336.85713958740234" type="line"/>
+      <point x="-84.85713958740234" y="-156.85713958740234" type="line"/>
+      <point x="-241.71428680419922" y="-156.85713958740234" type="line"/>
+      <point x="-84.85713958740234" y="0" type="line"/>
+      <point x="-339.4155807495117" y="0" type="line"/>
+      <point x="-368.8984210009669" y="-29.482835095321335" type="line"/>
+      <point x="-391.9711686713822" y="-52.55557873063776"/>
+      <point x="-433.35124" y="-96.19423410213204"/>
+    </contour>
+  </outline>
+</glyph>

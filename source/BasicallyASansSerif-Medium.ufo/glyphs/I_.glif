@@ -2,6 +2,10 @@
 <glyph name="I" format="2">
   <advance width="347.1335740072202"/>
   <unicode hex="0049"/>
+  <anchor x="173.5667870036101" y="1196.9675090252708" name="above" identifier="above"/>
+  <anchor x="173.5667870036101" y="-116.96750902527076" name="below" identifier="below"/>
+  <anchor x="245.69675090252707" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="173.5667870036101" y="540.0" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="101.43682" y="0.0" type="line"/>

@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
-  <advance width="922.9090909091698"/>
+  <advance width="922.9090909091697"/>
   <unicode hex="005A"/>
+  <anchor x="461.4545454545454" y="1210.9090909090908" name="above" identifier="above"/>
+  <anchor x="461.4545454545454" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="461.4545454545454" y="547.5" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="85.09091186523438" y="0" type="line"/>

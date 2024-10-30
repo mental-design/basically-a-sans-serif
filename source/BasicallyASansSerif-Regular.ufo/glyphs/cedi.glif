@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedi" format="2">
-  <advance width="1208.5155842148251"/>
+  <advance width="1198.4221262709"/>
   <unicode hex="20B5"/>
+  <anchor x="625.9906542056074" y="1201.1214953271026" name="above" identifier="above"/>
+  <anchor x="625.9906542056074" y="-121.12149532710279" name="below" identifier="below"/>
+  <anchor x="625.9906542056074" y="0" name="cedilla" identifier="cedilla"/>
   <outline>
     <contour>
       <point x="580.6542129516602" y="-121.12149810791016" type="line"/>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O_with_macron_and_acute" format="2">
+  <advance width="1244.6425992779782"/>
+  <unicode hex="1E52"/>
+  <outline>
+    <contour>
+      <point x="564.30941" y="1466.16916" type="line"/>
+      <point x="680.33318" y="1466.16916" type="line"/>
+      <point x="831.43741" y="1733.24497" type="line"/>
+      <point x="715.41364" y="1733.24497" type="line"/>
+    </contour>
+    <contour>
+      <point x="352.97112" y="1248.2197" type="line"/>
+      <point x="891.67148" y="1248.2197" type="line"/>
+      <point x="891.67148" y="1349.20165" type="line"/>
+      <point x="352.97112" y="1349.20165" type="line"/>
+    </contour>
+    <contour>
+      <point x="1177.3213" y="540.0" type="curve" smooth="yes"/>
+      <point x="1177.3213" y="846.31284"/>
+      <point x="928.63414" y="1095.0"/>
+      <point x="622.3213" y="1095.0" type="curve" smooth="yes"/>
+      <point x="316.00846" y="1095.0"/>
+      <point x="67.3213" y="846.31284"/>
+      <point x="67.3213" y="540.0" type="curve" smooth="yes"/>
+      <point x="67.3213" y="233.68716"/>
+      <point x="316.00846" y="-15.0"/>
+      <point x="622.3213" y="-15.0" type="curve" smooth="yes"/>
+      <point x="928.63414" y="-15.0"/>
+      <point x="1177.3213" y="233.68716"/>
+    </contour>
+    <contour>
+      <point x="1033.06137" y="540.0" type="curve" smooth="yes"/>
+      <point x="1033.06137" y="313.30638"/>
+      <point x="849.01491" y="129.25993"/>
+      <point x="622.3213" y="129.25993" type="curve" smooth="yes"/>
+      <point x="395.62768" y="129.25993"/>
+      <point x="211.58123" y="313.30638"/>
+      <point x="211.58123" y="540.0" type="curve" smooth="yes"/>
+      <point x="211.58123" y="766.69362"/>
+      <point x="395.62768" y="950.74007"/>
+      <point x="622.3213" y="950.74007" type="curve" smooth="yes"/>
+      <point x="849.01491" y="950.74007"/>
+      <point x="1033.06137" y="766.69362"/>
+    </contour>
+  </outline>
+</glyph>

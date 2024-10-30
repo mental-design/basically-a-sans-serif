@@ -1,19 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="873.4873646209733"/>
+  <advance width="873.4873646209386"/>
   <unicode hex="007A"/>
+  <anchor x="436.7436823104693" y="904.5487364620939" name="above" identifier="above"/>
+  <anchor x="436.7436823104693" y="-116.96750902527076" name="below" identifier="below"/>
+  <anchor x="436.7436823104693" y="401.2906137184116" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="86.81587982177734" y="0" type="line"/>
       <point x="786.6714782714844" y="0" type="line"/>
-      <point x="786.6714782714844" y="144.2599334716797" type="line"/>
-      <point x="290.2843475341797" y="144.2599334716797" type="line"/>
-      <point x="786.6714782714844" y="643.3212966918945" type="line"/>
+      <point x="786.6714782714844" y="141.73805236816406" type="line"/>
+      <point x="286.4859924316406" y="141.73805236816406" type="line"/>
+      <point x="786.6714782714844" y="645.8431777954102" type="line"/>
       <point x="786.6714782714844" y="787.5812301635742" type="line"/>
       <point x="86.81587982177734" y="787.5812301635742" type="line"/>
-      <point x="86.81587982177734" y="643.3212966918945" type="line"/>
-      <point x="583.203010559082" y="643.3212966918945" type="line"/>
-      <point x="86.81587982177734" y="144.2599334716797" type="line"/>
+      <point x="86.81587982177734" y="645.8431777954102" type="line"/>
+      <point x="587.0013732910156" y="645.8431777954102" type="line"/>
+      <point x="86.81587982177734" y="141.73805236816406" type="line"/>
     </contour>
   </outline>
 </glyph>

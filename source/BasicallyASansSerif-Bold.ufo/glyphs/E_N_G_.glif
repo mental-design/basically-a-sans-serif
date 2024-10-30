@@ -2,22 +2,25 @@
 <glyph name="ENG" format="2">
   <advance width="1090.8"/>
   <unicode hex="014A"/>
+  <anchor x="545.4" y="1188.0" name="above" identifier="above"/>
+  <anchor x="545.4" y="-108.0" name="below" identifier="below"/>
+  <anchor x="90.9" y="0" name="hookleft" identifier="hookleft"/>
   <outline>
     <contour>
       <point x="90.9000015258789" y="0" type="line"/>
       <point x="306.9000015258789" y="0" type="line"/>
       <point x="306.9000015258789" y="697.3949890136719" type="line"/>
       <point x="783.9000015258789" y="0" type="line"/>
-      <point x="783.9000015258789" y="-46.58489265231171" type="line"/>
-      <point x="783.9000015258789" y="-110.78787544804544"/>
-      <point x="777.716927351318" y="-216.0"/>
-      <point x="608.9" y="-216.0" type="curve"/>
+      <point x="783.9000015258789" y="-63.792446326155854" type="line"/>
+      <point x="783.9000015258789" y="-214.71424301813124"/>
+      <point x="658.1774396449014" y="-216.0"/>
+      <point x="628.9" y="-216.0" type="curve"/>
       <point x="513.9000015258789" y="-216" type="line"/>
       <point x="513.9000015258789" y="-432" type="line"/>
-      <point x="608.9000015258789" y="-432.0" type="line"/>
-      <point x="798.8550350250823" y="-432.0"/>
-      <point x="999.8999996480463" y="-348.79195216405145"/>
-      <point x="999.9000000525712" y="-41.0" type="curve"/>
+      <point x="628.9000015258789" y="-432.0" type="line"/>
+      <point x="816.3409841916302" y="-432.0"/>
+      <point x="999.8999996973093" y="-311.30908227172904"/>
+      <point x="999.9000000262856" y="-61.0" type="curve"/>
       <point x="999.9000015258789" y="1080" type="line"/>
       <point x="783.9000015258789" y="1080" type="line"/>
       <point x="783.9000015258789" y="382.6050109863281" type="line"/>

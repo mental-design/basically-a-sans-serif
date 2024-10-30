@@ -2,6 +2,10 @@
 <glyph name="H" format="2">
   <advance width="1052.86646884273"/>
   <unicode hex="0048"/>
+  <anchor x="526.433234421365" y="1208.1899109792284" name="above" identifier="above"/>
+  <anchor x="526.433234421365" y="-128.1899109792285" name="below" identifier="below"/>
+  <anchor x="141.86350148367953" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="526.433234421365" y="823.620178041543" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="114.62315368652344" y="0" type="line"/>

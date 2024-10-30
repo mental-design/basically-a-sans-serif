@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_acutedbl" format="2">
   <unicode hex="030B"/>
+  <anchor x="-494.3857566765579" y="887.7151335311573" name="_above" identifier="_above"/>
   <outline>
     <contour>
-      <point x="-642.44161" y="967.2997" type="line"/>
-      <point x="-579.8457" y="967.2997" type="line"/>
-      <point x="-443.55658" y="1208.18991" type="line"/>
-      <point x="-506.15249" y="1208.18991" type="line"/>
+      <point x="-657.76552" y="887.71513" type="line"/>
+      <point x="-595.1696" y="887.71513" type="line"/>
+      <point x="-458.88048" y="1128.60534" type="line"/>
+      <point x="-521.4764" y="1128.60534" type="line"/>
     </contour>
     <contour>
-      <point x="-417.04102" y="967.2997" type="line"/>
-      <point x="-354.4451" y="967.2997" type="line"/>
-      <point x="-218.15598" y="1208.18991" type="line"/>
-      <point x="-280.7519" y="1208.18991" type="line"/>
+      <point x="-432.36493" y="887.71513" type="line"/>
+      <point x="-369.76901" y="887.71513" type="line"/>
+      <point x="-233.47989" y="1128.60534" type="line"/>
+      <point x="-296.07581" y="1128.60534" type="line"/>
     </contour>
   </outline>
 </glyph>

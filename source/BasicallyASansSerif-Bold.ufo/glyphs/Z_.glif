@@ -2,6 +2,9 @@
 <glyph name="Z" format="2">
   <advance width="937.8"/>
   <unicode hex="005A"/>
+  <anchor x="468.9" y="1188.0" name="above" identifier="above"/>
+  <anchor x="468.9" y="-108.0" name="below" identifier="below"/>
+  <anchor x="468.9" y="547.5" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="63.900001525878906" y="0" type="line"/>

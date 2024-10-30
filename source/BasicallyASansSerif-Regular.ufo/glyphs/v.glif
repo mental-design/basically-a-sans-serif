@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="893.9439252335677"/>
+  <advance width="893.9439252336606"/>
   <unicode hex="0076"/>
+  <anchor x="446.97196261682234" y="898.3177570093457" name="above" identifier="above"/>
+  <anchor x="446.97196261682234" y="-121.12149532710279" name="below" identifier="below"/>
   <outline>
     <contour>
-      <point x="386.3609085083008" y="0" type="line"/>
-      <point x="507.5830078125" y="0" type="line"/>
+      <point x="387.05946350097656" y="0" type="line"/>
+      <point x="506.8844680786133" y="0" type="line"/>
       <point x="848.1869201660156" y="777.1962585449219" type="line"/>
-      <point x="726.9648208618164" y="777.1962585449219" type="line"/>
-      <point x="446.97196197509766" y="138.30340576171875" type="line"/>
-      <point x="166.97911071777344" y="777.1962585449219" type="line"/>
+      <point x="728.3619079589844" y="777.1962585449219" type="line"/>
+      <point x="446.9719696044922" y="136.42964935302734" type="line"/>
+      <point x="165.58202362060547" y="777.1962585449219" type="line"/>
       <point x="45.75701141357422" y="777.1962585449219" type="line"/>
     </contour>
   </outline>

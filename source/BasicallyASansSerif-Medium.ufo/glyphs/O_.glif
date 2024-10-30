@@ -2,6 +2,11 @@
 <glyph name="O" format="2">
   <advance width="1244.6425992779782"/>
   <unicode hex="004F"/>
+  <anchor x="622.3212996389891" y="1196.9675090252708" name="above" identifier="above"/>
+  <anchor x="622.3212996389891" y="-116.96750902527076" name="below" identifier="below"/>
+  <anchor x="622.3212996389891" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="622.3212996389891" y="540.0" name="stroke" identifier="stroke"/>
+  <anchor x="622.3212996389891" y="1095.0" name="horn" identifier="horn"/>
   <outline>
     <contour>
       <point x="1177.3213" y="540.0" type="curve" smooth="yes"/>

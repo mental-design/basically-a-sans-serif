@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kip" format="2">
-  <advance width="1080.8571428570924"/>
+  <advance width="1031.1428571428064"/>
   <unicode hex="20AD"/>
+  <anchor x="528.4285714285713" y="1182.857142857143" name="above" identifier="above"/>
+  <anchor x="528.4285714285713" y="-102.85714285714285" name="below" identifier="below"/>
   <outline>
     <contour>
       <point x="97.71428680419922" y="0" type="line"/>

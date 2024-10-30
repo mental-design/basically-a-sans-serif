@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_with_dotbelow_and_macron" format="2">
+  <advance width="775.8"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <contour>
+      <point x="90.9" y="1276.11429" type="line"/>
+      <point x="684.9" y="1276.11429" type="line"/>
+      <point x="684.9" y="1427.31429" type="line"/>
+      <point x="90.9" y="1427.31429" type="line"/>
+    </contour>
+    <contour>
+      <point x="279.9" y="0.0" type="line"/>
+      <point x="495.9" y="0.0" type="line"/>
+      <point x="495.9" y="1134.0" type="line"/>
+      <point x="279.9" y="1134.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="528.3" y="-217.71429" type="curve" smooth="yes"/>
+      <point x="528.3" y="-140.22542"/>
+      <point x="465.38887" y="-77.31429"/>
+      <point x="387.9" y="-77.31429" type="curve" smooth="yes"/>
+      <point x="310.41113" y="-77.31429"/>
+      <point x="247.5" y="-140.22542"/>
+      <point x="247.5" y="-217.71429" type="curve" smooth="yes"/>
+      <point x="247.5" y="-295.20315"/>
+      <point x="310.41113" y="-358.11429"/>
+      <point x="387.9" y="-358.11429" type="curve" smooth="yes"/>
+      <point x="465.38887" y="-358.11429"/>
+      <point x="528.3" y="-295.20315"/>
+    </contour>
+  </outline>
+</glyph>

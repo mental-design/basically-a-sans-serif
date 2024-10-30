@@ -2,6 +2,9 @@
 <glyph name="naira" format="2">
   <advance width="1198.5365853658536"/>
   <unicode hex="20A6"/>
+  <anchor x="599.2682926829268" y="1185.3658536585365" name="above" identifier="above"/>
+  <anchor x="599.2682926829268" y="-105.36585365853658" name="below" identifier="below"/>
+  <anchor x="140.4878048780488" y="0" name="hookleft" identifier="hookleft"/>
   <outline>
     <contour>
       <point x="140.48780059814453" y="0" type="line"/>

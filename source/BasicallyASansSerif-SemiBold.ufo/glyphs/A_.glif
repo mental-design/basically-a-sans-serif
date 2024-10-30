@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="1094.7940920937726"/>
+  <advance width="1094.7940920937729"/>
   <unicode hex="0041"/>
+  <anchor x="547.3970460469156" y="1192.5977410947003" name="above" identifier="above"/>
+  <anchor x="547.3970460469156" y="-112.59774109470025" name="below" identifier="below"/>
+  <anchor x="1082.9400521285838" y="0" name="ogonek" identifier="ogonek"/>
   <outline>
     <contour>
       <point x="11.854042053222656" y="0" type="line"/>

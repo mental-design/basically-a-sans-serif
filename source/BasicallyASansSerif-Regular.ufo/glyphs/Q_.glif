@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="1246.173388640085"/>
+  <advance width="1246.1733886400848"/>
   <unicode hex="0051"/>
+  <anchor x="625.9906542056074" y="1201.1214953271026" name="above" identifier="above"/>
+  <anchor x="625.9906542056074" y="-121.12149532710279" name="below" identifier="below"/>
+  <anchor x="625.9906542056074" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="625.9906542056074" y="539.9999999999999" name="stroke" identifier="stroke"/>
+  <anchor x="625.9906542056074" y="1094.9999999999998" name="horn" identifier="horn"/>
   <outline>
     <contour>
       <point x="1186.9584426879883" y="0" type="line"/>

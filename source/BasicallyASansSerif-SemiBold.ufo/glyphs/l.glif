@@ -2,6 +2,11 @@
 <glyph name="l" format="2">
   <advance width="371.82276281494353"/>
   <unicode hex="006C"/>
+  <anchor x="185.91138140747177" y="1248.8966116420504" name="above" identifier="above"/>
+  <anchor x="185.91138140747177" y="-112.59774109470025" name="below" identifier="below"/>
+  <anchor x="388.118158123371" y="1136.2988705473501" name="caron" identifier="caron"/>
+  <anchor x="185.91138140747177" y="568.1494352736751" name="stroke" identifier="stroke"/>
+  <anchor x="371.82276281494353" y="568.1494352736751" name="dotmiddle" identifier="dotmiddle"/>
   <outline>
     <contour>
       <point x="96.30235" y="0.0" type="line"/>

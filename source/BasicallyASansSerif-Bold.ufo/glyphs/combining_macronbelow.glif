@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_macronbelow" format="2">
+  <unicode hex="0331"/>
+  <anchor x="-495.90000000000003" y="-108.00000000000003" name="_below" identifier="_below"/>
+  <anchor x="-495.90000000000003" y="-108.00000000000003" name="_macronbelow" identifier="_macronbelow"/>
+  <outline>
+    <contour>
+      <point x="-792.9" y="-293.31429" type="line"/>
+      <point x="-198.9" y="-293.31429" type="line"/>
+      <point x="-198.9" y="-142.11429" type="line"/>
+      <point x="-792.9" y="-142.11429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

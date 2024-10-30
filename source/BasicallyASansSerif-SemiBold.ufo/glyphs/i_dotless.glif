@@ -2,6 +2,9 @@
 <glyph name="i_dotless" format="2">
   <advance width="371.82276281494353"/>
   <unicode hex="0131"/>
+  <anchor x="185.91138140747177" y="911.1033883579496" name="above" identifier="above"/>
+  <anchor x="185.91138140747177" y="-112.59774109470025" name="below" identifier="below"/>
+  <anchor x="275.52041702867075" y="0" name="ogonek" identifier="ogonek"/>
   <outline>
     <contour>
       <point x="96.30235" y="0.0" type="line"/>

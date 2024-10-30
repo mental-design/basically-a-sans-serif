@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_gravedbl" format="2">
   <unicode hex="030F"/>
+  <anchor x="-495.90000000000003" y="918.0" name="_above" identifier="_above"/>
   <outline>
     <contour>
-      <point x="-546.3" y="900.0" type="line"/>
-      <point x="-709.24256" y="1188.0" type="line"/>
-      <point x="-882.96464" y="1188.0" type="line"/>
-      <point x="-720.02208" y="900.0" type="line"/>
+      <point x="-525.72016" y="918.0" type="line"/>
+      <point x="-688.66272" y="1206.0" type="line"/>
+      <point x="-862.3848" y="1206.0" type="line"/>
+      <point x="-699.44224" y="918.0" type="line"/>
     </contour>
     <contour>
-      <point x="-294.3" y="900.0" type="line"/>
-      <point x="-457.24256" y="1188.0" type="line"/>
-      <point x="-630.96464" y="1188.0" type="line"/>
-      <point x="-468.02208" y="900.0" type="line"/>
+      <point x="-273.72016" y="918.0" type="line"/>
+      <point x="-436.66272" y="1206.0" type="line"/>
+      <point x="-610.3848" y="1206.0" type="line"/>
+      <point x="-447.44224" y="918.0" type="line"/>
     </contour>
   </outline>
 </glyph>

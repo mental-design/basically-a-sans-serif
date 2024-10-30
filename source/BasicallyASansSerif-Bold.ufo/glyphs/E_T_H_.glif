@@ -2,16 +2,19 @@
 <glyph name="ETH" format="2">
   <advance width="1108.8000000000002"/>
   <unicode hex="00D0"/>
+  <anchor x="546.9" y="1188.0" name="above" identifier="above"/>
+  <anchor x="546.9" y="-108.0" name="below" identifier="below"/>
+  <anchor x="104.4" y="540.0" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="104.4000015258789" y="0" type="line"/>
-      <point x="469.4000015258789" y="0.0" type="line"/>
-      <point x="884.6850569131809" y="0.0"/>
-      <point x="1049.4" y="305.1846528073795"/>
+      <point x="489.4000015258789" y="0.0" type="line"/>
+      <point x="846.0595834568182" y="0.0"/>
+      <point x="1049.4" y="273.5752714038628"/>
       <point x="1049.4" y="540.0" type="curve" smooth="yes"/>
-      <point x="1049.4" y="774.8153471926206"/>
-      <point x="884.6850553873021" y="1080.0"/>
-      <point x="469.4" y="1080.0" type="curve"/>
+      <point x="1049.4" y="806.4247285961372"/>
+      <point x="846.0595826938788" y="1080.0"/>
+      <point x="489.4" y="1080.0" type="curve"/>
       <point x="104.4000015258789" y="1080" type="line"/>
       <point x="104.4000015258789" y="615.5999984741211" type="line"/>
       <point x="23.400001525878906" y="615.5999984741211" type="line"/>
@@ -23,13 +26,13 @@
       <point x="536.4000015258789" y="615.5999984741211" type="line"/>
       <point x="320.4000015258789" y="615.5999984741211" type="line"/>
       <point x="320.4000015258789" y="864" type="line"/>
-      <point x="469.4000015258789" y="864.0" type="line"/>
-      <point x="752.2497188195181" y="864.0"/>
-      <point x="833.4" y="670.2201118901007"/>
+      <point x="489.4000015258789" y="864.0" type="line"/>
+      <point x="720.235103544107" y="864.0"/>
+      <point x="833.4" y="694.5202800379642"/>
       <point x="833.4" y="540.0" type="curve" smooth="yes"/>
-      <point x="833.4" y="409.7798881098992"/>
-      <point x="752.2497172936392" y="216.0"/>
-      <point x="469.4" y="216.0" type="curve"/>
+      <point x="833.4" y="385.47971996203586"/>
+      <point x="720.2351027811676" y="216.0"/>
+      <point x="489.4" y="216.0" type="curve"/>
       <point x="320.4000015258789" y="216" type="line"/>
       <point x="320.4000015258789" y="464.4000015258789" type="line"/>
     </contour>

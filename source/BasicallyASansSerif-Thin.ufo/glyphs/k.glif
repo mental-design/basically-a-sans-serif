@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="783.272727272795"/>
+  <advance width="750.5454545455223"/>
   <unicode hex="006B"/>
+  <anchor x="348.46753246753246" y="1276.3636363636363" name="above" identifier="above"/>
+  <anchor x="348.46753246753246" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="134.1818181818182" y="1276.3636363636363" name="stem" identifier="stem"/>
+  <anchor x="413.0454545454545" y="-130.9090909090909" name="macronbelow" identifier="macronbelow"/>
   <outline>
     <contour>
       <point x="117.81817626953125" y="0" type="line"/>

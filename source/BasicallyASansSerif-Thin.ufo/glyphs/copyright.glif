@@ -2,6 +2,9 @@
 <glyph name="copyright" format="2">
   <advance width="1250.181818181818"/>
   <unicode hex="00A9"/>
+  <anchor x="625.0909090909091" y="885.6818181818181" name="above" identifier="above"/>
+  <anchor x="625.0909090909091" y="194.31818181818187" name="below" identifier="below"/>
+  <anchor x="625.0909090909091" y="259.7727272727273" name="cedilla" identifier="cedilla"/>
   <outline>
     <contour>
       <point x="1165.09091" y="540.0" type="curve" smooth="yes"/>

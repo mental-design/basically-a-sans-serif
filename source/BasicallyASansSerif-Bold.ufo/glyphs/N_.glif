@@ -2,6 +2,9 @@
 <glyph name="N" format="2">
   <advance width="1090.8"/>
   <unicode hex="004E"/>
+  <anchor x="545.4" y="1188.0" name="above" identifier="above"/>
+  <anchor x="545.4" y="-108.0" name="below" identifier="below"/>
+  <anchor x="90.9" y="0" name="hookleft" identifier="hookleft"/>
   <outline>
     <contour>
       <point x="90.9000015258789" y="0" type="line"/>

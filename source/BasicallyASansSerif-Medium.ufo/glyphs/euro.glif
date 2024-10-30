@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="euro" format="2">
-  <advance width="1253.970624792877"/>
+  <advance width="1244.2233323741045"/>
   <unicode hex="20AC"/>
+  <anchor x="666.1841155234657" y="1196.9675090252708" name="above" identifier="above"/>
+  <anchor x="666.1841155234657" y="-116.96750902527076" name="below" identifier="below"/>
+  <anchor x="666.1841155234657" y="0" name="cedilla" identifier="cedilla"/>
   <outline>
     <contour>
       <point x="23.458480834960938" y="374.2391662597656" type="line"/>

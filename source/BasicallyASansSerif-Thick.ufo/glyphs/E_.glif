@@ -2,6 +2,10 @@
 <glyph name="E" format="2">
   <advance width="954.0"/>
   <unicode hex="0045"/>
+  <anchor x="483.4285714285714" y="1182.857142857143" name="above" identifier="above"/>
+  <anchor x="483.4285714285714" y="-102.85714285714285" name="below" identifier="below"/>
+  <anchor x="483.4285714285714" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="882.0" y="0" name="ogonek" identifier="ogonek"/>
   <outline>
     <contour>
       <point x="84.85713958740234" y="0" type="line"/>

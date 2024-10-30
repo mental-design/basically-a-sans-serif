@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_vertlinedbl" format="2">
+  <unicode hex="030E"/>
+  <anchor x="-496.2857142857143" y="925.7142857142857" name="_above" identifier="_above"/>
+  <outline>
+    <contour>
+      <point x="-712.28571" y="925.71429" type="line"/>
+      <point x="-532.28571" y="925.71429" type="line"/>
+      <point x="-532.28571" y="1225.71429" type="line"/>
+      <point x="-712.28571" y="1225.71429" type="line"/>
+    </contour>
+    <contour>
+      <point x="-460.28571" y="925.71429" type="line"/>
+      <point x="-280.28571" y="925.71429" type="line"/>
+      <point x="-280.28571" y="1225.71429" type="line"/>
+      <point x="-460.28571" y="1225.71429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

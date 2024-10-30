@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_acute" format="2">
   <unicode hex="0301"/>
+  <anchor x="-495.90000000000003" y="918.0" name="_above" identifier="_above"/>
+  <anchor x="-495.90000000000003" y="918.0" name="_topright" identifier="_topright"/>
+  <anchor x="-495.90000000000003" y="918.0" name="_stem" identifier="_stem"/>
+  <anchor x="-495.90000000000003" y="1242.0" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-582.76104" y="900.0" type="line"/>
-      <point x="-409.03896" y="900.0" type="line"/>
-      <point x="-246.0964" y="1188.0" type="line"/>
-      <point x="-419.81848" y="1188.0" type="line"/>
+      <point x="-582.76104" y="918.0" type="line"/>
+      <point x="-409.03896" y="918.0" type="line"/>
+      <point x="-246.0964" y="1206.0" type="line"/>
+      <point x="-419.81848" y="1206.0" type="line"/>
     </contour>
   </outline>
 </glyph>

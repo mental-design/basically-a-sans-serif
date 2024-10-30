@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L_with_dotbelow" format="2">
+  <advance width="889.7142857142857"/>
+  <unicode hex="1E36"/>
+  <outline>
+    <contour>
+      <point x="84.85713958740234" y="0" type="line"/>
+      <point x="856.2857131958008" y="0" type="line"/>
+      <point x="856.2857131958008" y="257.14286041259766" type="line"/>
+      <point x="342" y="257.14286041259766" type="line"/>
+      <point x="342" y="1080" type="line"/>
+      <point x="84.85713958740234" y="1080" type="line"/>
+    </contour>
+    <contour>
+      <point x="630.0" y="-217.14286" type="curve" smooth="yes"/>
+      <point x="630.0" y="-129.15183"/>
+      <point x="558.56245" y="-57.71429"/>
+      <point x="470.57143" y="-57.71429" type="curve" smooth="yes"/>
+      <point x="382.58041" y="-57.71429"/>
+      <point x="311.14286" y="-129.15183"/>
+      <point x="311.14286" y="-217.14286" type="curve" smooth="yes"/>
+      <point x="311.14286" y="-305.13388"/>
+      <point x="382.58041" y="-376.57143"/>
+      <point x="470.57143" y="-376.57143" type="curve" smooth="yes"/>
+      <point x="558.56245" y="-376.57143"/>
+      <point x="630.0" y="-305.13388"/>
+    </contour>
+  </outline>
+</glyph>

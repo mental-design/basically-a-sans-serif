@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <real>1080.0</real>
     <key>copyright</key>
-    <string>Copyright 2021-2023 Mental Design. All Rights Reserved.</string>
+    <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
     <integer>-300</integer>
     <key>familyName</key>
@@ -93,13 +93,70 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>ExtraBold</string>
     <key>openTypeNameVersion</key>
-    <string>1.103</string>
+    <string>1.104</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>7</integer>
+      <integer>29</integer>
+    </array>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>11</integer>
+      <integer>9</integer>
+      <integer>3</integer>
+      <integer>2</integer>
+      <integer>2</integer>
+      <integer>2</integer>
+      <integer>2</integer>
+      <integer>2</integer>
+      <integer>4</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array/>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>474</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>50</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>668</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>668</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>668</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>412</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>668</integer>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>0</integer>
+    </array>
     <key>openTypeOS2TypoAscender</key>
     <integer>1320</integer>
     <key>openTypeOS2TypoDescender</key>
     <integer>-300</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>6</integer>
+      <integer>29</integer>
+      <integer>31</integer>
+      <integer>60</integer>
+    </array>
     <key>openTypeOS2VendorID</key>
     <string>mntl</string>
     <key>openTypeOS2WeightClass</key>
@@ -112,12 +169,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>300</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-28.33333333333333</real>
+      <real>-29.33333333333333</real>
       <integer>0</integer>
       <real>816.5853658536586</real>
-      <real>844.918699186992</real>
+      <real>845.918699186992</real>
       <real>1080.0</real>
-      <real>1095.0</real>
+      <real>1096.0</real>
     </array>
     <key>postscriptFamilyBlues</key>
     <array/>
@@ -140,6 +197,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       <real>187.6829268292683</real>
       <real>189.65853658536585</real>
       <real>237.0731707317073</real>
+      <real>260.4</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
@@ -148,6 +206,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       <real>176.3231707317073</real>
       <real>189.65853658536585</real>
       <real>237.0731707317073</real>
+      <real>260.4</real>
     </array>
     <key>postscriptWeightName</key>
     <string>ExtraBold</string>
@@ -158,7 +217,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>103</integer>
+    <integer>104</integer>
     <key>xHeight</key>
     <real>816.5853658536586</real>
   </dict>
