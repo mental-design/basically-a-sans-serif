@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="412.6829268292683"/>
+  <advance width="395.1219512195122"/>
   <unicode hex="006C"/>
-  <anchor x="206.34146341463415" y="1238.0487804878048" name="above" identifier="above"/>
-  <anchor x="206.34146341463415" y="-105.36585365853658" name="below" identifier="below"/>
-  <anchor x="430.2439024390244" y="1132.6829268292684" name="caron" identifier="caron"/>
-  <anchor x="206.34146341463415" y="566.3414634146342" name="stroke" identifier="stroke"/>
-  <anchor x="412.6829268292683" y="566.3414634146342" name="dotmiddle" identifier="dotmiddle"/>
+  <anchor x="197.5609756097561" y="1254.5121951219512" name="above" identifier="above"/>
+  <anchor x="197.5609756097561" y="-105.36585365853658" name="below" identifier="below"/>
+  <anchor x="421.4634146341464" y="1149.1463414634147" name="caron" identifier="caron"/>
+  <anchor x="197.5609756097561" y="574.5731707317074" name="stroke" identifier="stroke"/>
+  <anchor x="401.70731707317077" y="574.5731707317074" name="dotmiddle" identifier="dotmiddle"/>
   <outline>
     <contour>
-      <point x="87.80488" y="0.0" type="line"/>
-      <point x="324.87805" y="0.0" type="line"/>
-      <point x="324.87805" y="1132.68293" type="line"/>
-      <point x="87.80488" y="1132.68293" type="line"/>
+      <point x="79.02439" y="0.0" type="line"/>
+      <point x="316.09756" y="0.0" type="line"/>
+      <point x="316.09756" y="1149.14634" type="line"/>
+      <point x="79.02439" y="1149.14634" type="line"/>
     </contour>
   </outline>
 </glyph>

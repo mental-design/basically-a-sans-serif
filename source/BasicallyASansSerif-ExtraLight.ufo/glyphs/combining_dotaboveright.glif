@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_dotaboveright" format="2">
   <unicode hex="0358"/>
-  <anchor x="-114.62314540059347" y="887.7151335311573" name="_aboveright" identifier="_aboveright"/>
+  <anchor x="-115.85163204747775" y="923.2177299703264" name="_aboveright" identifier="_aboveright"/>
   <outline>
     <contour>
-      <point x="-114.62315" y="979.48283" type="curve" smooth="yes"/>
-      <point x="-114.62315" y="1010.89917"/>
-      <point x="-140.12923" y="1036.40526"/>
-      <point x="-171.54557" y="1036.40526" type="curve" smooth="yes"/>
-      <point x="-202.96191" y="1036.40526"/>
-      <point x="-228.46799" y="1010.89917"/>
-      <point x="-228.46799" y="979.48283" type="curve" smooth="yes"/>
-      <point x="-228.46799" y="948.06649"/>
-      <point x="-202.96191" y="922.56041"/>
-      <point x="-171.54557" y="922.56041" type="curve" smooth="yes"/>
-      <point x="-140.12923" y="922.56041"/>
-      <point x="-114.62315" y="948.06649"/>
+      <point x="-115.85163" y="1014.98543" type="curve" smooth="yes"/>
+      <point x="-115.85163" y="1046.40177"/>
+      <point x="-141.35772" y="1071.90785"/>
+      <point x="-172.77406" y="1071.90785" type="curve" smooth="yes"/>
+      <point x="-204.1904" y="1071.90785"/>
+      <point x="-229.69648" y="1046.40177"/>
+      <point x="-229.69648" y="1014.98543" type="curve" smooth="yes"/>
+      <point x="-229.69648" y="983.56909"/>
+      <point x="-204.1904" y="958.063"/>
+      <point x="-172.77406" y="958.063" type="curve" smooth="yes"/>
+      <point x="-141.35772" y="958.063"/>
+      <point x="-115.85163" y="983.56909"/>
     </contour>
   </outline>
 </glyph>

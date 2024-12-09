@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_macron" format="2">
   <unicode hex="0304"/>
-  <anchor x="-496.2857142857143" y="925.7142857142857" name="_above" identifier="_above"/>
-  <anchor x="-496.2857142857143" y="1232.857142857143" name="above" identifier="above"/>
+  <anchor x="-502.9553571428571" y="944.1964285714286" name="_above" identifier="_above"/>
+  <anchor x="-502.9553571428571" y="1251.3392857142858" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-809.14286" y="950.0" type="line"/>
-      <point x="-183.42857" y="950.0" type="line"/>
-      <point x="-183.42857" y="1130.0" type="line"/>
-      <point x="-809.14286" y="1130.0" type="line"/>
+      <point x="-821.97321" y="968.48214" type="line"/>
+      <point x="-183.9375" y="968.48214" type="line"/>
+      <point x="-183.9375" y="1148.48214" type="line"/>
+      <point x="-821.97321" y="1148.48214" type="line"/>
     </contour>
   </outline>
 </glyph>

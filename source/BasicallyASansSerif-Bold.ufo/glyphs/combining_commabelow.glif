@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_commabelow" format="2">
   <unicode hex="0326"/>
-  <anchor x="-495.90000000000003" y="-108.0" name="_below" identifier="_below"/>
-  <anchor x="-495.90000000000003" y="-108.0" name="_above" identifier="_above"/>
-  <anchor x="-495.90000000000003" y="-108.0" name="_stembelow" identifier="_stembelow"/>
+  <anchor x="-505.06875" y="-108.0" name="_below" identifier="_below"/>
+  <anchor x="-505.06875" y="-108.0" name="_above" identifier="_above"/>
+  <anchor x="-505.06875" y="-108.0" name="_stembelow" identifier="_stembelow"/>
   <outline>
     <contour>
-      <point x="-489.02896881103516" y="-432" type="line"/>
-      <point x="-432.1519052205741" y="-333.48605209319027"/>
-      <point x="-420.29999794033347" y="-239.2791398483381"/>
-      <point x="-420.30000064587466" y="-155.5" type="curve"/>
-      <point x="-420.3000030517578" y="-81" type="line"/>
-      <point x="-571.5" y="-81" type="line"/>
-      <point x="-571.5" y="-155.5" type="line"/>
-      <point x="-571.5" y="-211.2918494184342"/>
-      <point x="-576.1692989997441" y="-280.5314734282385"/>
-      <point x="-619.97201" y="-356.4" type="curve"/>
+      <point x="-505.4323501586914" y="-459" type="line"/>
+      <point x="-442.5765090156308" y="-350.1305053706409"/>
+      <point x="-429.46875" y="-245.45745271156017"/>
+      <point x="-429.46875" y="-155.5" type="curve"/>
+      <point x="-429.46875" y="-81" type="line"/>
+      <point x="-580.6687469482422" y="-81" type="line"/>
+      <point x="-580.6687469482422" y="-155.5" type="line"/>
+      <point x="-580.6687469482422" y="-215.37850941099128"/>
+      <point x="-586.1520016939098" y="-296.41055449983236"/>
+      <point x="-636.37539" y="-383.4" type="curve"/>
     </contour>
   </outline>
 </glyph>

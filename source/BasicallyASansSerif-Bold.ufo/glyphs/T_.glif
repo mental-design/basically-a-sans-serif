@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="964.8"/>
+  <advance width="961.2"/>
   <unicode hex="0054"/>
-  <anchor x="482.4" y="1188.0" name="above" identifier="above"/>
-  <anchor x="482.4" y="-108.0" name="below" identifier="below"/>
-  <anchor x="482.4" y="0" name="cedilla" identifier="cedilla"/>
-  <anchor x="482.4" y="540.0" name="stroke" identifier="stroke"/>
+  <anchor x="480.6" y="1194.75" name="above" identifier="above"/>
+  <anchor x="480.6" y="-108.0" name="below" identifier="below"/>
+  <anchor x="480.6" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="480.6" y="543.375" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
-      <point x="374.4000015258789" y="0" type="line"/>
-      <point x="590.4000015258789" y="0" type="line"/>
-      <point x="590.4000015258789" y="864" type="line"/>
-      <point x="914.4000015258789" y="864" type="line"/>
-      <point x="914.4000015258789" y="1080" type="line"/>
-      <point x="50.400001525878906" y="1080" type="line"/>
-      <point x="50.400001525878906" y="864" type="line"/>
-      <point x="374.4000015258789" y="864" type="line"/>
+      <point x="372.5999984741211" y="0" type="line"/>
+      <point x="588.5999984741211" y="0" type="line"/>
+      <point x="588.5999984741211" y="870.75" type="line"/>
+      <point x="912.5999984741211" y="870.75" type="line"/>
+      <point x="912.5999984741211" y="1086.75" type="line"/>
+      <point x="48.599998474121094" y="1086.75" type="line"/>
+      <point x="48.599998474121094" y="870.75" type="line"/>
+      <point x="372.5999984741211" y="870.75" type="line"/>
     </contour>
   </outline>
 </glyph>

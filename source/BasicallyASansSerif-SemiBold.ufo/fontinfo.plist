@@ -5,11 +5,11 @@
     <key>ascender</key>
     <integer>1320</integer>
     <key>capHeight</key>
-    <real>1080.0</real>
+    <real>1084.163770634231</real>
     <key>copyright</key>
     <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
-    <integer>-300</integer>
+    <integer>-330</integer>
     <key>familyName</key>
     <string>Basically A Sans Serif</string>
     <key>guidelines</key>
@@ -30,7 +30,7 @@
     <key>openTypeHheaCaretSlopeRun</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-300</integer>
+    <integer>-330</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>SemiBold</string>
     <key>openTypeNameVersion</key>
-    <string>1.104</string>
+    <string>1.200</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -117,25 +117,25 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2Selection</key>
     <array/>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>469</integer>
+    <integer>476</integer>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>50</integer>
     <key>openTypeOS2SubscriptXOffset</key>
     <integer>0</integer>
     <key>openTypeOS2SubscriptXSize</key>
-    <integer>668</integer>
+    <integer>671</integer>
     <key>openTypeOS2SubscriptYOffset</key>
     <integer>0</integer>
     <key>openTypeOS2SubscriptYSize</key>
-    <integer>668</integer>
+    <integer>671</integer>
     <key>openTypeOS2SuperscriptXOffset</key>
     <integer>0</integer>
     <key>openTypeOS2SuperscriptXSize</key>
-    <integer>668</integer>
+    <integer>671</integer>
     <key>openTypeOS2SuperscriptYOffset</key>
-    <integer>412</integer>
+    <integer>413</integer>
     <key>openTypeOS2SuperscriptYSize</key>
-    <integer>668</integer>
+    <integer>671</integer>
     <key>openTypeOS2Type</key>
     <array>
       <integer>0</integer>
@@ -143,7 +143,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2TypoAscender</key>
     <integer>1320</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-300</integer>
+    <integer>-330</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
@@ -166,28 +166,38 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2WinAscent</key>
     <integer>1320</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>300</integer>
+    <integer>330</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-24.944444444444443</real>
+      <real>-26.522222222222226</real>
       <integer>0</integer>
-      <real>798.5056472632493</real>
-      <real>823.4500917076938</real>
+      <real>823.5322545612511</real>
+      <real>850.0544767834733</real>
+      <real>1084.163770634231</real>
+      <real>1101.7415484120088</real>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array>
+      <real>-31.0</real>
+      <integer>0</integer>
+      <real>810.0</real>
+      <real>841.0</real>
       <real>1080.0</real>
       <real>1096.0</real>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
     <key>postscriptFamilyOtherBlues</key>
-    <array/>
+    <array>
+      <real>-375.0</real>
+      <real>-360.0</real>
+    </array>
     <key>postscriptFontName</key>
     <string>BasicallyASansSerif-SemiBold</string>
     <key>postscriptFullName</key>
     <string>Basically A Sans Serif SemiBold</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-442.40225890529973</real>
-      <real>-427.40225890529973</real>
+      <real>-387.6811661357274</real>
+      <real>-371.1033883579496</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
@@ -197,7 +207,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       <real>143.37445699391833</real>
       <real>161.54517810599478</real>
       <real>179.2180712423979</real>
-      <real>186.4442962962963</real>
+      <real>187.01375925925927</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
@@ -206,7 +216,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       <real>143.32218505647262</real>
       <real>143.37445699391833</real>
       <real>179.2180712423979</real>
-      <real>186.4442962962963</real>
+      <real>187.01375925925927</real>
     </array>
     <key>postscriptWeightName</key>
     <string>SemiBold</string>
@@ -217,8 +227,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>104</integer>
+    <integer>200</integer>
     <key>xHeight</key>
-    <real>798.5056472632493</real>
+    <real>823.5322545612511</real>
   </dict>
 </plist>

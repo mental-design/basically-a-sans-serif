@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_acute" format="2">
   <unicode hex="0301"/>
-  <anchor x="-496.0975609756098" y="921.9512195121952" name="_above" identifier="_above"/>
-  <anchor x="-496.0975609756098" y="921.9512195121952" name="_topright" identifier="_topright"/>
-  <anchor x="-496.0975609756098" y="921.9512195121952" name="_stem" identifier="_stem"/>
-  <anchor x="-496.0975609756098" y="1251.219512195122" name="above" identifier="above"/>
+  <anchor x="-503.9862804878049" y="942.1189024390244" name="_above" identifier="_above"/>
+  <anchor x="-503.9862804878049" y="942.1189024390244" name="_topright" identifier="_topright"/>
+  <anchor x="-503.9862804878049" y="942.1189024390244" name="_stem" identifier="_stem"/>
+  <anchor x="-503.9862804878049" y="1271.3871951219512" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-591.43285" y="921.95122" type="line"/>
-      <point x="-400.76227" y="921.95122" type="line"/>
-      <point x="-234.34228" y="1216.09756" type="line"/>
-      <point x="-425.01285" y="1216.09756" type="line"/>
+      <point x="-599.32157" y="942.1189" type="line"/>
+      <point x="-408.65099" y="942.1189" type="line"/>
+      <point x="-242.231" y="1236.26524" type="line"/>
+      <point x="-432.90157" y="1236.26524" type="line"/>
     </contour>
   </outline>
 </glyph>

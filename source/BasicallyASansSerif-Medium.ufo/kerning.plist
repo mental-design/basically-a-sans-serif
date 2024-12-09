@@ -11,6 +11,11 @@
       <key>lozenge</key>
       <integer>-60</integer>
     </dict>
+    <key>D</key>
+    <dict>
+      <key>four</key>
+      <integer>-20</integer>
+    </dict>
     <key>PI</key>
     <dict>
       <key>underscore</key>
@@ -51,7 +56,7 @@
       <key>numbersign</key>
       <integer>15</integer>
       <key>one</key>
-      <integer>-65</integer>
+      <integer>-45</integer>
       <key>pi</key>
       <integer>30</integer>
       <key>public.kern2.A</key>
@@ -64,6 +69,8 @@
       <integer>-30</integer>
       <key>public.kern2.T</key>
       <integer>-105</integer>
+      <key>public.kern2.U</key>
+      <integer>-7</integer>
       <key>public.kern2.V</key>
       <integer>-75</integer>
       <key>public.kern2.W</key>
@@ -84,6 +91,8 @@
       <integer>5</integer>
       <key>public.kern2.hyphen</key>
       <integer>20</integer>
+      <key>public.kern2.o</key>
+      <real>-2.3333333333333335</real>
       <key>public.kern2.period</key>
       <integer>-60</integer>
       <key>public.kern2.quotesingle</key>
@@ -882,6 +891,8 @@
       <integer>5</integer>
       <key>nary_sum</key>
       <integer>-45</integer>
+      <key>one</key>
+      <integer>-55</integer>
       <key>public.kern2.PI</key>
       <integer>0</integer>
       <key>public.kern2.asterisk</key>
@@ -893,6 +904,8 @@
     <dict>
       <key>asciicircum</key>
       <integer>10</integer>
+      <key>one</key>
+      <integer>-35</integer>
       <key>public.kern2.apostrophe</key>
       <integer>-20</integer>
       <key>public.kern2.o</key>
@@ -1298,6 +1311,11 @@
       <key>zero</key>
       <integer>-45</integer>
     </dict>
+    <key>e</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>-20</integer>
+    </dict>
     <key>eight</key>
     <dict>
       <key>SIGMA</key>
@@ -1314,20 +1332,24 @@
       <integer>-25</integer>
       <key>divslash</key>
       <integer>-45</integer>
+      <key>eight</key>
+      <integer>-15</integer>
       <key>five</key>
       <integer>-20</integer>
       <key>four</key>
-      <integer>-15</integer>
+      <integer>-60</integer>
       <key>lozenge</key>
       <integer>-15</integer>
       <key>multiply</key>
       <integer>-30</integer>
       <key>nary_sum</key>
       <integer>-30</integer>
+      <key>nine</key>
+      <integer>-10</integer>
       <key>numbersign</key>
       <integer>15</integer>
       <key>one</key>
-      <integer>-15</integer>
+      <integer>-30</integer>
       <key>pi</key>
       <integer>-5</integer>
       <key>pilcrow</key>
@@ -1381,11 +1403,11 @@
       <key>slash</key>
       <integer>-20</integer>
       <key>three</key>
-      <integer>-15</integer>
+      <integer>-25</integer>
       <key>trademark</key>
       <integer>-40</integer>
       <key>two</key>
-      <integer>-15</integer>
+      <integer>-20</integer>
       <key>underscore</key>
       <integer>-15</integer>
       <key>zero</key>
@@ -1394,12 +1416,12 @@
     <key>emdash</key>
     <dict>
       <key>emdash</key>
-      <real>-208.13333333333333</real>
+      <real>-207.2</real>
     </dict>
     <key>endash</key>
     <dict>
       <key>endash</key>
-      <real>-208.13333333333333</real>
+      <real>-207.2</real>
     </dict>
     <key>eth</key>
     <dict>
@@ -1436,7 +1458,7 @@
       <key>five</key>
       <integer>-15</integer>
       <key>four</key>
-      <integer>-15</integer>
+      <integer>-45</integer>
       <key>lozenge</key>
       <integer>-15</integer>
       <key>multiply</key>
@@ -1448,7 +1470,7 @@
       <key>numbersign</key>
       <integer>15</integer>
       <key>one</key>
-      <integer>-15</integer>
+      <real>-20.466666666666665</real>
       <key>pi</key>
       <integer>-25</integer>
       <key>pilcrow</key>
@@ -1502,17 +1524,17 @@
       <key>section</key>
       <integer>-10</integer>
       <key>seven</key>
-      <integer>-25</integer>
+      <integer>-40</integer>
       <key>six</key>
       <integer>-15</integer>
       <key>slash</key>
       <integer>-30</integer>
       <key>three</key>
-      <integer>-20</integer>
+      <integer>-25</integer>
       <key>trademark</key>
       <integer>-25</integer>
       <key>two</key>
-      <integer>-40</integer>
+      <integer>-35</integer>
       <key>won</key>
       <integer>-20</integer>
     </dict>
@@ -1531,9 +1553,11 @@
       <key>divslash</key>
       <integer>-10</integer>
       <key>eight</key>
-      <integer>-15</integer>
+      <integer>-30</integer>
       <key>five</key>
-      <integer>-20</integer>
+      <integer>-35</integer>
+      <key>four</key>
+      <integer>-45</integer>
       <key>multiply</key>
       <integer>-5</integer>
       <key>nary_sum</key>
@@ -1543,25 +1567,27 @@
       <key>numbersign</key>
       <integer>30</integer>
       <key>one</key>
-      <integer>-25</integer>
+      <integer>-35</integer>
       <key>pi</key>
       <integer>-30</integer>
       <key>pilcrow</key>
       <integer>-45</integer>
       <key>public.kern2.AE</key>
       <integer>-15</integer>
+      <key>public.kern2.O</key>
+      <integer>-30</integer>
       <key>public.kern2.PI</key>
       <integer>-30</integer>
       <key>public.kern2.T</key>
       <integer>-40</integer>
+      <key>public.kern2.U</key>
+      <integer>15</integer>
       <key>public.kern2.V</key>
-      <integer>-45</integer>
-      <key>public.kern2.W</key>
-      <integer>-45</integer>
+      <integer>-25</integer>
       <key>public.kern2.X</key>
-      <integer>-60</integer>
+      <integer>20</integer>
       <key>public.kern2.Y</key>
-      <integer>-75</integer>
+      <integer>-30</integer>
       <key>public.kern2.Z</key>
       <integer>-15</integer>
       <key>public.kern2.apostrophe</key>
@@ -1589,7 +1615,7 @@
       <key>question</key>
       <integer>-70</integer>
       <key>seven</key>
-      <integer>-55</integer>
+      <integer>-60</integer>
       <key>six</key>
       <integer>-15</integer>
       <key>slash</key>
@@ -1602,8 +1628,6 @@
       <integer>-45</integer>
       <key>won</key>
       <integer>-50</integer>
-      <key>zero</key>
-      <integer>0</integer>
     </dict>
     <key>fraction</key>
     <dict>
@@ -1628,6 +1652,16 @@
       <integer>-332</integer>
       <key>public.kern2.colon</key>
       <integer>0</integer>
+    </dict>
+    <key>i</key>
+    <dict>
+      <key>public.kern2.l</key>
+      <integer>5</integer>
+    </dict>
+    <key>i_dotless</key>
+    <dict>
+      <key>public.kern2.l</key>
+      <integer>5</integer>
     </dict>
     <key>infinity</key>
     <dict>
@@ -2251,6 +2285,10 @@
       <integer>20</integer>
       <key>divslash</key>
       <integer>-120</integer>
+      <key>eight</key>
+      <integer>-10</integer>
+      <key>five</key>
+      <integer>-15</integer>
       <key>four</key>
       <integer>-75</integer>
       <key>multiply</key>
@@ -2262,7 +2300,7 @@
       <key>numbersign</key>
       <integer>-25</integer>
       <key>one</key>
-      <integer>10</integer>
+      <real>-5.7</real>
       <key>pi</key>
       <integer>30</integer>
       <key>pilcrow</key>
@@ -2314,7 +2352,7 @@
       <key>public.kern2.t</key>
       <integer>10</integer>
       <key>public.kern2.x</key>
-      <integer>-5</integer>
+      <integer>-30</integer>
       <key>section</key>
       <integer>-15</integer>
       <key>seven</key>
@@ -2326,11 +2364,11 @@
       <key>slash</key>
       <integer>-90</integer>
       <key>three</key>
-      <integer>-10</integer>
+      <integer>-25</integer>
       <key>trademark</key>
       <integer>-10</integer>
       <key>two</key>
-      <integer>-10</integer>
+      <integer>-20</integer>
       <key>underscore</key>
       <integer>-15</integer>
       <key>won</key>
@@ -2467,6 +2505,8 @@
       <integer>45</integer>
       <key>backslash</key>
       <integer>15</integer>
+      <key>braceright</key>
+      <integer>-15</integer>
       <key>cent</key>
       <integer>35</integer>
       <key>currency</key>
@@ -2474,11 +2514,11 @@
       <key>divslash</key>
       <integer>-15</integer>
       <key>eight</key>
-      <integer>15</integer>
+      <integer>-25</integer>
       <key>five</key>
-      <integer>5</integer>
+      <integer>-35</integer>
       <key>four</key>
-      <integer>-5</integer>
+      <integer>-70</integer>
       <key>infinity</key>
       <integer>60</integer>
       <key>lozenge</key>
@@ -2486,17 +2526,23 @@
       <key>multiply</key>
       <integer>45</integer>
       <key>nine</key>
-      <integer>10</integer>
+      <integer>-30</integer>
       <key>numbersign</key>
       <integer>75</integer>
       <key>one</key>
-      <integer>10</integer>
+      <integer>-35</integer>
+      <key>parenright</key>
+      <integer>15</integer>
       <key>pi</key>
       <integer>15</integer>
+      <key>public.kern2.O</key>
+      <integer>-30</integer>
+      <key>public.kern2.Y</key>
+      <integer>-20</integer>
       <key>public.kern2.bracketleft</key>
-      <integer>90</integer>
+      <integer>-40</integer>
       <key>public.kern2.bracketright</key>
-      <integer>165</integer>
+      <integer>-40</integer>
       <key>public.kern2.colon</key>
       <integer>30</integer>
       <key>public.kern2.greater</key>
@@ -2505,6 +2551,8 @@
       <integer>60</integer>
       <key>public.kern2.less</key>
       <integer>150</integer>
+      <key>public.kern2.o</key>
+      <integer>-25</integer>
       <key>public.kern2.percent</key>
       <integer>75</integer>
       <key>public.kern2.period</key>
@@ -2512,21 +2560,21 @@
       <key>question</key>
       <integer>-15</integer>
       <key>seven</key>
-      <integer>10</integer>
+      <integer>-35</integer>
       <key>six</key>
-      <integer>15</integer>
+      <integer>-25</integer>
       <key>three</key>
-      <integer>5</integer>
+      <integer>-50</integer>
       <key>two</key>
-      <integer>15</integer>
+      <integer>-45</integer>
       <key>underscore</key>
       <integer>105</integer>
-      <key>zero</key>
-      <integer>30</integer>
     </dict>
     <key>parenleft</key>
     <dict>
       <key>degree</key>
+      <integer>15</integer>
+      <key>one</key>
       <integer>15</integer>
       <key>parenleft</key>
       <integer>-120</integer>
@@ -2693,7 +2741,7 @@
       <key>five</key>
       <integer>-30</integer>
       <key>four</key>
-      <integer>-15</integer>
+      <integer>-45</integer>
       <key>infinity</key>
       <integer>-45</integer>
       <key>multiply</key>
@@ -2705,7 +2753,7 @@
       <key>numbersign</key>
       <integer>15</integer>
       <key>one</key>
-      <integer>-120</integer>
+      <integer>-110</integer>
       <key>pi</key>
       <integer>-45</integer>
       <key>pilcrow</key>
@@ -2747,7 +2795,7 @@
       <key>public.kern2.less</key>
       <integer>-45</integer>
       <key>public.kern2.o</key>
-      <integer>-25</integer>
+      <real>-26.166666666666668</real>
       <key>public.kern2.percent</key>
       <integer>-40</integer>
       <key>public.kern2.period</key>
@@ -2764,6 +2812,8 @@
       <integer>-125</integer>
       <key>public.kern2.w</key>
       <integer>-120</integer>
+      <key>public.kern2.x</key>
+      <real>-67.0</real>
       <key>question</key>
       <integer>-120</integer>
       <key>seven</key>
@@ -2844,7 +2894,7 @@
       <key>public.kern2.quotesingle</key>
       <integer>-25</integer>
       <key>public.kern2.t</key>
-      <integer>-20</integer>
+      <real>-16.5</real>
       <key>public.kern2.v</key>
       <integer>-30</integer>
       <key>public.kern2.w</key>
@@ -2992,13 +3042,13 @@
       <key>public.kern2.J</key>
       <integer>-15</integer>
       <key>public.kern2.O</key>
-      <integer>-50</integer>
+      <real>-46.888888888888886</real>
       <key>public.kern2.S</key>
       <real>-55.333333333333336</real>
       <key>public.kern2.T</key>
       <integer>-30</integer>
       <key>public.kern2.X</key>
-      <integer>-30</integer>
+      <real>-6.5</real>
       <key>public.kern2.bracketleft</key>
       <integer>15</integer>
       <key>public.kern2.bracketright</key>
@@ -3014,7 +3064,7 @@
       <key>public.kern2.s</key>
       <integer>-30</integer>
       <key>public.kern2.t</key>
-      <integer>-45</integer>
+      <real>-41.5</real>
       <key>public.kern2.u</key>
       <integer>-30</integer>
       <key>public.kern2.v</key>
@@ -3071,7 +3121,7 @@
       <key>eight</key>
       <integer>-15</integer>
       <key>four</key>
-      <integer>-60</integer>
+      <integer>-80</integer>
       <key>infinity</key>
       <integer>-25</integer>
       <key>invertedquestion</key>
@@ -3079,8 +3129,6 @@
       <key>multiply</key>
       <integer>-45</integer>
       <key>numbersign</key>
-      <integer>-30</integer>
-      <key>p</key>
       <integer>-30</integer>
       <key>pi</key>
       <integer>-30</integer>
@@ -3093,7 +3141,7 @@
       <key>public.kern2.J</key>
       <integer>-30</integer>
       <key>public.kern2.O</key>
-      <integer>-20</integer>
+      <real>-51.5</real>
       <key>public.kern2.S</key>
       <real>-23.0</real>
       <key>public.kern2.asterisk</key>
@@ -3109,13 +3157,13 @@
       <key>public.kern2.eszett</key>
       <integer>-15</integer>
       <key>public.kern2.f</key>
-      <integer>-30</integer>
+      <integer>-40</integer>
       <key>public.kern2.i</key>
-      <integer>-15</integer>
-      <key>public.kern2.m</key>
       <integer>-30</integer>
+      <key>public.kern2.m</key>
+      <real>-45.0</real>
       <key>public.kern2.o</key>
-      <integer>-55</integer>
+      <real>-70.0</real>
       <key>public.kern2.period</key>
       <integer>-55</integer>
       <key>public.kern2.pound</key>
@@ -3125,17 +3173,17 @@
       <key>public.kern2.s</key>
       <integer>-45</integer>
       <key>public.kern2.t</key>
-      <integer>-45</integer>
+      <integer>-15</integer>
       <key>public.kern2.u</key>
-      <integer>-30</integer>
+      <real>-33.0</real>
       <key>public.kern2.v</key>
-      <integer>-45</integer>
+      <integer>-55</integer>
       <key>public.kern2.w</key>
-      <integer>-45</integer>
+      <integer>-55</integer>
       <key>public.kern2.x</key>
-      <integer>-60</integer>
+      <integer>-70</integer>
       <key>public.kern2.z</key>
-      <integer>-30</integer>
+      <integer>-70</integer>
       <key>section</key>
       <integer>-20</integer>
       <key>sigma</key>
@@ -3183,6 +3231,8 @@
       <integer>30</integer>
       <key>public.kern2.quotesingle</key>
       <integer>30</integer>
+      <key>public.kern2.t</key>
+      <real>1.1666666666666667</real>
     </dict>
     <key>public.kern1.J</key>
     <dict>
@@ -3200,8 +3250,6 @@
       <real>-31.555555555555557</real>
       <key>public.kern2.AE</key>
       <integer>-60</integer>
-      <key>public.kern2.X</key>
-      <integer>-15</integer>
       <key>public.kern2.period</key>
       <integer>-30</integer>
       <key>public.kern2.quotesingle</key>
@@ -3242,7 +3290,7 @@
       <key>five</key>
       <integer>-45</integer>
       <key>four</key>
-      <integer>-125</integer>
+      <integer>-60</integer>
       <key>infinity</key>
       <integer>-130</integer>
       <key>lozenge</key>
@@ -3293,6 +3341,8 @@
       <integer>30</integer>
       <key>public.kern2.less</key>
       <integer>-75</integer>
+      <key>public.kern2.m</key>
+      <integer>5</integer>
       <key>public.kern2.o</key>
       <integer>-67</integer>
       <key>public.kern2.percent</key>
@@ -3302,11 +3352,11 @@
       <key>public.kern2.s</key>
       <integer>-55</integer>
       <key>public.kern2.t</key>
-      <integer>-70</integer>
+      <real>-64.16666666666667</real>
       <key>public.kern2.u</key>
-      <integer>-105</integer>
+      <real>-98.0</real>
       <key>public.kern2.v</key>
-      <integer>-115</integer>
+      <real>-113.83333333333333</real>
       <key>public.kern2.w</key>
       <integer>-120</integer>
       <key>public.kern2.x</key>
@@ -3332,7 +3382,7 @@
       <key>trademark</key>
       <integer>30</integer>
       <key>two</key>
-      <integer>-45</integer>
+      <integer>-5</integer>
       <key>zero</key>
       <integer>-25</integer>
     </dict>
@@ -3379,7 +3429,7 @@
       <key>public.kern2.J</key>
       <integer>-30</integer>
       <key>public.kern2.O</key>
-      <integer>-115</integer>
+      <real>-110.33333333333333</real>
       <key>public.kern2.PI</key>
       <integer>-55</integer>
       <key>public.kern2.T</key>
@@ -3460,7 +3510,7 @@
       <key>eight</key>
       <integer>-15</integer>
       <key>four</key>
-      <integer>-15</integer>
+      <integer>-45</integer>
       <key>infinity</key>
       <integer>15</integer>
       <key>invertedquestion</key>
@@ -3474,7 +3524,7 @@
       <key>numbersign</key>
       <integer>10</integer>
       <key>one</key>
-      <integer>-65</integer>
+      <integer>-25</integer>
       <key>pi</key>
       <integer>15</integer>
       <key>public.kern2.A</key>
@@ -3484,7 +3534,7 @@
       <key>public.kern2.J</key>
       <integer>-50</integer>
       <key>public.kern2.O</key>
-      <integer>-10</integer>
+      <integer>-25</integer>
       <key>public.kern2.PI</key>
       <integer>-55</integer>
       <key>public.kern2.S</key>
@@ -3496,7 +3546,7 @@
       <key>public.kern2.W</key>
       <integer>-50</integer>
       <key>public.kern2.X</key>
-      <integer>-135</integer>
+      <real>-111.5</real>
       <key>public.kern2.Y</key>
       <real>-118.11111111111111</real>
       <key>public.kern2.Z</key>
@@ -3509,6 +3559,8 @@
       <integer>-20</integer>
       <key>public.kern2.hyphen</key>
       <integer>15</integer>
+      <key>public.kern2.o</key>
+      <real>-1.1666666666666667</real>
       <key>public.kern2.percent</key>
       <integer>-10</integer>
       <key>public.kern2.period</key>
@@ -3522,7 +3574,9 @@
       <key>public.kern2.w</key>
       <integer>-15</integer>
       <key>public.kern2.x</key>
-      <integer>-45</integer>
+      <real>-47.333333333333336</real>
+      <key>public.kern2.z</key>
+      <real>-3.5</real>
       <key>question</key>
       <integer>-25</integer>
       <key>quotedblleft</key>
@@ -3546,7 +3600,7 @@
       <key>trademark</key>
       <integer>-45</integer>
       <key>two</key>
-      <integer>-30</integer>
+      <integer>-45</integer>
       <key>underscore</key>
       <integer>-90</integer>
     </dict>
@@ -3567,7 +3621,7 @@
       <key>divslash</key>
       <integer>-120</integer>
       <key>four</key>
-      <integer>-105</integer>
+      <integer>-75</integer>
       <key>invertedquestion</key>
       <integer>-75</integer>
       <key>lozenge</key>
@@ -3578,6 +3632,8 @@
       <integer>-30</integer>
       <key>numbersign</key>
       <integer>-35</integer>
+      <key>one</key>
+      <integer>-20</integer>
       <key>pi</key>
       <integer>15</integer>
       <key>public.kern2.A</key>
@@ -3622,6 +3678,8 @@
       <integer>-50</integer>
       <key>public.kern2.s</key>
       <integer>-30</integer>
+      <key>public.kern2.x</key>
+      <real>-33.5</real>
       <key>section</key>
       <integer>-20</integer>
       <key>seven</key>
@@ -3634,6 +3692,8 @@
       <integer>-135</integer>
       <key>space</key>
       <integer>-70</integer>
+      <key>two</key>
+      <integer>-25</integer>
       <key>underscore</key>
       <integer>-105</integer>
     </dict>
@@ -3775,7 +3835,7 @@
       <key>five</key>
       <integer>-15</integer>
       <key>four</key>
-      <integer>-60</integer>
+      <integer>-45</integer>
       <key>infinity</key>
       <integer>-20</integer>
       <key>lozenge</key>
@@ -3787,7 +3847,7 @@
       <key>numbersign</key>
       <integer>-25</integer>
       <key>one</key>
-      <integer>-25</integer>
+      <integer>-15</integer>
       <key>pi</key>
       <integer>10</integer>
       <key>public.kern2.AE</key>
@@ -3807,13 +3867,15 @@
       <key>public.kern2.V</key>
       <integer>-30</integer>
       <key>public.kern2.X</key>
-      <integer>-35</integer>
+      <integer>-25</integer>
       <key>public.kern2.Y</key>
       <integer>-65</integer>
       <key>public.kern2.apostrophe</key>
       <integer>10</integer>
       <key>public.kern2.asterisk</key>
       <integer>-20</integer>
+      <key>public.kern2.f</key>
+      <real>1.1666666666666667</real>
       <key>public.kern2.hyphen</key>
       <integer>-35</integer>
       <key>public.kern2.i</key>
@@ -3829,9 +3891,13 @@
       <key>public.kern2.quotesingle</key>
       <integer>-5</integer>
       <key>public.kern2.s</key>
-      <integer>-20</integer>
+      <real>-17.666666666666668</real>
       <key>public.kern2.t</key>
-      <integer>-20</integer>
+      <real>-13.0</real>
+      <key>public.kern2.v</key>
+      <real>-3.5</real>
+      <key>public.kern2.w</key>
+      <real>-2.3333333333333335</real>
       <key>section</key>
       <integer>-20</integer>
       <key>seven</key>
@@ -3848,8 +3914,6 @@
       <integer>-15</integer>
       <key>trademark</key>
       <integer>-20</integer>
-      <key>two</key>
-      <integer>-15</integer>
       <key>zero</key>
       <integer>-20</integer>
     </dict>
@@ -3922,7 +3986,7 @@
       <key>public.kern2.s</key>
       <integer>-15</integer>
       <key>public.kern2.t</key>
-      <integer>-15</integer>
+      <real>-6.5</real>
       <key>public.kern2.u</key>
       <integer>-15</integer>
       <key>public.kern2.v</key>
@@ -4067,7 +4131,7 @@
       <key>trademark</key>
       <integer>30</integer>
       <key>two</key>
-      <integer>-15</integer>
+      <integer>-40</integer>
       <key>underscore</key>
       <integer>-45</integer>
       <key>zero</key>
@@ -4077,6 +4141,8 @@
     <dict>
       <key>divslash</key>
       <integer>-45</integer>
+      <key>four</key>
+      <integer>-15</integer>
       <key>public.kern2.A</key>
       <integer>-60</integer>
       <key>public.kern2.AE</key>
@@ -4084,7 +4150,7 @@
       <key>public.kern2.S</key>
       <integer>-15</integer>
       <key>public.kern2.X</key>
-      <integer>-5</integer>
+      <integer>5</integer>
       <key>public.kern2.percent</key>
       <integer>15</integer>
       <key>public.kern2.period</key>
@@ -4093,6 +4159,8 @@
       <integer>-10</integer>
       <key>public.kern2.quotesingle</key>
       <integer>5</integer>
+      <key>public.kern2.t</key>
+      <real>2.3333333333333335</real>
       <key>slash</key>
       <integer>-60</integer>
       <key>trademark</key>
@@ -4127,7 +4195,7 @@
       <key>five</key>
       <integer>-30</integer>
       <key>four</key>
-      <integer>-135</integer>
+      <integer>-85</integer>
       <key>infinity</key>
       <integer>-75</integer>
       <key>invertedexclam</key>
@@ -4177,7 +4245,7 @@
       <key>public.kern2.m</key>
       <integer>-45</integer>
       <key>public.kern2.o</key>
-      <integer>-100</integer>
+      <real>-101.16666666666667</real>
       <key>public.kern2.percent</key>
       <integer>15</integer>
       <key>public.kern2.period</key>
@@ -4242,7 +4310,7 @@
       <key>five</key>
       <integer>-30</integer>
       <key>four</key>
-      <integer>-90</integer>
+      <integer>-55</integer>
       <key>invertedquestion</key>
       <integer>-60</integer>
       <key>multiply</key>
@@ -4290,13 +4358,13 @@
       <key>public.kern2.s</key>
       <integer>-70</integer>
       <key>public.kern2.t</key>
-      <integer>-15</integer>
+      <real>-11.5</real>
       <key>public.kern2.u</key>
       <integer>-30</integer>
       <key>public.kern2.w</key>
       <integer>-15</integer>
       <key>public.kern2.x</key>
-      <integer>-45</integer>
+      <integer>-30</integer>
       <key>public.kern2.z</key>
       <integer>-15</integer>
       <key>quotedblleft</key>
@@ -4349,7 +4417,7 @@
       <key>five</key>
       <integer>-45</integer>
       <key>four</key>
-      <integer>-135</integer>
+      <integer>-65</integer>
       <key>infinity</key>
       <integer>-120</integer>
       <key>lozenge</key>
@@ -4375,13 +4443,15 @@
       <key>public.kern2.J</key>
       <integer>-50</integer>
       <key>public.kern2.O</key>
-      <integer>-135</integer>
+      <real>-111.5</real>
       <key>public.kern2.S</key>
       <integer>-60</integer>
       <key>public.kern2.T</key>
       <integer>-30</integer>
       <key>public.kern2.U</key>
-      <integer>-5</integer>
+      <integer>5</integer>
+      <key>public.kern2.Y</key>
+      <integer>-45</integer>
       <key>public.kern2.apostrophe</key>
       <integer>-30</integer>
       <key>public.kern2.asterisk</key>
@@ -4393,7 +4463,7 @@
       <key>public.kern2.eszett</key>
       <integer>-25</integer>
       <key>public.kern2.f</key>
-      <integer>-65</integer>
+      <real>-60.333333333333336</real>
       <key>public.kern2.greater</key>
       <integer>15</integer>
       <key>public.kern2.hyphen</key>
@@ -4401,7 +4471,7 @@
       <key>public.kern2.less</key>
       <integer>-105</integer>
       <key>public.kern2.o</key>
-      <integer>-85</integer>
+      <real>-82.66666666666667</real>
       <key>public.kern2.percent</key>
       <integer>-25</integer>
       <key>public.kern2.period</key>
@@ -4411,7 +4481,7 @@
       <key>public.kern2.s</key>
       <integer>-60</integer>
       <key>public.kern2.t</key>
-      <integer>-75</integer>
+      <real>-71.5</real>
       <key>public.kern2.u</key>
       <integer>-75</integer>
       <key>public.kern2.v</key>
@@ -4440,6 +4510,8 @@
       <integer>-50</integer>
       <key>trademark</key>
       <integer>40</integer>
+      <key>two</key>
+      <integer>-30</integer>
       <key>zero</key>
       <integer>-60</integer>
     </dict>
@@ -4468,7 +4540,7 @@
       <key>five</key>
       <integer>-35</integer>
       <key>four</key>
-      <integer>-185</integer>
+      <integer>-140</integer>
       <key>infinity</key>
       <integer>-90</integer>
       <key>invertedexclam</key>
@@ -4501,6 +4573,8 @@
       <integer>15</integer>
       <key>public.kern2.S</key>
       <integer>-70</integer>
+      <key>public.kern2.X</key>
+      <integer>-45</integer>
       <key>public.kern2.asterisk</key>
       <integer>-10</integer>
       <key>public.kern2.bracketright</key>
@@ -4536,7 +4610,7 @@
       <key>public.kern2.s</key>
       <integer>-135</integer>
       <key>public.kern2.t</key>
-      <integer>-60</integer>
+      <real>-56.5</real>
       <key>public.kern2.u</key>
       <integer>-75</integer>
       <key>public.kern2.v</key>
@@ -4572,7 +4646,7 @@
       <key>trademark</key>
       <integer>55</integer>
       <key>two</key>
-      <integer>-30</integer>
+      <integer>-45</integer>
       <key>underscore</key>
       <integer>-60</integer>
       <key>zero</key>
@@ -4621,7 +4695,7 @@
       <key>public.kern2.bracketright</key>
       <integer>30</integer>
       <key>public.kern2.f</key>
-      <integer>-45</integer>
+      <integer>515</integer>
       <key>public.kern2.greater</key>
       <integer>15</integer>
       <key>public.kern2.hyphen</key>
@@ -4635,7 +4709,7 @@
       <key>public.kern2.s</key>
       <integer>-15</integer>
       <key>public.kern2.t</key>
-      <integer>-45</integer>
+      <real>-38.0</real>
       <key>public.kern2.u</key>
       <integer>-30</integer>
       <key>public.kern2.v</key>
@@ -4674,7 +4748,7 @@
       <key>nary_sum</key>
       <integer>-60</integer>
       <key>one</key>
-      <integer>-75</integer>
+      <integer>-15</integer>
       <key>public.kern2.AE</key>
       <integer>-30</integer>
       <key>public.kern2.PI</key>
@@ -4770,12 +4844,14 @@
       <integer>-10</integer>
       <key>public.kern2.colon</key>
       <integer>-15</integer>
+      <key>public.kern2.m</key>
+      <real>-23.0</real>
       <key>public.kern2.o</key>
-      <integer>-85</integer>
+      <real>-108.0</real>
       <key>public.kern2.pound</key>
       <integer>-75</integer>
       <key>public.kern2.s</key>
-      <integer>-75</integer>
+      <real>-98.0</real>
       <key>section</key>
       <integer>-20</integer>
       <key>sigma</key>
@@ -4897,7 +4973,7 @@
       <key>lozenge</key>
       <integer>-15</integer>
       <key>one</key>
-      <integer>135</integer>
+      <integer>-30</integer>
       <key>pilcrow</key>
       <integer>-15</integer>
       <key>public.kern2.A</key>
@@ -4972,7 +5048,7 @@
       <key>nary_sum</key>
       <integer>-15</integer>
       <key>one</key>
-      <integer>90</integer>
+      <integer>-40</integer>
       <key>pi</key>
       <integer>30</integer>
       <key>public.kern2.I</key>
@@ -5124,14 +5200,10 @@
       <integer>-25</integer>
       <key>public.kern2.asterisk</key>
       <integer>-20</integer>
-      <key>public.kern2.f</key>
-      <integer>-20</integer>
       <key>public.kern2.percent</key>
       <integer>-10</integer>
       <key>public.kern2.quotesingle</key>
       <integer>-20</integer>
-      <key>public.kern2.t</key>
-      <integer>-15</integer>
       <key>public.kern2.v</key>
       <integer>-25</integer>
       <key>public.kern2.w</key>
@@ -5370,7 +5442,7 @@
       <key>nine</key>
       <integer>-35</integer>
       <key>one</key>
-      <integer>-125</integer>
+      <integer>-45</integer>
       <key>pi</key>
       <integer>-20</integer>
       <key>pilcrow</key>
@@ -5399,12 +5471,14 @@
       <integer>-15</integer>
       <key>public.kern2.f</key>
       <integer>-30</integer>
+      <key>public.kern2.o</key>
+      <integer>5</integer>
       <key>public.kern2.percent</key>
       <integer>-55</integer>
       <key>public.kern2.quotesingle</key>
       <integer>-75</integer>
       <key>public.kern2.t</key>
-      <integer>-25</integer>
+      <real>-12.666666666666666</real>
       <key>public.kern2.v</key>
       <integer>-55</integer>
       <key>public.kern2.w</key>
@@ -5551,6 +5625,10 @@
       <integer>30</integer>
       <key>public.kern2.quotesingle</key>
       <integer>25</integer>
+      <key>public.kern2.t</key>
+      <real>2.8</real>
+      <key>public.kern2.w</key>
+      <real>-3.5</real>
       <key>public.kern2.x</key>
       <integer>-15</integer>
       <key>slash</key>
@@ -5627,7 +5705,7 @@
       <key>public.kern2.less</key>
       <integer>-65</integer>
       <key>public.kern2.o</key>
-      <integer>-90</integer>
+      <real>-92.33333333333333</real>
       <key>public.kern2.percent</key>
       <integer>5</integer>
       <key>public.kern2.period</key>
@@ -5669,6 +5747,10 @@
     <dict>
       <key>currency</key>
       <integer>15</integer>
+      <key>i</key>
+      <integer>5</integer>
+      <key>i_dotless</key>
+      <integer>5</integer>
       <key>numbersign</key>
       <integer>15</integer>
       <key>public.kern2.asterisk</key>
@@ -5683,6 +5765,8 @@
       <integer>30</integer>
       <key>public.kern2.hyphen</key>
       <integer>15</integer>
+      <key>public.kern2.l</key>
+      <integer>5</integer>
       <key>public.kern2.less</key>
       <integer>30</integer>
       <key>public.kern2.percent</key>
@@ -5830,9 +5914,11 @@
       <key>pilcrow</key>
       <integer>-25</integer>
       <key>public.kern2.A</key>
-      <integer>-25</integer>
+      <real>-26.166666666666668</real>
       <key>public.kern2.AE</key>
       <integer>-60</integer>
+      <key>public.kern2.O</key>
+      <real>-1.1666666666666667</real>
       <key>public.kern2.PI</key>
       <integer>-45</integer>
       <key>public.kern2.S</key>
@@ -5840,11 +5926,11 @@
       <key>public.kern2.T</key>
       <integer>-130</integer>
       <key>public.kern2.V</key>
-      <integer>-100</integer>
+      <real>-101.16666666666667</real>
       <key>public.kern2.W</key>
       <integer>-70</integer>
       <key>public.kern2.X</key>
-      <integer>-85</integer>
+      <real>-82.66666666666667</real>
       <key>public.kern2.Y</key>
       <real>-154.33333333333334</real>
       <key>public.kern2.Z</key>
@@ -5878,15 +5964,17 @@
       <key>public.kern2.s</key>
       <integer>-10</integer>
       <key>public.kern2.t</key>
-      <integer>-25</integer>
+      <real>-19.666666666666668</real>
+      <key>public.kern2.u</key>
+      <integer>-15</integer>
       <key>public.kern2.v</key>
       <integer>-55</integer>
       <key>public.kern2.w</key>
       <integer>-60</integer>
       <key>public.kern2.x</key>
-      <integer>-90</integer>
+      <real>-95.83333333333333</real>
       <key>public.kern2.z</key>
-      <integer>-45</integer>
+      <integer>-60</integer>
       <key>question</key>
       <integer>-75</integer>
       <key>quotedblleft</key>
@@ -6349,13 +6437,13 @@
       <key>public.kern2.greater</key>
       <integer>30</integer>
       <key>public.kern2.hyphen</key>
-      <integer>30</integer>
+      <integer>-30</integer>
       <key>public.kern2.less</key>
       <integer>15</integer>
       <key>public.kern2.m</key>
       <integer>-30</integer>
       <key>public.kern2.o</key>
-      <integer>-60</integer>
+      <real>-68.83333333333333</real>
       <key>public.kern2.percent</key>
       <integer>45</integer>
       <key>public.kern2.period</key>
@@ -6365,7 +6453,9 @@
       <key>public.kern2.quotesingle</key>
       <integer>45</integer>
       <key>public.kern2.s</key>
-      <integer>-20</integer>
+      <real>-25.0</real>
+      <key>public.kern2.t</key>
+      <real>0.0</real>
       <key>public.kern2.v</key>
       <integer>-30</integer>
       <key>seven</key>
@@ -6410,7 +6500,7 @@
       <key>numbersign</key>
       <integer>15</integer>
       <key>one</key>
-      <integer>-75</integer>
+      <integer>-25</integer>
       <key>public.kern2.A</key>
       <integer>-10</integer>
       <key>public.kern2.AE</key>
@@ -6456,7 +6546,7 @@
       <key>public.kern2.quotesingle</key>
       <integer>-60</integer>
       <key>public.kern2.t</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
       <key>public.kern2.v</key>
       <integer>-50</integer>
       <key>public.kern2.w</key>
@@ -6531,7 +6621,7 @@
       <key>public.kern2.less</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
-      <integer>-32</integer>
+      <real>-36.5</real>
       <key>public.kern2.percent</key>
       <integer>45</integer>
       <key>public.kern2.pound</key>
@@ -6541,7 +6631,7 @@
       <key>public.kern2.s</key>
       <integer>-15</integer>
       <key>public.kern2.t</key>
-      <real>-40.0</real>
+      <real>-36.5</real>
       <key>public.kern2.u</key>
       <integer>5</integer>
       <key>public.kern2.v</key>
@@ -6613,6 +6703,8 @@
       <integer>-30</integer>
       <key>public.kern2.T</key>
       <integer>-120</integer>
+      <key>public.kern2.V</key>
+      <integer>-15</integer>
       <key>public.kern2.X</key>
       <integer>-90</integer>
       <key>public.kern2.Y</key>
@@ -6646,6 +6738,8 @@
       <key>public.kern2.v</key>
       <integer>-30</integer>
       <key>public.kern2.w</key>
+      <integer>-50</integer>
+      <key>public.kern2.x</key>
       <integer>-50</integer>
       <key>public.kern2.z</key>
       <integer>-25</integer>
@@ -6734,6 +6828,8 @@
       <integer>-30</integer>
       <key>public.kern2.greater</key>
       <integer>15</integer>
+      <key>public.kern2.i</key>
+      <real>-3.5</real>
       <key>public.kern2.less</key>
       <integer>-15</integer>
       <key>public.kern2.m</key>
@@ -6751,6 +6847,10 @@
       <key>public.kern2.t</key>
       <integer>-10</integer>
       <key>public.kern2.v</key>
+      <integer>-50</integer>
+      <key>public.kern2.w</key>
+      <integer>-45</integer>
+      <key>public.kern2.x</key>
       <integer>-50</integer>
       <key>public.kern2.z</key>
       <integer>-30</integer>
@@ -6804,17 +6904,19 @@
       <key>nary_sum</key>
       <integer>-75</integer>
       <key>nine</key>
-      <integer>-5</integer>
+      <integer>-30</integer>
       <key>numbersign</key>
       <integer>-35</integer>
       <key>one</key>
-      <integer>-15</integer>
+      <integer>-40</integer>
+      <key>public.kern2.A</key>
+      <real>-67.0</real>
       <key>public.kern2.AE</key>
       <integer>-60</integer>
       <key>public.kern2.J</key>
       <integer>-75</integer>
       <key>public.kern2.O</key>
-      <integer>-45</integer>
+      <real>-47.333333333333336</real>
       <key>public.kern2.PI</key>
       <integer>-35</integer>
       <key>public.kern2.S</key>
@@ -6846,7 +6948,7 @@
       <key>public.kern2.m</key>
       <integer>-20</integer>
       <key>public.kern2.o</key>
-      <integer>-90</integer>
+      <real>-95.83333333333333</real>
       <key>public.kern2.percent</key>
       <integer>15</integer>
       <key>public.kern2.period</key>
@@ -6856,8 +6958,14 @@
       <key>public.kern2.s</key>
       <integer>-75</integer>
       <key>public.kern2.t</key>
-      <integer>-25</integer>
+      <real>-28.5</real>
       <key>public.kern2.u</key>
+      <integer>-20</integer>
+      <key>public.kern2.v</key>
+      <integer>-50</integer>
+      <key>public.kern2.w</key>
+      <integer>-50</integer>
+      <key>public.kern2.z</key>
       <integer>-20</integer>
       <key>section</key>
       <integer>-40</integer>
@@ -6866,7 +6974,7 @@
       <key>sigma</key>
       <integer>-75</integer>
       <key>six</key>
-      <integer>-80</integer>
+      <integer>-60</integer>
       <key>space</key>
       <integer>-45</integer>
       <key>three</key>
@@ -6875,6 +6983,8 @@
       <integer>-15</integer>
       <key>two</key>
       <integer>-35</integer>
+      <key>zero</key>
+      <integer>-15</integer>
     </dict>
     <key>public.kern1.z</key>
     <dict>
@@ -6899,7 +7009,7 @@
       <key>numbersign</key>
       <integer>-45</integer>
       <key>one</key>
-      <integer>-30</integer>
+      <integer>-25</integer>
       <key>public.kern2.J</key>
       <integer>-45</integer>
       <key>public.kern2.O</key>
@@ -6925,7 +7035,7 @@
       <key>public.kern2.less</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
-      <integer>-45</integer>
+      <integer>-60</integer>
       <key>public.kern2.s</key>
       <integer>-26</integer>
       <key>public.kern2.t</key>
@@ -6934,6 +7044,10 @@
       <integer>-25</integer>
       <key>public.kern2.w</key>
       <integer>-25</integer>
+      <key>public.kern2.x</key>
+      <integer>-20</integer>
+      <key>public.kern2.z</key>
+      <integer>-35</integer>
       <key>quotedblleft</key>
       <integer>5</integer>
       <key>quoteleft</key>
@@ -7167,11 +7281,11 @@
       <key>divslash</key>
       <integer>-195</integer>
       <key>eight</key>
-      <integer>-50</integer>
+      <integer>-55</integer>
       <key>five</key>
-      <integer>-40</integer>
+      <integer>-60</integer>
       <key>four</key>
-      <integer>-140</integer>
+      <integer>-160</integer>
       <key>infinity</key>
       <integer>-75</integer>
       <key>lozenge</key>
@@ -7179,11 +7293,11 @@
       <key>multiply</key>
       <integer>-15</integer>
       <key>nine</key>
-      <integer>-5</integer>
+      <integer>-20</integer>
       <key>numbersign</key>
       <integer>-60</integer>
       <key>one</key>
-      <integer>15</integer>
+      <integer>-5</integer>
       <key>pi</key>
       <integer>-10</integer>
       <key>pilcrow</key>
@@ -7193,13 +7307,13 @@
       <key>public.kern2.AE</key>
       <integer>-235</integer>
       <key>public.kern2.J</key>
-      <integer>-135</integer>
+      <integer>-185</integer>
       <key>public.kern2.O</key>
       <integer>-60</integer>
       <key>public.kern2.S</key>
       <integer>-20</integer>
-      <key>public.kern2.Z</key>
-      <integer>5</integer>
+      <key>public.kern2.X</key>
+      <integer>-30</integer>
       <key>public.kern2.asterisk</key>
       <integer>15</integer>
       <key>public.kern2.bracketright</key>
@@ -7214,6 +7328,8 @@
       <integer>-30</integer>
       <key>public.kern2.less</key>
       <integer>-45</integer>
+      <key>public.kern2.m</key>
+      <integer>-35</integer>
       <key>public.kern2.o</key>
       <integer>-105</integer>
       <key>public.kern2.percent</key>
@@ -7228,28 +7344,32 @@
       <integer>-20</integer>
       <key>public.kern2.u</key>
       <integer>-30</integer>
+      <key>public.kern2.v</key>
+      <integer>-55</integer>
       <key>public.kern2.w</key>
-      <integer>-15</integer>
+      <integer>-45</integer>
       <key>public.kern2.x</key>
-      <integer>-30</integer>
+      <integer>-70</integer>
       <key>public.kern2.z</key>
-      <integer>-20</integer>
+      <integer>-40</integer>
+      <key>seven</key>
+      <integer>-15</integer>
       <key>sigma</key>
       <integer>-120</integer>
       <key>six</key>
-      <integer>-105</integer>
+      <integer>-120</integer>
       <key>slash</key>
       <integer>-165</integer>
       <key>three</key>
-      <integer>-20</integer>
+      <integer>-50</integer>
       <key>trademark</key>
       <integer>30</integer>
       <key>two</key>
-      <integer>-35</integer>
+      <integer>-50</integer>
       <key>underscore</key>
       <integer>-45</integer>
       <key>zero</key>
-      <integer>-20</integer>
+      <integer>-35</integer>
     </dict>
     <key>sigma</key>
     <dict>
@@ -7334,10 +7454,12 @@
       <integer>-135</integer>
       <key>divslash</key>
       <integer>-25</integer>
+      <key>eight</key>
+      <integer>-10</integer>
       <key>five</key>
       <integer>-15</integer>
       <key>four</key>
-      <integer>-15</integer>
+      <integer>-30</integer>
       <key>infinity</key>
       <integer>15</integer>
       <key>multiply</key>
@@ -7349,7 +7471,7 @@
       <key>numbersign</key>
       <integer>30</integer>
       <key>one</key>
-      <integer>-60</integer>
+      <real>-46.166666666666664</real>
       <key>pi</key>
       <integer>-20</integer>
       <key>pilcrow</key>
@@ -7393,19 +7515,17 @@
       <key>public.kern2.w</key>
       <integer>-35</integer>
       <key>public.kern2.x</key>
-      <integer>-70</integer>
+      <integer>-60</integer>
       <key>public.kern2.z</key>
       <integer>-35</integer>
       <key>question</key>
       <integer>-80</integer>
       <key>seven</key>
-      <integer>-80</integer>
-      <key>six</key>
-      <integer>15</integer>
+      <integer>-50</integer>
       <key>slash</key>
       <integer>-5</integer>
       <key>three</key>
-      <integer>-15</integer>
+      <real>-16.166666666666668</real>
       <key>trademark</key>
       <integer>-90</integer>
       <key>two</key>
@@ -7413,7 +7533,7 @@
       <key>won</key>
       <integer>-40</integer>
       <key>zero</key>
-      <integer>15</integer>
+      <real>14.3</real>
     </dict>
     <key>slash</key>
     <dict>
@@ -7589,7 +7709,7 @@
     <key>sup_one</key>
     <dict>
       <key>fraction</key>
-      <integer>105</integer>
+      <integer>30</integer>
     </dict>
     <key>sup_seven</key>
     <dict>
@@ -7619,7 +7739,7 @@
       <key>five</key>
       <integer>-15</integer>
       <key>four</key>
-      <integer>-15</integer>
+      <integer>-50</integer>
       <key>lozenge</key>
       <integer>-5</integer>
       <key>multiply</key>
@@ -7629,7 +7749,7 @@
       <key>numbersign</key>
       <integer>20</integer>
       <key>one</key>
-      <integer>-15</integer>
+      <integer>-20</integer>
       <key>public.kern2.A</key>
       <integer>-10</integer>
       <key>public.kern2.AE</key>
@@ -7663,7 +7783,7 @@
       <key>section</key>
       <integer>-5</integer>
       <key>seven</key>
-      <integer>-30</integer>
+      <integer>-45</integer>
       <key>slash</key>
       <integer>-15</integer>
       <key>three</key>
@@ -7767,8 +7887,10 @@
       <integer>-30</integer>
       <key>divslash</key>
       <integer>-45</integer>
-      <key>five</key>
+      <key>eight</key>
       <integer>-15</integer>
+      <key>five</key>
+      <integer>-5</integer>
       <key>four</key>
       <integer>-75</integer>
       <key>infinity</key>
@@ -7779,16 +7901,20 @@
       <integer>-15</integer>
       <key>numbersign</key>
       <integer>-15</integer>
+      <key>one</key>
+      <real>-10.7</real>
       <key>pi</key>
       <integer>20</integer>
       <key>public.kern2.J</key>
       <integer>-45</integer>
+      <key>public.kern2.O</key>
+      <integer>-10</integer>
       <key>public.kern2.PI</key>
       <integer>-20</integer>
       <key>public.kern2.S</key>
       <integer>-20</integer>
       <key>public.kern2.T</key>
-      <integer>-15</integer>
+      <integer>-60</integer>
       <key>public.kern2.V</key>
       <integer>-15</integer>
       <key>public.kern2.X</key>
@@ -7806,7 +7932,7 @@
       <key>public.kern2.s</key>
       <integer>-15</integer>
       <key>seven</key>
-      <integer>-40</integer>
+      <integer>-30</integer>
       <key>sigma</key>
       <integer>-20</integer>
       <key>six</key>
@@ -7814,6 +7940,8 @@
       <key>three</key>
       <integer>-20</integer>
       <key>trademark</key>
+      <integer>-20</integer>
+      <key>two</key>
       <integer>-20</integer>
       <key>won</key>
       <integer>-15</integer>
@@ -7937,6 +8065,8 @@
       <integer>-10</integer>
       <key>five</key>
       <integer>-10</integer>
+      <key>four</key>
+      <integer>-30</integer>
       <key>lozenge</key>
       <integer>20</integer>
       <key>nary_sum</key>
@@ -7967,10 +8097,12 @@
       <integer>15</integer>
       <key>public.kern2.pound</key>
       <integer>-10</integer>
+      <key>public.kern2.x</key>
+      <integer>-15</integer>
       <key>seven</key>
       <integer>-30</integer>
       <key>six</key>
-      <integer>15</integer>
+      <integer>5</integer>
       <key>slash</key>
       <integer>-30</integer>
       <key>three</key>

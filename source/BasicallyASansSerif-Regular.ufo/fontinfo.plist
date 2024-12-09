@@ -5,11 +5,11 @@
     <key>ascender</key>
     <integer>1320</integer>
     <key>capHeight</key>
-    <real>1079.9999999999998</real>
+    <real>1079.3691588785045</real>
     <key>copyright</key>
     <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
-    <integer>-300</integer>
+    <integer>-330</integer>
     <key>familyName</key>
     <string>Basically A Sans Serif</string>
     <key>guidelines</key>
@@ -30,7 +30,7 @@
     <key>openTypeHheaCaretSlopeRun</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-300</integer>
+    <integer>-330</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>1.104</string>
+    <string>1.200</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -117,7 +117,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2Selection</key>
     <array/>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>464</integer>
+    <integer>471</integer>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>50</integer>
     <key>openTypeOS2SubscriptXOffset</key>
@@ -143,7 +143,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2TypoAscender</key>
     <integer>1320</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-300</integer>
+    <integer>-330</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
@@ -166,35 +166,45 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2WinAscent</key>
     <integer>1320</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>300</integer>
+    <integer>330</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-20.444444444444443</real>
+      <real>-20.22222222222222</real>
       <integer>0</integer>
-      <real>777.196261682243</real>
-      <real>797.6407061266874</real>
-      <real>1079.9999999999998</real>
-      <real>1095.9999999999998</real>
+      <real>807.9497663551401</real>
+      <real>828.1719885773623</real>
+      <real>1079.3691588785045</real>
+      <real>1095.1469366562824</real>
     </array>
     <key>postscriptFamilyBlues</key>
-    <array/>
+    <array>
+      <real>-31.0</real>
+      <integer>0</integer>
+      <real>810.0</real>
+      <real>841.0</real>
+      <real>1080.0</real>
+      <real>1096.0</real>
+    </array>
     <key>postscriptFamilyOtherBlues</key>
-    <array/>
+    <array>
+      <real>-375.0</real>
+      <real>-360.0</real>
+    </array>
     <key>postscriptFontName</key>
     <string>BasicallyASansSerif-Regular</string>
     <key>postscriptFullName</key>
     <string>Basically A Sans Serif Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-433.8785046728971</real>
-      <real>-418.8785046728971</real>
+      <real>-373.09553478712354</real>
+      <real>-358.31775700934577</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
       <real>83.27102803738318</real>
       <real>90.67289719626169</real>
       <real>98.07476635514017</real>
-      <real>108.6962962962963</real>
+      <real>108.85925925925926</real>
       <real>111.02803738317756</real>
     </array>
     <key>postscriptStemSnapV</key>
@@ -202,7 +212,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       <real>83.27102803738318</real>
       <real>90.67289719626169</real>
       <real>98.07476635514017</real>
-      <real>108.6962962962963</real>
+      <real>108.85925925925926</real>
       <real>111.02803738317756</real>
     </array>
     <key>postscriptWeightName</key>
@@ -218,8 +228,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>104</integer>
+    <integer>200</integer>
     <key>xHeight</key>
-    <real>777.196261682243</real>
+    <real>807.9497663551401</real>
   </dict>
 </plist>

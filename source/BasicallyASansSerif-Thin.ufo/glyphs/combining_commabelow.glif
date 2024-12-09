@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_commabelow" format="2">
   <unicode hex="0326"/>
-  <anchor x="-494.18181818181813" y="-130.9090909090909" name="_below" identifier="_below"/>
-  <anchor x="-494.18181818181813" y="-130.9090909090909" name="_above" identifier="_above"/>
-  <anchor x="-494.18181818181813" y="-130.9090909090909" name="_stembelow" identifier="_stembelow"/>
+  <anchor x="-514.4829545454545" y="-130.9090909090909" name="_below" identifier="_below"/>
+  <anchor x="-514.4829545454545" y="-130.9090909090909" name="_above" identifier="_above"/>
+  <anchor x="-514.4829545454545" y="-130.9090909090909" name="_stembelow" identifier="_stembelow"/>
   <outline>
     <contour>
-      <point x="-538.10675" y="-323.18182" type="line"/>
-      <point x="-498.611" y="-254.77317"/>
-      <point x="-477.81818" y="-177.17332"/>
-      <point x="-477.81818" y="-98.18182" type="curve"/>
-      <point x="-510.54545" y="-98.18182" type="line"/>
-      <point x="-510.54545" y="-171.42848"/>
-      <point x="-529.82607" y="-243.38471"/>
-      <point x="-566.4494" y="-306.81818" type="curve"/>
+      <point x="-555.11942" y="-310.90909" type="line"/>
+      <point x="-517.77798" y="-246.23183"/>
+      <point x="-498.11932" y="-172.86469"/>
+      <point x="-498.11932" y="-98.18182" type="curve"/>
+      <point x="-530.84659" y="-98.18182" type="line"/>
+      <point x="-530.84659" y="-167.11985"/>
+      <point x="-548.99305" y="-234.84336"/>
+      <point x="-583.46207" y="-294.54545" type="curve"/>
     </contour>
   </outline>
 </glyph>

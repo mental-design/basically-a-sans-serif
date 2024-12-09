@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T_with_macronbelow" format="2">
-  <advance width="964.8"/>
+  <advance width="961.2"/>
   <unicode hex="1E6E"/>
   <outline>
     <contour>
-      <point x="374.4000015258789" y="0" type="line"/>
-      <point x="590.4000015258789" y="0" type="line"/>
-      <point x="590.4000015258789" y="864" type="line"/>
-      <point x="914.4000015258789" y="864" type="line"/>
-      <point x="914.4000015258789" y="1080" type="line"/>
-      <point x="50.400001525878906" y="1080" type="line"/>
-      <point x="50.400001525878906" y="864" type="line"/>
-      <point x="374.4000015258789" y="864" type="line"/>
+      <point x="372.5999984741211" y="0" type="line"/>
+      <point x="588.5999984741211" y="0" type="line"/>
+      <point x="588.5999984741211" y="870.75" type="line"/>
+      <point x="912.5999984741211" y="870.75" type="line"/>
+      <point x="912.5999984741211" y="1086.75" type="line"/>
+      <point x="48.599998474121094" y="1086.75" type="line"/>
+      <point x="48.599998474121094" y="870.75" type="line"/>
+      <point x="372.5999984741211" y="870.75" type="line"/>
     </contour>
     <contour>
-      <point x="185.4" y="-293.31429" type="line"/>
-      <point x="779.4" y="-293.31429" type="line"/>
-      <point x="779.4" y="-142.11429" type="line"/>
-      <point x="185.4" y="-142.11429" type="line"/>
+      <point x="176.2875" y="-293.31429" type="line"/>
+      <point x="784.9125" y="-293.31429" type="line"/>
+      <point x="784.9125" y="-142.11429" type="line"/>
+      <point x="176.2875" y="-142.11429" type="line"/>
     </contour>
   </outline>
 </glyph>

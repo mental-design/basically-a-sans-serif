@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_caron" format="2">
   <unicode hex="030C"/>
-  <anchor x="-494.38575667655783" y="887.7151335311573" name="_above" identifier="_above"/>
-  <anchor x="-494.38575667655783" y="887.7151335311573" name="_stem" identifier="_stem"/>
-  <anchor x="-494.38575667655783" y="1149.9703264094956" name="above" identifier="above"/>
+  <anchor x="-513.3655415430268" y="923.2177299703264" name="_above" identifier="_above"/>
+  <anchor x="-513.3655415430268" y="923.2177299703264" name="_stem" identifier="_stem"/>
+  <anchor x="-513.3655415430268" y="1185.4729228486647" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-530.3751220703125" y="887.7151336669922" type="line"/>
-      <point x="-458.3963928222656" y="887.7151336669922" type="line"/>
-      <point x="-268.8516311645508" y="1107.2403564453125" type="line"/>
-      <point x="-340.8303680419922" y="1107.2403564453125" type="line"/>
-      <point x="-494.38575744628906" y="929.39697265625" type="line"/>
-      <point x="-647.9411468505859" y="1107.2403564453125" type="line"/>
-      <point x="-719.9198837280273" y="1107.2403564453125" type="line"/>
+      <point x="-550.2558364868164" y="923.2177276611328" type="line"/>
+      <point x="-476.4752502441406" y="923.2177276611328" type="line"/>
+      <point x="-275.9972229003906" y="1142.7429504394531" type="line"/>
+      <point x="-349.7778091430664" y="1142.7429504394531" type="line"/>
+      <point x="-513.3655395507812" y="963.6129302978516" type="line"/>
+      <point x="-676.9532699584961" y="1142.7429504394531" type="line"/>
+      <point x="-750.7338562011719" y="1142.7429504394531" type="line"/>
     </contour>
   </outline>
 </glyph>
