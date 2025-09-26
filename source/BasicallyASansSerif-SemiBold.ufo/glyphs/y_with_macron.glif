@@ -1,23 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y_with_macron" format="2">
-  <advance width="962.7781277150305"/>
+  <advance width="949.3080453563716"/>
   <unicode hex="0233"/>
+  <anchor x="717.2535241823512" y="-111.96544276457884" name="below" identifier="below"/>
+  <anchor x="474.6540226781858" y="1258.1168261539076" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="190.22323" y="979.03108" type="line"/>
-      <point x="772.5549" y="979.03108" type="line"/>
-      <point x="772.5549" y="1104.48373" type="line"/>
-      <point x="190.22323" y="1104.48373" type="line"/>
+      <point x="190.71909" y="987.24225" type="line"/>
+      <point x="758.58896" y="987.24225" type="line"/>
+      <point x="758.58896" y="1146.15138" type="line"/>
+      <point x="190.71909" y="1146.15138" type="line"/>
     </contour>
     <contour>
-      <point x="250.60397338867188" y="-345.0358428955078" type="line"/>
-      <point x="440.50213623046875" y="-345.0358428955078" type="line"/>
-      <point x="923.8849868774414" y="823.5322494506836" type="line"/>
-      <point x="733.9868316650391" y="823.5322494506836" type="line"/>
-      <point x="481.3890686035156" y="212.88236236572266" type="line"/>
-      <point x="228.79129791259766" y="823.5322494506836" type="line"/>
-      <point x="38.89314270019531" y="823.5322494506836" type="line"/>
-      <point x="386.4399833679199" y="-16.65508270263672" type="line"/>
+      <point x="235.95503997802734" y="-346.3201904296875" type="line"/>
+      <point x="433.93431091308594" y="-346.3201904296875" type="line"/>
+      <point x="914.5521087646484" y="824.6881713867188" type="line"/>
+      <point x="719.9279632568359" y="824.6881713867188" type="line"/>
+      <point x="474.6540222167969" y="209.1602325439453" type="line"/>
+      <point x="229.3800811767578" y="824.6881713867188" type="line"/>
+      <point x="34.755943298339844" y="824.6881713867188" type="line"/>
+      <point x="380.1324920654297" y="-16.809646606445312" type="line"/>
     </contour>
   </outline>
 </glyph>

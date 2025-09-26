@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_with_dotbelow.ss02" format="2">
+  <advance width="1105.228172429277"/>
+  <unicode hex="E548"/>
+  <anchor x="535.3747168587537" y="1198.4205208801077" name="above" identifier="above"/>
+  <anchor x="98.59182757072296" y="541.0153794342165" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="247.4737319946289" y="936.553840637207" type="line"/>
+      <point x="474.12000274658203" y="936.553840637207" type="line"/>
+      <point x="746.5107115934195" y="936.553840637207"/>
+      <point x="889.45417" y="732.7518919808307"/>
+      <point x="889.45417" y="541.01538" type="curve"/>
+      <point x="889.45417" y="349.2788680191693"/>
+      <point x="746.5107102201285" y="145.47691889326768"/>
+      <point x="474.12" y="145.47692008769994" type="curve"/>
+      <point x="247.4737319946289" y="145.47692108154297" type="line"/>
+    </contour>
+    <contour>
+      <point x="435.08554" y="-341.19174" type="line"/>
+      <point x="635.6639" y="-341.19174" type="line"/>
+      <point x="635.6639" y="-140.61338" type="line"/>
+      <point x="435.08554" y="-140.61338" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.59182739257812" y="0" type="line"/>
+      <point x="474.12000274658203" y="0.0" type="line"/>
+      <point x="836.6022485610156" y="0.0"/>
+      <point x="1040.58336" y="273.22214137430853"/>
+      <point x="1040.58336" y="541.01538" type="curve"/>
+      <point x="1040.58336" y="808.8086186256915"/>
+      <point x="836.6022471877247" y="1082.030758511759"/>
+      <point x="474.12" y="1082.0307600869091" type="curve"/>
+      <point x="98.59182739257812" y="1082.03076171875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss01_with_dotbelow" format="2">
+  <advance width="865.7579703637563"/>
+  <unicode hex="E1E9"/>
+  <anchor x="432.878985181859" y="1198.4205208801077" name="above" identifier="above"/>
+  <anchor x="432.878985181859" y="548.8876016564386" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="69.49439239501953" y="0" type="line"/>
+      <point x="796.2635803222656" y="0" type="line"/>
+      <point x="796.2635803222656" y="145.47692108154297" type="line"/>
+      <point x="250.57176971435547" y="145.47692108154297" type="line"/>
+      <point x="796.2635803222656" y="936.8943405151367" type="line"/>
+      <point x="796.2635803222656" y="1082.03076171875" type="line"/>
+      <point x="69.49439239501953" y="1082.03076171875" type="line"/>
+      <point x="69.49439239501953" y="936.553840637207" type="line"/>
+      <point x="615.1862030029297" y="936.553840637207" type="line"/>
+      <point x="69.49439239501953" y="145.13642120361328" type="line"/>
+    </contour>
+    <contour>
+      <point x="542.23687" y="-240.90256" type="curve" smooth="yes"/>
+      <point x="542.23687" y="-180.5463"/>
+      <point x="493.23524" y="-131.54468"/>
+      <point x="432.87899" y="-131.54468" type="curve" smooth="yes"/>
+      <point x="372.52273" y="-131.54468"/>
+      <point x="323.5211" y="-180.5463"/>
+      <point x="323.5211" y="-240.90256" type="curve" smooth="yes"/>
+      <point x="323.5211" y="-301.25882"/>
+      <point x="372.52273" y="-350.26044"/>
+      <point x="432.87899" y="-350.26044" type="curve" smooth="yes"/>
+      <point x="493.23524" y="-350.26044"/>
+      <point x="542.23687" y="-301.25882"/>
+    </contour>
+  </outline>
+</glyph>

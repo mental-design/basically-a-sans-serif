@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.ss01_with_circumflexbelow" format="2">
+  <advance width="889.3636363636364"/>
+  <unicode hex="E191"/>
+  <anchor x="452.8636363636363" y="1204.7727272727273" name="above" identifier="above"/>
+  <anchor x="452.8636363636363" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="786.2727272727273" y="0" name="ogonek" identifier="ogonek"/>
+  <outline>
+    <contour>
+      <point x="119.45455169677734" y="0" type="line"/>
+      <point x="786.2727279663086" y="0" type="line"/>
+      <point x="786.2727279663086" y="32.727272033691406" type="line"/>
+      <point x="152.18182373046875" y="32.727272033691406" type="line"/>
+      <point x="152.18182373046875" y="520.5681762695312" type="line"/>
+      <point x="753.5454483032227" y="520.5681762695312" type="line"/>
+      <point x="753.5454483032227" y="553.2954483032227" type="line"/>
+      <point x="152.18182373046875" y="553.2954483032227" type="line"/>
+      <point x="152.18182373046875" y="1041.136360168457" type="line"/>
+      <point x="780.8181762695312" y="1041.136360168457" type="line"/>
+      <point x="780.8181762695312" y="1073.863639831543" type="line"/>
+      <point x="119.45455169677734" y="1073.863639831543" type="line"/>
+    </contour>
+    <contour>
+      <point x="230.42044830322266" y="-360" type="line"/>
+      <point x="273.92945098876953" y="-360" type="line"/>
+      <point x="452.86363983154297" y="-155.74236297607422" type="line"/>
+      <point x="631.7978210449219" y="-360" type="line"/>
+      <point x="675.3068237304688" y="-360" type="line"/>
+      <point x="474.6181335449219" y="-130.90908813476562" type="line"/>
+      <point x="431.10913848876953" y="-130.90908813476562" type="line"/>
+    </contour>
+  </outline>
+</glyph>

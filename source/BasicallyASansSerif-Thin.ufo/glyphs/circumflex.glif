@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="691.9772727272712"/>
+  <advance width="683.7954545454545"/>
   <unicode hex="02C6"/>
+  <anchor x="530.3352272727273" y="1376.590909090909" name="topright" identifier="topright"/>
+  <anchor x="341.89772727272725" y="1507.5" name="above" identifier="above"/>
+  <anchor x="546.6988636363635" y="1376.590909090909" name="grave" identifier="grave"/>
   <outline>
     <contour>
       <point x="119.45455169677734" y="1204.7727279663086" type="line"/>
-      <point x="164.7845001220703" y="1204.7727279663086" type="line"/>
-      <point x="345.98863983154297" y="1393.850227355957" type="line"/>
-      <point x="527.1927719116211" y="1204.7727279663086" type="line"/>
-      <point x="572.5227279663086" y="1204.7727279663086" type="line"/>
-      <point x="368.6536102294922" y="1417.5" type="line"/>
-      <point x="323.3236618041992" y="1417.5" type="line"/>
+      <point x="162.96353912353516" y="1204.7727279663086" type="line"/>
+      <point x="341.8977279663086" y="1409.0303573608398" type="line"/>
+      <point x="520.8319091796875" y="1204.7727279663086" type="line"/>
+      <point x="564.3409118652344" y="1204.7727279663086" type="line"/>
+      <point x="363.6522216796875" y="1433.863639831543" type="line"/>
+      <point x="320.14322662353516" y="1433.863639831543" type="line"/>
     </contour>
   </outline>
 </glyph>

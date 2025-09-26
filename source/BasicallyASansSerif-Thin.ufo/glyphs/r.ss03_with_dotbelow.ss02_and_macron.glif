@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.ss03_with_dotbelow.ss02_and_macron" format="2">
+  <advance width="538.090909090909"/>
+  <unicode hex="E6A5"/>
+  <anchor x="139.0909090909091" y="-130.9090909090909" name="stembelow" identifier="stembelow"/>
+  <anchor x="292.5" y="1182.7840909090908" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="29.14773" y="1019.14773" type="line"/>
+      <point x="555.85227" y="1019.14773" type="line"/>
+      <point x="555.85227" y="1051.875" type="line"/>
+      <point x="29.14773" y="1051.875" type="line"/>
+    </contour>
+    <contour>
+      <point x="122.7272720336914" y="0" type="line"/>
+      <point x="155.45455169677734" y="0" type="line"/>
+      <point x="155.45455169677734" y="438.69317626953125" type="line"/>
+      <point x="155.45455169677734" y="654.7943636657589"/>
+      <point x="312.7818018850903" y="757.32955"/>
+      <point x="454.09091" y="757.32955" type="curve"/>
+      <point x="462.2727279663086" y="757.3295516967773" type="line"/>
+      <point x="462.2727279663086" y="790.0568237304688" type="line"/>
+      <point x="454.0909118652344" y="790.0568237304688" type="line"/>
+      <point x="322.6674994792544" y="790.05682"/>
+      <point x="209.01130679513676" y="713.381350537365"/>
+      <point x="155.45455169677734" y="602.3385391235352" type="curve"/>
+      <point x="155.45455169677734" y="790.0568237304688" type="line"/>
+      <point x="122.7272720336914" y="790.0568237304688" type="line"/>
+    </contour>
+    <contour>
+      <point x="214.67532" y="-282.85714" type="line"/>
+      <point x="289.48052" y="-282.85714" type="line"/>
+      <point x="289.48052" y="-208.05195" type="line"/>
+      <point x="214.67532" y="-208.05195" type="line"/>
+    </contour>
+  </outline>
+</glyph>

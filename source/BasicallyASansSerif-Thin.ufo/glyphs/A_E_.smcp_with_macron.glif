@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE.smcp_with_macron" format="2">
+  <advance width="1175.7154091132932"/>
+  <unicode hex="EE81"/>
+  <anchor x="601.5348924110552" y="1197.9381362165338" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="338.18262" y="1034.30177" type="line"/>
+      <point x="864.88717" y="1034.30177" type="line"/>
+      <point x="864.88717" y="1067.02905" type="line"/>
+      <point x="338.18262" y="1067.02905" type="line"/>
+    </contour>
+    <contour>
+      <point x="261.72998046875" y="305.92640686035156" type="line"/>
+      <point x="585.3540725708008" y="770.7277603149414" type="line"/>
+      <point x="585.3540725708008" y="305.92640686035156" type="line"/>
+    </contour>
+    <contour>
+      <point x="9.321037292480469" y="0" type="line"/>
+      <point x="48.72467041015625" y="0" type="line"/>
+      <point x="239.28424835205078" y="273.6889877319336" type="line"/>
+      <point x="585.3540725708008" y="273.6889877319336" type="line"/>
+      <point x="585.3540725708008" y="0" type="line"/>
+      <point x="1080.734977722168" y="0" type="line"/>
+      <point x="1080.734977722168" y="32.30101013183594" type="line"/>
+      <point x="617.7157135009766" y="32.30101013183594" type="line"/>
+      <point x="617.7157135009766" y="385.39305877685547" type="line"/>
+      <point x="1056.5252227783203" y="385.39305877685547" type="line"/>
+      <point x="1056.5252227783203" y="417.66375732421875" type="line"/>
+      <point x="617.7157135009766" y="417.66375732421875" type="line"/>
+      <point x="617.7157135009766" y="770.7558135986328" type="line"/>
+      <point x="1076.7000198364258" y="770.7558135986328" type="line"/>
+      <point x="1076.7000198364258" y="803.0568237304688" type="line"/>
+      <point x="568.4599761962891" y="803.0568237304688" type="line"/>
+    </contour>
+  </outline>
+</glyph>

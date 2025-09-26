@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss01.smcp_with_dotabove" format="2">
+  <advance width="1060.1609545960707"/>
+  <unicode hex="EFB6"/>
+  <anchor x="530.0804772980354" y="-114.23576877627578" name="below" identifier="below"/>
+  <anchor x="969.4222936889432" y="0.0" name="hookright" identifier="hookright"/>
+  <anchor x="530.0804772980354" y="1248.7390385146969" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="655.80834" y="1085.68936" type="curve" smooth="yes"/>
+      <point x="655.80834" y="1155.08046"/>
+      <point x="599.47157" y="1211.41722"/>
+      <point x="530.08048" y="1211.41722" type="curve" smooth="yes"/>
+      <point x="460.68938" y="1211.41722"/>
+      <point x="404.35262" y="1155.08046"/>
+      <point x="404.35262" y="1085.68936" type="curve" smooth="yes"/>
+      <point x="404.35262" y="1016.29827"/>
+      <point x="460.68938" y="959.9615"/>
+      <point x="530.08048" y="959.9615" type="curve" smooth="yes"/>
+      <point x="599.47157" y="959.9615"/>
+      <point x="655.80834" y="1016.29827"/>
+    </contour>
+    <contour>
+      <point x="90.73866271972656" y="0" type="line"/>
+      <point x="252.53022003173828" y="0" type="line"/>
+      <point x="252.53022003173828" y="598.5825805664062" type="line"/>
+      <point x="468.66124725341797" y="6.914009094238281" type="line"/>
+      <point x="591.4997024536133" y="6.914009094238281" type="line"/>
+      <point x="807.6307373046875" y="598.5826034545898" type="line"/>
+      <point x="807.6307373046875" y="0" type="line"/>
+      <point x="969.4222869873047" y="0" type="line"/>
+      <point x="969.4222869873047" y="841.410400390625" type="line"/>
+      <point x="752.5134429931641" y="841.410400390625" type="line"/>
+      <point x="530.0804824829102" y="266.3296127319336" type="line"/>
+      <point x="307.64752197265625" y="841.410400390625" type="line"/>
+      <point x="90.73866271972656" y="841.410400390625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

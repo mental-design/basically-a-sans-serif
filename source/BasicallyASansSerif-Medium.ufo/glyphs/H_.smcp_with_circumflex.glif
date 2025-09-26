@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.smcp_with_circumflex" format="2">
+  <advance width="878.5006443981101"/>
+  <unicode hex="EEAC"/>
+  <anchor x="439.2503221990551" y="-118.63381322091955" name="below" identifier="below"/>
+  <anchor x="168.96875346042444" y="0.0" name="cedilla" identifier="cedilla"/>
+  <anchor x="439.2503221990551" y="656.194726155824" name="stroke" identifier="stroke"/>
+  <anchor x="703.660408638211" y="1142.738439524367" name="topright" identifier="topright"/>
+  <anchor x="439.2503221990551" y="1259.128201536042" name="above" identifier="above"/>
+  <anchor x="718.2091288896704" y="1142.738439524367" name="grave" identifier="grave"/>
+  <outline>
+    <contour>
+      <point x="169.41449737548828" y="950.9782180786133" type="line"/>
+      <point x="330.9752197265625" y="950.9782180786133" type="line"/>
+      <point x="439.2503204345703" y="1081.5323333740234" type="line"/>
+      <point x="547.5254211425781" y="950.9782180786133" type="line"/>
+      <point x="709.0861434936523" y="950.9782180786133" type="line"/>
+      <point x="504.78173065185547" y="1206.6585083007812" type="line"/>
+      <point x="373.71891021728516" y="1206.6585083007812" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.59182739257812" y="0" type="line"/>
+      <point x="239.3456802368164" y="0" type="line"/>
+      <point x="239.3456802368164" y="345.79528045654297" type="line"/>
+      <point x="639.1549682617188" y="345.79528045654297" type="line"/>
+      <point x="639.1549682617188" y="0" type="line"/>
+      <point x="779.908821105957" y="0" type="line"/>
+      <point x="779.908821105957" y="832.3444137573242" type="line"/>
+      <point x="639.1549682617188" y="832.3444137573242" type="line"/>
+      <point x="639.1549682617188" y="480.04503631591797" type="line"/>
+      <point x="239.3456802368164" y="480.04503631591797" type="line"/>
+      <point x="239.3456802368164" y="832.3444137573242" type="line"/>
+      <point x="98.59182739257812" y="832.3444137573242" type="line"/>
+    </contour>
+  </outline>
+</glyph>

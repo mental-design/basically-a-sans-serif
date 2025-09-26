@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i_dotless" format="2">
-  <advance width="408.2926829268293"/>
+  <advance width="406.4672748909163"/>
   <unicode hex="0131"/>
-  <anchor x="204.14634146341461" y="942.1189024390244" name="above" identifier="above"/>
-  <anchor x="204.14634146341461" y="-105.36585365853658" name="below" identifier="below"/>
-  <anchor x="322.6829268292683" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="203.23363744545816" y="944.2302161840539" name="above" identifier="above"/>
+  <anchor x="203.23363744545816" y="-102.8163427211424" name="below" identifier="below"/>
+  <anchor x="203.23363744545816" y="450.7759819008425" name="stroke" identifier="stroke"/>
+  <anchor x="331.96826656088854" y="0" name="ogonek" identifier="ogonek"/>
   <outline>
     <contour>
-      <point x="85.60976" y="0.0" type="line"/>
-      <point x="322.68293" y="0.0" type="line"/>
-      <point x="322.68293" y="836.75305" type="line"/>
-      <point x="85.60976" y="836.75305" type="line"/>
+      <point x="74.49901" y="0.0" type="line"/>
+      <point x="331.96827" y="0.0" type="line"/>
+      <point x="331.96827" y="841.41387" type="line"/>
+      <point x="74.49901" y="841.41387" type="line"/>
     </contour>
   </outline>
 </glyph>

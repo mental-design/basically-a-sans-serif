@@ -1,22 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I_with_caron" format="2">
-  <advance width="394.19999999999993"/>
+  <advance width="394.8358474927476"/>
   <unicode hex="01CF"/>
+  <anchor x="197.41792374637382" y="-107.41815167840862" name="below" identifier="below"/>
+  <anchor x="312.1686282635723" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="197.41792374637382" y="543.5386448404475" name="stroke" identifier="stroke"/>
+  <anchor x="197.41792374637382" y="1501.7561127227518" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="99.53703308105469" y="1194.75" type="line"/>
-      <point x="294.66297149658203" y="1194.75" type="line"/>
-      <point x="514.9124984741211" y="1464.75" type="line"/>
-      <point x="319.78656005859375" y="1464.75" type="line"/>
-      <point x="197.0999984741211" y="1314.350715637207" type="line"/>
-      <point x="74.41343688964844" y="1464.75" type="line"/>
-      <point x="-120.7125015258789" y="1464.75" type="line"/>
+      <point x="-109.28561" y="1465.95006" type="line"/>
+      <point x="127.14352" y="1183.72876" type="line"/>
+      <point x="197.41792" y="1183.72876" type="line"/>
+      <point x="197.41792" y="1360.02414" type="line"/>
+      <point x="101.7734" y="1465.95006" type="line"/>
     </contour>
     <contour>
-      <point x="89.1" y="0.0" type="line"/>
-      <point x="305.1" y="0.0" type="line"/>
-      <point x="305.1" y="1086.75" type="line"/>
-      <point x="89.1" y="1086.75" type="line"/>
+      <point x="504.12146" y="1465.95006" type="line"/>
+      <point x="293.06245" y="1465.95006" type="line"/>
+      <point x="197.41793" y="1360.02414" type="line"/>
+      <point x="197.41793" y="1183.72876" type="line"/>
+      <point x="267.69233" y="1183.72876" type="line"/>
+    </contour>
+    <contour>
+      <point x="82.66722" y="0.0" type="line"/>
+      <point x="312.16863" y="0.0" type="line"/>
+      <point x="312.16863" y="1087.07729" type="line"/>
+      <point x="82.66722" y="1087.07729" type="line"/>
     </contour>
   </outline>
 </glyph>

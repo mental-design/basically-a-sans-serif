@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o_with_dotabove.ss02" format="2">
+  <advance width="993.477576735803"/>
+  <unicode hex="E5A1"/>
+  <anchor x="496.7387883679015" y="-116.3897620116749" name="below" identifier="below"/>
+  <anchor x="496.7387883679015" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="496.7387883679015" y="408.2999831612034" name="stroke" identifier="stroke"/>
+  <anchor x="496.7387883679015" y="832.3444107668513" name="horn" identifier="horn"/>
+  <anchor x="496.7387883679015" y="1196.5882914234396" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="396.44961" y="957.21335" type="line"/>
+      <point x="597.02797" y="957.21335" type="line"/>
+      <point x="597.02797" y="1157.7917" type="line"/>
+      <point x="396.44961" y="1157.7917" type="line"/>
+    </contour>
+    <contour>
+      <point x="496.73879" y="692.4007" type="curve"/>
+      <point x="653.53824" y="692.4007"/>
+      <point x="780.8395" y="565.09944"/>
+      <point x="780.8395" y="408.29998" type="curve"/>
+      <point x="780.8395" y="251.50053"/>
+      <point x="653.53824" y="124.19927"/>
+      <point x="496.73879" y="124.19927" type="curve"/>
+      <point x="339.93934" y="124.19927"/>
+      <point x="212.63807" y="251.50053"/>
+      <point x="212.63807" y="408.29998" type="curve"/>
+      <point x="212.63807" y="565.09944"/>
+      <point x="339.93934" y="692.4007"/>
+    </contour>
+    <contour>
+      <point x="496.73879" y="832.34441" type="curve"/>
+      <point x="258.2872" y="832.34441"/>
+      <point x="64.64481" y="642.87225"/>
+      <point x="64.64481" y="408.29998" type="curve"/>
+      <point x="64.64481" y="173.72771"/>
+      <point x="258.2872" y="-15.74444"/>
+      <point x="496.73879" y="-15.74444" type="curve"/>
+      <point x="735.19037" y="-15.74444"/>
+      <point x="928.83276" y="173.72771"/>
+      <point x="928.83276" y="408.29998" type="curve"/>
+      <point x="928.83276" y="642.87225"/>
+      <point x="735.19037" y="832.34441"/>
+    </contour>
+  </outline>
+</glyph>

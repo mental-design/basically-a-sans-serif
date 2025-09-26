@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.smcp_with_macron" format="2">
+  <advance width="286.7766323426313"/>
+  <unicode hex="EEBA"/>
+  <anchor x="143.3883161713156" y="-130.10978078782844" name="below" identifier="below"/>
+  <anchor x="171.26034408991652" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="143.3883161713156" y="404.50080481518046" name="stroke" identifier="stroke"/>
+  <anchor x="143.3883161713156" y="1210.792030504475" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="-121.77518" y="1027.43075" type="line"/>
+      <point x="408.55182" y="1027.43075" type="line"/>
+      <point x="408.55182" y="1082.85521" type="line"/>
+      <point x="-121.77518" y="1082.85521" type="line"/>
+    </contour>
+    <contour>
+      <point x="115.51629" y="0.0" type="line"/>
+      <point x="171.26034" y="0.0" type="line"/>
+      <point x="171.26034" y="809.00161" type="line"/>
+      <point x="115.51629" y="809.00161" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,20 +2,25 @@
 <glyph name="t_with_dotabove" format="2">
   <advance width="466.55769230769226"/>
   <unicode hex="1E6B"/>
+  <anchor x="186.43756243756243" y="1270.051948051948" name="above" identifier="above"/>
+  <anchor x="269.2110389610389" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="219.54695304695306" y="412.28084415584414" name="stroke" identifier="stroke"/>
+  <anchor x="269.2110389610389" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="333.71028971028966" y="920.965909090909" name="t_caron" identifier="t_caron"/>
   <outline>
     <contour>
-      <point x="230.38561" y="1157.27273" type="curve" smooth="yes"/>
-      <point x="230.38561" y="1181.52832"/>
-      <point x="210.69315" y="1201.22078"/>
-      <point x="186.43756" y="1201.22078" type="curve" smooth="yes"/>
-      <point x="162.18197" y="1201.22078"/>
-      <point x="142.48951" y="1181.52832"/>
-      <point x="142.48951" y="1157.27273" type="curve" smooth="yes"/>
-      <point x="142.48951" y="1133.01714"/>
-      <point x="162.18197" y="1113.32468"/>
-      <point x="186.43756" y="1113.32468" type="curve" smooth="yes"/>
-      <point x="210.69315" y="1113.32468"/>
-      <point x="230.38561" y="1133.01714"/>
+      <point x="230.38561" y="1182.46753" type="curve" smooth="yes"/>
+      <point x="230.38561" y="1206.72312"/>
+      <point x="210.69315" y="1226.41558"/>
+      <point x="186.43756" y="1226.41558" type="curve" smooth="yes"/>
+      <point x="162.18197" y="1226.41558"/>
+      <point x="142.48951" y="1206.72312"/>
+      <point x="142.48951" y="1182.46753" type="curve" smooth="yes"/>
+      <point x="142.48951" y="1158.21194"/>
+      <point x="162.18197" y="1138.51948"/>
+      <point x="186.43756" y="1138.51948" type="curve" smooth="yes"/>
+      <point x="210.69315" y="1138.51948"/>
+      <point x="230.38561" y="1158.21194"/>
     </contour>
     <contour>
       <point x="170.0739288330078" y="189.62661743164062" type="line"/>

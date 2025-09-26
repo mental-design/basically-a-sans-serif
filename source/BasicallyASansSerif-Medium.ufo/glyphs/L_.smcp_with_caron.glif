@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.smcp_with_caron" format="2">
+  <advance width="740.2218702877537"/>
+  <unicode hex="EECA"/>
+  <anchor x="392.4939328282988" y="-118.63381322091955" name="below" identifier="below"/>
+  <anchor x="362.3155523899324" y="832.3444107668513" name="caron" identifier="caron"/>
+  <anchor x="98.59182757072294" y="416.17220538342565" name="stroke" identifier="stroke"/>
+  <anchor x="392.4939328282988" y="416.17220538342565" name="dotmiddle" identifier="dotmiddle"/>
+  <anchor x="171.13678336986789" y="1238.8004062958084" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="-98.69904" y="1200.00382" type="line"/>
+      <point x="105.60537" y="944.32353" type="line"/>
+      <point x="171.13678" y="944.32353" type="line"/>
+      <point x="171.13678" y="1069.44972" type="line"/>
+      <point x="62.86169" y="1200.00382" type="line"/>
+    </contour>
+    <contour>
+      <point x="440.97261" y="1200.00382" type="line"/>
+      <point x="279.41188" y="1200.00382" type="line"/>
+      <point x="171.13679" y="1069.44972" type="line"/>
+      <point x="171.13679" y="944.32353" type="line"/>
+      <point x="236.66819" y="944.32353" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.59182739257812" y="0" type="line"/>
+      <point x="686.3960418701172" y="0" type="line"/>
+      <point x="686.3960418701172" y="136.41779327392578" type="line"/>
+      <point x="243.6817398071289" y="136.41779327392578" type="line"/>
+      <point x="243.6817398071289" y="832.3444137573242" type="line"/>
+      <point x="98.59182739257812" y="832.3444137573242" type="line"/>
+    </contour>
+  </outline>
+</glyph>

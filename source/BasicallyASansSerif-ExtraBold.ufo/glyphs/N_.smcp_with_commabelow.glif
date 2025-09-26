@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.smcp_with_commabelow" format="2">
+  <advance width="948.985428908298"/>
+  <unicode hex="EEDA"/>
+  <anchor x="474.492714454149" y="965.5643849213308" name="above" identifier="above"/>
+  <anchor x="74.49900833002776" y="0.0" name="hookleft" identifier="hookleft"/>
+  <anchor x="874.4864205782702" y="0.0" name="hookright" identifier="hookright"/>
+  <outline>
+    <contour>
+      <point x="74.49900817871094" y="0" type="line"/>
+      <point x="295.1280975341797" y="0" type="line"/>
+      <point x="295.1280975341797" y="520.7010345458984" type="line"/>
+      <point x="614.8891983032227" y="0" type="line"/>
+      <point x="874.4864196777344" y="0" type="line"/>
+      <point x="874.4864196777344" y="860.4249801635742" type="line"/>
+      <point x="653.8573303222656" y="860.4249801635742" type="line"/>
+      <point x="653.8573303222656" y="339.7239456176758" type="line"/>
+      <point x="334.09622955322266" y="860.4249801635742" type="line"/>
+      <point x="74.49900817871094" y="860.4249801635742" type="line"/>
+    </contour>
+    <contour>
+      <point x="442.6993103027344" y="-549.9821929931641" type="line" smooth="yes"/>
+      <point x="549.9119146423309" y="-417.5856485729306"/>
+      <point x="577.4327408549743" y="-273.2658556448489"/>
+      <point x="577.4327398352002" y="-149.50671" type="curve"/>
+      <point x="577.4327392578125" y="-79.43531036376953" type="line"/>
+      <point x="371.5526885986328" y="-79.43531036376953" type="line"/>
+      <point x="371.5526885986328" y="-149.50670623779297" type="line" smooth="yes"/>
+      <point x="371.5526885986328" y="-232.68883129615165"/>
+      <point x="355.86883874323706" y="-330.0622477758564"/>
+      <point x="282.70046" y="-420.41768" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

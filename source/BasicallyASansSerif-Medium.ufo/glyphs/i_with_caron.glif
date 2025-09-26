@@ -1,22 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i_with_caron" format="2">
-  <advance width="346.22382671480136"/>
+  <advance width="346.0655590480468"/>
   <unicode hex="01D0"/>
+  <anchor x="173.03277952402334" y="-116.3897620116749" name="below" identifier="below"/>
+  <anchor x="173.03277952402334" y="432.18949275798104" name="stroke" identifier="stroke"/>
+  <anchor x="247.47373147732375" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="173.03277952402334" y="1220.8119106421195" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="106.21515655517578" y="932.5112762451172" type="line"/>
-      <point x="240.00865936279297" y="932.5112762451172" type="line"/>
-      <point x="455.1944885253906" y="1180.0925064086914" type="line"/>
-      <point x="321.4010009765625" y="1180.0925064086914" type="line"/>
-      <point x="173.11190795898438" y="1009.4790725708008" type="line"/>
-      <point x="24.822830200195312" y="1180.0925064086914" type="line"/>
-      <point x="-108.97067260742188" y="1180.0925064086914" type="line"/>
+      <point x="-96.80303955078125" y="1182.0153274536133" type="line"/>
+      <point x="107.50137329101562" y="926.3350372314453" type="line"/>
+      <point x="238.56419372558594" y="926.3350372314453" type="line"/>
+      <point x="442.8685989379883" y="1182.0153274536133" type="line"/>
+      <point x="281.30787658691406" y="1182.0153274536133" type="line"/>
+      <point x="173.03278350830078" y="1051.4612197875977" type="line"/>
+      <point x="64.75768280029297" y="1182.0153274536133" type="line"/>
     </contour>
     <contour>
-      <point x="100.98195" y="0.0" type="line"/>
-      <point x="245.24188" y="0.0" type="line"/>
-      <point x="245.24188" y="815.54377" type="line"/>
-      <point x="100.98195" y="815.54377" type="line"/>
+      <point x="98.59183" y="0.0" type="line"/>
+      <point x="247.47373" y="0.0" type="line"/>
+      <point x="247.47373" y="816.59997" type="line"/>
+      <point x="98.59183" y="816.59997" type="line"/>
     </contour>
   </outline>
 </glyph>

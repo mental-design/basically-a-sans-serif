@@ -2,6 +2,9 @@
 <glyph name="n_with_commabelow" format="2">
   <advance width="885.2727272727271"/>
   <unicode hex="0146"/>
+  <anchor x="450.81818181818176" y="920.965909090909" name="above" identifier="above"/>
+  <anchor x="119.45454545454544" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="782.181818181818" y="0" name="hookright" identifier="hookright"/>
   <outline>
     <contour>
       <point x="119.45455169677734" y="0" type="line"/>
@@ -26,14 +29,16 @@
       <point x="119.45455169677734" y="790.0568237304688" type="line"/>
     </contour>
     <contour>
-      <point x="410.18172" y="-310.90909" type="line"/>
-      <point x="447.52315" y="-246.23183"/>
-      <point x="467.18182" y="-172.86469"/>
-      <point x="467.18182" y="-98.18182" type="curve"/>
-      <point x="434.45455" y="-98.18182" type="line"/>
-      <point x="434.45455" y="-167.11985"/>
-      <point x="416.30809" y="-234.84336"/>
-      <point x="381.83907" y="-294.54545" type="curve"/>
+      <point x="372.3675537109375" y="-431.38358306884766" type="line" smooth="yes"/>
+      <point x="450.29766682034574" y="-335.14791058255673"/>
+      <point x="467.1818161521602" y="-231.1502805165331"/>
+      <point x="467.18182113986563" y="-143.63636000000002" type="curve"/>
+      <point x="467.18182373046875" y="-98.18182373046875" type="line"/>
+      <point x="434.45455169677734" y="-98.18182373046875" type="line"/>
+      <point x="434.45455169677734" y="-143.63636016845703" type="line" smooth="yes"/>
+      <point x="434.45455169677734" y="-225.95161064828085"/>
+      <point x="419.00570752181324" y="-321.7861125674739"/>
+      <point x="346.93369" y="-410.78764" type="curve"/>
     </contour>
   </outline>
 </glyph>

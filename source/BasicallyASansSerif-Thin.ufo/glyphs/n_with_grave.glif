@@ -2,12 +2,15 @@
 <glyph name="n_with_grave" format="2">
   <advance width="885.2727272727271"/>
   <unicode hex="01F9"/>
+  <anchor x="450.81818181818176" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="119.45454545454544" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="782.181818181818" y="0" name="hookright" identifier="hookright"/>
   <outline>
     <contour>
-      <point x="469.61927" y="920.96591" type="line"/>
-      <point x="336.91984" y="1155.51136" type="line"/>
-      <point x="299.31766" y="1155.51136" type="line"/>
-      <point x="432.01709" y="920.96591" type="line"/>
+      <point x="470.32958" y="920.96591" type="line"/>
+      <point x="293.21842" y="1193.69318" type="line"/>
+      <point x="254.19562" y="1193.69318" type="line"/>
+      <point x="431.30678" y="920.96591" type="line"/>
     </contour>
     <contour>
       <point x="119.45455169677734" y="0" type="line"/>

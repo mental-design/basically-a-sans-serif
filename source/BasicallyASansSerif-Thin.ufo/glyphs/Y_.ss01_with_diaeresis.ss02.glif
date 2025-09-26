@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.ss01_with_diaeresis.ss02" format="2">
+  <advance width="925.4999999999999"/>
+  <unicode hex="E620"/>
+  <anchor x="462.74999999999994" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="462.74999999999994" y="1400.3571428571427" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="288.87468" y="1281.91558" type="line"/>
+      <point x="363.67987" y="1281.91558" type="line"/>
+      <point x="363.67987" y="1356.72078" type="line"/>
+      <point x="288.87468" y="1356.72078" type="line"/>
+    </contour>
+    <contour>
+      <point x="561.82013" y="1281.91558" type="line"/>
+      <point x="636.62532" y="1281.91558" type="line"/>
+      <point x="636.62532" y="1356.72078" type="line"/>
+      <point x="561.82013" y="1356.72078" type="line"/>
+    </contour>
+    <contour>
+      <point x="446.38636016845703" y="0" type="line"/>
+      <point x="479.11363983154297" y="0" type="line"/>
+      <point x="479.11363983154297" y="421.36363983154297" type="line"/>
+      <point x="887.863639831543" y="1073.863639831543" type="line"/>
+      <point x="849.3223419189453" y="1073.863639831543" type="line"/>
+      <point x="462.75" y="456.7665023803711" type="line"/>
+      <point x="76.17765808105469" y="1073.863639831543" type="line"/>
+      <point x="37.63636016845703" y="1073.863639831543" type="line"/>
+      <point x="446.38636016845703" y="421.36363983154297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

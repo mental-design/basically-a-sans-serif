@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_with_dotbelow.ss02" format="2">
+  <advance width="385.9892250310817"/>
+  <unicode hex="E59B"/>
+  <anchor x="192.9946125155408" y="1269.4363862411935" name="above" identifier="above"/>
+  <anchor x="410.7401574803149" y="1162.018234562785" name="caron" identifier="caron"/>
+  <anchor x="192.9946125155408" y="581.0091172813925" name="stroke" identifier="stroke"/>
+  <anchor x="385.9892250310817" y="581.0091172813925" name="dotmiddle" identifier="dotmiddle"/>
+  <outline>
+    <contour>
+      <point x="82.66722" y="0.0" type="line"/>
+      <point x="303.32201" y="0.0" type="line"/>
+      <point x="303.32201" y="1162.01823" type="line"/>
+      <point x="82.66722" y="1162.01823" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.13634" y="-369.00373" type="line"/>
+      <point x="318.85288" y="-369.00373" type="line"/>
+      <point x="318.85288" y="-117.28719" type="line"/>
+      <point x="67.13634" y="-117.28719" type="line"/>
+    </contour>
+  </outline>
+</glyph>

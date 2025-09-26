@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H_with_diaeresis.ss02" format="2">
+  <advance width="1069.6198704103672"/>
+  <unicode hex="E550"/>
+  <anchor x="534.8099352051836" y="-111.96544276457884" name="below" identifier="below"/>
+  <anchor x="182.8768898488121" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="534.8099352051836" y="855.171706263499" name="stroke" identifier="stroke"/>
+  <anchor x="534.8099352051836" y="1473.1026997840174" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="252.57052" y="1217.27527" type="line"/>
+      <point x="471.07613" y="1217.27527" type="line"/>
+      <point x="471.07613" y="1435.78089" type="line"/>
+      <point x="252.57052" y="1435.78089" type="line"/>
+    </contour>
+    <contour>
+      <point x="598.54374" y="1217.27527" type="line"/>
+      <point x="817.04935" y="1217.27527" type="line"/>
+      <point x="817.04935" y="1435.78089" type="line"/>
+      <point x="598.54374" y="1435.78089" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.73866271972656" y="0" type="line"/>
+      <point x="275.01512145996094" y="0" type="line"/>
+      <point x="275.01512145996094" y="450.1214904785156" type="line"/>
+      <point x="794.6047515869141" y="450.1214904785156" type="line"/>
+      <point x="794.6047515869141" y="0" type="line"/>
+      <point x="978.8812103271484" y="0" type="line"/>
+      <point x="978.8812103271484" y="1084.5194396972656" type="line"/>
+      <point x="794.6047515869141" y="1084.5194396972656" type="line"/>
+      <point x="794.6047515869141" y="625.8239669799805" type="line"/>
+      <point x="275.01512145996094" y="625.8239669799805" type="line"/>
+      <point x="275.01512145996094" y="1084.5194396972656" type="line"/>
+      <point x="90.73866271972656" y="1084.5194396972656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

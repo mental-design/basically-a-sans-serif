@@ -5,7 +5,7 @@
     <key>ascender</key>
     <integer>1320</integer>
     <key>capHeight</key>
-    <real>1089.642857142857</real>
+    <real>1092.2727272727273</real>
     <key>copyright</key>
     <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Thick</string>
     <key>openTypeNameVersion</key>
-    <string>1.200</string>
+    <string>2.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -117,25 +117,25 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2Selection</key>
     <array/>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>482</integer>
+    <integer>485</integer>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>50</integer>
     <key>openTypeOS2SubscriptXOffset</key>
     <integer>0</integer>
     <key>openTypeOS2SubscriptXSize</key>
-    <integer>674</integer>
+    <integer>676</integer>
     <key>openTypeOS2SubscriptYOffset</key>
     <integer>0</integer>
     <key>openTypeOS2SubscriptYSize</key>
-    <integer>674</integer>
+    <integer>676</integer>
     <key>openTypeOS2SuperscriptXOffset</key>
     <integer>0</integer>
     <key>openTypeOS2SuperscriptXSize</key>
-    <integer>674</integer>
+    <integer>676</integer>
     <key>openTypeOS2SuperscriptYOffset</key>
-    <integer>415</integer>
+    <integer>416</integer>
     <key>openTypeOS2SuperscriptYSize</key>
-    <integer>674</integer>
+    <integer>676</integer>
     <key>openTypeOS2Type</key>
     <array>
       <integer>0</integer>
@@ -169,12 +169,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>330</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-35.0</real>
+      <real>-39.66666666666667</real>
       <integer>0</integer>
-      <real>841.3392857142857</real>
-      <real>876.3392857142857</real>
-      <real>1089.642857142857</real>
-      <real>1109.642857142857</real>
+      <real>849.8863636363637</real>
+      <real>889.5530303030304</real>
+      <real>1092.2727272727273</real>
+      <real>1113.6060606060605</real>
     </array>
     <key>postscriptFamilyBlues</key>
     <array>
@@ -196,27 +196,25 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <string>Basically A Sans Serif Thick</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-404.71428571428567</real>
-      <real>-385.71428571428567</real>
+      <real>-413.06060606060606</real>
+      <real>-392.72727272727275</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <real>173.57142857142856</real>
-      <real>179.99999999999997</real>
-      <real>185.78571428571425</real>
-      <real>192.85714285714283</real>
-      <real>205.7142857142857</real>
-      <real>257.1428571428571</real>
-      <real>289.5</real>
+      <real>29.454545454545457</real>
+      <real>34.46</real>
+      <real>177.46363636363637</real>
+      <real>186.5454545454546</real>
+      <real>222.54545454545456</real>
+      <real>235.63636363636365</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <real>173.57142857142856</real>
-      <real>179.99999999999997</real>
-      <real>185.78571428571425</real>
-      <real>205.7142857142857</real>
-      <real>257.1428571428571</real>
-      <real>289.5</real>
+      <real>186.5454545454546</real>
+      <real>222.54545454545456</real>
+      <real>235.63636363636365</real>
+      <real>294.54545454545456</real>
+      <real>344.59999999999997</real>
     </array>
     <key>postscriptWeightName</key>
     <string>Thick</string>
@@ -225,10 +223,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>unitsPerEm</key>
     <integer>1550</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>200</integer>
+    <integer>0</integer>
     <key>xHeight</key>
-    <real>841.3392857142857</real>
+    <real>849.8863636363637</real>
   </dict>
 </plist>

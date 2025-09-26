@@ -2,19 +2,188 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn NLD;
 
-@numerics = [zero one two three four five six seven eight nine parenleft parenright bracketleft bracketright braceleft braceright];
-@operators = [hyphen plus minus multiply divide plusminus equal less greater almost_equal not_equal less_equal greater_equal];
-@eyes = [colon semicolon];
+# Latin Basic
+@lowercase = [
+    a b c d e f g h i j k l m n o p q r s t u v w x y z
+    ae oe eth thorn eng schwa eszett
+];
+@uppercase = [
+    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+    AE OE ETH THORN ENG SCHWA ESZETT
+];
+@smallCaps = [
+    A.smcp B.smcp C.smcp D.smcp E.smcp F.smcp G.smcp H.smcp I.smcp J.smcp K.smcp L.smcp M.smcp N.smcp O.smcp P.smcp Q.smcp R.smcp S.smcp T.smcp U.smcp V.smcp W.smcp X.smcp Y.smcp Z.smcp
+    AE.smcp OE.smcp ETH.smcp THORN.smcp ENG.smcp SCHWA.smcp ESZETT.smcp
+];
 
-feature aalt {
-    feature calt;
-} aalt;
+# Numerics
+@numerics = [
+    zero one two three four five six seven eight nine
+    one.ss01 three.ss01 eight.ss01
+];
+@tnums = [
+    zero.tnum one.tnum two.tnum three.tnum four.tnum
+    five.tnum six.tnum seven.tnum eight.tnum nine.tnum
+    one.ss01.tnum three.ss01.tnum eight.ss01.tnum
+];
 
+@sup_num = [
+    sup_zero sup_one sup_two sup_three sup_four
+    sup_five sup_six sup_seven sup_eight sup_nine
+    sup_one.ss01 sup_three.ss01 sup_eight.ss01
+];
+@sub_num = [
+    sub_zero sub_one sub_two sub_three sub_four
+    sub_five sub_six sub_seven sub_eight sub_nine
+    sub_one.ss01 sub_three.ss01 sub_eight.ss01
+];
+
+@figuresNumeratorEx = [fraction @sup_num];
+@figuresDenominatorEx = [fraction @sub_num];
+
+# Operators
+@braces = [parenleft parenright bracketleft bracketright braceleft braceright];
+@operators = [
+    hyphen plus minus multiply divide plusminus 
+    equal less greater almost_equal not_equal less_equal greater_equal
+    divide.ss02
+];
+
+@eyes = [colon semicolon colon.ss02 semicolon.ss02];
+
+# Latin Extended
+@lowercaseDiacritics = [
+    a_with_acute a_with_grave a_with_circumflex a_with_caron a_with_breve a_with_breveinv a_with_ring a_with_dotabove a_with_macron a_with_tildeabove a_with_hook a_with_diaeresis a_with_gravedbl a_with_ogonek a_with_ringbelow a_with_dotbelow 
+    ae_with_acute ae_with_macron 
+    b_with_dotabove b_with_dotbelow b_with_macronbelow 
+    c_with_acute c_with_circumflex c_with_caron c_with_dotabove c_with_cedilla 
+    d_with_caron d_with_dotabove d_with_stroke d_with_commabelow d_with_circumflexbelow d_with_dotbelow d_with_macronbelow 
+    e_with_acute e_with_grave e_with_circumflex e_with_caron e_with_breve e_with_breveinv e_with_dotabove e_with_macron e_with_tildeabove e_with_hook e_with_diaeresis e_with_gravedbl e_with_cedilla e_with_ogonek e_with_circumflexbelow e_with_dotbelow e_with_tildebelow 
+    f_with_dotabove f_with_hookleft 
+    g_with_acute g_with_circumflex g_with_caron g_with_breve g_with_dotabove g_with_macron g_with_commabelow 
+    h_with_circumflex h_with_caron h_with_dotabove h_with_diaeresis h_with_cedilla h_with_stroke h_with_dotbelow 
+    i_with_acute i_with_grave i_with_circumflex i_with_caron i_with_breve i_with_breveinv i_with_macron i_with_tildeabove i_with_hook i_with_diaeresis i_with_gravedbl i_with_ogonek i_with_stroke i_with_dotbelow i_with_tildebelow 
+    j_with_circumflex 
+    k_with_acute k_with_caron k_with_commabelow k_with_dotbelow k_with_macronbelow 
+    l_with_acute l_with_caron l_with_stroke l_with_dotmiddle l_with_commabelow l_with_circumflexbelow l_with_dotbelow l_with_macronbelow 
+    m_with_acute m_with_dotabove m_with_dotbelow 
+    n_with_acute n_with_grave n_with_caron n_with_dotabove n_with_tildeabove n_with_hookleft n_with_commabelow n_with_circumflexbelow n_with_dotbelow n_with_macronbelow 
+    o_with_acute o_with_grave o_with_circumflex o_with_caron o_with_breve o_with_breveinv o_with_dotabove o_with_macron o_with_tildeabove o_with_hook o_with_diaeresis o_with_acutedbl o_with_gravedbl o_with_ogonek o_with_stroke o_with_horn o_with_dotbelow 
+    p_with_acute p_with_dotabove 
+    r_with_acute r_with_caron r_with_breveinv r_with_dotabove r_with_gravedbl r_with_commabelow r_with_dotbelow r_with_macronbelow 
+    s_with_acute s_with_circumflex s_with_caron s_with_dotabove s_with_cedilla s_with_commabelow s_with_dotbelow 
+    t_with_caron t_with_dotabove t_with_cedilla t_with_stroke t_with_commabelow t_with_circumflexbelow t_with_dotbelow t_with_macronbelow 
+    u_with_acute u_with_grave u_with_circumflex u_with_caron u_with_breve u_with_breveinv u_with_ring u_with_macron u_with_tildeabove u_with_hook u_with_diaeresis u_with_acutedbl u_with_gravedbl u_with_ogonek u_with_horn u_with_circumflexbelow u_with_dotbelow u_with_tildebelow u_with_diaeresisbelow 
+    v_with_tildeabove v_with_dotbelow 
+    w_with_acute w_with_grave w_with_circumflex w_with_dotabove w_with_diaeresis w_with_dotbelow 
+    x_with_dotabove x_with_diaeresis 
+    y_with_acute y_with_grave y_with_circumflex y_with_dotabove y_with_macron y_with_tildeabove y_with_hook y_with_diaeresis y_with_dotbelow 
+    z_with_acute z_with_circumflex z_with_caron z_with_dotabove z_with_stroke z_with_dotbelow z_with_macronbelow 
+    a_with_circumflex_and_acute a_with_circumflex_and_grave a_with_circumflex_and_tildeabove a_with_circumflex_and_hook a_with_circumflex_and_dotbelow a_with_breve_and_acute a_with_breve_and_grave a_with_breve_and_tildeabove a_with_breve_and_hook a_with_breve_and_dotbelow a_with_ring_and_acute a_with_dotabove_and_macron a_with_diaeresis_and_macron 
+    c_with_cedilla_and_acute 
+    e_with_circumflex_and_acute e_with_circumflex_and_grave e_with_circumflex_and_tildeabove e_with_circumflex_and_hook e_with_circumflex_and_dotbelow e_with_macron_and_acute e_with_macron_and_grave e_with_cedilla_and_breve 
+    i_with_diaeresis_and_acute 
+    l_with_dotbelow_and_macron 
+    o_with_circumflex_and_acute o_with_circumflex_and_grave o_with_circumflex_and_tildeabove o_with_circumflex_and_hook o_with_circumflex_and_dotbelow o_with_dotabove_and_macron o_with_macron_and_acute o_with_macron_and_grave o_with_tildeabove_and_acute o_with_tildeabove_and_macron o_with_tildeabove_and_diaeresis o_with_diaeresis_and_macron o_with_ogonek_and_macron o_with_stroke_and_acute o_with_horn_and_acute o_with_horn_and_grave o_with_horn_and_tildeabove o_with_horn_and_hook o_with_horn_and_dotbelow 
+    r_with_dotbelow_and_macron 
+    s_with_acute_and_dotabove s_with_caron_and_dotabove s_with_dotbelow_and_dotabove 
+    u_with_macron_and_diaeresis u_with_tildeabove_and_acute u_with_diaeresis_and_acute u_with_diaeresis_and_grave u_with_diaeresis_and_caron u_with_diaeresis_and_macron u_with_horn_and_acute u_with_horn_and_grave u_with_horn_and_tildeabove u_with_horn_and_hook u_with_horn_and_dotbelow
+];
+
+@uppercaseDiacritics = [
+    A_with_acute A_with_grave A_with_circumflex A_with_caron A_with_breve A_with_breveinv A_with_ring A_with_dotabove A_with_macron A_with_tildeabove A_with_hook A_with_diaeresis A_with_gravedbl A_with_ogonek A_with_ringbelow A_with_dotbelow 
+    AE_with_acute AE_with_macron 
+    B_with_dotabove B_with_dotbelow B_with_macronbelow 
+    C_with_acute C_with_circumflex C_with_caron C_with_dotabove C_with_cedilla 
+    D_with_caron D_with_dotabove D_with_stroke D_with_commabelow D_with_circumflexbelow D_with_dotbelow D_with_macronbelow 
+    E_with_acute E_with_grave E_with_circumflex E_with_caron E_with_breve E_with_breveinv E_with_dotabove E_with_macron E_with_tildeabove E_with_hook E_with_diaeresis E_with_gravedbl E_with_cedilla E_with_ogonek E_with_circumflexbelow E_with_dotbelow E_with_tildebelow 
+    F_with_dotabove F_with_hookleft 
+    G_with_acute G_with_circumflex G_with_caron G_with_breve G_with_dotabove G_with_macron G_with_commabelow 
+    H_with_circumflex H_with_caron H_with_dotabove H_with_diaeresis H_with_cedilla H_with_stroke H_with_dotbelow 
+    I_with_acute I_with_grave I_with_circumflex I_with_caron I_with_breve I_with_breveinv I_with_macron I_with_tildeabove I_with_hook I_with_diaeresis I_with_gravedbl I_with_ogonek I_with_stroke I_with_dotbelow I_with_tildebelow 
+    J_with_circumflex 
+    K_with_acute K_with_caron K_with_commabelow K_with_dotbelow K_with_macronbelow 
+    L_with_acute L_with_caron L_with_stroke L_with_dotmiddle L_with_commabelow L_with_circumflexbelow L_with_dotbelow L_with_macronbelow 
+    M_with_acute M_with_dotabove M_with_dotbelow 
+    N_with_acute N_with_grave N_with_caron N_with_dotabove N_with_tildeabove N_with_hookleft N_with_commabelow N_with_circumflexbelow N_with_dotbelow N_with_macronbelow 
+    O_with_acute O_with_grave O_with_circumflex O_with_caron O_with_breve O_with_breveinv O_with_dotabove O_with_macron O_with_tildeabove O_with_hook O_with_diaeresis O_with_acutedbl O_with_gravedbl O_with_ogonek O_with_stroke O_with_horn O_with_dotbelow 
+    P_with_acute P_with_dotabove 
+    R_with_acute R_with_caron R_with_breveinv R_with_dotabove R_with_gravedbl R_with_commabelow R_with_dotbelow R_with_macronbelow 
+    S_with_acute S_with_circumflex S_with_caron S_with_dotabove S_with_cedilla S_with_commabelow S_with_dotbelow 
+    T_with_caron T_with_dotabove T_with_cedilla T_with_stroke T_with_commabelow T_with_circumflexbelow T_with_dotbelow T_with_macronbelow 
+    U_with_acute U_with_grave U_with_circumflex U_with_caron U_with_breve U_with_breveinv U_with_ring U_with_macron U_with_tildeabove U_with_hook U_with_diaeresis U_with_acutedbl U_with_gravedbl U_with_ogonek U_with_horn U_with_circumflexbelow U_with_dotbelow U_with_tildebelow U_with_diaeresisbelow 
+    V_with_tildeabove V_with_dotbelow 
+    W_with_acute W_with_grave W_with_circumflex W_with_dotabove W_with_diaeresis W_with_dotbelow 
+    X_with_dotabove X_with_diaeresis 
+    Y_with_acute Y_with_grave Y_with_circumflex Y_with_dotabove Y_with_macron Y_with_tildeabove Y_with_hook Y_with_diaeresis Y_with_dotbelow 
+    Z_with_acute Z_with_circumflex Z_with_caron Z_with_dotabove Z_with_stroke Z_with_dotbelow Z_with_macronbelow 
+    A_with_circumflex_and_acute A_with_circumflex_and_grave A_with_circumflex_and_tildeabove A_with_circumflex_and_hook A_with_circumflex_and_dotbelow A_with_breve_and_acute A_with_breve_and_grave A_with_breve_and_tildeabove A_with_breve_and_hook A_with_breve_and_dotbelow A_with_ring_and_acute A_with_dotabove_and_macron A_with_diaeresis_and_macron 
+    C_with_cedilla_and_acute 
+    E_with_circumflex_and_acute E_with_circumflex_and_grave E_with_circumflex_and_tildeabove E_with_circumflex_and_hook E_with_circumflex_and_dotbelow E_with_macron_and_acute E_with_macron_and_grave E_with_cedilla_and_breve 
+    I_with_diaeresis_and_acute 
+    L_with_dotbelow_and_macron 
+    O_with_circumflex_and_acute O_with_circumflex_and_grave O_with_circumflex_and_tildeabove O_with_circumflex_and_hook O_with_circumflex_and_dotbelow O_with_dotabove_and_macron O_with_macron_and_acute O_with_macron_and_grave O_with_tildeabove_and_acute O_with_tildeabove_and_macron O_with_tildeabove_and_diaeresis O_with_diaeresis_and_macron O_with_ogonek_and_macron O_with_stroke_and_acute O_with_horn_and_acute O_with_horn_and_grave O_with_horn_and_tildeabove O_with_horn_and_hook O_with_horn_and_dotbelow 
+    R_with_dotbelow_and_macron 
+    S_with_acute_and_dotabove S_with_caron_and_dotabove S_with_dotbelow_and_dotabove 
+    U_with_macron_and_diaeresis U_with_tildeabove_and_acute U_with_diaeresis_and_acute U_with_diaeresis_and_grave U_with_diaeresis_and_caron U_with_diaeresis_and_macron U_with_horn_and_acute U_with_horn_and_grave U_with_horn_and_tildeabove U_with_horn_and_hook U_with_horn_and_dotbelow
+];
+
+@smallCapsDiacritics = [
+    A.smcp_with_acute A.smcp_with_grave A.smcp_with_circumflex A.smcp_with_caron A.smcp_with_breve A.smcp_with_breveinv A.smcp_with_ring A.smcp_with_dotabove A.smcp_with_macron A.smcp_with_tildeabove A.smcp_with_hook A.smcp_with_diaeresis A.smcp_with_gravedbl A.smcp_with_ogonek A.smcp_with_ringbelow A.smcp_with_dotbelow 
+    AE.smcp_with_acute AE.smcp_with_macron 
+    B.smcp_with_dotabove B.smcp_with_dotbelow B.smcp_with_macronbelow 
+    C.smcp_with_acute C.smcp_with_circumflex C.smcp_with_caron C.smcp_with_dotabove C.smcp_with_cedilla 
+    D.smcp_with_caron D.smcp_with_dotabove D.smcp_with_stroke D.smcp_with_commabelow D.smcp_with_circumflexbelow D.smcp_with_dotbelow D.smcp_with_macronbelow 
+    E.smcp_with_acute E.smcp_with_grave E.smcp_with_circumflex E.smcp_with_caron E.smcp_with_breve E.smcp_with_breveinv E.smcp_with_dotabove E.smcp_with_macron E.smcp_with_tildeabove E.smcp_with_hook E.smcp_with_diaeresis E.smcp_with_gravedbl E.smcp_with_cedilla E.smcp_with_ogonek E.smcp_with_circumflexbelow E.smcp_with_dotbelow E.smcp_with_tildebelow 
+    F.smcp_with_dotabove F.smcp_with_hookleft 
+    G.smcp_with_acute G.smcp_with_circumflex G.smcp_with_caron G.smcp_with_breve G.smcp_with_dotabove G.smcp_with_macron G.smcp_with_commabelow 
+    H.smcp_with_circumflex H.smcp_with_caron H.smcp_with_dotabove H.smcp_with_diaeresis H.smcp_with_cedilla H.smcp_with_stroke H.smcp_with_dotbelow 
+    I.smcp_with_acute I.smcp_with_grave I.smcp_with_circumflex I.smcp_with_caron I.smcp_with_breve I.smcp_with_breveinv I.smcp_with_macron I.smcp_with_tildeabove I.smcp_with_hook I.smcp_with_diaeresis I.smcp_with_gravedbl I.smcp_with_ogonek I.smcp_with_stroke I.smcp_with_dotbelow I.smcp_with_tildebelow 
+    J.smcp_with_circumflex 
+    K.smcp_with_acute K.smcp_with_caron K.smcp_with_commabelow K.smcp_with_dotbelow K.smcp_with_macronbelow 
+    L.smcp_with_acute L.smcp_with_caron L.smcp_with_stroke L.smcp_with_dotmiddle L.smcp_with_commabelow L.smcp_with_circumflexbelow L.smcp_with_dotbelow L.smcp_with_macronbelow 
+    M.smcp_with_acute M.smcp_with_dotabove M.smcp_with_dotbelow 
+    N.smcp_with_acute N.smcp_with_grave N.smcp_with_caron N.smcp_with_dotabove N.smcp_with_tildeabove N.smcp_with_hookleft N.smcp_with_commabelow N.smcp_with_circumflexbelow N.smcp_with_dotbelow N.smcp_with_macronbelow 
+    O.smcp_with_acute O.smcp_with_grave O.smcp_with_circumflex O.smcp_with_caron O.smcp_with_breve O.smcp_with_breveinv O.smcp_with_dotabove O.smcp_with_macron O.smcp_with_tildeabove O.smcp_with_hook O.smcp_with_diaeresis O.smcp_with_acutedbl O.smcp_with_gravedbl O.smcp_with_ogonek O.smcp_with_stroke O.smcp_with_horn O.smcp_with_dotbelow 
+    P.smcp_with_acute P.smcp_with_dotabove 
+    R.smcp_with_acute R.smcp_with_caron R.smcp_with_breveinv R.smcp_with_dotabove R.smcp_with_gravedbl R.smcp_with_commabelow R.smcp_with_dotbelow R.smcp_with_macronbelow 
+    S.smcp_with_acute S.smcp_with_circumflex S.smcp_with_caron S.smcp_with_dotabove S.smcp_with_cedilla S.smcp_with_commabelow S.smcp_with_dotbelow 
+    T.smcp_with_caron T.smcp_with_dotabove T.smcp_with_cedilla T.smcp_with_stroke T.smcp_with_commabelow T.smcp_with_circumflexbelow T.smcp_with_dotbelow T.smcp_with_macronbelow 
+    U.smcp_with_acute U.smcp_with_grave U.smcp_with_circumflex U.smcp_with_caron U.smcp_with_breve U.smcp_with_breveinv U.smcp_with_ring U.smcp_with_macron U.smcp_with_tildeabove U.smcp_with_hook U.smcp_with_diaeresis U.smcp_with_acutedbl U.smcp_with_gravedbl U.smcp_with_ogonek U.smcp_with_horn U.smcp_with_circumflexbelow U.smcp_with_dotbelow U.smcp_with_tildebelow U.smcp_with_diaeresisbelow 
+    V.smcp_with_tildeabove V.smcp_with_dotbelow 
+    W.smcp_with_acute W.smcp_with_grave W.smcp_with_circumflex W.smcp_with_dotabove W.smcp_with_diaeresis W.smcp_with_dotbelow 
+    X.smcp_with_dotabove X.smcp_with_diaeresis 
+    Y.smcp_with_acute Y.smcp_with_grave Y.smcp_with_circumflex Y.smcp_with_dotabove Y.smcp_with_macron Y.smcp_with_tildeabove Y.smcp_with_hook Y.smcp_with_diaeresis Y.smcp_with_dotbelow 
+    Z.smcp_with_acute Z.smcp_with_circumflex Z.smcp_with_caron Z.smcp_with_dotabove Z.smcp_with_stroke Z.smcp_with_dotbelow Z.smcp_with_macronbelow 
+    A.smcp_with_circumflex_and_acute A.smcp_with_circumflex_and_grave A.smcp_with_circumflex_and_tildeabove A.smcp_with_circumflex_and_hook A.smcp_with_circumflex_and_dotbelow A.smcp_with_breve_and_acute A.smcp_with_breve_and_grave A.smcp_with_breve_and_tildeabove A.smcp_with_breve_and_hook A.smcp_with_breve_and_dotbelow A.smcp_with_ring_and_acute A.smcp_with_dotabove_and_macron A.smcp_with_diaeresis_and_macron 
+    C.smcp_with_cedilla_and_acute 
+    E.smcp_with_circumflex_and_acute E.smcp_with_circumflex_and_grave E.smcp_with_circumflex_and_tildeabove E.smcp_with_circumflex_and_hook E.smcp_with_circumflex_and_dotbelow E.smcp_with_macron_and_acute E.smcp_with_macron_and_grave E.smcp_with_cedilla_and_breve 
+    I.smcp_with_diaeresis_and_acute 
+    L.smcp_with_dotbelow_and_macron 
+    O.smcp_with_circumflex_and_acute O.smcp_with_circumflex_and_grave O.smcp_with_circumflex_and_tildeabove O.smcp_with_circumflex_and_hook O.smcp_with_circumflex_and_dotbelow O.smcp_with_dotabove_and_macron O.smcp_with_macron_and_acute O.smcp_with_macron_and_grave O.smcp_with_tildeabove_and_acute O.smcp_with_tildeabove_and_macron O.smcp_with_tildeabove_and_diaeresis O.smcp_with_diaeresis_and_macron O.smcp_with_ogonek_and_macron O.smcp_with_stroke_and_acute O.smcp_with_horn_and_acute O.smcp_with_horn_and_grave O.smcp_with_horn_and_tildeabove O.smcp_with_horn_and_hook O.smcp_with_horn_and_dotbelow 
+    R.smcp_with_dotbelow_and_macron 
+    S.smcp_with_acute_and_dotabove S.smcp_with_caron_and_dotabove S.smcp_with_dotbelow_and_dotabove 
+    U.smcp_with_macron_and_diaeresis U.smcp_with_tildeabove_and_acute U.smcp_with_diaeresis_and_acute U.smcp_with_diaeresis_and_grave U.smcp_with_diaeresis_and_caron U.smcp_with_diaeresis_and_macron U.smcp_with_horn_and_acute U.smcp_with_horn_and_grave U.smcp_with_horn_and_tildeabove U.smcp_with_horn_and_hook U.smcp_with_horn_and_dotbelow
+];
+
+#
+# Lookups
+#
 lookup posops {
     pos @numerics @operators' @numerics <0 60 0 0>;
     pos @numerics @operators' space @numerics <0 60 0 0>;
     pos @numerics space @operators' @numerics <0 60 0 0>;
     pos @numerics space @operators' space @numerics <0 60 0 0>;
+
+    pos @tnums @operators' @tnums <0 60 0 0>;
+    pos @tnums @operators' space @tnums <0 60 0 0>;
+    pos @tnums space @operators' @tnums <0 60 0 0>;
+    pos @tnums space @operators' space @tnums <0 60 0 0>;
+
+    pos @braces @operators' @braces <0 60 0 0>;
+    pos @braces @operators' space @braces <0 60 0 0>;
+    pos @braces space @operators' @braces <0 60 0 0>;
+    pos @braces space @operators' space @braces <0 60 0 0>;
 } posops;
 
 lookup smile {
@@ -33,26 +202,694 @@ lookup subops {
     sub @numerics space plus' hyphen' space @numerics by plusminus;
 } subops;
 
-feature calt {
-    lookup posops;
-    lookup subops;
-    lookup smile;
-    
-    pos @numerics colon' @numerics <0 150 0 0>;
-} calt;
-
-#
-# LOCL
-#
-
 lookup IJAcute {
     sub I_with_acute J' by J_with_acute;
     sub i_with_acute j' by j_with_acute;
 } IJAcute;
 
+#
+# LOCL
+#
 feature locl {
     script latn;
     language NLD;
 
     lookup IJAcute;
 } locl;
+
+#
+# Alternatives
+#
+feature aalt {
+    # feature calt;
+
+    feature smcp;
+    feature unic;
+
+    feature tnum;
+    feature pnum;
+
+    feature ss01;
+    feature ss02;
+    feature ss03;
+    # feature ss04;
+} aalt;
+
+feature calt {
+    lookup posops;
+    lookup subops;
+    lookup smile;
+    
+    sub @numerics colon' @numerics by raised_colon;
+} calt;
+
+feature frac {
+    sub @numerics slash' @numerics by fraction;
+    rsub @numerics' @figuresNumeratorEx by @sup_num;
+    sub @figuresDenominatorEx @numerics' by @sub_num;
+    sub @numerics space' @figuresNumeratorEx by space.frac;
+} frac;
+
+#
+# CCMP - Glyph Composition / Decomposition
+#
+lookup i_sub {
+    sub i' [combining_vertline combining_vertlinedbl] by i_dotless;
+} i_sub;
+
+feature ccmp {
+    lookup i_sub;
+} ccmp;
+
+#
+# Numerics
+#
+feature pnum {
+    sub @tnums by @numerics;
+} pnum;
+
+feature tnum {
+    sub @numerics by @tnums;
+} tnum;
+
+#
+# Case
+#
+feature smcp {
+    sub @lowercase by @smallCaps;
+    sub @lowercaseDiacritics by @smallCapsDiacritics;
+} smcp;
+
+feature unic {
+    sub @uppercase by @smallCaps;
+    sub @uppercaseDiacritics by @smallCapsDiacritics;
+
+    sub I_with_dotabove by I.smcp_with_dotabove;
+} unic;
+
+#
+# Stylistic Sets
+#
+lookup Style01 {
+    # Uppercase - Basic
+    sub [
+        B E F H K
+        L M P R S
+        T U X Y Z
+    ] by [
+        B.ss01 E.ss01 F.ss01 H.ss01 K.ss01
+        L.ss01 M.ss01 P.ss01 R.ss01 S.ss01
+        T.ss01 U.ss01 X.ss01 Y.ss01 Z.ss01
+    ];
+
+    # Lowercase - Basic
+    sub [k s t z] by [k.ss01 s.ss01 t.ss01 z.ss01];
+
+    sub MENG by MENG.ss01;
+    sub kra by kra.ss01;
+
+    # Uppercase - diacritics
+    sub [
+        B_with_dotabove B_with_dotbelow B_with_macronbelow 
+        E_with_acute E_with_grave E_with_circumflex E_with_caron E_with_breve E_with_breveinv E_with_dotabove E_with_macron E_with_tildeabove E_with_hook E_with_diaeresis E_with_gravedbl E_with_cedilla E_with_ogonek E_with_circumflexbelow E_with_dotbelow E_with_tildebelow 
+        F_with_dotabove F_with_hookleft 
+        H_with_circumflex H_with_caron H_with_dotabove H_with_diaeresis H_with_cedilla H_with_stroke H_with_dotbelow 
+        K_with_acute K_with_caron K_with_commabelow K_with_dotbelow K_with_macronbelow 
+        L_with_acute L_with_caron L_with_stroke L_with_dotmiddle L_with_commabelow L_with_circumflexbelow L_with_dotbelow L_with_macronbelow 
+        M_with_acute M_with_dotabove M_with_dotbelow 
+        P_with_acute P_with_dotabove 
+        R_with_acute R_with_caron R_with_breveinv R_with_dotabove R_with_gravedbl R_with_commabelow R_with_dotbelow R_with_macronbelow 
+        S_with_acute S_with_circumflex S_with_caron S_with_dotabove S_with_cedilla S_with_commabelow S_with_dotbelow 
+        T_with_caron T_with_dotabove T_with_cedilla T_with_stroke T_with_commabelow T_with_circumflexbelow T_with_dotbelow T_with_macronbelow 
+        U_with_acute U_with_grave U_with_circumflex U_with_caron U_with_breve U_with_breveinv U_with_ring U_with_macron U_with_tildeabove U_with_hook U_with_diaeresis U_with_acutedbl U_with_gravedbl U_with_ogonek U_with_horn U_with_circumflexbelow U_with_dotbelow U_with_tildebelow U_with_diaeresisbelow 
+        X_with_dotabove X_with_diaeresis 
+        Y_with_acute Y_with_grave Y_with_circumflex Y_with_dotabove Y_with_macron Y_with_tildeabove Y_with_hook Y_with_diaeresis Y_with_dotbelow 
+        Z_with_acute Z_with_circumflex Z_with_caron Z_with_dotabove Z_with_stroke Z_with_dotbelow Z_with_macronbelow
+        E_with_circumflex_and_acute E_with_circumflex_and_grave E_with_circumflex_and_tildeabove E_with_circumflex_and_hook E_with_circumflex_and_dotbelow E_with_macron_and_acute E_with_macron_and_grave E_with_cedilla_and_breve 
+        L_with_dotbelow_and_macron 
+        R_with_dotbelow_and_macron 
+        S_with_acute_and_dotabove S_with_caron_and_dotabove S_with_dotbelow_and_dotabove 
+        U_with_macron_and_diaeresis U_with_tildeabove_and_acute U_with_diaeresis_and_acute U_with_diaeresis_and_grave U_with_diaeresis_and_caron U_with_diaeresis_and_macron U_with_horn_and_acute U_with_horn_and_grave U_with_horn_and_tildeabove U_with_horn_and_hook U_with_horn_and_dotbelow
+    ] by [
+        B.ss01_with_dotabove B.ss01_with_dotbelow B.ss01_with_macronbelow 
+        E.ss01_with_acute E.ss01_with_grave E.ss01_with_circumflex E.ss01_with_caron E.ss01_with_breve E.ss01_with_breveinv E.ss01_with_dotabove E.ss01_with_macron E.ss01_with_tildeabove E.ss01_with_hook E.ss01_with_diaeresis E.ss01_with_gravedbl E.ss01_with_cedilla E.ss01_with_ogonek E.ss01_with_circumflexbelow E.ss01_with_dotbelow E.ss01_with_tildebelow 
+        F.ss01_with_dotabove F.ss01_with_hookleft 
+        H.ss01_with_circumflex H.ss01_with_caron H.ss01_with_dotabove H.ss01_with_diaeresis H.ss01_with_cedilla H.ss01_with_stroke H.ss01_with_dotbelow 
+        K.ss01_with_acute K.ss01_with_caron K.ss01_with_commabelow K.ss01_with_dotbelow K.ss01_with_macronbelow 
+        L.ss01_with_acute L.ss01_with_caron L.ss01_with_stroke L.ss01_with_dotmiddle L.ss01_with_commabelow L.ss01_with_circumflexbelow L.ss01_with_dotbelow L.ss01_with_macronbelow 
+        M.ss01_with_acute M.ss01_with_dotabove M.ss01_with_dotbelow 
+        P.ss01_with_acute P.ss01_with_dotabove 
+        R.ss01_with_acute R.ss01_with_caron R.ss01_with_breveinv R.ss01_with_dotabove R.ss01_with_gravedbl R.ss01_with_commabelow R.ss01_with_dotbelow R.ss01_with_macronbelow 
+        S.ss01_with_acute S.ss01_with_circumflex S.ss01_with_caron S.ss01_with_dotabove S.ss01_with_cedilla S.ss01_with_commabelow S.ss01_with_dotbelow 
+        T.ss01_with_caron T.ss01_with_dotabove T.ss01_with_cedilla T.ss01_with_stroke T.ss01_with_commabelow T.ss01_with_circumflexbelow T.ss01_with_dotbelow T.ss01_with_macronbelow 
+        U.ss01_with_acute U.ss01_with_grave U.ss01_with_circumflex U.ss01_with_caron U.ss01_with_breve U.ss01_with_breveinv U.ss01_with_ring U.ss01_with_macron U.ss01_with_tildeabove U.ss01_with_hook U.ss01_with_diaeresis U.ss01_with_acutedbl U.ss01_with_gravedbl U.ss01_with_ogonek U.ss01_with_horn U.ss01_with_circumflexbelow U.ss01_with_dotbelow U.ss01_with_tildebelow U.ss01_with_diaeresisbelow 
+        X.ss01_with_dotabove X.ss01_with_diaeresis 
+        Y.ss01_with_acute Y.ss01_with_grave Y.ss01_with_circumflex Y.ss01_with_dotabove Y.ss01_with_macron Y.ss01_with_tildeabove Y.ss01_with_hook Y.ss01_with_diaeresis Y.ss01_with_dotbelow 
+        Z.ss01_with_acute Z.ss01_with_circumflex Z.ss01_with_caron Z.ss01_with_dotabove Z.ss01_with_stroke Z.ss01_with_dotbelow Z.ss01_with_macronbelow
+        E.ss01_with_circumflex_and_acute E.ss01_with_circumflex_and_grave E.ss01_with_circumflex_and_tildeabove E.ss01_with_circumflex_and_hook E.ss01_with_circumflex_and_dotbelow E.ss01_with_macron_and_acute E.ss01_with_macron_and_grave E.ss01_with_cedilla_and_breve 
+        L.ss01_with_dotbelow_and_macron 
+        R.ss01_with_dotbelow_and_macron 
+        S.ss01_with_acute_and_dotabove S.ss01_with_caron_and_dotabove S.ss01_with_dotbelow_and_dotabove 
+        U.ss01_with_macron_and_diaeresis U.ss01_with_tildeabove_and_acute U.ss01_with_diaeresis_and_acute U.ss01_with_diaeresis_and_grave U.ss01_with_diaeresis_and_caron U.ss01_with_diaeresis_and_macron U.ss01_with_horn_and_acute U.ss01_with_horn_and_grave U.ss01_with_horn_and_tildeabove U.ss01_with_horn_and_hook U.ss01_with_horn_and_dotbelow
+    ];
+
+    # Lowercase - diacritics
+    sub [
+        k_with_acute k_with_caron k_with_commabelow k_with_dotbelow k_with_macronbelow
+        s_with_acute s_with_circumflex s_with_caron s_with_dotabove s_with_cedilla s_with_commabelow s_with_dotbelow 
+        t_with_caron t_with_dotabove t_with_diaeresis t_with_cedilla t_with_stroke t_with_commabelow t_with_circumflexbelow t_with_dotbelow t_with_macronbelow
+        z_with_acute z_with_circumflex z_with_caron z_with_dotabove z_with_stroke z_with_dotbelow z_with_macronbelow
+        s_with_acute_and_dotabove s_with_caron_and_dotabove s_with_dotbelow_and_dotabove
+    ] by [
+        k.ss01_with_acute k.ss01_with_caron k.ss01_with_commabelow k.ss01_with_dotbelow k.ss01_with_macronbelow
+        s.ss01_with_acute s.ss01_with_circumflex s.ss01_with_caron s.ss01_with_dotabove s.ss01_with_cedilla s.ss01_with_commabelow s.ss01_with_dotbelow 
+        t.ss01_with_caron t.ss01_with_dotabove t.ss01_with_diaeresis t.ss01_with_cedilla t.ss01_with_stroke t.ss01_with_commabelow t.ss01_with_circumflexbelow t.ss01_with_dotbelow t.ss01_with_macronbelow
+        z.ss01_with_acute z.ss01_with_circumflex z.ss01_with_caron z.ss01_with_dotabove z.ss01_with_stroke z.ss01_with_dotbelow z.ss01_with_macronbelow
+        s.ss01_with_acute_and_dotabove s.ss01_with_caron_and_dotabove s.ss01_with_dotbelow_and_dotabove
+    ];
+
+    # Numerics
+    sub [
+        one three eight
+    ] by [
+        one.ss01 three.ss01 eight.ss01
+    ];
+
+    sub [
+        sup_one sup_three sup_eight
+    ] by [
+        sup_one.ss01 sup_three.ss01 sup_eight.ss01
+    ];
+    sub [
+        sub_one sub_three sub_eight
+    ] by [
+        sub_one.ss01 sub_three.ss01 sub_eight.ss01
+    ];
+
+    sub [
+        zero_over_three
+        one_over_
+        one_over_two one_over_three one_over_four one_over_five
+        one_over_six one_over_seven one_over_eight one_over_nine
+        one_over_ten
+        two_over_three
+        three_over_four three_over_five
+        three_over_eight five_over_eight seven_over_eight
+    ] by [
+        zero_over_three.ss01
+        one.ss01_over_
+        one.ss01_over_two one.ss01_over_three.ss01 one.ss01_over_four one.ss01_over_five
+        one.ss01_over_six one.ss01_over_seven one.ss01_over_eight.ss01 one.ss01_over_nine
+        one.ss01_over_ten
+        two_over_three.ss01
+        three.ss01_over_four three.ss01_over_five
+        three.ss01_over_eight.ss01 five_over_eight.ss01 seven_over_eight.ss01
+    ];
+} Style01;
+
+feature ss01 {
+    featureNames {
+        name "Geometric Alternatives";
+        name 1 "Geometric Alternatives";
+    };
+
+    lookup Style01;
+
+    # Small-Caps
+    sub [
+        K.smcp M.smcp MENG.smcp
+    ] by [
+        K.ss01.smcp M.ss01.smcp MENG.ss01.smcp
+    ];
+    
+    sub [
+        M.smcp_with_acute M.smcp_with_dotabove M.smcp_with_dotbelow
+        K.smcp_with_acute K.smcp_with_caron K.smcp_with_commabelow K.smcp_with_dotbelow K.smcp_with_macronbelow
+    ] by [
+        M.ss01.smcp_with_acute M.ss01.smcp_with_dotabove M.ss01.smcp_with_dotbelow
+        K.ss01.smcp_with_acute K.ss01.smcp_with_caron K.ss01.smcp_with_commabelow K.ss01.smcp_with_dotbelow K.ss01.smcp_with_macronbelow
+    ];
+
+    # Misc
+    sub peseta by peseta.ss01;
+
+    # Tabular Numbers
+    sub [
+        one.tnum three.tnum eight.tnum
+    ] by [
+        one.ss01.tnum three.ss01.tnum eight.ss01.tnum
+    ];
+    
+    sub @numerics colon' @numerics by raised_colon;
+} ss01;
+
+
+# feature ss04 {
+#     featureNames {
+#         name "More Alternatives";
+#         name 1 "More Alternatives";
+#     };
+
+#     sub [
+#         y y_with_acute y_with_grave y_with_circumflex y_with_ring y_with_dotabove y_with_macron y_with_tildeabove y_with_hook y_with_diaeresis y_with_dotbelow
+#     ] by [
+#         y.ss04 y.ss04_with_acute y.ss04_with_grave y.ss04_with_circumflex y.ss04_with_ring y.ss04_with_dotabove y.ss04_with_macron y.ss04_with_tildeabove y.ss04_with_hook y.ss04_with_diaeresis y.ss04_with_dotbelow
+#     ];
+# } ss04;
+
+
+feature ss03 {
+    featureNames {
+        name "Linear Joints";
+        name 1 "Linear Joints";
+    };
+
+    sub [
+        a b d e g
+        h m n p q
+        r u
+        ae oe db qp eth thorn
+        eng meng schwa
+    ] by [
+        a.ss03 b.ss03 d.ss03 e.ss03 g.ss03
+        h.ss03 m.ss03 n.ss03 p.ss03 q.ss03
+        r.ss03 u.ss03
+        ae.ss03 oe.ss03 db.ss03 qp.ss03 eth.ss03 thorn.ss03
+        eng.ss03 meng.ss03 schwa.ss03
+    ];
+
+    sub [
+        a_with_acute a_with_grave a_with_circumflex a_with_caron a_with_breve a_with_breveinv a_with_ring a_with_dotabove a_with_macron a_with_tildeabove a_with_hook a_with_diaeresis a_with_gravedbl a_with_ogonek a_with_ringbelow a_with_dotbelow 
+        ae_with_acute ae_with_macron 
+        b_with_dotabove b_with_dotbelow b_with_macronbelow 
+        d_with_caron d_with_dotabove d_with_stroke d_with_commabelow d_with_circumflexbelow d_with_dotbelow d_with_macronbelow 
+        e_with_acute e_with_grave e_with_circumflex e_with_caron e_with_breve e_with_breveinv e_with_dotabove e_with_macron e_with_tildeabove e_with_hook e_with_diaeresis e_with_gravedbl e_with_cedilla e_with_ogonek e_with_circumflexbelow e_with_dotbelow e_with_tildebelow 
+        g_with_acute g_with_circumflex g_with_caron g_with_breve g_with_dotabove g_with_macron g_with_commabelow 
+        h_with_circumflex h_with_caron h_with_dotabove h_with_diaeresis h_with_cedilla h_with_stroke h_with_dotbelow h_with_macronbelow 
+        m_with_acute m_with_dotabove m_with_dotbelow 
+        n_with_acute n_with_grave n_with_caron n_with_dotabove n_with_tildeabove n_with_hookleft n_with_commabelow n_with_circumflexbelow n_with_dotbelow n_with_macronbelow 
+        p_with_acute p_with_dotabove 
+        r_with_acute r_with_caron r_with_breveinv r_with_dotabove r_with_gravedbl r_with_commabelow r_with_dotbelow r_with_macronbelow 
+        u_with_acute u_with_grave u_with_circumflex u_with_caron u_with_breve u_with_breveinv u_with_ring u_with_macron u_with_tildeabove u_with_hook u_with_diaeresis u_with_acutedbl u_with_gravedbl u_with_ogonek u_with_horn u_with_circumflexbelow u_with_dotbelow u_with_tildebelow u_with_diaeresisbelow 
+        a_with_circumflex_and_acute a_with_circumflex_and_grave a_with_circumflex_and_tildeabove a_with_circumflex_and_hook a_with_circumflex_and_dotbelow a_with_breve_and_acute a_with_breve_and_grave a_with_breve_and_tildeabove a_with_breve_and_hook a_with_breve_and_dotbelow a_with_ring_and_acute a_with_dotabove_and_macron a_with_diaeresis_and_macron 
+        e_with_circumflex_and_acute e_with_circumflex_and_grave e_with_circumflex_and_tildeabove e_with_circumflex_and_hook e_with_circumflex_and_dotbelow e_with_macron_and_acute e_with_macron_and_grave e_with_cedilla_and_breve 
+        r_with_dotbelow_and_macron 
+        u_with_macron_and_diaeresis u_with_tildeabove_and_acute u_with_diaeresis_and_acute u_with_diaeresis_and_grave u_with_diaeresis_and_caron u_with_diaeresis_and_macron u_with_horn_and_acute u_with_horn_and_grave u_with_horn_and_tildeabove u_with_horn_and_hook u_with_horn_and_dotbelow 
+    ] by [
+        a.ss03_with_acute a.ss03_with_grave a.ss03_with_circumflex a.ss03_with_caron a.ss03_with_breve a.ss03_with_breveinv a.ss03_with_ring a.ss03_with_dotabove a.ss03_with_macron a.ss03_with_tildeabove a.ss03_with_hook a.ss03_with_diaeresis a.ss03_with_gravedbl a.ss03_with_ogonek a.ss03_with_ringbelow a.ss03_with_dotbelow 
+        ae.ss03_with_acute ae.ss03_with_macron 
+        b.ss03_with_dotabove b.ss03_with_dotbelow b.ss03_with_macronbelow 
+        d.ss03_with_caron d.ss03_with_dotabove d.ss03_with_stroke d.ss03_with_commabelow d.ss03_with_circumflexbelow d.ss03_with_dotbelow d.ss03_with_macronbelow 
+        e.ss03_with_acute e.ss03_with_grave e.ss03_with_circumflex e.ss03_with_caron e.ss03_with_breve e.ss03_with_breveinv e.ss03_with_dotabove e.ss03_with_macron e.ss03_with_tildeabove e.ss03_with_hook e.ss03_with_diaeresis e.ss03_with_gravedbl e.ss03_with_cedilla e.ss03_with_ogonek e.ss03_with_circumflexbelow e.ss03_with_dotbelow e.ss03_with_tildebelow 
+        g.ss03_with_acute g.ss03_with_circumflex g.ss03_with_caron g.ss03_with_breve g.ss03_with_dotabove g.ss03_with_macron g.ss03_with_commabelow 
+        h.ss03_with_circumflex h.ss03_with_caron h.ss03_with_dotabove h.ss03_with_diaeresis h.ss03_with_cedilla h.ss03_with_stroke h.ss03_with_dotbelow h.ss03_with_macronbelow 
+        m.ss03_with_acute m.ss03_with_dotabove m.ss03_with_dotbelow 
+        n.ss03_with_acute n.ss03_with_grave n.ss03_with_caron n.ss03_with_dotabove n.ss03_with_tildeabove n.ss03_with_hookleft n.ss03_with_commabelow n.ss03_with_circumflexbelow n.ss03_with_dotbelow n.ss03_with_macronbelow 
+        p.ss03_with_acute p.ss03_with_dotabove 
+        r.ss03_with_acute r.ss03_with_caron r.ss03_with_breveinv r.ss03_with_dotabove r.ss03_with_gravedbl r.ss03_with_commabelow r.ss03_with_dotbelow r.ss03_with_macronbelow 
+        u.ss03_with_acute u.ss03_with_grave u.ss03_with_circumflex u.ss03_with_caron u.ss03_with_breve u.ss03_with_breveinv u.ss03_with_ring u.ss03_with_macron u.ss03_with_tildeabove u.ss03_with_hook u.ss03_with_diaeresis u.ss03_with_acutedbl u.ss03_with_gravedbl u.ss03_with_ogonek u.ss03_with_horn u.ss03_with_circumflexbelow u.ss03_with_dotbelow u.ss03_with_tildebelow u.ss03_with_diaeresisbelow 
+        a.ss03_with_circumflex_and_acute a.ss03_with_circumflex_and_grave a.ss03_with_circumflex_and_tildeabove a.ss03_with_circumflex_and_hook a.ss03_with_circumflex_and_dotbelow a.ss03_with_breve_and_acute a.ss03_with_breve_and_grave a.ss03_with_breve_and_tildeabove a.ss03_with_breve_and_hook a.ss03_with_breve_and_dotbelow a.ss03_with_ring_and_acute a.ss03_with_dotabove_and_macron a.ss03_with_diaeresis_and_macron 
+        e.ss03_with_circumflex_and_acute e.ss03_with_circumflex_and_grave e.ss03_with_circumflex_and_tildeabove e.ss03_with_circumflex_and_hook e.ss03_with_circumflex_and_dotbelow e.ss03_with_macron_and_acute e.ss03_with_macron_and_grave e.ss03_with_cedilla_and_breve 
+        r.ss03_with_dotbelow_and_macron 
+        u.ss03_with_macron_and_diaeresis u.ss03_with_tildeabove_and_acute u.ss03_with_diaeresis_and_acute u.ss03_with_diaeresis_and_grave u.ss03_with_diaeresis_and_caron u.ss03_with_diaeresis_and_macron u.ss03_with_horn_and_acute u.ss03_with_horn_and_grave u.ss03_with_horn_and_tildeabove u.ss03_with_horn_and_hook u.ss03_with_horn_and_dotbelow 
+    ];
+
+    # SS04
+    # sub y.ss04 by y.ss03.ss04;
+    # sub [
+    #     y.ss04_with_acute y.ss04_with_grave y.ss04_with_circumflex y.ss04_with_ring y.ss04_with_dotabove y.ss04_with_macron y.ss04_with_tildeabove y.ss04_with_hook y.ss04_with_diaeresis y.ss04_with_dotbelow
+    # ] by [
+    #     y.ss03.ss04_with_acute y.ss03.ss04_with_grave y.ss03.ss04_with_circumflex y.ss03.ss04_with_ring y.ss03.ss04_with_dotabove y.ss03.ss04_with_macron y.ss03.ss04_with_tildeabove y.ss03.ss04_with_hook y.ss03.ss04_with_diaeresis y.ss03.ss04_with_dotbelow
+    # ];
+
+    sub @numerics colon' @numerics by raised_colon;
+} ss03;
+
+
+feature ss02 {
+    featureNames {
+        name "Square Dots";
+        name 1 "Square Dots";
+    };
+
+    sub [i j] by [i.ss02 j.ss02];
+
+    sub [
+        period comma colon semicolon
+        raised_colon turnedcomma apostrophe
+        interpunct bullet ellipsis
+        question exclamation inv_question inv_exclamation
+        quoteleft quoteright quotelow9
+        quoteleft_dbl quoteright_dbl quotelow9_dbl
+        divide
+    ] by [
+        period.ss02 comma.ss02 colon.ss02 semicolon.ss02
+        raised_colon.ss02 turnedcomma.ss02 apostrophe.ss02
+        interpunct.ss02 bullet.ss02 ellipsis.ss02
+        question.ss02 exclamation.ss02 inv_question.ss02 inv_exclamation.ss02
+        quoteleft.ss02 quoteright.ss02 quotelow9.ss02
+        quoteleft_dbl.ss02 quoteright_dbl.ss02 quotelow9_dbl.ss02
+        divide.ss02
+    ];
+
+
+    # Diacritics
+    sub [
+        diaeresis dotabove
+        combining_dotabove combining_diaeresis
+        combining_dotbelow combining_diaeresisbelow combining_commabelow
+        combining_dotaboveright
+    ] by [
+        diaeresis.ss02 dotabove.ss02
+        combining_dotabove.ss02 combining_diaeresis.ss02
+        combining_dotbelow.ss02 combining_diaeresisbelow.ss02 combining_commabelow.ss02
+        combining_dotaboveright.ss02
+    ];
+
+    # Latin Extended - Single
+    sub [
+        A_with_dotabove A_with_diaeresis A_with_dotbelow 
+        B_with_dotabove B_with_dotbelow 
+        C_with_dotabove 
+        D_with_commabelow D_with_dotabove D_with_dotbelow 
+        E_with_dotabove E_with_diaeresis E_with_dotbelow 
+        F_with_dotabove 
+        G_with_dotabove G_with_commabelow 
+        H_with_dotabove H_with_diaeresis H_with_dotbelow 
+        I_with_dotabove I_with_diaeresis I_with_dotbelow 
+        K_with_commabelow K_with_dotbelow 
+        L_with_dotmiddle L_with_commabelow L_with_dotbelow 
+        M_with_dotabove M_with_dotbelow 
+        N_with_dotabove N_with_commabelow N_with_dotbelow 
+        O_with_dotabove O_with_diaeresis O_with_dotbelow 
+        P_with_dotabove 
+        R_with_dotabove R_with_commabelow R_with_dotbelow 
+        S_with_dotabove S_with_commabelow S_with_dotbelow 
+        T_with_dotabove T_with_commabelow T_with_dotbelow 
+        U_with_diaeresis U_with_dotbelow U_with_diaeresisbelow 
+        V_with_dotbelow 
+        W_with_dotabove W_with_diaeresis W_with_dotbelow 
+        X_with_dotabove X_with_diaeresis 
+        Y_with_dotabove Y_with_diaeresis Y_with_dotbelow 
+        Z_with_dotabove Z_with_dotbelow 
+        a_with_dotabove a_with_diaeresis a_with_dotbelow 
+        b_with_dotabove b_with_dotbelow 
+        c_with_dotabove 
+        d_with_dotabove d_with_commabelow d_with_dotbelow 
+        e_with_dotabove e_with_diaeresis e_with_dotbelow 
+        f_with_dotabove 
+        g_with_dotabove g_with_commabelow 
+        h_with_dotabove h_with_diaeresis h_with_dotbelow 
+        i_with_diaeresis 
+        i_with_ogonek i_with_stroke i_with_dotbelow i_with_tildebelow 
+        k_with_commabelow k_with_dotbelow 
+        l_with_dotmiddle l_with_commabelow l_with_dotbelow 
+        m_with_dotabove m_with_dotbelow 
+        n_with_dotabove n_with_commabelow n_with_dotbelow 
+        o_with_dotabove o_with_diaeresis o_with_dotbelow 
+        p_with_dotabove 
+        r_with_dotabove r_with_commabelow r_with_dotbelow 
+        s_with_dotabove s_with_commabelow s_with_dotbelow 
+        t_with_dotabove t_with_commabelow t_with_dotbelow 
+        u_with_diaeresis u_with_dotbelow u_with_diaeresisbelow 
+        v_with_dotbelow 
+        w_with_dotabove w_with_diaeresis w_with_dotbelow 
+        x_with_dotabove x_with_diaeresis 
+        y_with_dotabove y_with_diaeresis y_with_dotbelow 
+        z_with_dotabove z_with_dotbelow
+    ] by [
+        A_with_dotabove.ss02 A_with_diaeresis.ss02 A_with_dotbelow.ss02 
+        B_with_dotabove.ss02 B_with_dotbelow.ss02 
+        C_with_dotabove.ss02 
+        D_with_commabelow.ss02 D_with_dotabove.ss02 D_with_dotbelow.ss02 
+        E_with_dotabove.ss02 E_with_diaeresis.ss02 E_with_dotbelow.ss02 
+        F_with_dotabove.ss02 
+        G_with_dotabove.ss02 G_with_commabelow.ss02 
+        H_with_dotabove.ss02 H_with_diaeresis.ss02 H_with_dotbelow.ss02 
+        I_with_dotabove.ss02 I_with_diaeresis.ss02 I_with_dotbelow.ss02 
+        K_with_commabelow.ss02 K_with_dotbelow.ss02 
+        L_with_dotmiddle.ss02 L_with_commabelow.ss02 L_with_dotbelow.ss02 
+        M_with_dotabove.ss02 M_with_dotbelow.ss02 
+        N_with_dotabove.ss02 N_with_commabelow.ss02 N_with_dotbelow.ss02 
+        O_with_dotabove.ss02 O_with_diaeresis.ss02 O_with_dotbelow.ss02 
+        P_with_dotabove.ss02 
+        R_with_dotabove.ss02 R_with_commabelow.ss02 R_with_dotbelow.ss02 
+        S_with_dotabove.ss02 S_with_commabelow.ss02 S_with_dotbelow.ss02 
+        T_with_dotabove.ss02 T_with_commabelow.ss02 T_with_dotbelow.ss02 
+        U_with_diaeresis.ss02 U_with_dotbelow.ss02 U_with_diaeresisbelow.ss02 
+        V_with_dotbelow.ss02 
+        W_with_dotabove.ss02 W_with_diaeresis.ss02 W_with_dotbelow.ss02 
+        X_with_dotabove.ss02 X_with_diaeresis.ss02 
+        Y_with_dotabove.ss02 Y_with_diaeresis.ss02 Y_with_dotbelow.ss02 
+        Z_with_dotabove.ss02 Z_with_dotbelow.ss02 
+        a_with_dotabove.ss02 a_with_diaeresis.ss02 a_with_dotbelow.ss02 
+        b_with_dotabove.ss02 b_with_dotbelow.ss02 
+        c_with_dotabove.ss02 
+        d_with_dotabove.ss02 d_with_commabelow.ss02 d_with_dotbelow.ss02 
+        e_with_dotabove.ss02 e_with_diaeresis.ss02 e_with_dotbelow.ss02 
+        f_with_dotabove.ss02 
+        g_with_dotabove.ss02 g_with_commabelow.ss02 
+        h_with_dotabove.ss02 h_with_diaeresis.ss02 h_with_dotbelow.ss02 
+        i_with_diaeresis.ss02 
+        i.ss02_with_ogonek i.ss02_with_stroke i.ss02_with_dotbelow.ss02 i.ss02_with_tildebelow 
+        k_with_commabelow.ss02 k_with_dotbelow.ss02 
+        l_with_dotmiddle.ss02 l_with_commabelow.ss02 l_with_dotbelow.ss02 
+        m_with_dotabove.ss02 m_with_dotbelow.ss02 
+        n_with_dotabove.ss02 n_with_commabelow.ss02 n_with_dotbelow.ss02 
+        o_with_dotabove.ss02 o_with_diaeresis.ss02 o_with_dotbelow.ss02 
+        p_with_dotabove.ss02 
+        r_with_dotabove.ss02 r_with_commabelow.ss02 r_with_dotbelow.ss02 
+        s_with_dotabove.ss02 s_with_commabelow.ss02 s_with_dotbelow.ss02 
+        t_with_dotabove.ss02 t_with_commabelow.ss02 t_with_dotbelow.ss02 
+        u_with_diaeresis.ss02 u_with_dotbelow.ss02 u_with_diaeresisbelow.ss02 
+        v_with_dotbelow.ss02 
+        w_with_dotabove.ss02 w_with_diaeresis.ss02 w_with_dotbelow.ss02 
+        x_with_dotabove.ss02 x_with_diaeresis.ss02 
+        y_with_dotabove.ss02 y_with_diaeresis.ss02 y_with_dotbelow.ss02 
+        z_with_dotabove.ss02 z_with_dotbelow.ss02
+    ];
+
+    # Latin Extended - Double
+    sub [
+        A_with_circumflex_and_dotbelow A_with_breve_and_dotbelow A_with_dotabove_and_macron A_with_diaeresis_and_macron 
+        E_with_circumflex_and_dotbelow 
+        I_with_diaeresis_and_acute 
+        L_with_dotbelow_and_macron 
+        O_with_circumflex_and_dotbelow O_with_dotabove_and_macron O_with_tildeabove_and_diaeresis O_with_diaeresis_and_macron O_with_horn_and_dotbelow 
+        R_with_dotbelow_and_macron 
+        S_with_acute_and_dotabove S_with_caron_and_dotabove S_with_dotbelow_and_dotabove 
+        U_with_macron_and_diaeresis U_with_diaeresis_and_acute U_with_diaeresis_and_grave U_with_diaeresis_and_caron U_with_diaeresis_and_macron U_with_horn_and_dotbelow 
+        a_with_circumflex_and_dotbelow a_with_breve_and_dotbelow a_with_dotabove_and_macron a_with_diaeresis_and_macron 
+        e_with_circumflex_and_dotbelow 
+        i_with_diaeresis_and_acute 
+        l_with_dotbelow_and_macron 
+        o_with_circumflex_and_dotbelow o_with_dotabove_and_macron o_with_tildeabove_and_diaeresis o_with_diaeresis_and_macron o_with_horn_and_dotbelow 
+        r_with_dotbelow_and_macron 
+        s_with_acute_and_dotabove s_with_caron_and_dotabove s_with_dotbelow_and_dotabove 
+        u_with_macron_and_diaeresis u_with_diaeresis_and_acute u_with_diaeresis_and_grave u_with_diaeresis_and_caron u_with_diaeresis_and_macron u_with_horn_and_dotbelow
+    ] by [
+        A_with_circumflex_and_dotbelow.ss02 A_with_breve_and_dotbelow.ss02 A_with_dotabove.ss02_and_macron A_with_diaeresis.ss02_and_macron 
+        E_with_circumflex_and_dotbelow.ss02 
+        I_with_diaeresis.ss02_and_acute 
+        L_with_dotbelow.ss02_and_macron 
+        O_with_circumflex_and_dotbelow.ss02 O_with_dotabove.ss02_and_macron O_with_tildeabove_and_diaeresis.ss02 O_with_diaeresis.ss02_and_macron O_with_horn_and_dotbelow.ss02 
+        R_with_dotbelow.ss02_and_macron 
+        S_with_acute_and_dotabove.ss02 S_with_caron_and_dotabove.ss02 S_with_dotbelow.ss02_and_dotabove.ss02 
+        U_with_macron_and_diaeresis.ss02 U_with_diaeresis.ss02_and_acute U_with_diaeresis.ss02_and_grave U_with_diaeresis.ss02_and_caron U_with_diaeresis.ss02_and_macron U_with_horn_and_dotbelow.ss02 
+        a_with_circumflex_and_dotbelow.ss02 a_with_breve_and_dotbelow.ss02 a_with_dotabove.ss02_and_macron a_with_diaeresis.ss02_and_macron 
+        e_with_circumflex_and_dotbelow.ss02 
+        i_with_diaeresis.ss02_and_acute 
+        l_with_dotbelow.ss02_and_macron 
+        o_with_circumflex_and_dotbelow.ss02 o_with_dotabove.ss02_and_macron o_with_tildeabove_and_diaeresis.ss02 o_with_diaeresis.ss02_and_macron o_with_horn_and_dotbelow.ss02 
+        r_with_dotbelow.ss02_and_macron 
+        s_with_acute_and_dotabove.ss02 s_with_caron_and_dotabove.ss02 s_with_dotbelow.ss02_and_dotabove.ss02 
+        u_with_macron_and_diaeresis.ss02 u_with_diaeresis.ss02_and_acute u_with_diaeresis.ss02_and_grave u_with_diaeresis.ss02_and_caron u_with_diaeresis.ss02_and_macron u_with_horn_and_dotbelow.ss02
+    ];
+    
+    # SS01
+    sub [
+        B.ss01_with_dotabove B.ss01_with_dotbelow 
+        E.ss01_with_dotabove E.ss01_with_diaeresis E.ss01_with_dotbelow 
+        F.ss01_with_dotabove 
+        H.ss01_with_dotabove H.ss01_with_diaeresis H.ss01_with_dotbelow 
+        K.ss01_with_commabelow K.ss01_with_dotbelow 
+        L.ss01_with_dotmiddle L.ss01_with_commabelow L.ss01_with_dotbelow 
+        M.ss01_with_dotabove M.ss01_with_dotbelow 
+        P.ss01_with_dotabove 
+        R.ss01_with_dotabove R.ss01_with_commabelow R.ss01_with_dotbelow 
+        S.ss01_with_dotabove S.ss01_with_commabelow S.ss01_with_dotbelow 
+        T.ss01_with_dotabove T.ss01_with_commabelow T.ss01_with_dotbelow 
+        U.ss01_with_diaeresis U.ss01_with_dotbelow U.ss01_with_diaeresisbelow 
+        X.ss01_with_dotabove X.ss01_with_diaeresis 
+        Y.ss01_with_dotabove Y.ss01_with_diaeresis Y.ss01_with_dotbelow 
+        Z.ss01_with_dotabove Z.ss01_with_dotbelow 
+        k.ss01_with_commabelow k.ss01_with_dotbelow 
+        s.ss01_with_dotabove s.ss01_with_commabelow s.ss01_with_dotbelow 
+        t.ss01_with_dotabove t.ss01_with_commabelow t.ss01_with_dotbelow 
+        z.ss01_with_dotabove z.ss01_with_dotbelow
+    ] by [
+        B.ss01_with_dotabove.ss02 B.ss01_with_dotbelow.ss02 
+        E.ss01_with_dotabove.ss02 E.ss01_with_diaeresis.ss02 E.ss01_with_dotbelow.ss02 
+        F.ss01_with_dotabove.ss02 
+        H.ss01_with_dotabove.ss02 H.ss01_with_diaeresis.ss02 H.ss01_with_dotbelow.ss02 
+        K.ss01_with_commabelow.ss02 K.ss01_with_dotbelow.ss02 
+        L.ss01_with_dotmiddle.ss02 L.ss01_with_commabelow.ss02 L.ss01_with_dotbelow.ss02 
+        M.ss01_with_dotabove.ss02 M.ss01_with_dotbelow.ss02 
+        P.ss01_with_dotabove.ss02 
+        R.ss01_with_dotabove.ss02 R.ss01_with_commabelow.ss02 R.ss01_with_dotbelow.ss02 
+        S.ss01_with_dotabove.ss02 S.ss01_with_commabelow.ss02 S.ss01_with_dotbelow.ss02 
+        T.ss01_with_dotabove.ss02 T.ss01_with_commabelow.ss02 T.ss01_with_dotbelow.ss02 
+        U.ss01_with_diaeresis.ss02 U.ss01_with_dotbelow.ss02 U.ss01_with_diaeresisbelow.ss02 
+        X.ss01_with_dotabove.ss02 X.ss01_with_diaeresis.ss02 
+        Y.ss01_with_dotabove.ss02 Y.ss01_with_diaeresis.ss02 Y.ss01_with_dotbelow.ss02 
+        Z.ss01_with_dotabove.ss02 Z.ss01_with_dotbelow.ss02 
+        k.ss01_with_commabelow.ss02 k.ss01_with_dotbelow.ss02 
+        s.ss01_with_dotabove.ss02 s.ss01_with_commabelow.ss02 s.ss01_with_dotbelow.ss02 
+        t.ss01_with_dotabove.ss02 t.ss01_with_commabelow.ss02 t.ss01_with_dotbelow.ss02 
+        z.ss01_with_dotabove.ss02 z.ss01_with_dotbelow.ss02
+    ];
+
+    sub [
+        E.ss01_with_circumflex_and_dotbelow 
+        L.ss01_with_dotbelow_and_macron 
+        R.ss01_with_dotbelow_and_macron 
+        S.ss01_with_acute_and_dotabove S.ss01_with_caron_and_dotabove S.ss01_with_dotbelow_and_dotabove 
+        U.ss01_with_macron_and_diaeresis U.ss01_with_diaeresis_and_acute U.ss01_with_diaeresis_and_grave U.ss01_with_diaeresis_and_caron U.ss01_with_diaeresis_and_macron U.ss01_with_horn_and_dotbelow 
+        s.ss01_with_acute_and_dotabove s.ss01_with_caron_and_dotabove s.ss01_with_dotbelow_and_dotabove 
+    ] by [
+        E.ss01_with_circumflex_and_dotbelow.ss02 
+        L.ss01_with_dotbelow.ss02_and_macron 
+        R.ss01_with_dotbelow.ss02_and_macron 
+        S.ss01_with_acute_and_dotabove.ss02 S.ss01_with_caron_and_dotabove.ss02 S.ss01_with_dotbelow.ss02_and_dotabove.ss02 
+        U.ss01_with_macron_and_diaeresis U.ss01_with_diaeresis.ss02_and_acute U.ss01_with_diaeresis.ss02_and_grave U.ss01_with_diaeresis.ss02_and_caron U.ss01_with_diaeresis.ss02_and_macron U.ss01_with_horn_and_dotbelow.ss02 
+        s.ss01_with_acute_and_dotabove.ss02 s.ss01_with_caron_and_dotabove.ss02 s.ss01_with_dotbelow.ss02_and_dotabove.ss02 
+    ];
+
+    # SS02
+    sub [
+        a.ss03_with_dotabove a.ss03_with_diaeresis a.ss03_with_dotbelow 
+        b.ss03_with_dotabove b.ss03_with_dotbelow 
+        d.ss03_with_dotabove d.ss03_with_commabelow d.ss03_with_dotbelow 
+        e.ss03_with_dotabove e.ss03_with_diaeresis e.ss03_with_dotbelow 
+        g.ss03_with_dotabove g.ss03_with_commabelow 
+        h.ss03_with_dotabove h.ss03_with_diaeresis h.ss03_with_dotbelow 
+        m.ss03_with_dotabove m.ss03_with_dotbelow 
+        n.ss03_with_dotabove n.ss03_with_commabelow n.ss03_with_dotbelow 
+        p.ss03_with_dotabove 
+        r.ss03_with_dotabove r.ss03_with_commabelow r.ss03_with_dotbelow 
+        u.ss03_with_diaeresis u.ss03_with_dotbelow u.ss03_with_diaeresisbelow 
+        a.ss03_with_circumflex_and_dotbelow a.ss03_with_breve_and_dotbelow a.ss03_with_dotabove_and_macron a.ss03_with_diaeresis_and_macron 
+        e.ss03_with_circumflex_and_dotbelow 
+        r.ss03_with_dotbelow_and_macron 
+        u.ss03_with_macron_and_diaeresis u.ss03_with_diaeresis_and_acute u.ss03_with_diaeresis_and_grave u.ss03_with_diaeresis_and_caron u.ss03_with_diaeresis_and_macron u.ss03_with_horn_and_dotbelow
+    ] by [
+        a.ss03_with_dotabove.ss02 a.ss03_with_diaeresis.ss02 a.ss03_with_dotbelow.ss02 
+        b.ss03_with_dotabove.ss02 b.ss03_with_dotbelow.ss02 
+        d.ss03_with_dotabove.ss02 d.ss03_with_commabelow.ss02 d.ss03_with_dotbelow.ss02 
+        e.ss03_with_dotabove.ss02 e.ss03_with_diaeresis.ss02 e.ss03_with_dotbelow.ss02 
+        g.ss03_with_dotabove.ss02 g.ss03_with_commabelow.ss02 
+        h.ss03_with_dotabove.ss02 h.ss03_with_diaeresis.ss02 h.ss03_with_dotbelow.ss02 
+        m.ss03_with_dotabove.ss02 m.ss03_with_dotbelow.ss02 
+        n.ss03_with_dotabove.ss02 n.ss03_with_commabelow.ss02 n.ss03_with_dotbelow.ss02 
+        p.ss03_with_dotabove.ss02 
+        r.ss03_with_dotabove.ss02 r.ss03_with_commabelow.ss02 r.ss03_with_dotbelow.ss02 
+        u.ss03_with_diaeresis.ss02 u.ss03_with_dotbelow.ss02 u.ss03_with_diaeresisbelow.ss02 
+        a.ss03_with_circumflex_and_dotbelow.ss02 a.ss03_with_breve_and_dotbelow.ss02 a.ss03_with_dotabove.ss02_and_macron a.ss03_with_diaeresis.ss02_and_macron 
+        e.ss03_with_circumflex_and_dotbelow.ss02 
+        r.ss03_with_dotbelow.ss02_and_macron 
+        u.ss03_with_macron_and_diaeresis.ss02 u.ss03_with_diaeresis.ss02_and_acute u.ss03_with_diaeresis.ss02_and_grave u.ss03_with_diaeresis.ss02_and_caron u.ss03_with_diaeresis.ss02_and_macron u.ss03_with_horn_and_dotbelow.ss02
+    ];
+
+    # SS04
+    # sub [
+    #     y.ss04_with_dotabove y.ss04_with_diaeresis y.ss04_with_dotbelow
+    # ] by [
+    #     y.ss04_with_dotabove.ss02 y.ss04_with_diaeresis.ss02 y.ss04_with_dotbelow.ss02
+    # ];
+
+    # sub [
+    #     y.ss03.ss04_with_dotabove y.ss03.ss04_with_diaeresis y.ss03.ss04_with_dotbelow
+    # ] by [
+    #     y.ss03.ss04_with_dotabove.ss02 y.ss03.ss04_with_diaeresis.ss02 y.ss03.ss04_with_dotbelow.ss02
+    # ];
+
+    # SMCP
+    sub [
+        A.smcp_with_diaeresis A.smcp_with_dotbelow 
+        B.smcp_with_dotabove B.smcp_with_dotbelow 
+        C.smcp_with_dotabove 
+        D.smcp_with_dotabove D.smcp_with_commabelow D.smcp_with_dotbelow 
+        E.smcp_with_dotabove E.smcp_with_diaeresis E.smcp_with_dotbelow 
+        F.smcp_with_dotabove 
+        G.smcp_with_dotabove G.smcp_with_commabelow 
+        H.smcp_with_dotabove H.smcp_with_diaeresis H.smcp_with_dotbelow 
+        I.smcp_with_dotabove I.smcp_with_diaeresis I.smcp_with_dotbelow 
+        K.smcp_with_commabelow K.smcp_with_dotbelow 
+        L.smcp_with_dotmiddle L.smcp_with_commabelow L.smcp_with_dotbelow 
+        M.smcp_with_dotabove M.smcp_with_dotbelow 
+        N.smcp_with_dotabove N.smcp_with_commabelow N.smcp_with_dotbelow 
+        O.smcp_with_dotabove O.smcp_with_diaeresis O.smcp_with_dotbelow 
+        P.smcp_with_dotabove 
+        R.smcp_with_dotabove R.smcp_with_commabelow R.smcp_with_dotbelow 
+        S.smcp_with_dotabove S.smcp_with_commabelow S.smcp_with_dotbelow 
+        T.smcp_with_dotabove T.smcp_with_commabelow T.smcp_with_dotbelow 
+        U.smcp_with_diaeresis U.smcp_with_dotbelow U.smcp_with_diaeresisbelow 
+        V.smcp_with_dotbelow 
+        W.smcp_with_dotabove W.smcp_with_diaeresis W.smcp_with_dotbelow 
+        X.smcp_with_dotabove X.smcp_with_diaeresis 
+        Y.smcp_with_dotabove Y.smcp_with_diaeresis Y.smcp_with_dotbelow 
+        Z.smcp_with_dotabove Z.smcp_with_dotbelow 
+        A.smcp_with_circumflex_and_dotbelow A.smcp_with_breve_and_dotbelow A.smcp_with_dotabove_and_macron A.smcp_with_diaeresis_and_macron 
+        E.smcp_with_circumflex_and_dotbelow 
+        I.smcp_with_diaeresis_and_acute 
+        L.smcp_with_dotbelow_and_macron 
+        O.smcp_with_circumflex_and_dotbelow O.smcp_with_dotabove_and_macron O.smcp_with_tildeabove_and_diaeresis O.smcp_with_diaeresis_and_macron O.smcp_with_horn_and_dotbelow 
+        R.smcp_with_dotbelow_and_macron 
+        S.smcp_with_acute_and_dotabove S.smcp_with_caron_and_dotabove S.smcp_with_dotbelow_and_dotabove 
+        U.smcp_with_macron_and_diaeresis U.smcp_with_diaeresis_and_acute U.smcp_with_diaeresis_and_grave U.smcp_with_diaeresis_and_caron U.smcp_with_diaeresis_and_macron U.smcp_with_horn_and_dotbelow
+    ] by [
+        A.smcp_with_diaeresis.ss02 A.smcp_with_dotbelow.ss02 
+        B.smcp_with_dotabove.ss02 B.smcp_with_dotbelow.ss02 
+        C.smcp_with_dotabove.ss02 
+        D.smcp_with_dotabove.ss02 D.smcp_with_commabelow.ss02 D.smcp_with_dotbelow.ss02 
+        E.smcp_with_dotabove.ss02 E.smcp_with_diaeresis.ss02 E.smcp_with_dotbelow.ss02 
+        F.smcp_with_dotabove.ss02 
+        G.smcp_with_dotabove.ss02 G.smcp_with_commabelow.ss02 
+        H.smcp_with_dotabove.ss02 H.smcp_with_diaeresis.ss02 H.smcp_with_dotbelow.ss02 
+        I.smcp_with_dotabove.ss02 I.smcp_with_diaeresis.ss02 I.smcp_with_dotbelow.ss02 
+        K.smcp_with_commabelow.ss02 K.smcp_with_dotbelow.ss02 
+        L.smcp_with_dotmiddle.ss02 L.smcp_with_commabelow.ss02 L.smcp_with_dotbelow.ss02 
+        M.smcp_with_dotabove.ss02 M.smcp_with_dotbelow.ss02 
+        N.smcp_with_dotabove.ss02 N.smcp_with_commabelow.ss02 N.smcp_with_dotbelow.ss02 
+        O.smcp_with_dotabove.ss02 O.smcp_with_diaeresis.ss02 O.smcp_with_dotbelow.ss02 
+        P.smcp_with_dotabove.ss02 
+        R.smcp_with_dotabove.ss02 R.smcp_with_commabelow.ss02 R.smcp_with_dotbelow.ss02 
+        S.smcp_with_dotabove.ss02 S.smcp_with_commabelow.ss02 S.smcp_with_dotbelow.ss02 
+        T.smcp_with_dotabove.ss02 T.smcp_with_commabelow.ss02 T.smcp_with_dotbelow.ss02 
+        U.smcp_with_diaeresis.ss02 U.smcp_with_dotbelow.ss02 U.smcp_with_diaeresisbelow.ss02 
+        V.smcp_with_dotbelow.ss02 
+        W.smcp_with_dotabove.ss02 W.smcp_with_diaeresis.ss02 W.smcp_with_dotbelow.ss02 
+        X.smcp_with_dotabove.ss02 X.smcp_with_diaeresis.ss02 
+        Y.smcp_with_dotabove.ss02 Y.smcp_with_diaeresis.ss02 Y.smcp_with_dotbelow.ss02 
+        Z.smcp_with_dotabove.ss02 Z.smcp_with_dotbelow.ss02 
+        A.smcp_with_circumflex_and_dotbelow.ss02 A.smcp_with_breve_and_dotbelow.ss02 A.smcp_with_dotabove.ss02_and_macron A.smcp_with_diaeresis.ss02_and_macron 
+        E.smcp_with_circumflex_and_dotbelow.ss02 
+        I.smcp_with_diaeresis.ss02_and_acute 
+        L.smcp_with_dotbelow.ss02_and_macron 
+        O.smcp_with_circumflex_and_dotbelow.ss02 O.smcp_with_dotabove.ss02_and_macron O.smcp_with_tildeabove_and_diaeresis.ss02 O.smcp_with_diaeresis.ss02_and_macron O.smcp_with_horn_and_dotbelow.ss02 
+        R.smcp_with_dotbelow.ss02_and_macron 
+        S.smcp_with_acute_and_dotabove.ss02 S.smcp_with_caron_and_dotabove.ss02 S.smcp_with_dotbelow.ss02_and_dotabove.ss02 
+        U.smcp_with_macron_and_diaeresis.ss02 U.smcp_with_diaeresis.ss02_and_acute U.smcp_with_diaeresis.ss02_and_grave U.smcp_with_diaeresis.ss02_and_caron U.smcp_with_diaeresis.ss02_and_macron U.smcp_with_horn_and_dotbelow.ss02
+    ];
+
+    # SMCP.SS01
+    sub [
+        K.ss01.smcp_with_commabelow K.ss01.smcp_with_dotbelow
+        M.ss01.smcp_with_dotabove M.ss01.smcp_with_dotbelow
+    ] by [
+        K.ss01.smcp_with_commabelow.ss02 K.ss01.smcp_with_dotbelow.ss02
+        M.ss01.smcp_with_dotabove.ss02 M.ss01.smcp_with_dotbelow.ss02
+    ];
+
+    sub @numerics colon.ss02' @numerics by raised_colon.ss02;
+} ss02;

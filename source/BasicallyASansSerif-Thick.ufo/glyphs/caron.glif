@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron" format="2">
-  <advance width="841.1785714286102"/>
+  <advance width="821.8636363636364"/>
   <unicode hex="02C7"/>
+  <anchor x="410.93181818181824" y="1532.7272727272727" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="305.8683624267578" y="1192.5" type="line"/>
-      <point x="535.3102111816406" y="1192.5" type="line"/>
-      <point x="758.8928604125977" y="1475.3571395874023" type="line"/>
-      <point x="529.4510116577148" y="1475.3571395874023" type="line"/>
-      <point x="420.5892868041992" y="1337.6348419189453" type="line"/>
-      <point x="311.7275619506836" y="1475.3571395874023" type="line"/>
-      <point x="82.28571319580078" y="1475.3571395874023" type="line"/>
+      <point x="66.2727279663086" y="1500" type="line"/>
+      <point x="353.6103286743164" y="1190.4545516967773" type="line"/>
+      <point x="468.25331115722656" y="1190.4545516967773" type="line"/>
+      <point x="755.5909118652344" y="1500" type="line"/>
+      <point x="512.3090286254883" y="1500" type="line"/>
+      <point x="410.93182373046875" y="1402.3049392700195" type="line"/>
+      <point x="309.5546112060547" y="1500" type="line"/>
     </contour>
   </outline>
 </glyph>

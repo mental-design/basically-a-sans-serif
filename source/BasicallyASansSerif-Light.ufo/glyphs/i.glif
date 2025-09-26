@@ -1,27 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="304.0231213872832"/>
+  <advance width="306.2678828612578"/>
   <unicode hex="0069"/>
+  <anchor x="153.1339414306289" y="-124.4359097455593" name="below" identifier="below"/>
+  <anchor x="153.1339414306289" y="421.8588061589855" name="stroke" identifier="stroke"/>
+  <anchor x="195.39030244839174" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="153.1339414306289" y="1160.4215674507923" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="224.84393" y="1020.71067" type="curve" smooth="yes"/>
-      <point x="224.84393" y="1060.90795"/>
-      <point x="192.20884" y="1093.54304"/>
-      <point x="152.01156" y="1093.54304" type="curve" smooth="yes"/>
-      <point x="111.81428" y="1093.54304"/>
-      <point x="79.17919" y="1060.90795"/>
-      <point x="79.17919" y="1020.71067" type="curve" smooth="yes"/>
-      <point x="79.17919" y="980.51339"/>
-      <point x="111.81428" y="947.8783"/>
-      <point x="152.01156" y="947.8783" type="curve" smooth="yes"/>
-      <point x="192.20884" y="947.8783"/>
-      <point x="224.84393" y="980.51339"/>
+      <point x="227.96831" y="1044.10856" type="curve" smooth="yes"/>
+      <point x="227.96831" y="1085.41077"/>
+      <point x="194.43616" y="1118.94293"/>
+      <point x="153.13394" y="1118.94293" type="curve" smooth="yes"/>
+      <point x="111.83173" y="1118.94293"/>
+      <point x="78.29957" y="1085.41077"/>
+      <point x="78.29957" y="1044.10856" type="curve" smooth="yes"/>
+      <point x="78.29957" y="1002.80634"/>
+      <point x="111.83173" y="969.27418"/>
+      <point x="153.13394" y="969.27418" type="curve" smooth="yes"/>
+      <point x="194.43616" y="969.27418"/>
+      <point x="227.96831" y="1002.80634"/>
     </contour>
     <contour>
-      <point x="111.43353" y="0.0" type="line"/>
-      <point x="192.5896" y="0.0" type="line"/>
-      <point x="192.5896" y="801.12355" type="line"/>
-      <point x="111.43353" y="801.12355" type="line"/>
+      <point x="110.87758" y="0.0" type="line"/>
+      <point x="195.3903" y="0.0" type="line"/>
+      <point x="195.3903" y="801.8906" type="line"/>
+      <point x="110.87758" y="801.8906" type="line"/>
     </contour>
   </outline>
 </glyph>

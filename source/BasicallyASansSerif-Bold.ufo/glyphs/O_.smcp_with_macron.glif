@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O.smcp_with_macron" format="2">
+  <advance width="1039.992100066754"/>
+  <unicode hex="EEE5"/>
+  <anchor x="519.996050033377" y="-109.71495107617935" name="below" identifier="below"/>
+  <anchor x="519.996050033377" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="519.996050033377" y="425.4061512870102" name="stroke" identifier="stroke"/>
+  <anchor x="519.996050033377" y="869.8981853923717" name="horn" identifier="horn"/>
+  <anchor x="519.996050033377" y="1294.4498925083903" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="228.17441" y="1005.47739" type="line"/>
+      <point x="811.81769" y="1005.47739" type="line"/>
+      <point x="811.81769" y="1187.03174" type="line"/>
+      <point x="228.17441" y="1187.03174" type="line"/>
+    </contour>
+    <contour>
+      <point x="519.99605" y="668.57777" type="curve"/>
+      <point x="654.20612" y="668.57777"/>
+      <point x="763.16767" y="559.61622"/>
+      <point x="763.16767" y="425.40615" type="curve"/>
+      <point x="763.16767" y="291.19608"/>
+      <point x="654.20612" y="182.23453"/>
+      <point x="519.99605" y="182.23453" type="curve"/>
+      <point x="385.78598" y="182.23453"/>
+      <point x="276.82443" y="291.19608"/>
+      <point x="276.82443" y="425.40615" type="curve"/>
+      <point x="276.82443" y="559.61622"/>
+      <point x="385.78598" y="668.57777"/>
+    </contour>
+    <contour>
+      <point x="519.99605" y="869.89819" type="curve"/>
+      <point x="265.16098" y="869.89819"/>
+      <point x="58.14624" y="671.88322"/>
+      <point x="58.14624" y="425.40615" type="curve"/>
+      <point x="58.14624" y="178.92908"/>
+      <point x="265.16098" y="-19.08588"/>
+      <point x="519.99605" y="-19.08588" type="curve"/>
+      <point x="774.83112" y="-19.08588"/>
+      <point x="981.84586" y="178.92908"/>
+      <point x="981.84586" y="425.40615" type="curve"/>
+      <point x="981.84586" y="671.88322"/>
+      <point x="774.83112" y="869.89819"/>
+    </contour>
+  </outline>
+</glyph>

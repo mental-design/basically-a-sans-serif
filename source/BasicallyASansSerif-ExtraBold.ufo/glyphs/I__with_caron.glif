@@ -1,22 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I_with_caron" format="2">
-  <advance width="408.2926829268293"/>
+  <advance width="419.3645775485918"/>
   <unicode hex="01CF"/>
+  <anchor x="209.6822887742959" y="-102.8163427211424" name="below" identifier="below"/>
+  <anchor x="344.8655692185641" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="209.6822887742959" y="544.8329036096786" name="stroke" identifier="stroke"/>
+  <anchor x="209.6822887742959" y="1509.7134073780246" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="97.7626724243164" y="1193.597557067871" type="line"/>
-      <point x="310.5300064086914" y="1193.597557067871" type="line"/>
-      <point x="532.4542694091797" y="1470.1829299926758" type="line"/>
-      <point x="319.68692779541016" y="1470.1829299926758" type="line"/>
-      <point x="204.1463394165039" y="1326.1840896606445" type="line"/>
-      <point x="88.60575866699219" y="1470.1829299926758" type="line"/>
-      <point x="-124.16159057617188" y="1470.1829299926758" type="line"/>
+      <point x="-115.93180084228516" y="1475.441291809082" type="line"/>
+      <point x="143.52464294433594" y="1179.6063079833984" type="line"/>
+      <point x="275.8399429321289" y="1179.6063079833984" type="line"/>
+      <point x="535.2963790893555" y="1475.441291809082" type="line"/>
+      <point x="305.67208099365234" y="1475.441291809082" type="line"/>
+      <point x="209.68228912353516" y="1375.810173034668" type="line"/>
+      <point x="113.69249725341797" y="1475.441291809082" type="line"/>
     </contour>
     <contour>
-      <point x="85.60976" y="0.0" type="line"/>
-      <point x="322.68293" y="0.0" type="line"/>
-      <point x="322.68293" y="1088.23171" type="line"/>
-      <point x="85.60976" y="1088.23171" type="line"/>
+      <point x="74.49901" y="0.0" type="line"/>
+      <point x="344.86557" y="0.0" type="line"/>
+      <point x="344.86557" y="1089.66581" type="line"/>
+      <point x="74.49901" y="1089.66581" type="line"/>
     </contour>
   </outline>
 </glyph>

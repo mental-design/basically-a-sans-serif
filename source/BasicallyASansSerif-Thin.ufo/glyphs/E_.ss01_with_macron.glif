@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.ss01_with_macron" format="2">
+  <advance width="889.3636363636364"/>
+  <unicode hex="E18A"/>
+  <anchor x="452.8636363636363" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="452.8636363636363" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="786.2727272727273" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="452.8636363636363" y="1466.590909090909" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="189.51136" y="1302.95455" type="line"/>
+      <point x="716.21591" y="1302.95455" type="line"/>
+      <point x="716.21591" y="1335.68182" type="line"/>
+      <point x="189.51136" y="1335.68182" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.45455169677734" y="0" type="line"/>
+      <point x="786.2727279663086" y="0" type="line"/>
+      <point x="786.2727279663086" y="32.727272033691406" type="line"/>
+      <point x="152.18182373046875" y="32.727272033691406" type="line"/>
+      <point x="152.18182373046875" y="520.5681762695312" type="line"/>
+      <point x="753.5454483032227" y="520.5681762695312" type="line"/>
+      <point x="753.5454483032227" y="553.2954483032227" type="line"/>
+      <point x="152.18182373046875" y="553.2954483032227" type="line"/>
+      <point x="152.18182373046875" y="1041.136360168457" type="line"/>
+      <point x="780.8181762695312" y="1041.136360168457" type="line"/>
+      <point x="780.8181762695312" y="1073.863639831543" type="line"/>
+      <point x="119.45455169677734" y="1073.863639831543" type="line"/>
+    </contour>
+  </outline>
+</glyph>

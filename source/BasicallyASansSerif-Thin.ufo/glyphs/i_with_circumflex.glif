@@ -2,15 +2,21 @@
 <glyph name="i_with_circumflex" format="2">
   <advance width="271.6363636363636"/>
   <unicode hex="00EE"/>
+  <anchor x="135.8181818181818" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="135.8181818181818" y="413.83928571428567" name="stroke" identifier="stroke"/>
+  <anchor x="152.18181818181816" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="324.25568181818176" y="1092.7840909090908" name="topright" identifier="topright"/>
+  <anchor x="135.8181818181818" y="1223.6931818181818" name="above" identifier="above"/>
+  <anchor x="340.61931818181813" y="1092.7840909090908" name="grave" identifier="grave"/>
   <outline>
     <contour>
-      <point x="-90.71591186523438" y="920.9659118652344" type="line"/>
-      <point x="-45.385948181152344" y="920.9659118652344" type="line"/>
-      <point x="135.81818389892578" y="1110.0433959960938" type="line"/>
-      <point x="317.02232360839844" y="920.9659118652344" type="line"/>
-      <point x="362.3522720336914" y="920.9659118652344" type="line"/>
-      <point x="158.48316192626953" y="1133.6931762695312" type="line"/>
-      <point x="113.1531982421875" y="1133.6931762695312" type="line"/>
+      <point x="-86.625" y="920.9659118652344" type="line"/>
+      <point x="-43.115997314453125" y="920.9659118652344" type="line"/>
+      <point x="135.81817626953125" y="1125.2235488891602" type="line"/>
+      <point x="314.7523727416992" y="920.9659118652344" type="line"/>
+      <point x="358.26136016845703" y="920.9659118652344" type="line"/>
+      <point x="157.5726776123047" y="1150.0568237304688" type="line"/>
+      <point x="114.06369018554688" y="1150.0568237304688" type="line"/>
     </contour>
     <contour>
       <point x="119.45455" y="0.0" type="line"/>

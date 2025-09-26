@@ -5,7 +5,7 @@
     <key>ascender</key>
     <integer>1320</integer>
     <key>capHeight</key>
-    <real>1075.393175074184</real>
+    <real>1075.535538005923</real>
     <key>copyright</key>
     <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>ExtraLight</string>
     <key>openTypeNameVersion</key>
-    <string>1.200</string>
+    <string>2.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -169,12 +169,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>330</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-15.633333333333333</real>
+      <real>-15.78888888888889</real>
       <integer>0</integer>
-      <real>795.0278189910979</real>
-      <real>810.6611523244312</real>
-      <real>1075.393175074184</real>
-      <real>1089.8598417408507</real>
+      <real>795.4904985192497</real>
+      <real>811.2793874081386</real>
+      <real>1075.535538005923</real>
+      <real>1090.0466491170341</real>
     </array>
     <key>postscriptFamilyBlues</key>
     <array>
@@ -196,20 +196,23 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <string>Basically A Sans Serif ExtraLight</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-361.1818001978239</real>
-      <real>-347.7151335311573</real>
+      <real>-361.6058791269058</real>
+      <real>-348.09476801579467</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <real>49.84985163204748</real>
-      <real>50.86116666666667</real>
-      <real>54.48071216617211</real>
+      <real>5.284198148148149</real>
+      <real>5.650542941757157</real>
+      <real>51.51411648568609</real>
+      <real>55.54274432379072</real>
+      <real>56.50542941757157</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <real>49.84985163204748</real>
-      <real>50.86116666666667</real>
-      <real>54.48071216617211</real>
+      <real>51.51411648568609</real>
+      <real>52.84198148148148</real>
+      <real>55.54274432379072</real>
+      <real>56.50542941757157</real>
     </array>
     <key>postscriptWeightName</key>
     <string>ExtraLight</string>
@@ -218,10 +221,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>unitsPerEm</key>
     <integer>1550</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>200</integer>
+    <integer>0</integer>
     <key>xHeight</key>
-    <real>795.0278189910979</real>
+    <real>795.4904985192497</real>
   </dict>
 </plist>

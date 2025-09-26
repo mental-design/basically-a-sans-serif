@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.ss01_with_dotabove" format="2">
+  <advance width="869.1408171360571"/>
+  <unicode hex="E194"/>
+  <anchor x="74.49900833002776" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="447.42245140817136" y="1527.8133677112257" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="607.00198" y="1333.96172" type="curve" smooth="yes"/>
+      <point x="607.00198" y="1422.03606"/>
+      <point x="535.49679" y="1493.54125"/>
+      <point x="447.42245" y="1493.54125" type="curve" smooth="yes"/>
+      <point x="359.34811" y="1493.54125"/>
+      <point x="287.84292" y="1422.03606"/>
+      <point x="287.84292" y="1333.96172" type="curve" smooth="yes"/>
+      <point x="287.84292" y="1245.88738"/>
+      <point x="359.34811" y="1174.38219"/>
+      <point x="447.42245" y="1174.38219" type="curve" smooth="yes"/>
+      <point x="535.49679" y="1174.38219"/>
+      <point x="607.00198" y="1245.88738"/>
+    </contour>
+    <contour>
+      <point x="74.49900817871094" y="0" type="line"/>
+      <point x="331.96826934814453" y="0" type="line"/>
+      <point x="331.96826934814453" y="382.8597106933594" type="line"/>
+      <point x="743.233642578125" y="382.8597106933594" type="line"/>
+      <point x="743.233642578125" y="620.9830093383789" type="line"/>
+      <point x="331.96826934814453" y="620.9830093383789" type="line"/>
+      <point x="331.96826934814453" y="845.0938491821289" type="line"/>
+      <point x="820.3458862304688" y="845.0938491821289" type="line"/>
+      <point x="820.3458862304688" y="1089.6658096313477" type="line"/>
+      <point x="74.49900817871094" y="1089.6658096313477" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.smcp_with_acute" format="2">
+  <advance width="746.2654520552237"/>
+  <unicode hex="EEC4"/>
+  <anchor x="388.55254101076054" y="-133.06313621653425" name="below" identifier="below"/>
+  <anchor x="388.55254101076054" y="1252.4835907619884" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="369.04114" y="936.11995" type="line"/>
+      <point x="408.06394" y="936.11995" type="line"/>
+      <point x="585.1751" y="1208.84723" type="line"/>
+      <point x="546.1523" y="1208.84723" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.45455169677734" y="0" type="line"/>
+      <point x="151.82830810546875" y="0" type="line"/>
+      <point x="151.82830810546875" y="286.8060073852539" type="line"/>
+      <point x="724.3859786987305" y="803.0568237304688" type="line"/>
+      <point x="676.0533981323242" y="803.0568237304688" type="line"/>
+      <point x="151.82830810546875" y="330.2738723754883" type="line"/>
+      <point x="151.82830810546875" y="803.0568237304688" type="line"/>
+      <point x="119.45455169677734" y="803.0568237304688" type="line"/>
+    </contour>
+    <contour>
+      <point x="736.94441" y="0.0" type="line"/>
+      <point x="305.90547" y="425.7308" type="line"/>
+      <point x="281.85752" y="404.04779" type="line"/>
+      <point x="690.88682" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

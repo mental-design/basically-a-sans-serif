@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h.ss03_with_macronbelow" format="2">
+  <advance width="913.479069767442"/>
+  <unicode hex="E46B"/>
+  <anchor x="464.2744186046512" y="1260.2093023255816" name="above" identifier="above"/>
+  <anchor x="162.8704651162791" y="1260.2093023255816" name="stem" identifier="stem"/>
+  <anchor x="162.8704651162791" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="162.8704651162791" y="974.3154069767443" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="105.73953247070312" y="0" type="line"/>
+      <point x="220.00140380859375" y="0" type="line"/>
+      <point x="220.00140380859375" y="448.93079376220703" type="line"/>
+      <point x="220.00140380859375" y="633.6688091422831"/>
+      <point x="351.57042925426657" y="713.20381"/>
+      <point x="464.27442" y="713.20381" type="curve" smooth="yes"/>
+      <point x="576.9784107457334" y="713.20381"/>
+      <point x="708.5474401492363" y="633.6688072611796"/>
+      <point x="708.547439981882" y="448.93079" type="curve"/>
+      <point x="708.5474395751953" y="0" type="line"/>
+      <point x="822.8093032836914" y="0" type="line"/>
+      <point x="822.8093032836914" y="448.93079376220703" type="line"/>
+      <point x="822.8093032836914" y="704.8113875316699"/>
+      <point x="635.4322323128171" y="823.86854"/>
+      <point x="464.81367" y="823.86854" type="curve" smooth="yes"/>
+      <point x="370.13943069704993" y="823.86854"/>
+      <point x="284.0074655806127" y="787.6296916490139"/>
+      <point x="220.00140380859375" y="728.1232986450195" type="curve"/>
+      <point x="220.00140380859375" y="1139.6511611938477" type="line"/>
+      <point x="105.73953247070312" y="1139.6511611938477" type="line"/>
+    </contour>
+    <contour>
+      <point x="194.61453" y="-280.78726" type="line"/>
+      <point x="733.9343" y="-280.78726" type="line"/>
+      <point x="733.9343" y="-173.37885" type="line"/>
+      <point x="194.61453" y="-173.37885" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.smcp_with_gravedbl" format="2">
+  <advance width="360.62539320490544"/>
+  <unicode hex="EEBE"/>
+  <anchor x="180.31269660245272" y="-114.23576877627578" name="below" identifier="below"/>
+  <anchor x="269.88673229777805" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="180.31269660245272" y="420.7051985841133" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="133.98351" y="955.64617" type="line"/>
+      <point x="-50.47856" y="1253.05437" type="line"/>
+      <point x="-245.64811" y="1253.05437" type="line"/>
+      <point x="-43.83188" y="955.64617" type="line"/>
+    </contour>
+    <contour>
+      <point x="433.41302" y="955.64617" type="line"/>
+      <point x="248.95095" y="1253.05437" type="line"/>
+      <point x="53.7814" y="1253.05437" type="line"/>
+      <point x="255.59762" y="955.64617" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.73866" y="0.0" type="line"/>
+      <point x="269.88673" y="0.0" type="line"/>
+      <point x="269.88673" y="841.4104" type="line"/>
+      <point x="90.73866" y="841.4104" type="line"/>
+    </contour>
+  </outline>
+</glyph>

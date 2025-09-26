@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.smcp" format="2">
+  <advance width="775.874706884222"/>
+  <unicode hex="EE13"/>
+  <anchor x="387.937353442111" y="955.6461659445024" name="above" identifier="above"/>
+  <anchor x="387.937353442111" y="-114.23576877627578" name="below" identifier="below"/>
+  <anchor x="387.937353442111" y="0.0" name="cedilla" identifier="cedilla"/>
+  <anchor x="387.937353442111" y="420.7051985841133" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="301.85501861572266" y="0" type="line"/>
+      <point x="474.01969146728516" y="0" type="line"/>
+      <point x="474.01969146728516" y="676.9274597167969" type="line"/>
+      <point x="717.7111511230469" y="676.9274597167969" type="line"/>
+      <point x="717.7111511230469" y="841.410400390625" type="line"/>
+      <point x="58.16355895996094" y="841.410400390625" type="line"/>
+      <point x="58.16355895996094" y="676.9274597167969" type="line"/>
+      <point x="301.85501861572266" y="676.9274597167969" type="line"/>
+    </contour>
+  </outline>
+</glyph>

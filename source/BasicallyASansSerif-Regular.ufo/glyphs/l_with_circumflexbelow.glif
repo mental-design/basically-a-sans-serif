@@ -1,22 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l_with_circumflexbelow" format="2">
-  <advance width="744.0350467289331"/>
+  <advance width="327.01395348837207"/>
   <unicode hex="1E3D"/>
+  <anchor x="163.50697674418606" y="1260.2093023255816" name="above" identifier="above"/>
+  <anchor x="341.83255813953497" y="1139.6511627906978" name="caron" identifier="caron"/>
+  <anchor x="163.50697674418606" y="569.8255813953489" name="stroke" identifier="stroke"/>
+  <anchor x="327.0139534883721" y="569.8255813953489" name="dotmiddle" identifier="dotmiddle"/>
   <outline>
     <contour>
-      <point x="316.5035" y="0.0" type="line"/>
-      <point x="427.53154" y="0.0" type="line"/>
-      <point x="427.53154" y="1139.29907" type="line"/>
-      <point x="316.5035" y="1139.29907" type="line"/>
+      <point x="105.73953" y="0.0" type="line"/>
+      <point x="221.27442" y="0.0" type="line"/>
+      <point x="221.27442" y="1139.65116" type="line"/>
+      <point x="105.73953" y="1139.65116" type="line"/>
     </contour>
     <contour>
-      <point x="106.48597717285156" y="-358.31775665283203" type="line"/>
-      <point x="217.6868667602539" y="-358.31775665283203" type="line"/>
-      <point x="372.0175247192383" y="-183.94314575195312" type="line"/>
-      <point x="526.3481674194336" y="-358.31775665283203" type="line"/>
-      <point x="637.549072265625" y="-358.31775665283203" type="line"/>
-      <point x="427.6179733276367" y="-121.12149810791016" type="line"/>
-      <point x="316.4170837402344" y="-121.12149810791016" type="line"/>
+      <point x="-89.82733154296875" y="-364.7441864013672" type="line"/>
+      <point x="42.910980224609375" y="-364.7441864013672" type="line"/>
+      <point x="163.50697326660156" y="-217.46395874023438" type="line"/>
+      <point x="284.10296630859375" y="-364.7441864013672" type="line"/>
+      <point x="416.8412780761719" y="-364.7441864013672" type="line"/>
+      <point x="221.21150970458984" y="-120.55814361572266" type="line"/>
+      <point x="105.80243682861328" y="-120.55814361572266" type="line"/>
     </contour>
   </outline>
 </glyph>

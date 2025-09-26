@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.ss03_with_dotbelow.ss02" format="2">
+  <advance width="554.4725797292011"/>
+  <unicode hex="E698"/>
+  <anchor x="298.7304368698992" y="926.3265122419588" name="above" identifier="above"/>
+  <anchor x="155.9627388382141" y="-124.4359097455593" name="stembelow" identifier="stembelow"/>
+  <outline>
+    <contour>
+      <point x="113.98847961425781" y="0" type="line"/>
+      <point x="197.93699645996094" y="0" type="line"/>
+      <point x="197.93699645996094" y="434.1282424926758" type="line"/>
+      <point x="197.93699645996094" y="608.5628027117231"/>
+      <point x="314.08767928663275" y="720.1366752375667"/>
+      <point x="472.0095494580079" y="720.1367013325066" type="curve"/>
+      <point x="485.0736389160156" y="720.1367034912109" type="line"/>
+      <point x="485.0736389160156" y="802.4839782714844" type="line"/>
+      <point x="472.00954818725586" y="802.4839782714844" type="line"/>
+      <point x="382.8436686752041" y="802.4839782714844"/>
+      <point x="276.0151816250475" y="772.3438973414476"/>
+      <point x="196.73606872558594" y="678.7910537719727" type="curve"/>
+      <point x="196.73606872558594" y="801.8906021118164" type="line"/>
+      <point x="113.98847961425781" y="801.8906021118164" type="line"/>
+    </contour>
+    <contour>
+      <point x="186.13168" y="-310.83053" type="line"/>
+      <point x="323.35683" y="-310.83053" type="line"/>
+      <point x="323.35683" y="-173.60538" type="line"/>
+      <point x="186.13168" y="-173.60538" type="line"/>
+    </contour>
+  </outline>
+</glyph>

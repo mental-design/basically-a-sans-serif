@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss01_with_caron" format="2">
+  <advance width="873.0"/>
+  <unicode hex="E1E6"/>
+  <anchor x="436.5" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="436.5" y="543.4318181818181" name="stroke" identifier="stroke"/>
+  <anchor x="436.5" y="1477.5" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="214.05682373046875" y="1433.863639831543" type="line"/>
+      <point x="414.7455062866211" y="1204.7727279663086" type="line"/>
+      <point x="458.2544937133789" y="1204.7727279663086" type="line"/>
+      <point x="658.9431762695312" y="1433.863639831543" type="line"/>
+      <point x="615.4341812133789" y="1433.863639831543" type="line"/>
+      <point x="436.5" y="1229.6060028076172" type="line"/>
+      <point x="257.5658187866211" y="1433.863639831543" type="line"/>
+    </contour>
+    <contour>
+      <point x="86.7272720336914" y="0" type="line"/>
+      <point x="786.2727279663086" y="0" type="line"/>
+      <point x="786.2727279663086" y="32.727272033691406" type="line"/>
+      <point x="125.84855651855469" y="32.727272033691406" type="line"/>
+      <point x="786.2727279663086" y="1041.136360168457" type="line"/>
+      <point x="786.2727279663086" y="1073.863639831543" type="line"/>
+      <point x="86.7272720336914" y="1073.863639831543" type="line"/>
+      <point x="86.7272720336914" y="1041.136360168457" type="line"/>
+      <point x="747.1514434814453" y="1041.136360168457" type="line"/>
+      <point x="86.7272720336914" y="32.727272033691406" type="line"/>
+    </contour>
+  </outline>
+</glyph>

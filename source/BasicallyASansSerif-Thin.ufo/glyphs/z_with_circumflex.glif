@@ -1,21 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z_with_circumflex" format="2">
-  <advance width="847.6363636363636"/>
+  <advance width="858.5454545454545"/>
   <unicode hex="1E91"/>
+  <anchor x="429.2727272727272" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="429.2727272727272" y="401.52840909090907" name="stroke" identifier="stroke"/>
+  <anchor x="617.7102272727273" y="1092.7840909090908" name="topright" identifier="topright"/>
+  <anchor x="429.2727272727272" y="1223.6931818181818" name="above" identifier="above"/>
+  <anchor x="634.0738636363636" y="1092.7840909090908" name="grave" identifier="grave"/>
   <outline>
     <contour>
-      <point x="197.28408813476562" y="920.9659118652344" type="line"/>
-      <point x="242.61405181884766" y="920.9659118652344" type="line"/>
-      <point x="423.8181838989258" y="1110.0433959960938" type="line"/>
-      <point x="605.0223236083984" y="920.9659118652344" type="line"/>
-      <point x="650.3522720336914" y="920.9659118652344" type="line"/>
-      <point x="446.48316192626953" y="1133.6931762695312" type="line"/>
-      <point x="401.1531982421875" y="1133.6931762695312" type="line"/>
+      <point x="206.82955169677734" y="920.9659118652344" type="line"/>
+      <point x="250.33853912353516" y="920.9659118652344" type="line"/>
+      <point x="429.2727279663086" y="1125.2235488891602" type="line"/>
+      <point x="608.2069091796875" y="920.9659118652344" type="line"/>
+      <point x="651.7159118652344" y="920.9659118652344" type="line"/>
+      <point x="451.0272216796875" y="1150.0568237304688" type="line"/>
+      <point x="407.51822662353516" y="1150.0568237304688" type="line"/>
     </contour>
     <contour>
       <point x="103.09091186523438" y="0" type="line"/>
-      <point x="744.5454483032227" y="0" type="line"/>
-      <point x="744.5454483032227" y="32.727272033691406" type="line"/>
+      <point x="755.4545516967773" y="0" type="line"/>
+      <point x="755.4545516967773" y="32.727272033691406" type="line"/>
       <point x="145.5525894165039" y="32.727272033691406" type="line"/>
       <point x="744.5454483032227" y="757.3295516967773" type="line"/>
       <point x="744.5454483032227" y="790.0568237304688" type="line"/>

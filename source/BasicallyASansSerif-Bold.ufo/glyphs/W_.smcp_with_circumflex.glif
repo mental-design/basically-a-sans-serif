@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.smcp_with_circumflex" format="2">
+  <advance width="1236.709271434309"/>
+  <unicode hex="EF1F"/>
+  <anchor x="618.3546357171545" y="-109.71495107617935" name="below" identifier="below"/>
+  <anchor x="928.3418456218375" y="1172.1932296137304" name="topright" identifier="topright"/>
+  <anchor x="618.3546357171545" y="1279.611381292139" name="above" identifier="above"/>
+  <anchor x="941.7691145816385" y="1172.1932296137304" name="grave" identifier="grave"/>
+  <outline>
+    <contour>
+      <point x="311.6511" y="960.52725" type="line"/>
+      <point x="522.71011" y="960.52725" type="line"/>
+      <point x="618.35463" y="1066.45318" type="line"/>
+      <point x="618.35463" y="1242.74856" type="line"/>
+      <point x="548.08023" y="1242.74856" type="line"/>
+    </contour>
+    <contour>
+      <point x="925.05817" y="960.52725" type="line"/>
+      <point x="688.62904" y="1242.74856" type="line"/>
+      <point x="618.35464" y="1242.74856" type="line"/>
+      <point x="618.35464" y="1066.45318" type="line"/>
+      <point x="713.99916" y="960.52725" type="line"/>
+    </contour>
+    <contour>
+      <point x="1210.0900115966797" y="850.8123016357422" type="line"/>
+      <point x="1001.5569534301758" y="850.8123016357422" type="line"/>
+      <point x="871.8697814941406" y="275.7538604736328" type="line"/>
+      <point x="713.8077087402344" y="841.2693634033203" type="line"/>
+      <point x="522.9015731811523" y="841.2693634033203" type="line"/>
+      <point x="364.83949279785156" y="275.7538528442383" type="line"/>
+      <point x="235.15232849121094" y="850.8123016357422" type="line"/>
+      <point x="26.61927032470703" y="850.8123016357422" type="line"/>
+      <point x="241.18898010253906" y="0" type="line"/>
+      <point x="469.78775787353516" y="0" type="line"/>
+      <point x="618.3546371459961" y="571.6714630126953" type="line"/>
+      <point x="766.9215087890625" y="0" type="line"/>
+      <point x="995.5202865600586" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O.smcp_with_grave" format="2">
+  <advance width="1024.8371445623604"/>
+  <unicode hex="EEDF"/>
+  <anchor x="512.4185722811803" y="-118.63381322091955" name="below" identifier="below"/>
+  <anchor x="512.4185722811803" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="512.4185722811803" y="416.17220538342565" name="stroke" identifier="stroke"/>
+  <anchor x="512.4185722811803" y="849.0037736905804" name="horn" identifier="horn"/>
+  <outline>
+    <contour>
+      <point x="593.05927" y="950.97822" type="line"/>
+      <point x="411.67821" y="1238.80041" type="line"/>
+      <point x="244.86396" y="1238.80041" type="line"/>
+      <point x="437.31072" y="950.97822" type="line"/>
+    </contour>
+    <contour>
+      <point x="512.41857" y="709.224" type="curve"/>
+      <point x="674.15826" y="709.224"/>
+      <point x="805.47036" y="577.91189"/>
+      <point x="805.47036" y="416.17221" type="curve"/>
+      <point x="805.47036" y="254.43252"/>
+      <point x="674.15826" y="123.12042"/>
+      <point x="512.41857" y="123.12042" type="curve"/>
+      <point x="350.67889" y="123.12042"/>
+      <point x="219.36678" y="254.43252"/>
+      <point x="219.36678" y="416.17221" type="curve"/>
+      <point x="219.36678" y="577.91189"/>
+      <point x="350.67889" y="709.224"/>
+    </contour>
+    <contour>
+      <point x="512.41857" y="849.00377" type="curve"/>
+      <point x="269.69339" y="849.00377"/>
+      <point x="72.47833" y="655.53186"/>
+      <point x="72.47833" y="416.17221" type="curve"/>
+      <point x="72.47833" y="176.81255"/>
+      <point x="269.69339" y="-16.65936"/>
+      <point x="512.41857" y="-16.65936" type="curve"/>
+      <point x="755.14375" y="-16.65936"/>
+      <point x="952.35881" y="176.81255"/>
+      <point x="952.35881" y="416.17221" type="curve"/>
+      <point x="952.35881" y="655.53186"/>
+      <point x="755.14375" y="849.00377"/>
+    </contour>
+  </outline>
+</glyph>

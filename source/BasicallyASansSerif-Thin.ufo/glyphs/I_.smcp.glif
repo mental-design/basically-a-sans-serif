@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.smcp" format="2">
+  <advance width="271.3435085875587"/>
+  <unicode hex="EE08"/>
+  <anchor x="135.67175429377934" y="936.1199543983522" name="above" identifier="above"/>
+  <anchor x="135.67175429377934" y="-133.06313621653425" name="below" identifier="below"/>
+  <anchor x="151.88896313301325" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="135.67175429377934" y="401.52840909090907" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="119.45455" y="0.0" type="line"/>
+      <point x="151.88896" y="0.0" type="line"/>
+      <point x="151.88896" y="803.05682" type="line"/>
+      <point x="119.45455" y="803.05682" type="line"/>
+    </contour>
+  </outline>
+</glyph>

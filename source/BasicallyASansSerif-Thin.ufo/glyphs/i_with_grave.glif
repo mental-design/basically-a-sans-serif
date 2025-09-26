@@ -2,12 +2,15 @@
 <glyph name="i_with_grave" format="2">
   <advance width="271.6363636363636"/>
   <unicode hex="00EC"/>
+  <anchor x="135.8181818181818" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="135.8181818181818" y="413.83928571428567" name="stroke" identifier="stroke"/>
+  <anchor x="152.18181818181816" y="0" name="ogonek" identifier="ogonek"/>
   <outline>
     <contour>
-      <point x="154.61927" y="920.96591" type="line"/>
-      <point x="21.91984" y="1155.51136" type="line"/>
-      <point x="-15.68234" y="1155.51136" type="line"/>
-      <point x="117.01709" y="920.96591" type="line"/>
+      <point x="155.32958" y="920.96591" type="line"/>
+      <point x="-21.78158" y="1193.69318" type="line"/>
+      <point x="-60.80438" y="1193.69318" type="line"/>
+      <point x="116.30678" y="920.96591" type="line"/>
     </contour>
     <contour>
       <point x="119.45455" y="0.0" type="line"/>

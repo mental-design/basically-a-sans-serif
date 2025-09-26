@@ -1,19 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_circumflex" format="2">
   <unicode hex="0302"/>
-  <anchor x="-511.9953034682081" y="925.9790462427745" name="_above" identifier="_above"/>
-  <anchor x="-511.9953034682081" y="925.9790462427745" name="_stem" identifier="_stem"/>
-  <anchor x="-349.7423410404624" y="1096.875" name="topright" identifier="topright"/>
-  <anchor x="-511.9953034682081" y="1221.7304913294797" name="above" identifier="above"/>
+  <anchor x="-511.8228816610658" y="926.3265122419588" name="_above" identifier="_above"/>
+  <anchor x="-511.8228816610658" y="926.3265122419588" name="_stem" identifier="_stem"/>
+  <anchor x="-289.35780124819973" y="1105.2247359577532" name="topright" identifier="topright"/>
+  <anchor x="-511.8228816610658" y="1229.6606457033124" name="above" identifier="above"/>
+  <anchor x="-273.80331253000486" y="1105.2247359577532" name="grave" identifier="grave"/>
   <outline>
     <contour>
-      <point x="-261.3414001464844" y="925.9790496826172" type="line"/>
-      <point x="-462.7156295776367" y="1153.840316772461" type="line"/>
-      <point x="-561.2749786376953" y="1153.840316772461" type="line"/>
-      <point x="-762.6492080688477" y="925.9790496826172" type="line"/>
-      <point x="-664.0898590087891" y="925.9790496826172" type="line"/>
-      <point x="-511.9953079223633" y="1098.0788192749023" type="line"/>
-      <point x="-359.90074920654297" y="925.9790496826172" type="line"/>
+      <point x="-270.0613021850586" y="926.3265075683594" type="line"/>
+      <point x="-464.6969299316406" y="1164.8574829101562" type="line"/>
+      <point x="-558.9488296508789" y="1164.8574829101562" type="line"/>
+      <point x="-753.5844573974609" y="926.3265075683594" type="line"/>
+      <point x="-651.1526412963867" y="926.3265075683594" type="line"/>
+      <point x="-511.82288360595703" y="1095.349021911621" type="line"/>
+      <point x="-372.4931182861328" y="926.3265075683594" type="line"/>
     </contour>
   </outline>
 </glyph>

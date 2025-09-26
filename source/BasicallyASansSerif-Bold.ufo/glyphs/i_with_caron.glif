@@ -1,22 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i_with_caron" format="2">
-  <advance width="394.19999999999993"/>
+  <advance width="385.9892250310817"/>
   <unicode hex="01D0"/>
+  <anchor x="192.9946125155408" y="-107.41815167840862" name="below" identifier="below"/>
+  <anchor x="192.9946125155408" y="444.28566633734926" name="stroke" identifier="stroke"/>
+  <anchor x="303.32200580190636" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="192.9946125155408" y="1247.680014504766" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="99.53703308105469" y="939.9375" type="line"/>
-      <point x="294.66297149658203" y="939.9375" type="line"/>
-      <point x="514.9124984741211" y="1209.9375" type="line"/>
-      <point x="319.78656005859375" y="1209.9375" type="line"/>
-      <point x="197.0999984741211" y="1059.538215637207" type="line"/>
-      <point x="74.41343688964844" y="1209.9375" type="line"/>
-      <point x="-120.7125015258789" y="1209.9375" type="line"/>
+      <point x="-113.70892333984375" y="1211.8739624023438" type="line"/>
+      <point x="122.72020721435547" y="929.6526565551758" type="line"/>
+      <point x="263.2690200805664" y="929.6526565551758" type="line"/>
+      <point x="499.6981506347656" y="1211.8739624023438" type="line"/>
+      <point x="288.6391372680664" y="1211.8739624023438" type="line"/>
+      <point x="192.99461364746094" y="1105.9480361938477" type="line"/>
+      <point x="97.35009002685547" y="1211.8739624023438" type="line"/>
     </contour>
     <contour>
-      <point x="89.1" y="0.0" type="line"/>
-      <point x="305.1" y="0.0" type="line"/>
-      <point x="305.1" y="831.9375" type="line"/>
-      <point x="89.1" y="831.9375" type="line"/>
+      <point x="82.66722" y="0.0" type="line"/>
+      <point x="303.32201" y="0.0" type="line"/>
+      <point x="303.32201" y="833.00119" type="line"/>
+      <point x="82.66722" y="833.00119" type="line"/>
     </contour>
   </outline>
 </glyph>

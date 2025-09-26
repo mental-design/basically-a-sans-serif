@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.ss01_with_caron" format="2">
+  <advance width="530.9989856047298"/>
+  <unicode hex="E1FC"/>
+  <anchor x="234.64047144246376" y="1167.5086585282218" name="above" identifier="above"/>
+  <anchor x="234.64047144246376" y="-124.4359097455593" name="below" identifier="below"/>
+  <anchor x="234.64047144246376" y="1167.5086585282218" name="stem" identifier="stem"/>
+  <anchor x="235.30221362890592" y="445.4315799439233" name="stroke" identifier="stroke"/>
+  <anchor x="234.64047144246376" y="0" name="cedilla" identifier="cedilla"/>
+  <outline>
+    <contour>
+      <point x="401.05064" y="926.32651" type="line"/>
+      <point x="482.33936" y="926.32651" type="line"/>
+      <point x="482.33936" y="1196.32651" type="line"/>
+      <point x="401.05064" y="1196.32651" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.66620635986328" y="0" type="line"/>
+      <point x="276.61473083496094" y="0" type="line"/>
+      <point x="276.61473083496094" y="719.5433197021484" type="line"/>
+      <point x="440.6090621948242" y="719.5433197021484" type="line"/>
+      <point x="440.6090621948242" y="801.8906021118164" type="line"/>
+      <point x="276.61473083496094" y="801.8906021118164" type="line"/>
+      <point x="276.61473083496094" y="1105.2907028198242" type="line"/>
+      <point x="192.66620635986328" y="1105.2907028198242" type="line"/>
+      <point x="192.66620635986328" y="801.8906021118164" type="line"/>
+      <point x="48.659629821777344" y="801.8906021118164" type="line"/>
+      <point x="48.659629821777344" y="719.5433197021484" type="line"/>
+      <point x="192.66620635986328" y="719.5433197021484" type="line"/>
+    </contour>
+  </outline>
+</glyph>

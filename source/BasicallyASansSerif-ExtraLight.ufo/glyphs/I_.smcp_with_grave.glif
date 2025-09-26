@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.smcp_with_grave" format="2">
+  <advance width="286.7766323426312"/>
+  <unicode hex="EEB4"/>
+  <anchor x="143.3883161713156" y="-130.10978078782844" name="below" identifier="below"/>
+  <anchor x="171.26034408991652" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="143.3883161713156" y="404.50080481518046" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="176.50188" y="939.11139" type="line"/>
+      <point x="-1.47297" y="1213.82018" type="line"/>
+      <point x="-68.12322" y="1213.82018" type="line"/>
+      <point x="110.69787" y="939.11139" type="line"/>
+    </contour>
+    <contour>
+      <point x="115.51629" y="0.0" type="line"/>
+      <point x="171.26034" y="0.0" type="line"/>
+      <point x="171.26034" y="809.00161" type="line"/>
+      <point x="115.51629" y="809.00161" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,6 +2,10 @@
 <glyph name="h_with_macronbelow" format="2">
   <advance width="885.2727272727271"/>
   <unicode hex="1E96"/>
+  <anchor x="450.81818181818176" y="1264.090909090909" name="above" identifier="above"/>
+  <anchor x="135.8181818181818" y="1264.090909090909" name="stem" identifier="stem"/>
+  <anchor x="135.8181818181818" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="135.8181818181818" y="961.6193181818181" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
       <point x="119.45455169677734" y="0" type="line"/>
@@ -26,10 +30,10 @@
       <point x="119.45455169677734" y="1133.1818237304688" type="line"/>
     </contour>
     <contour>
-      <point x="212.01136" y="-236.62338" type="line"/>
-      <point x="689.625" y="-236.62338" type="line"/>
-      <point x="689.625" y="-203.8961" type="line"/>
-      <point x="212.01136" y="-203.8961" type="line"/>
+      <point x="187.46591" y="-251.16883" type="line"/>
+      <point x="714.17045" y="-251.16883" type="line"/>
+      <point x="714.17045" y="-218.44156" type="line"/>
+      <point x="187.46591" y="-218.44156" type="line"/>
     </contour>
   </outline>
 </glyph>

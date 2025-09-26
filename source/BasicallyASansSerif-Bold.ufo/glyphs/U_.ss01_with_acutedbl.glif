@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.ss01_with_acutedbl" format="2">
+  <advance width="986.3630087028596"/>
+  <unicode hex="E1D1"/>
+  <anchor x="493.18150435142974" y="-107.41815167840862" name="below" identifier="below"/>
+  <anchor x="493.18150435142974" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="917.1230584334853" y="1087.077289680895" name="horn" identifier="horn"/>
+  <outline>
+    <contour>
+      <point x="225.74396" y="1194.49544" type="line"/>
+      <point x="425.04187" y="1194.49544" type="line"/>
+      <point x="637.33175" y="1501.75611" type="line"/>
+      <point x="412.5289" y="1501.75611" type="line"/>
+    </contour>
+    <contour>
+      <point x="535.11359" y="1194.49544" type="line"/>
+      <point x="734.41149" y="1194.49544" type="line"/>
+      <point x="946.70138" y="1501.75611" type="line"/>
+      <point x="721.89853" y="1501.75611" type="line"/>
+    </contour>
+    <contour>
+      <point x="69.23995208740234" y="414.6298294067383" type="line"/>
+      <point x="69.23995208740236" y="102.50108026589106"/>
+      <point x="297.13558395205416" y="-17.811109999999974"/>
+      <point x="493.1815" y="-17.81111" type="curve"/>
+      <point x="689.2274160479459" y="-17.81111"/>
+      <point x="917.1230590998001" y="102.50108056252196"/>
+      <point x="917.1230600616303" y="414.62983" type="curve"/>
+      <point x="917.1230621337891" y="1087.077293395996" type="line"/>
+      <point x="693.8142929077148" y="1087.077293395996" type="line"/>
+      <point x="693.8142929077148" y="414.6298294067383" type="line"/>
+      <point x="693.8142929077148" y="246.38638722701234"/>
+      <point x="571.5533043023812" y="193.99705"/>
+      <point x="493.1815" y="193.99705" type="curve"/>
+      <point x="414.80969731030666" y="193.99705"/>
+      <point x="292.5487197188028" y="246.38639042060953"/>
+      <point x="292.54872003793724" y="414.62983" type="curve"/>
+      <point x="292.54872131347656" y="1087.077293395996" type="line"/>
+      <point x="69.23995208740234" y="1087.077293395996" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,22 +2,25 @@
 <glyph name="u_with_breveinv" format="2">
   <advance width="885.2727272727273"/>
   <unicode hex="0217"/>
+  <anchor x="434.4545454545454" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="765.8181818181818" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="765.8181818181818" y="790.0568181818181" name="horn" identifier="horn"/>
   <outline>
     <contour>
-      <point x="660.98864" y="920.96591" type="line"/>
-      <point x="660.98864" y="1045.54607"/>
-      <point x="559.48457" y="1146.69318"/>
-      <point x="434.45455" y="1146.69318" type="curve" smooth="yes"/>
-      <point x="309.42452" y="1146.69318"/>
-      <point x="207.92045" y="1045.54607"/>
-      <point x="207.92045" y="920.96591" type="curve"/>
-      <point x="240.64773" y="920.96591" type="line"/>
-      <point x="240.64773" y="1027.48329"/>
-      <point x="327.49385" y="1113.96591"/>
-      <point x="434.45455" y="1113.96591" type="curve" smooth="yes"/>
-      <point x="541.41524" y="1113.96591"/>
-      <point x="628.26136" y="1027.48329"/>
-      <point x="628.26136" y="920.96591" type="curve"/>
+      <point x="673.26136" y="920.96591" type="line"/>
+      <point x="673.26136" y="1054.58427"/>
+      <point x="567.15726" y="1163.05682"/>
+      <point x="434.45455" y="1163.05682" type="curve" smooth="yes"/>
+      <point x="301.75183" y="1163.05682"/>
+      <point x="195.64773" y="1054.58427"/>
+      <point x="195.64773" y="920.96591" type="curve"/>
+      <point x="228.375" y="920.96591" type="line"/>
+      <point x="228.375" y="1036.51684"/>
+      <point x="318.90361" y="1130.32955"/>
+      <point x="434.45455" y="1130.32955" type="curve" smooth="yes"/>
+      <point x="550.00548" y="1130.32955"/>
+      <point x="640.53409" y="1036.51684"/>
+      <point x="640.53409" y="920.96591" type="curve"/>
     </contour>
     <contour>
       <point x="103.09091186523438" y="338.36363983154297" type="line"/>

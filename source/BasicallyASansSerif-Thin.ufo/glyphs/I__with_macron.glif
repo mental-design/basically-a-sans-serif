@@ -2,12 +2,16 @@
 <glyph name="I_with_macron" format="2">
   <advance width="271.6363636363636"/>
   <unicode hex="012A"/>
+  <anchor x="135.8181818181818" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="152.18181818181816" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="135.8181818181818" y="536.9318181818181" name="stroke" identifier="stroke"/>
+  <anchor x="135.8181818181818" y="1466.590909090909" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-102.98864" y="1277.75974" type="line"/>
-      <point x="374.625" y="1277.75974" type="line"/>
-      <point x="374.625" y="1310.48701" type="line"/>
-      <point x="-102.98864" y="1310.48701" type="line"/>
+      <point x="-127.53409" y="1302.95455" type="line"/>
+      <point x="399.17045" y="1302.95455" type="line"/>
+      <point x="399.17045" y="1335.68182" type="line"/>
+      <point x="-127.53409" y="1335.68182" type="line"/>
     </contour>
     <contour>
       <point x="119.45455" y="0.0" type="line"/>

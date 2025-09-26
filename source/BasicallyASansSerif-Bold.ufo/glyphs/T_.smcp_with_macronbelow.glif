@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.smcp_with_macronbelow" format="2">
+  <advance width="775.5503953328364"/>
+  <unicode hex="EF07"/>
+  <anchor x="387.77519766641825" y="960.5272536501996" name="above" identifier="above"/>
+  <anchor x="387.77519766641825" y="0.0" name="cedilla" identifier="cedilla"/>
+  <anchor x="387.77519766641825" y="425.4061512870102" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="285.8595962524414" y="0" type="line"/>
+      <point x="489.69080352783203" y="0" type="line"/>
+      <point x="489.69080352783203" y="658.4456100463867" type="line"/>
+      <point x="724.4101486206055" y="658.4456100463867" type="line"/>
+      <point x="724.4101486206055" y="850.8123016357422" type="line"/>
+      <point x="51.14025115966797" y="850.8123016357422" type="line"/>
+      <point x="51.14025115966797" y="658.4456100463867" type="line"/>
+      <point x="285.8595962524414" y="658.4456100463867" type="line"/>
+    </contour>
+    <contour>
+      <point x="95.95355" y="-317.54381" type="line"/>
+      <point x="679.59684" y="-317.54381" type="line"/>
+      <point x="679.59684" y="-135.98946" type="line"/>
+      <point x="95.95355" y="-135.98946" type="line"/>
+    </contour>
+  </outline>
+</glyph>

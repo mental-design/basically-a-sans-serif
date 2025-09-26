@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C.smcp_with_acute" format="2">
+  <advance width="1036.234369266792"/>
+  <unicode hex="EE85"/>
+  <anchor x="534.4437947676881" y="-100.53079531779893" name="below" identifier="below"/>
+  <anchor x="534.4437947676881" y="0.0" name="cedilla" identifier="cedilla"/>
+  <anchor x="534.4437947676881" y="1330.7504922874962" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="401.76628" y="970.75049" type="line"/>
+      <point x="642.7971" y="970.75049" type="line"/>
+      <point x="879.6547" y="1298.02322" type="line"/>
+      <point x="589.97546" y="1298.02322" type="line"/>
+    </contour>
+    <contour>
+      <point x="527.37612" y="-21.8875" type="curve" smooth="yes"/>
+      <point x="760.2764400000001" y="-21.8875"/>
+      <point x="954.5326" y="136.48550999999992"/>
+      <point x="996.03564" y="349.70333" type="curve"/>
+      <point x="708.37827" y="349.70333" type="line"/>
+      <point x="676.78373" y="285.53613"/>
+      <point x="610.7331" y="241.35054"/>
+      <point x="534.44379" y="241.35054" type="curve" smooth="yes"/>
+      <point x="427.50512" y="241.35054"/>
+      <point x="340.68448" y="328.17117"/>
+      <point x="340.68448" y="435.10985" type="curve"/>
+      <point x="340.68448" y="542.04852"/>
+      <point x="427.50512" y="628.86916"/>
+      <point x="534.44379" y="628.86916" type="curve" smooth="yes"/>
+      <point x="610.73256" y="628.86916"/>
+      <point x="676.78281" y="584.68419"/>
+      <point x="708.37756" y="520.51637" type="curve"/>
+      <point x="996.03548" y="520.51637" type="line"/>
+      <point x="954.53216" y="733.7345400000002"/>
+      <point x="760.2761800000001" y="892.10719"/>
+      <point x="527.37612" y="892.10719" type="curve" smooth="yes"/>
+      <point x="260.1863199999999" y="892.10719"/>
+      <point x="43.45798000000001" y="689.1240800000002"/>
+      <point x="43.45798" y="435.10985" type="curve"/>
+      <point x="43.45798000000001" y="181.0956099999999"/>
+      <point x="260.1863199999999" y="-21.887499999999967"/>
+    </contour>
+  </outline>
+</glyph>

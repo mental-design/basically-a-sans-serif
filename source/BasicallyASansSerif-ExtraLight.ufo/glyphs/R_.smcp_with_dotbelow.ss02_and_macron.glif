@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.smcp_with_dotbelow.ss02_and_macron" format="2">
+  <advance width="788.4337168409987"/>
+  <unicode hex="EA4C"/>
+  <anchor x="403.31020929354156" y="1210.792030504475" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="138.14671" y="1027.43075" type="line"/>
+      <point x="668.47371" y="1027.43075" type="line"/>
+      <point x="668.47371" y="1082.85521" type="line"/>
+      <point x="138.14671" y="1082.85521" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.84790802001953" y="754.0824279785156" type="line"/>
+      <point x="452.7770767211914" y="754.0824279785156" type="line"/>
+      <point x="613.1181845212907" y="754.0824279785156"/>
+      <point x="663.9428" y="639.5627586905939"/>
+      <point x="663.9428" y="562.91671" type="curve" smooth="yes"/>
+      <point x="663.9428" y="486.27066301479147"/>
+      <point x="613.1181876383843" y="371.75100025533027"/>
+      <point x="452.77708" y="371.75099996361286" type="curve"/>
+      <point x="170.84790802001953" y="371.7509994506836" type="line"/>
+    </contour>
+    <contour>
+      <point x="353.15227" y="-297.87455" type="line"/>
+      <point x="456.61864" y="-297.87455" type="line"/>
+      <point x="456.61864" y="-194.40819" type="line"/>
+      <point x="353.15227" y="-194.40819" type="line"/>
+    </contour>
+    <contour>
+      <point x="115.51628875732422" y="0" type="line"/>
+      <point x="170.84790802001953" y="0" type="line"/>
+      <point x="170.84790802001953" y="317.14115142822266" type="line"/>
+      <point x="457.99212646484375" y="317.14115142822266" type="line"/>
+      <point x="670.7904586791992" y="0" type="line"/>
+      <point x="737.0721893310547" y="0" type="line"/>
+      <point x="520.9474792480469" y="321.8234176635742" type="line"/>
+      <point x="634.102676604264" y="344.0858315268804"/>
+      <point x="719.52188" y="443.3346530069599"/>
+      <point x="719.52188" y="563.03455" type="curve" smooth="yes"/>
+      <point x="719.52188" y="676.7183155305038"/>
+      <point x="639.2853135670749" y="809.0016100921671"/>
+      <point x="452.77708" y="809.0016099889294" type="curve"/>
+      <point x="115.51628875732422" y="809.0016098022461" type="line"/>
+    </contour>
+  </outline>
+</glyph>

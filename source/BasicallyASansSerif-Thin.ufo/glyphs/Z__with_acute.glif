@@ -1,24 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z_with_acute" format="2">
-  <advance width="938.4545454545455"/>
+  <advance width="971.1818181818453"/>
   <unicode hex="0179"/>
+  <anchor x="485.590909090909" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="485.590909090909" y="543.4318181818181" name="stroke" identifier="stroke"/>
+  <anchor x="485.590909090909" y="1521.1363636363635" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="450.42618" y="1204.77273" type="line"/>
-      <point x="488.02836" y="1204.77273" type="line"/>
-      <point x="620.7278" y="1439.31818" type="line"/>
-      <point x="583.12562" y="1439.31818" type="line"/>
+      <point x="466.07951" y="1204.77273" type="line"/>
+      <point x="505.10231" y="1204.77273" type="line"/>
+      <point x="682.21347" y="1477.5" type="line"/>
+      <point x="643.19067" y="1477.5" type="line"/>
     </contour>
     <contour>
       <point x="86.7272720336914" y="0" type="line"/>
-      <point x="851.7272720336914" y="0" type="line"/>
-      <point x="851.7272720336914" y="32.727272033691406" type="line"/>
-      <point x="127.02921295166016" y="32.727272033691406" type="line"/>
-      <point x="851.7272720336914" y="1041.136360168457" type="line"/>
-      <point x="851.7272720336914" y="1073.863639831543" type="line"/>
+      <point x="884.4545516967773" y="0" type="line"/>
+      <point x="884.4545516967773" y="32.727272033691406" type="line"/>
+      <point x="127.64613342285156" y="32.727272033691406" type="line"/>
+      <point x="884.4545516967773" y="1041.136360168457" type="line"/>
+      <point x="884.4545516967773" y="1073.863639831543" type="line"/>
       <point x="86.7272720336914" y="1073.863639831543" type="line"/>
       <point x="86.7272720336914" y="1041.136360168457" type="line"/>
-      <point x="811.4253311157227" y="1041.136360168457" type="line"/>
+      <point x="843.5356903076172" y="1041.136360168457" type="line"/>
       <point x="86.7272720336914" y="32.727272033691406" type="line"/>
     </contour>
   </outline>

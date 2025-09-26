@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.smcp_with_dotabove.ss02" format="2">
+  <advance width="902.8257378237665"/>
+  <unicode hex="E705"/>
+  <anchor x="427.6820438585617" y="-118.63381322091955" name="below" identifier="below"/>
+  <anchor x="98.59182757072296" y="416.17220538342565" name="stroke" identifier="stroke"/>
+  <anchor x="427.6820438585617" y="1214.5767870771285" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="327.39287" y="975.20184" type="line"/>
+      <point x="527.97122" y="975.20184" type="line"/>
+      <point x="527.97122" y="1175.7802" type="line"/>
+      <point x="327.39287" y="1175.7802" type="line"/>
+    </contour>
+    <contour>
+      <point x="239.3456802368164" y="695.9266204833984" type="line"/>
+      <point x="387.23751068115234" y="695.9266204833984" type="line"/>
+      <point x="592.5366554742981" y="695.9266204833984"/>
+      <point x="686.73176" y="547.4128968245418"/>
+      <point x="686.73176" y="416.17221" type="curve"/>
+      <point x="686.73176" y="284.93151817545805"/>
+      <point x="592.5366551337218" y="136.4177863866279"/>
+      <point x="387.23751" y="136.41779039000417" type="curve"/>
+      <point x="239.3456802368164" y="136.41779327392578" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.59182739257812" y="0" type="line"/>
+      <point x="387.23751068115234" y="0.0" type="line"/>
+      <point x="678.5650884500634" y="0.0"/>
+      <point x="830.34741" y="212.86722130872832"/>
+      <point x="830.34741" y="416.17221" type="curve"/>
+      <point x="830.34741" y="619.4771936912717"/>
+      <point x="678.5650881094872" y="832.344406696971"/>
+      <point x="387.23751" y="832.3444102434718" type="curve"/>
+      <point x="98.59182739257812" y="832.3444137573242" type="line"/>
+    </contour>
+  </outline>
+</glyph>

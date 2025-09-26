@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.smcp_with_diaeresis.ss02_and_macron" format="2">
+  <advance width="846.7370113962589"/>
+  <unicode hex="EA43"/>
+  <anchor x="423.3685056981294" y="-133.06313621653425" name="below" identifier="below"/>
+  <anchor x="800.7048036040511" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="423.3685056981294" y="1393.5225518009495" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="160.01623" y="1229.88619" type="line"/>
+      <point x="686.72078" y="1229.88619" type="line"/>
+      <point x="686.72078" y="1262.61346" type="line"/>
+      <point x="160.01623" y="1262.61346" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.49318" y="1013.26281" type="line"/>
+      <point x="324.29838" y="1013.26281" type="line"/>
+      <point x="324.29838" y="1088.06801" type="line"/>
+      <point x="249.49318" y="1088.06801" type="line"/>
+    </contour>
+    <contour>
+      <point x="522.43864" y="1013.26281" type="line"/>
+      <point x="597.24383" y="1013.26281" type="line"/>
+      <point x="597.24383" y="1088.06801" type="line"/>
+      <point x="522.43864" y="1088.06801" type="line"/>
+    </contour>
+    <contour>
+      <point x="46.03221130371094" y="0" type="line"/>
+      <point x="81.46395874023438" y="0" type="line"/>
+      <point x="203.99486541748047" y="273.6889877319336" type="line"/>
+      <point x="642.7421417236328" y="273.6889877319336" type="line"/>
+      <point x="765.2730484008789" y="0" type="line"/>
+      <point x="800.7048034667969" y="0" type="line"/>
+      <point x="441.0843811035156" y="803.0568237304688" type="line"/>
+      <point x="405.6526336669922" y="803.0568237304688" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.42759704589844" y="305.92640686035156" type="line"/>
+      <point x="423.3685073852539" y="763.6890335083008" type="line"/>
+      <point x="628.3094100952148" y="305.92640686035156" type="line"/>
+    </contour>
+  </outline>
+</glyph>

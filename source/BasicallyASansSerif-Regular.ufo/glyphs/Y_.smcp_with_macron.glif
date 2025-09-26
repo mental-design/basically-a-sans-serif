@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.smcp_with_macron" format="2">
+  <advance width="856.9626788903166"/>
+  <unicode hex="EF29"/>
+  <anchor x="428.4813394451583" y="-122.77695522648489" name="below" identifier="below"/>
+  <anchor x="428.4813394451583" y="1240.6287726252792" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="158.82146" y="1012.66222" type="line"/>
+      <point x="698.14122" y="1012.66222" type="line"/>
+      <point x="698.14122" y="1120.07063" type="line"/>
+      <point x="158.82146" y="1120.07063" type="line"/>
+    </contour>
+    <contour>
+      <point x="373.21089935302734" y="0" type="line"/>
+      <point x="483.75177001953125" y="0" type="line"/>
+      <point x="483.75177001953125" y="311.16178131103516" type="line"/>
+      <point x="808.7190628051758" y="823.868537902832" type="line"/>
+      <point x="679.1862411499023" y="823.868537902832" type="line"/>
+      <point x="428.48133850097656" y="427.7327423095703" type="line"/>
+      <point x="177.7764434814453" y="823.868537902832" type="line"/>
+      <point x="48.243621826171875" y="823.868537902832" type="line"/>
+      <point x="373.21089935302734" y="311.16178131103516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

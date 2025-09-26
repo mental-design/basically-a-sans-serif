@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.ss02_with_stroke" format="2">
+  <advance width="415.4748272458046"/>
+  <unicode hex="E594"/>
+  <anchor x="207.73741362290227" y="923.4273198420534" name="above" identifier="above"/>
+  <anchor x="207.73741362290227" y="-127.93682132280355" name="below" identifier="below"/>
+  <anchor x="235.99012833168806" y="0" name="ogonek" identifier="ogonek"/>
+  <outline>
+    <contour>
+      <point x="178.07206" y="966.30486" type="line"/>
+      <point x="237.40276" y="966.30486" type="line"/>
+      <point x="237.40276" y="1135.03949" type="line"/>
+      <point x="178.07206" y="1135.03949" type="line"/>
+    </contour>
+    <contour>
+      <point x="179.48470306396484" y="0" type="line"/>
+      <point x="235.99012756347656" y="0" type="line"/>
+      <point x="235.99012756347656" y="389.7799835205078" type="line"/>
+      <point x="363.9269485473633" y="389.7799835205078" type="line"/>
+      <point x="363.9269485473633" y="445.2044372558594" type="line"/>
+      <point x="235.99012756347656" y="445.2044372558594" type="line"/>
+      <point x="235.99012756347656" y="795.4905014038086" type="line"/>
+      <point x="179.48470306396484" y="795.4905014038086" type="line"/>
+      <point x="179.48470306396484" y="445.2044372558594" type="line"/>
+      <point x="51.547882080078125" y="445.2044372558594" type="line"/>
+      <point x="51.547882080078125" y="389.7799835205078" type="line"/>
+      <point x="179.48470306396484" y="389.7799835205078" type="line"/>
+    </contour>
+  </outline>
+</glyph>

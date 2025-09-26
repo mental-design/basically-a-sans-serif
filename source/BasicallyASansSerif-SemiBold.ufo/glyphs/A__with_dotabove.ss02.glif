@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_with_dotabove.ss02" format="2">
+  <advance width="1097.1738660907129"/>
+  <unicode hex="E540"/>
+  <anchor x="548.5869330453564" y="-111.96544276457884" name="below" identifier="below"/>
+  <anchor x="1090.4092872570195" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="548.5869330453564" y="1476.7483801295898" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="435.68844" y="1213.62959" type="line"/>
+      <point x="661.48542" y="1213.62959" type="line"/>
+      <point x="661.48542" y="1439.42657" type="line"/>
+      <point x="435.68844" y="1439.42657" type="line"/>
+    </contour>
+    <contour>
+      <point x="6.764579772949219" y="0" type="line"/>
+      <point x="202.18721771240234" y="0" type="line"/>
+      <point x="299.23162841796875" y="241.55924224853516" type="line"/>
+      <point x="797.9422378540039" y="241.55924224853516" type="line"/>
+      <point x="894.9866485595703" y="0" type="line"/>
+      <point x="1090.4092864990234" y="0" type="line"/>
+      <point x="646.2982482910156" y="1084.5194396972656" type="line"/>
+      <point x="450.87561798095703" y="1084.5194396972656" type="line"/>
+    </contour>
+    <contour>
+      <point x="548.5869293212891" y="862.2449569702148" type="line"/>
+      <point x="729.0069808959961" y="413.15026092529297" type="line"/>
+      <point x="368.16688537597656" y="413.15026092529297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

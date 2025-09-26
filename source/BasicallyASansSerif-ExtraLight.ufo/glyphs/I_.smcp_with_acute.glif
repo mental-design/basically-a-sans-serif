@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.smcp_with_acute" format="2">
+  <advance width="286.7766323426312"/>
+  <unicode hex="EEB3"/>
+  <anchor x="143.3883161713156" y="-130.10978078782844" name="below" identifier="below"/>
+  <anchor x="171.26034408991652" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="143.3883161713156" y="404.50080481518046" name="stroke" identifier="stroke"/>
+  <anchor x="143.3883161713156" y="1256.4657833105882" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="110.27475" y="939.11139" type="line"/>
+      <point x="176.07876" y="939.11139" type="line"/>
+      <point x="354.89985" y="1213.82018" type="line"/>
+      <point x="288.24961" y="1213.82018" type="line"/>
+    </contour>
+    <contour>
+      <point x="115.51629" y="0.0" type="line"/>
+      <point x="171.26034" y="0.0" type="line"/>
+      <point x="171.26034" y="809.00161" type="line"/>
+      <point x="115.51629" y="809.00161" type="line"/>
+    </contour>
+  </outline>
+</glyph>

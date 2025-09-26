@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.ss02_with_dotbelow.ss02" format="2">
+  <advance width="332.79069767441865"/>
+  <unicode hex="E595"/>
+  <anchor x="166.3953488372093" y="929.5377906976745" name="above" identifier="above"/>
+  <anchor x="166.3953488372093" y="426.7831360741972" name="stroke" identifier="stroke"/>
+  <anchor x="224.16279069767444" y="0" name="ogonek" identifier="ogonek"/>
+  <outline>
+    <contour>
+      <point x="105.73953" y="959.26686" type="line"/>
+      <point x="227.05116" y="959.26686" type="line"/>
+      <point x="227.05116" y="1139.65116" type="line"/>
+      <point x="105.73953" y="1139.65116" type="line"/>
+    </contour>
+    <contour>
+      <point x="108.62791" y="0.0" type="line"/>
+      <point x="224.16279" y="0.0" type="line"/>
+      <point x="224.16279" y="808.97965" type="line"/>
+      <point x="108.62791" y="808.97965" type="line"/>
+    </contour>
+    <contour>
+      <point x="79.08638" y="-327.58804" type="line"/>
+      <point x="253.70432" y="-327.58804" type="line"/>
+      <point x="253.70432" y="-152.9701" type="line"/>
+      <point x="79.08638" y="-152.9701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,12 +2,17 @@
 <glyph name="t_with_caron" format="2">
   <advance width="466.55769230769226"/>
   <unicode hex="0165"/>
+  <anchor x="227.8243006993007" y="1067.922077922078" name="above" identifier="above"/>
+  <anchor x="269.2110389610389" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="186.43756243756243" y="1067.922077922078" name="stem" identifier="stem"/>
+  <anchor x="219.54695304695306" y="412.28084415584414" name="stroke" identifier="stroke"/>
+  <anchor x="269.2110389610389" y="0" name="cedilla" identifier="cedilla"/>
   <outline>
     <contour>
       <point x="333.71029" y="920.96591" type="line"/>
       <point x="366.43756" y="920.96591" type="line"/>
-      <point x="366.43756" y="1198.63636" type="line"/>
-      <point x="333.71029" y="1198.63636" type="line"/>
+      <point x="366.43756" y="1190.96591" type="line"/>
+      <point x="333.71029" y="1190.96591" type="line"/>
     </contour>
     <contour>
       <point x="170.0739288330078" y="189.62661743164062" type="line"/>

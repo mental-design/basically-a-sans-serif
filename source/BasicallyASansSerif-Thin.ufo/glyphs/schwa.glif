@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="schwa" format="2">
-  <advance width="978.6022727272726"/>
+  <advance width="978.6022727272727"/>
   <unicode hex="0259"/>
   <outline>
     <contour>
-      <point x="81.27273" y="395.02841" type="curve" smooth="yes"/>
+      <point x="81.27273" y="395.02841" type="curve"/>
       <point x="81.27273" y="169.8314"/>
       <point x="264.10413" y="-13.0"/>
-      <point x="489.30114" y="-13.0" type="curve" smooth="yes"/>
+      <point x="489.30114" y="-13.0" type="curve"/>
       <point x="714.49814" y="-13.0"/>
       <point x="897.32955" y="169.8314"/>
-      <point x="897.32955" y="395.02841" type="curve" smooth="yes"/>
+      <point x="897.32955" y="395.02841" type="curve"/>
       <point x="897.32955" y="620.22542"/>
       <point x="714.49814" y="803.05682"/>
-      <point x="489.30114" y="803.05682" type="curve" smooth="yes"/>
+      <point x="489.30114" y="803.05682" type="curve"/>
       <point x="322.8524" y="803.05682"/>
       <point x="179.54823" y="703.17497"/>
-      <point x="116.10702" y="560.11715" type="curve"/>
-      <point x="152.2253875732422" y="560.1171493530273" type="line"/>
+      <point x="116.10702" y="560.11716" type="curve"/>
+      <point x="152.2253875732422" y="560.1171569824219" type="line"/>
       <point x="213.35334" y="684.58173"/>
       <point x="341.39252" y="770.32955"/>
-      <point x="489.30114" y="770.32955" type="curve" smooth="yes"/>
+      <point x="489.30114" y="770.32955" type="curve"/>
       <point x="691.4166051841" y="770.32955"/>
       <point x="856.4300293118065" y="610.2133740724333"/>
       <point x="864.3079147338867" y="409.75567626953125" type="curve"/>
@@ -29,7 +29,7 @@
       <point x="81.27273" y="400.0485"/>
     </contour>
     <contour>
-      <point x="489.3011399999999" y="19.727269999999976" type="curve" smooth="yes"/>
+      <point x="489.3011399999999" y="19.727269999999976" type="curve"/>
       <point x="288.23065780350004" y="19.72727"/>
       <point x="123.87956232032323" y="178.19202711687424"/>
       <point x="114.42912292480469" y="377.0284118652344" type="curve"/>

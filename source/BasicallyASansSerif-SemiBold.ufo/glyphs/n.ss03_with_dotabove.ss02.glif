@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.ss03_with_dotabove.ss02" format="2">
+  <advance width="929.6630669546438"/>
+  <unicode hex="E692"/>
+  <anchor x="471.82937365010804" y="-111.96544276457884" name="below" identifier="below"/>
+  <anchor x="90.73866090712744" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="852.9200863930887" y="0" name="hookright" identifier="hookright"/>
+  <anchor x="471.82937365010804" y="1216.9171166306696" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="358.93089" y="953.79833" type="line"/>
+      <point x="584.72786" y="953.79833" type="line"/>
+      <point x="584.72786" y="1179.5953" type="line"/>
+      <point x="358.93089" y="1179.5953" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.73866271972656" y="0" type="line"/>
+      <point x="271.01393127441406" y="0" type="line"/>
+      <point x="271.01393127441406" y="451.50343322753906" type="line"/>
+      <point x="271.01393127441406" y="619.8746001519212"/>
+      <point x="393.39066847758136" y="672.31887"/>
+      <point x="471.82937" y="672.31887" type="curve" smooth="yes"/>
+      <point x="550.2680720695257" y="672.31887"/>
+      <point x="672.6448196327747" y="619.8745980716644"/>
+      <point x="672.6448200495009" y="451.50343" type="curve"/>
+      <point x="672.6448211669922" y="0" type="line"/>
+      <point x="852.9200897216797" y="0" type="line"/>
+      <point x="852.9200897216797" y="451.50343322753906" type="line"/>
+      <point x="852.9200897216797" y="723.4897186132401"/>
+      <point x="654.8841776424418" y="841.4104"/>
+      <point x="475.13321" y="841.4104" type="curve" smooth="yes"/>
+      <point x="396.28765924820004" y="841.4104"/>
+      <point x="323.0819436716499" y="817.9120151471224"/>
+      <point x="262.6261215209961" y="777.3850326538086" type="curve"/>
+      <point x="262.6261215209961" y="824.6881713867188" type="line"/>
+      <point x="90.73866271972656" y="824.6881713867188" type="line"/>
+    </contour>
+  </outline>
+</glyph>

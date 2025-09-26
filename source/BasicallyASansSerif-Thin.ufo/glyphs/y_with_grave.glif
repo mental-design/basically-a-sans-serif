@@ -2,23 +2,23 @@
 <glyph name="y_with_grave" format="2">
   <advance width="881.6931818181818"/>
   <unicode hex="1EF3"/>
+  <anchor x="636.375" y="-130.9090909090909" name="below" identifier="below"/>
   <outline>
     <contour>
-      <point x="459.64768" y="920.96591" type="line"/>
-      <point x="326.94825" y="1155.51136" type="line"/>
-      <point x="289.34607" y="1155.51136" type="line"/>
-      <point x="422.0455" y="920.96591" type="line"/>
+      <point x="460.35799" y="920.96591" type="line"/>
+      <point x="283.24683" y="1193.69318" type="line"/>
+      <point x="244.22403" y="1193.69318" type="line"/>
+      <point x="421.33519" y="920.96591" type="line"/>
     </contour>
     <contour>
       <point x="279.09195709228516" y="-307.8409118652344" type="line"/>
       <point x="315.2091369628906" y="-307.8409118652344" type="line"/>
-      <point x="458.905179977417" y="3.814697265625e-06" type="line"/>
       <point x="827.6931762695312" y="790.0568237304688" type="line"/>
       <point x="791.5759963989258" y="790.0568237304688" type="line"/>
-      <point x="440.8465881347656" y="38.687034606933594" type="line"/>
+      <point x="440.8465881347656" y="38.68701934814453" type="line"/>
       <point x="90.11717987060547" y="790.0568237304688" type="line"/>
       <point x="54" y="790.0568237304688" type="line"/>
-      <point x="422.78800201416016" y="7.62939453125e-06" type="line"/>
+      <point x="422.7880058288574" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

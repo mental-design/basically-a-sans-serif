@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_diaeresis.ss02" format="2">
+  <unicode hex="E533"/>
+  <anchor x="-511.8228816610659" y="926.3265122419588" name="_above" identifier="_above"/>
+  <anchor x="-511.8228816610659" y="1154.1997719635142" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="-729.38524" y="975.49598" type="line"/>
+      <point x="-592.16009" y="975.49598" type="line"/>
+      <point x="-592.16009" y="1112.72114" type="line"/>
+      <point x="-729.38524" y="1112.72114" type="line"/>
+    </contour>
+    <contour>
+      <point x="-431.48568" y="975.49598" type="line"/>
+      <point x="-294.26052" y="975.49598" type="line"/>
+      <point x="-294.26052" y="1112.72114" type="line"/>
+      <point x="-431.48568" y="1112.72114" type="line"/>
+    </contour>
+  </outline>
+</glyph>

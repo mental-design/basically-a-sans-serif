@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.ss01.smcp_with_caron" format="2">
+  <advance width="765.2054953781978"/>
+  <unicode hex="EFB1"/>
+  <anchor x="373.7890848299977" y="-114.23576877627578" name="below" identifier="below"/>
+  <anchor x="373.7890848299977" y="1253.0543732879148" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="85.77207946777344" y="1215.7325592041016" type="line"/>
+      <point x="303.84583282470703" y="946.9636611938477" type="line"/>
+      <point x="443.73233795166016" y="946.9636611938477" type="line"/>
+      <point x="661.8060913085938" y="1215.7325592041016" type="line"/>
+      <point x="473.69193267822266" y="1215.7325592041016" type="line"/>
+      <point x="373.7890853881836" y="1099.251205444336" type="line"/>
+      <point x="273.88623809814453" y="1215.7325592041016" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.73866271972656" y="0" type="line"/>
+      <point x="262.9033432006836" y="0" type="line"/>
+      <point x="262.9033432006836" y="350.4916229248047" type="line"/>
+      <point x="549.726936340332" y="0" type="line"/>
+      <point x="772.192138671875" y="0" type="line"/>
+      <point x="416.3524703979492" y="426.2940902709961" type="line"/>
+      <point x="764.619140625" y="841.410400390625" type="line"/>
+      <point x="544.1417922973633" y="841.410400390625" type="line"/>
+      <point x="262.9033432006836" y="499.51243591308594" type="line"/>
+      <point x="262.9033432006836" y="841.410400390625" type="line"/>
+      <point x="90.73866271972656" y="841.410400390625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

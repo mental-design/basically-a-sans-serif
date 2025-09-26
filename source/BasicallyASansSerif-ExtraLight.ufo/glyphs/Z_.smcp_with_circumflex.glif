@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.smcp_with_circumflex" format="2">
+  <advance width="786.6065185349635"/>
+  <unicode hex="EF2F"/>
+  <anchor x="393.30325926746605" y="-130.10978078782844" name="below" identifier="below"/>
+  <anchor x="393.30325926746605" y="411.4402667161811" name="stroke" identifier="stroke"/>
+  <anchor x="597.6239280729942" y="1114.180492096373" name="topright" identifier="topright"/>
+  <anchor x="393.30325926746605" y="1242.1173134191765" name="above" identifier="above"/>
+  <anchor x="613.6160307383448" y="1114.180492096373" name="grave" identifier="grave"/>
+  <outline>
+    <contour>
+      <point x="161.98970794677734" y="939.1113891601562" type="line"/>
+      <point x="233.93485260009766" y="939.1113891601562" type="line"/>
+      <point x="393.30326080322266" y="1127.6998291015625" type="line"/>
+      <point x="552.6716690063477" y="939.1113891601562" type="line"/>
+      <point x="624.616813659668" y="939.1113891601562" type="line"/>
+      <point x="427.9765930175781" y="1172.5368576049805" type="line"/>
+      <point x="358.6299285888672" y="1172.5368576049805" type="line"/>
+    </contour>
+    <contour>
+      <point x="91.458251953125" y="0" type="line"/>
+      <point x="695.1482696533203" y="0" type="line"/>
+      <point x="695.1482696533203" y="54.91918182373047" type="line"/>
+      <point x="161.11422729492188" y="54.91918182373047" type="line"/>
+      <point x="695.1482696533203" y="754.1236801147461" type="line"/>
+      <point x="695.1482696533203" y="809.0016098022461" type="line"/>
+      <point x="91.458251953125" y="809.0016098022461" type="line"/>
+      <point x="91.458251953125" y="754.0824279785156" type="line"/>
+      <point x="625.4922943115234" y="754.0824279785156" type="line"/>
+      <point x="91.458251953125" y="54.8779296875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

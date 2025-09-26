@@ -2,6 +2,7 @@
 <glyph name="b_with_macronbelow" format="2">
   <advance width="1016.7840909090908"/>
   <unicode hex="1E07"/>
+  <anchor x="527.4829545454545" y="920.965909090909" name="above" identifier="above"/>
   <outline>
     <contour>
       <point x="119.45455169677734" y="0" type="line"/>
@@ -12,7 +13,7 @@
       <point x="527.48295" y="-12.999999999999972" type="curve" smooth="yes"/>
       <point x="752.67996" y="-13.0"/>
       <point x="935.51136" y="169.8314"/>
-      <point x="935.51136" y="395.02841" type="curve" smooth="yes"/>
+      <point x="935.51136" y="395.02841" type="curve"/>
       <point x="935.51136" y="620.22542"/>
       <point x="752.67996" y="803.05682"/>
       <point x="527.48295" y="803.05682" type="curve" smooth="yes"/>
@@ -23,24 +24,24 @@
       <point x="119.45455169677734" y="1133.1818237304688" type="line"/>
     </contour>
     <contour>
-      <point x="902.78409" y="395.02841" type="curve" smooth="yes"/>
+      <point x="260.88068" y="-251.16883" type="line"/>
+      <point x="787.58523" y="-251.16883" type="line"/>
+      <point x="787.58523" y="-218.44156" type="line"/>
+      <point x="260.88068" y="-218.44156" type="line"/>
+    </contour>
+    <contour>
+      <point x="527.48295" y="770.32955" type="curve" smooth="yes"/>
+      <point x="734.61729" y="770.32955"/>
+      <point x="902.78409" y="602.16274"/>
+      <point x="902.78409" y="395.02841" type="curve"/>
       <point x="902.78409" y="187.89407"/>
       <point x="734.61729" y="19.72727"/>
       <point x="527.48295" y="19.72727" type="curve" smooth="yes"/>
       <point x="320.34862" y="19.72727"/>
       <point x="152.18182" y="187.89407"/>
-      <point x="152.18182" y="395.02841" type="curve" smooth="yes"/>
+      <point x="152.18182" y="395.02841" type="curve"/>
       <point x="152.18182" y="602.16274"/>
       <point x="320.34862" y="770.32955"/>
-      <point x="527.48295" y="770.32955" type="curve" smooth="yes"/>
-      <point x="734.61729" y="770.32955"/>
-      <point x="902.78409" y="602.16274"/>
-    </contour>
-    <contour>
-      <point x="285.42614" y="-236.62338" type="line"/>
-      <point x="763.03977" y="-236.62338" type="line"/>
-      <point x="763.03977" y="-203.8961" type="line"/>
-      <point x="285.42614" y="-203.8961" type="line"/>
     </contour>
   </outline>
 </glyph>

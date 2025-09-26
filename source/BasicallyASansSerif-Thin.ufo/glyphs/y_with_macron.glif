@@ -2,23 +2,24 @@
 <glyph name="y_with_macron" format="2">
   <advance width="881.6931818181818"/>
   <unicode hex="0233"/>
+  <anchor x="636.375" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="440.8465909090909" y="1182.7840909090908" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="202.03977" y="993.95292" type="line"/>
-      <point x="679.65341" y="993.95292" type="line"/>
-      <point x="679.65341" y="1026.68019" type="line"/>
-      <point x="202.03977" y="1026.68019" type="line"/>
+      <point x="177.49432" y="1019.14773" type="line"/>
+      <point x="704.19886" y="1019.14773" type="line"/>
+      <point x="704.19886" y="1051.875" type="line"/>
+      <point x="177.49432" y="1051.875" type="line"/>
     </contour>
     <contour>
       <point x="279.09195709228516" y="-307.8409118652344" type="line"/>
       <point x="315.2091369628906" y="-307.8409118652344" type="line"/>
-      <point x="458.905179977417" y="3.814697265625e-06" type="line"/>
       <point x="827.6931762695312" y="790.0568237304688" type="line"/>
       <point x="791.5759963989258" y="790.0568237304688" type="line"/>
-      <point x="440.8465881347656" y="38.687034606933594" type="line"/>
+      <point x="440.8465881347656" y="38.68701934814453" type="line"/>
       <point x="90.11717987060547" y="790.0568237304688" type="line"/>
       <point x="54" y="790.0568237304688" type="line"/>
-      <point x="422.78800201416016" y="7.62939453125e-06" type="line"/>
+      <point x="422.7880058288574" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

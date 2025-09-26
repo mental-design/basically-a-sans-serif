@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.ss01_with_dotabove.ss02" format="2">
+  <advance width="868.909090909091"/>
+  <unicode hex="E617"/>
+  <anchor x="434.45454545454544" y="-98.18181818181819" name="below" identifier="below"/>
+  <anchor x="434.45454545454544" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="434.45454545454544" y="546.1363636363636" name="stroke" identifier="stroke"/>
+  <anchor x="434.45454545454544" y="1522.6363636363637" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="282.27273" y="1185.54545" type="line"/>
+      <point x="586.63636" y="1185.54545" type="line"/>
+      <point x="586.63636" y="1489.90909" type="line"/>
+      <point x="282.27273" y="1489.90909" type="line"/>
+    </contour>
+    <contour>
+      <point x="287.18182373046875" y="0" type="line"/>
+      <point x="581.7272720336914" y="0" type="line"/>
+      <point x="581.7272720336914" y="817.5272674560547" type="line"/>
+      <point x="839.4545516967773" y="817.5272674560547" type="line"/>
+      <point x="839.4545516967773" y="1092.2727279663086" type="line"/>
+      <point x="29.454551696777344" y="1092.2727279663086" type="line"/>
+      <point x="29.454551696777344" y="817.5272674560547" type="line"/>
+      <point x="287.18182373046875" y="817.5272674560547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

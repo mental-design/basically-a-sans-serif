@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.smcp_with_dotmiddle.ss02" format="2">
+  <advance width="738.308372644617"/>
+  <unicode hex="E806"/>
+  <anchor x="180.31269660245272" y="955.6461659445024" name="above" identifier="above"/>
+  <anchor x="390.8709219395016" y="-114.23576877627578" name="below" identifier="below"/>
+  <anchor x="384.1225010740538" y="841.4103971682266" name="caron" identifier="caron"/>
+  <anchor x="90.73866090712744" y="420.7051985841133" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="390.87092" y="307.80671" type="line"/>
+      <point x="616.6679" y="307.80671" type="line"/>
+      <point x="616.6679" y="533.60369" type="line"/>
+      <point x="390.87092" y="533.60369" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.73866271972656" y="0" type="line"/>
+      <point x="691.0031814575195" y="0" type="line"/>
+      <point x="691.0031814575195" y="165.18128204345703" type="line"/>
+      <point x="269.88672637939453" y="165.18128204345703" type="line"/>
+      <point x="269.88672637939453" y="841.410400390625" type="line"/>
+      <point x="90.73866271972656" y="841.410400390625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

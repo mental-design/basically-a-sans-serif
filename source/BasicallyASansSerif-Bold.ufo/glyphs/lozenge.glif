@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-  <advance width="934.1999999999612"/>
+  <advance width="945.9574128690784"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="341.7483825683594" y="0" type="line"/>
-      <point x="592.4516220092773" y="0" type="line"/>
-      <point x="912.5999984741211" y="543.375" type="line"/>
-      <point x="592.4516220092773" y="1086.75" type="line"/>
-      <point x="341.7483825683594" y="1086.75" type="line"/>
-      <point x="21.599998474121094" y="543.375" type="line"/>
+      <point x="683.0329895019531" y="543.5386428833008" type="line"/>
+      <point x="472.9787063598633" y="243.89147186279297" type="line"/>
+      <point x="262.92442321777344" y="543.5386428833008" type="line"/>
+      <point x="472.9787063598633" y="843.1858215332031" type="line"/>
     </contour>
     <contour>
-      <point x="661.8967590332031" y="543.375" type="line"/>
-      <point x="467.0999984741211" y="212.7542724609375" type="line"/>
-      <point x="272.30323791503906" y="543.375" type="line"/>
-      <point x="467.0999984741211" y="873.9957275390625" type="line"/>
+      <point x="15.530868530273438" y="543.5386428833008" type="line"/>
+      <point x="416.4847183227539" y="-14.281867980957031" type="line"/>
+      <point x="529.4726867675781" y="-14.281867980957031" type="line"/>
+      <point x="930.4265365600586" y="543.5386428833008" type="line"/>
+      <point x="529.4726867675781" y="1101.3591613769531" type="line"/>
+      <point x="416.4847183227539" y="1101.3591613769531" type="line"/>
     </contour>
   </outline>
 </glyph>

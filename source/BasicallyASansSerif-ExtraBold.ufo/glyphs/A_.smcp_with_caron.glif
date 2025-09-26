@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.smcp_with_caron" format="2">
+  <advance width="927.8280994907673"/>
+  <unicode hex="EE73"/>
+  <anchor x="463.9140497453836" y="-105.1394003473082" name="below" identifier="below"/>
+  <anchor x="914.2186888110131" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="463.9140497453836" y="1282.7956423588555" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="138.29995727539062" y="1248.5235290527344" type="line"/>
+      <point x="397.7564010620117" y="952.6885375976562" type="line"/>
+      <point x="530.0717010498047" y="952.6885375976562" type="line"/>
+      <point x="789.5281372070312" y="1248.5235290527344" type="line"/>
+      <point x="559.9038391113281" y="1248.5235290527344" type="line"/>
+      <point x="463.91404724121094" y="1148.8924102783203" type="line"/>
+      <point x="367.9242630004883" y="1248.5235290527344" type="line"/>
+    </contour>
+    <contour>
+      <point x="13.609413146972656" y="0" type="line"/>
+      <point x="256.11527252197266" y="0" type="line"/>
+      <point x="302.2296829223633" y="128.89392852783203" type="line"/>
+      <point x="625.5984191894531" y="128.89392852783203" type="line"/>
+      <point x="671.7128295898438" y="0" type="line"/>
+      <point x="914.2186889648438" y="0" type="line"/>
+      <point x="585.1669769287109" y="860.4249801635742" type="line"/>
+      <point x="342.66111755371094" y="860.4249801635742" type="line"/>
+    </contour>
+    <contour>
+      <point x="463.91404724121094" y="580.816276550293" type="line"/>
+      <point x="556.7736206054688" y="321.26541900634766" type="line"/>
+      <point x="371.0544738769531" y="321.26541900634766" type="line"/>
+    </contour>
+  </outline>
+</glyph>

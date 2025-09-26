@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.smcp_with_commabelow" format="2">
+  <advance width="738.7976238033987"/>
+  <unicode hex="EECD"/>
+  <anchor x="135.67175429377934" y="936.1199543983522" name="above" identifier="above"/>
+  <anchor x="284.9520993495475" y="803.0568181818181" name="caron" identifier="caron"/>
+  <anchor x="119.45454545454544" y="401.52840909090907" name="stroke" identifier="stroke"/>
+  <anchor x="393.87292445581187" y="401.52840909090907" name="dotmiddle" identifier="dotmiddle"/>
+  <outline>
+    <contour>
+      <point x="119.45455169677734" y="0" type="line"/>
+      <point x="668.2912979125977" y="0" type="line"/>
+      <point x="668.2912979125977" y="32.31311798095703" type="line"/>
+      <point x="151.8889617919922" y="32.31311798095703" type="line"/>
+      <point x="151.8889617919922" y="803.0568237304688" type="line"/>
+      <point x="119.45455169677734" y="803.0568237304688" type="line"/>
+    </contour>
+    <contour>
+      <point x="315.42230224609375" y="-433.5376281738281" type="line" smooth="yes"/>
+      <point x="393.35241184807273" y="-337.301952847277"/>
+      <point x="410.23656308733683" y="-233.30433051653316"/>
+      <point x="410.23655908542213" y="-145.79041000000004" type="curve"/>
+      <point x="410.23655700683594" y="-100.33586120605469" type="line"/>
+      <point x="377.50929260253906" y="-100.33586120605469" type="line"/>
+      <point x="377.50929260253906" y="-145.79041290283203" type="line" smooth="yes"/>
+      <point x="377.50929260253906" y="-228.10566338265585"/>
+      <point x="362.0604412967055" y="-323.94015752648124"/>
+      <point x="289.98843" y="-412.94169" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

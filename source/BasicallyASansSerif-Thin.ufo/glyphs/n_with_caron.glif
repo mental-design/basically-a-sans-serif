@@ -2,15 +2,19 @@
 <glyph name="n_with_caron" format="2">
   <advance width="885.2727272727271"/>
   <unicode hex="0148"/>
+  <anchor x="450.81818181818176" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="119.45454545454544" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="782.181818181818" y="0" name="hookright" identifier="hookright"/>
+  <anchor x="450.81818181818176" y="1193.6931818181818" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="428.1531982421875" y="920.9659118652344" type="line"/>
-      <point x="473.48316192626953" y="920.9659118652344" type="line"/>
-      <point x="677.3522720336914" y="1133.6931762695312" type="line"/>
-      <point x="632.0223236083984" y="1133.6931762695312" type="line"/>
-      <point x="450.8181838989258" y="944.6156921386719" type="line"/>
-      <point x="269.61405181884766" y="1133.6931762695312" type="line"/>
-      <point x="224.28408813476562" y="1133.6931762695312" type="line"/>
+      <point x="228.375" y="1150.0568237304688" type="line"/>
+      <point x="429.0636901855469" y="920.9659118652344" type="line"/>
+      <point x="472.5726776123047" y="920.9659118652344" type="line"/>
+      <point x="673.261360168457" y="1150.0568237304688" type="line"/>
+      <point x="629.7523727416992" y="1150.0568237304688" type="line"/>
+      <point x="450.81817626953125" y="945.7991790771484" type="line"/>
+      <point x="271.8840026855469" y="1150.0568237304688" type="line"/>
     </contour>
     <contour>
       <point x="119.45455169677734" y="0" type="line"/>

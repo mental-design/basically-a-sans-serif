@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_grave" format="2">
   <unicode hex="0300"/>
-  <anchor x="-503.9862804878049" y="942.1189024390244" name="_above" identifier="_above"/>
-  <anchor x="-503.9862804878049" y="942.1189024390244" name="_topright" identifier="_topright"/>
+  <anchor x="-495.20594506148353" y="944.2302161840539" name="_above" identifier="_above"/>
+  <anchor x="-495.20594506148353" y="944.2302161840539" name="_topright" identifier="_topright"/>
+  <anchor x="-495.20594506148353" y="944.2302161840539" name="_grave" identifier="_grave"/>
   <outline>
     <contour>
-      <point x="-408.65099" y="942.1189" type="line"/>
-      <point x="-575.07099" y="1236.26524" type="line"/>
-      <point x="-765.74156" y="1236.26524" type="line"/>
-      <point x="-599.32157" y="942.1189" type="line"/>
+      <point x="-372.46404" y="944.23022" type="line"/>
+      <point x="-560.03105" y="1261.46147" type="line"/>
+      <point x="-823.96024" y="1261.46147" type="line"/>
+      <point x="-599.50247" y="944.23022" type="line"/>
     </contour>
   </outline>
 </glyph>

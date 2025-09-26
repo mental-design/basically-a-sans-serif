@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss01_with_macronbelow" format="2">
+  <advance width="808.2142152023692"/>
+  <unicode hex="E1A9"/>
+  <anchor x="143.8893385982231" y="1203.4723593287267" name="above" identifier="above"/>
+  <anchor x="300.19921026653503" y="1075.535538005923" name="caron" identifier="caron"/>
+  <anchor x="115.5162882527147" y="537.7677690029615" name="stroke" identifier="stroke"/>
+  <anchor x="428.0952615992103" y="537.7677690029615" name="dotmiddle" identifier="dotmiddle"/>
+  <outline>
+    <contour>
+      <point x="115.51628875732422" y="0" type="line"/>
+      <point x="740.6742324829102" y="0" type="line"/>
+      <point x="740.6742324829102" y="56.26476287841797" type="line"/>
+      <point x="172.26239013671875" y="56.26476287841797" type="line"/>
+      <point x="172.26239013671875" y="1075.5355377197266" type="line"/>
+      <point x="115.51628875732422" y="1075.5355377197266" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.93176" y="-260.30002" type="line"/>
+      <point x="693.25876" y="-260.30002" type="line"/>
+      <point x="693.25876" y="-204.87556" type="line"/>
+      <point x="162.93176" y="-204.87556" type="line"/>
+    </contour>
+  </outline>
+</glyph>

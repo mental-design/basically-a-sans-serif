@@ -5,7 +5,7 @@
     <key>ascender</key>
     <integer>1320</integer>
     <key>capHeight</key>
-    <real>1079.3691588785045</real>
+    <real>1079.686046511628</real>
     <key>copyright</key>
     <string>Copyright 2021 Mental Design. All Rights Reserved.</string>
     <key>descender</key>
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>1.200</string>
+    <string>2.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -117,7 +117,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeOS2Selection</key>
     <array/>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>471</integer>
+    <integer>472</integer>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>50</integer>
     <key>openTypeOS2SubscriptXOffset</key>
@@ -169,12 +169,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>330</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-20.22222222222222</real>
+      <real>-20.61111111111111</real>
       <integer>0</integer>
-      <real>807.9497663551401</real>
-      <real>828.1719885773623</real>
-      <real>1079.3691588785045</real>
-      <real>1095.1469366562824</real>
+      <real>808.9796511627908</real>
+      <real>829.5907622739019</real>
+      <real>1079.686046511628</real>
+      <real>1095.574935400517</real>
     </array>
     <key>postscriptFamilyBlues</key>
     <array>
@@ -196,24 +196,23 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <string>Basically A Sans Serif Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-373.09553478712354</real>
-      <real>-358.31775700934577</real>
+      <real>-374.05167958656335</real>
+      <real>-359.16279069767444</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <real>83.27102803738318</real>
-      <real>90.67289719626169</real>
-      <real>98.07476635514017</real>
-      <real>108.85925925925926</real>
-      <real>111.02803738317756</real>
+      <real>11.373287037037038</real>
+      <real>11.553488372093025</real>
+      <real>93.39069767441862</real>
+      <real>108.26046511627906</real>
+      <real>115.53488372093024</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <real>83.27102803738318</real>
-      <real>90.67289719626169</real>
-      <real>98.07476635514017</real>
-      <real>108.85925925925926</real>
-      <real>111.02803738317756</real>
+      <real>93.39069767441862</real>
+      <real>108.26046511627906</real>
+      <real>113.73287037037036</real>
+      <real>115.53488372093024</real>
     </array>
     <key>postscriptWeightName</key>
     <string>Regular</string>
@@ -226,10 +225,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>unitsPerEm</key>
     <integer>1550</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>200</integer>
+    <integer>0</integer>
     <key>xHeight</key>
-    <real>807.9497663551401</real>
+    <real>808.9796511627908</real>
   </dict>
 </plist>

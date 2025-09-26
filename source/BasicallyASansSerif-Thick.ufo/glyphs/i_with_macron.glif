@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i_with_macron" format="2">
-  <advance width="421.7142857142857"/>
+  <advance width="427.0909090909092"/>
   <unicode hex="012B"/>
+  <anchor x="213.54545454545456" y="-98.18181818181819" name="below" identifier="below"/>
+  <anchor x="213.54545454545456" y="457.54464285714295" name="stroke" identifier="stroke"/>
+  <anchor x="360.81818181818187" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="213.54545454545456" y="1301.3954545454546" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-108.16071" y="968.48214" type="line"/>
-      <point x="529.875" y="968.48214" type="line"/>
-      <point x="529.875" y="1148.48214" type="line"/>
-      <point x="-108.16071" y="1148.48214" type="line"/>
+      <point x="-94.29545" y="987.46818" type="line"/>
+      <point x="521.38636" y="987.46818" type="line"/>
+      <point x="521.38636" y="1203.21364" type="line"/>
+      <point x="-94.29545" y="1203.21364" type="line"/>
     </contour>
     <contour>
-      <point x="82.28571" y="0.0" type="line"/>
-      <point x="339.42857" y="0.0" type="line"/>
-      <point x="339.42857" y="841.33929" type="line"/>
-      <point x="82.28571" y="841.33929" type="line"/>
+      <point x="66.27273" y="0.0" type="line"/>
+      <point x="360.81818" y="0.0" type="line"/>
+      <point x="360.81818" y="849.88636" type="line"/>
+      <point x="66.27273" y="849.88636" type="line"/>
     </contour>
   </outline>
 </glyph>

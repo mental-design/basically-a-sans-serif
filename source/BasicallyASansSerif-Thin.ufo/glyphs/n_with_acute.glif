@@ -2,12 +2,16 @@
 <glyph name="n_with_acute" format="2">
   <advance width="885.2727272727271"/>
   <unicode hex="0144"/>
+  <anchor x="450.81818181818176" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="119.45454545454544" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="782.181818181818" y="0" name="hookright" identifier="hookright"/>
+  <anchor x="450.81818181818176" y="1237.3295454545453" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="432.01709" y="920.96591" type="line"/>
-      <point x="469.61927" y="920.96591" type="line"/>
-      <point x="602.31871" y="1155.51136" type="line"/>
-      <point x="564.71652" y="1155.51136" type="line"/>
+      <point x="431.30678" y="920.96591" type="line"/>
+      <point x="470.32958" y="920.96591" type="line"/>
+      <point x="647.44074" y="1193.69318" type="line"/>
+      <point x="608.41794" y="1193.69318" type="line"/>
     </contour>
     <contour>
       <point x="119.45455169677734" y="0" type="line"/>

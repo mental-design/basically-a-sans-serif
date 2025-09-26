@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diaeresis.ss02" format="2">
+  <advance width="745.9561555075595"/>
+  <unicode hex="E530"/>
+  <anchor x="372.9780777537797" y="1456.3578679419932" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="90.73866" y="1200.53044" type="line"/>
+      <point x="309.24428" y="1200.53044" type="line"/>
+      <point x="309.24428" y="1419.03605" type="line"/>
+      <point x="90.73866" y="1419.03605" type="line"/>
+    </contour>
+    <contour>
+      <point x="436.71188" y="1200.53044" type="line"/>
+      <point x="655.21749" y="1200.53044" type="line"/>
+      <point x="655.21749" y="1419.03605" type="line"/>
+      <point x="436.71188" y="1419.03605" type="line"/>
+    </contour>
+  </outline>
+</glyph>

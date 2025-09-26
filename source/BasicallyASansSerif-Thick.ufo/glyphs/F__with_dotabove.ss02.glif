@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F_with_dotabove.ss02" format="2">
+  <advance width="930.2727272727273"/>
+  <unicode hex="E54C"/>
+  <anchor x="66.27272727272728" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="477.409090909091" y="1522.6363636363637" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="325.22727" y="1185.54545" type="line"/>
+      <point x="629.59091" y="1185.54545" type="line"/>
+      <point x="629.59091" y="1489.90909" type="line"/>
+      <point x="325.22727" y="1489.90909" type="line"/>
+    </contour>
+    <contour>
+      <point x="66.2727279663086" y="0" type="line"/>
+      <point x="360.81817626953125" y="0" type="line"/>
+      <point x="360.81817626953125" y="363.2727279663086" type="line"/>
+      <point x="814.9090881347656" y="363.2727279663086" type="line"/>
+      <point x="814.9090881347656" y="630.8181762695312" type="line"/>
+      <point x="360.81817626953125" y="630.8181762695312" type="line"/>
+      <point x="360.81817626953125" y="815.7272720336914" type="line"/>
+      <point x="888.5454483032227" y="815.7272720336914" type="line"/>
+      <point x="888.5454483032227" y="1092.2727279663086" type="line"/>
+      <point x="66.2727279663086" y="1092.2727279663086" type="line"/>
+    </contour>
+  </outline>
+</glyph>

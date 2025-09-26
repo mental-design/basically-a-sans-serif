@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.smcp_with_dotabove" format="2">
+  <advance width="360.6253932049055"/>
+  <unicode hex="EEB9"/>
+  <anchor x="180.31269660245272" y="-114.23576877627578" name="below" identifier="below"/>
+  <anchor x="269.88673229777805" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="180.31269660245272" y="420.7051985841133" name="stroke" identifier="stroke"/>
+  <anchor x="180.31269660245272" y="1248.7390385146969" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="306.04056" y="1085.68936" type="curve" smooth="yes"/>
+      <point x="306.04056" y="1155.08046"/>
+      <point x="249.70379" y="1211.41722"/>
+      <point x="180.3127" y="1211.41722" type="curve" smooth="yes"/>
+      <point x="110.9216" y="1211.41722"/>
+      <point x="54.58483" y="1155.08046"/>
+      <point x="54.58483" y="1085.68936" type="curve" smooth="yes"/>
+      <point x="54.58483" y="1016.29827"/>
+      <point x="110.9216" y="959.9615"/>
+      <point x="180.3127" y="959.9615" type="curve" smooth="yes"/>
+      <point x="249.70379" y="959.9615"/>
+      <point x="306.04056" y="1016.29827"/>
+    </contour>
+    <contour>
+      <point x="90.73866" y="0.0" type="line"/>
+      <point x="269.88673" y="0.0" type="line"/>
+      <point x="269.88673" y="841.4104" type="line"/>
+      <point x="90.73866" y="841.4104" type="line"/>
+    </contour>
+  </outline>
+</glyph>

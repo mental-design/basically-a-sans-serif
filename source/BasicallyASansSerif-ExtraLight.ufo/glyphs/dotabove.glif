@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotabove" format="2">
-  <advance width="345.5481136074608"/>
+  <advance width="347.29262445353265"/>
   <unicode hex="02D9"/>
+  <anchor x="173.64631222676633" y="1408.8989564236358" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="229.69648" y="1295.35078" type="curve" smooth="yes"/>
-      <point x="229.69648" y="1326.76713"/>
-      <point x="204.1904" y="1352.27321"/>
-      <point x="172.77406" y="1352.27321" type="curve" smooth="yes"/>
-      <point x="141.35772" y="1352.27321"/>
-      <point x="115.85163" y="1326.76713"/>
-      <point x="115.85163" y="1295.35078" type="curve" smooth="yes"/>
-      <point x="115.85163" y="1263.93444"/>
-      <point x="141.35772" y="1238.42836"/>
-      <point x="172.77406" y="1238.42836" type="curve" smooth="yes"/>
-      <point x="204.1904" y="1238.42836"/>
-      <point x="229.69648" y="1263.93444"/>
+      <point x="231.77634" y="1308.12333" type="curve" smooth="yes"/>
+      <point x="231.77634" y="1340.20616"/>
+      <point x="205.72915" y="1366.25335"/>
+      <point x="173.64631" y="1366.25335" type="curve" smooth="yes"/>
+      <point x="141.56348" y="1366.25335"/>
+      <point x="115.51629" y="1340.20616"/>
+      <point x="115.51629" y="1308.12333" type="curve" smooth="yes"/>
+      <point x="115.51629" y="1276.04049"/>
+      <point x="141.56348" y="1249.9933"/>
+      <point x="173.64631" y="1249.9933" type="curve" smooth="yes"/>
+      <point x="205.72915" y="1249.9933"/>
+      <point x="231.77634" y="1276.04049"/>
     </contour>
   </outline>
 </glyph>

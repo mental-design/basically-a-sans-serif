@@ -6,8 +6,86 @@
     <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
+    <key>A.smcp</key>
+    <string>A_.smcp.glif</string>
+    <key>A.smcp_with_acute</key>
+    <string>A_.smcp_with_acute.glif</string>
+    <key>A.smcp_with_breve</key>
+    <string>A_.smcp_with_breve.glif</string>
+    <key>A.smcp_with_breve_and_acute</key>
+    <string>A_.smcp_with_breve_and_acute.glif</string>
+    <key>A.smcp_with_breve_and_dotbelow</key>
+    <string>A_.smcp_with_breve_and_dotbelow.glif</string>
+    <key>A.smcp_with_breve_and_dotbelow.ss02</key>
+    <string>A_.smcp_with_breve_and_dotbelow.ss02.glif</string>
+    <key>A.smcp_with_breve_and_grave</key>
+    <string>A_.smcp_with_breve_and_grave.glif</string>
+    <key>A.smcp_with_breve_and_hook</key>
+    <string>A_.smcp_with_breve_and_hook.glif</string>
+    <key>A.smcp_with_breve_and_tildeabove</key>
+    <string>A_.smcp_with_breve_and_tildeabove.glif</string>
+    <key>A.smcp_with_breveinv</key>
+    <string>A_.smcp_with_breveinv.glif</string>
+    <key>A.smcp_with_caron</key>
+    <string>A_.smcp_with_caron.glif</string>
+    <key>A.smcp_with_circumflex</key>
+    <string>A_.smcp_with_circumflex.glif</string>
+    <key>A.smcp_with_circumflex_and_acute</key>
+    <string>A_.smcp_with_circumflex_and_acute.glif</string>
+    <key>A.smcp_with_circumflex_and_dotbelow</key>
+    <string>A_.smcp_with_circumflex_and_dotbelow.glif</string>
+    <key>A.smcp_with_circumflex_and_dotbelow.ss02</key>
+    <string>A_.smcp_with_circumflex_and_dotbelow.ss02.glif</string>
+    <key>A.smcp_with_circumflex_and_grave</key>
+    <string>A_.smcp_with_circumflex_and_grave.glif</string>
+    <key>A.smcp_with_circumflex_and_hook</key>
+    <string>A_.smcp_with_circumflex_and_hook.glif</string>
+    <key>A.smcp_with_circumflex_and_tildeabove</key>
+    <string>A_.smcp_with_circumflex_and_tildeabove.glif</string>
+    <key>A.smcp_with_diaeresis</key>
+    <string>A_.smcp_with_diaeresis.glif</string>
+    <key>A.smcp_with_diaeresis.ss02</key>
+    <string>A_.smcp_with_diaeresis.ss02.glif</string>
+    <key>A.smcp_with_diaeresis.ss02_and_macron</key>
+    <string>A_.smcp_with_diaeresis.ss02_and_macron.glif</string>
+    <key>A.smcp_with_diaeresis_and_macron</key>
+    <string>A_.smcp_with_diaeresis_and_macron.glif</string>
+    <key>A.smcp_with_dotabove</key>
+    <string>A_.smcp_with_dotabove.glif</string>
+    <key>A.smcp_with_dotabove.ss02_and_macron</key>
+    <string>A_.smcp_with_dotabove.ss02_and_macron.glif</string>
+    <key>A.smcp_with_dotabove_and_macron</key>
+    <string>A_.smcp_with_dotabove_and_macron.glif</string>
+    <key>A.smcp_with_dotbelow</key>
+    <string>A_.smcp_with_dotbelow.glif</string>
+    <key>A.smcp_with_dotbelow.ss02</key>
+    <string>A_.smcp_with_dotbelow.ss02.glif</string>
+    <key>A.smcp_with_grave</key>
+    <string>A_.smcp_with_grave.glif</string>
+    <key>A.smcp_with_gravedbl</key>
+    <string>A_.smcp_with_gravedbl.glif</string>
+    <key>A.smcp_with_hook</key>
+    <string>A_.smcp_with_hook.glif</string>
+    <key>A.smcp_with_macron</key>
+    <string>A_.smcp_with_macron.glif</string>
+    <key>A.smcp_with_ogonek</key>
+    <string>A_.smcp_with_ogonek.glif</string>
+    <key>A.smcp_with_ring</key>
+    <string>A_.smcp_with_ring.glif</string>
+    <key>A.smcp_with_ring_and_acute</key>
+    <string>A_.smcp_with_ring_and_acute.glif</string>
+    <key>A.smcp_with_ringbelow</key>
+    <string>A_.smcp_with_ringbelow.glif</string>
+    <key>A.smcp_with_tildeabove</key>
+    <string>A_.smcp_with_tildeabove.glif</string>
     <key>AE</key>
     <string>A_E_.glif</string>
+    <key>AE.smcp</key>
+    <string>A_E_.smcp.glif</string>
+    <key>AE.smcp_with_acute</key>
+    <string>A_E_.smcp_with_acute.glif</string>
+    <key>AE.smcp_with_macron</key>
+    <string>A_E_.smcp_with_macron.glif</string>
     <key>AE_with_acute</key>
     <string>A_E__with_acute.glif</string>
     <key>AE_with_macron</key>
@@ -20,6 +98,8 @@
     <string>A__with_breve_and_acute.glif</string>
     <key>A_with_breve_and_dotbelow</key>
     <string>A__with_breve_and_dotbelow.glif</string>
+    <key>A_with_breve_and_dotbelow.ss02</key>
+    <string>A__with_breve_and_dotbelow.ss02.glif</string>
     <key>A_with_breve_and_grave</key>
     <string>A__with_breve_and_grave.glif</string>
     <key>A_with_breve_and_hook</key>
@@ -36,6 +116,8 @@
     <string>A__with_circumflex_and_acute.glif</string>
     <key>A_with_circumflex_and_dotbelow</key>
     <string>A__with_circumflex_and_dotbelow.glif</string>
+    <key>A_with_circumflex_and_dotbelow.ss02</key>
+    <string>A__with_circumflex_and_dotbelow.ss02.glif</string>
     <key>A_with_circumflex_and_grave</key>
     <string>A__with_circumflex_and_grave.glif</string>
     <key>A_with_circumflex_and_hook</key>
@@ -44,14 +126,24 @@
     <string>A__with_circumflex_and_tildeabove.glif</string>
     <key>A_with_diaeresis</key>
     <string>A__with_diaeresis.glif</string>
+    <key>A_with_diaeresis.ss02</key>
+    <string>A__with_diaeresis.ss02.glif</string>
+    <key>A_with_diaeresis.ss02_and_macron</key>
+    <string>A__with_diaeresis.ss02_and_macron.glif</string>
     <key>A_with_diaeresis_and_macron</key>
     <string>A__with_diaeresis_and_macron.glif</string>
     <key>A_with_dotabove</key>
     <string>A__with_dotabove.glif</string>
+    <key>A_with_dotabove.ss02</key>
+    <string>A__with_dotabove.ss02.glif</string>
+    <key>A_with_dotabove.ss02_and_macron</key>
+    <string>A__with_dotabove.ss02_and_macron.glif</string>
     <key>A_with_dotabove_and_macron</key>
     <string>A__with_dotabove_and_macron.glif</string>
     <key>A_with_dotbelow</key>
     <string>A__with_dotbelow.glif</string>
+    <key>A_with_dotbelow.ss02</key>
+    <string>A__with_dotbelow.ss02.glif</string>
     <key>A_with_grave</key>
     <string>A__with_grave.glif</string>
     <key>A_with_gravedbl</key>
@@ -72,14 +164,58 @@
     <string>A__with_tildeabove.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>B.smcp</key>
+    <string>B_.smcp.glif</string>
+    <key>B.smcp_with_dotabove</key>
+    <string>B_.smcp_with_dotabove.glif</string>
+    <key>B.smcp_with_dotabove.ss02</key>
+    <string>B_.smcp_with_dotabove.ss02.glif</string>
+    <key>B.smcp_with_dotbelow</key>
+    <string>B_.smcp_with_dotbelow.glif</string>
+    <key>B.smcp_with_dotbelow.ss02</key>
+    <string>B_.smcp_with_dotbelow.ss02.glif</string>
+    <key>B.smcp_with_macronbelow</key>
+    <string>B_.smcp_with_macronbelow.glif</string>
+    <key>B.ss01</key>
+    <string>B_.ss01.glif</string>
+    <key>B.ss01_with_dotabove</key>
+    <string>B_.ss01_with_dotabove.glif</string>
+    <key>B.ss01_with_dotabove.ss02</key>
+    <string>B_.ss01_with_dotabove.ss02.glif</string>
+    <key>B.ss01_with_dotbelow</key>
+    <string>B_.ss01_with_dotbelow.glif</string>
+    <key>B.ss01_with_dotbelow.ss02</key>
+    <string>B_.ss01_with_dotbelow.ss02.glif</string>
+    <key>B.ss01_with_macronbelow</key>
+    <string>B_.ss01_with_macronbelow.glif</string>
     <key>B_with_dotabove</key>
     <string>B__with_dotabove.glif</string>
+    <key>B_with_dotabove.ss02</key>
+    <string>B__with_dotabove.ss02.glif</string>
     <key>B_with_dotbelow</key>
     <string>B__with_dotbelow.glif</string>
+    <key>B_with_dotbelow.ss02</key>
+    <string>B__with_dotbelow.ss02.glif</string>
     <key>B_with_macronbelow</key>
     <string>B__with_macronbelow.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>C.smcp</key>
+    <string>C_.smcp.glif</string>
+    <key>C.smcp_with_acute</key>
+    <string>C_.smcp_with_acute.glif</string>
+    <key>C.smcp_with_caron</key>
+    <string>C_.smcp_with_caron.glif</string>
+    <key>C.smcp_with_cedilla</key>
+    <string>C_.smcp_with_cedilla.glif</string>
+    <key>C.smcp_with_cedilla_and_acute</key>
+    <string>C_.smcp_with_cedilla_and_acute.glif</string>
+    <key>C.smcp_with_circumflex</key>
+    <string>C_.smcp_with_circumflex.glif</string>
+    <key>C.smcp_with_dotabove</key>
+    <string>C_.smcp_with_dotabove.glif</string>
+    <key>C.smcp_with_dotabove.ss02</key>
+    <string>C_.smcp_with_dotabove.ss02.glif</string>
     <key>C_with_acute</key>
     <string>C__with_acute.glif</string>
     <key>C_with_caron</key>
@@ -92,8 +228,32 @@
     <string>C__with_circumflex.glif</string>
     <key>C_with_dotabove</key>
     <string>C__with_dotabove.glif</string>
+    <key>C_with_dotabove.ss02</key>
+    <string>C__with_dotabove.ss02.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>D.smcp</key>
+    <string>D_.smcp.glif</string>
+    <key>D.smcp_with_caron</key>
+    <string>D_.smcp_with_caron.glif</string>
+    <key>D.smcp_with_circumflexbelow</key>
+    <string>D_.smcp_with_circumflexbelow.glif</string>
+    <key>D.smcp_with_commabelow</key>
+    <string>D_.smcp_with_commabelow.glif</string>
+    <key>D.smcp_with_commabelow.ss02</key>
+    <string>D_.smcp_with_commabelow.ss02.glif</string>
+    <key>D.smcp_with_dotabove</key>
+    <string>D_.smcp_with_dotabove.glif</string>
+    <key>D.smcp_with_dotabove.ss02</key>
+    <string>D_.smcp_with_dotabove.ss02.glif</string>
+    <key>D.smcp_with_dotbelow</key>
+    <string>D_.smcp_with_dotbelow.glif</string>
+    <key>D.smcp_with_dotbelow.ss02</key>
+    <string>D_.smcp_with_dotbelow.ss02.glif</string>
+    <key>D.smcp_with_macronbelow</key>
+    <string>D_.smcp_with_macronbelow.glif</string>
+    <key>D.smcp_with_stroke</key>
+    <string>D_.smcp_with_stroke.glif</string>
     <key>DELTA</key>
     <string>D_E_L_T_A_.glif</string>
     <key>D_with_caron</key>
@@ -102,22 +262,154 @@
     <string>D__with_circumflexbelow.glif</string>
     <key>D_with_commabelow</key>
     <string>D__with_commabelow.glif</string>
+    <key>D_with_commabelow.ss02</key>
+    <string>D__with_commabelow.ss02.glif</string>
     <key>D_with_dotabove</key>
     <string>D__with_dotabove.glif</string>
+    <key>D_with_dotabove.ss02</key>
+    <string>D__with_dotabove.ss02.glif</string>
     <key>D_with_dotbelow</key>
     <string>D__with_dotbelow.glif</string>
+    <key>D_with_dotbelow.ss02</key>
+    <string>D__with_dotbelow.ss02.glif</string>
     <key>D_with_macronbelow</key>
     <string>D__with_macronbelow.glif</string>
     <key>D_with_stroke</key>
     <string>D__with_stroke.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>E.smcp</key>
+    <string>E_.smcp.glif</string>
+    <key>E.smcp_with_acute</key>
+    <string>E_.smcp_with_acute.glif</string>
+    <key>E.smcp_with_breve</key>
+    <string>E_.smcp_with_breve.glif</string>
+    <key>E.smcp_with_breveinv</key>
+    <string>E_.smcp_with_breveinv.glif</string>
+    <key>E.smcp_with_caron</key>
+    <string>E_.smcp_with_caron.glif</string>
+    <key>E.smcp_with_cedilla</key>
+    <string>E_.smcp_with_cedilla.glif</string>
+    <key>E.smcp_with_cedilla_and_breve</key>
+    <string>E_.smcp_with_cedilla_and_breve.glif</string>
+    <key>E.smcp_with_circumflex</key>
+    <string>E_.smcp_with_circumflex.glif</string>
+    <key>E.smcp_with_circumflex_and_acute</key>
+    <string>E_.smcp_with_circumflex_and_acute.glif</string>
+    <key>E.smcp_with_circumflex_and_dotbelow</key>
+    <string>E_.smcp_with_circumflex_and_dotbelow.glif</string>
+    <key>E.smcp_with_circumflex_and_dotbelow.ss02</key>
+    <string>E_.smcp_with_circumflex_and_dotbelow.ss02.glif</string>
+    <key>E.smcp_with_circumflex_and_grave</key>
+    <string>E_.smcp_with_circumflex_and_grave.glif</string>
+    <key>E.smcp_with_circumflex_and_hook</key>
+    <string>E_.smcp_with_circumflex_and_hook.glif</string>
+    <key>E.smcp_with_circumflex_and_tildeabove</key>
+    <string>E_.smcp_with_circumflex_and_tildeabove.glif</string>
+    <key>E.smcp_with_circumflexbelow</key>
+    <string>E_.smcp_with_circumflexbelow.glif</string>
+    <key>E.smcp_with_diaeresis</key>
+    <string>E_.smcp_with_diaeresis.glif</string>
+    <key>E.smcp_with_diaeresis.ss02</key>
+    <string>E_.smcp_with_diaeresis.ss02.glif</string>
+    <key>E.smcp_with_dotabove</key>
+    <string>E_.smcp_with_dotabove.glif</string>
+    <key>E.smcp_with_dotabove.ss02</key>
+    <string>E_.smcp_with_dotabove.ss02.glif</string>
+    <key>E.smcp_with_dotbelow</key>
+    <string>E_.smcp_with_dotbelow.glif</string>
+    <key>E.smcp_with_dotbelow.ss02</key>
+    <string>E_.smcp_with_dotbelow.ss02.glif</string>
+    <key>E.smcp_with_grave</key>
+    <string>E_.smcp_with_grave.glif</string>
+    <key>E.smcp_with_gravedbl</key>
+    <string>E_.smcp_with_gravedbl.glif</string>
+    <key>E.smcp_with_hook</key>
+    <string>E_.smcp_with_hook.glif</string>
+    <key>E.smcp_with_macron</key>
+    <string>E_.smcp_with_macron.glif</string>
+    <key>E.smcp_with_macron_and_acute</key>
+    <string>E_.smcp_with_macron_and_acute.glif</string>
+    <key>E.smcp_with_macron_and_grave</key>
+    <string>E_.smcp_with_macron_and_grave.glif</string>
+    <key>E.smcp_with_ogonek</key>
+    <string>E_.smcp_with_ogonek.glif</string>
+    <key>E.smcp_with_tildeabove</key>
+    <string>E_.smcp_with_tildeabove.glif</string>
+    <key>E.smcp_with_tildebelow</key>
+    <string>E_.smcp_with_tildebelow.glif</string>
+    <key>E.ss01</key>
+    <string>E_.ss01.glif</string>
+    <key>E.ss01_with_acute</key>
+    <string>E_.ss01_with_acute.glif</string>
+    <key>E.ss01_with_breve</key>
+    <string>E_.ss01_with_breve.glif</string>
+    <key>E.ss01_with_breveinv</key>
+    <string>E_.ss01_with_breveinv.glif</string>
+    <key>E.ss01_with_caron</key>
+    <string>E_.ss01_with_caron.glif</string>
+    <key>E.ss01_with_cedilla</key>
+    <string>E_.ss01_with_cedilla.glif</string>
+    <key>E.ss01_with_cedilla_and_breve</key>
+    <string>E_.ss01_with_cedilla_and_breve.glif</string>
+    <key>E.ss01_with_circumflex</key>
+    <string>E_.ss01_with_circumflex.glif</string>
+    <key>E.ss01_with_circumflex_and_acute</key>
+    <string>E_.ss01_with_circumflex_and_acute.glif</string>
+    <key>E.ss01_with_circumflex_and_dotbelow</key>
+    <string>E_.ss01_with_circumflex_and_dotbelow.glif</string>
+    <key>E.ss01_with_circumflex_and_dotbelow.ss02</key>
+    <string>E_.ss01_with_circumflex_and_dotbelow.ss02.glif</string>
+    <key>E.ss01_with_circumflex_and_grave</key>
+    <string>E_.ss01_with_circumflex_and_grave.glif</string>
+    <key>E.ss01_with_circumflex_and_hook</key>
+    <string>E_.ss01_with_circumflex_and_hook.glif</string>
+    <key>E.ss01_with_circumflex_and_tildeabove</key>
+    <string>E_.ss01_with_circumflex_and_tildeabove.glif</string>
+    <key>E.ss01_with_circumflexbelow</key>
+    <string>E_.ss01_with_circumflexbelow.glif</string>
+    <key>E.ss01_with_diaeresis</key>
+    <string>E_.ss01_with_diaeresis.glif</string>
+    <key>E.ss01_with_diaeresis.ss02</key>
+    <string>E_.ss01_with_diaeresis.ss02.glif</string>
+    <key>E.ss01_with_dotabove</key>
+    <string>E_.ss01_with_dotabove.glif</string>
+    <key>E.ss01_with_dotabove.ss02</key>
+    <string>E_.ss01_with_dotabove.ss02.glif</string>
+    <key>E.ss01_with_dotbelow</key>
+    <string>E_.ss01_with_dotbelow.glif</string>
+    <key>E.ss01_with_dotbelow.ss02</key>
+    <string>E_.ss01_with_dotbelow.ss02.glif</string>
+    <key>E.ss01_with_grave</key>
+    <string>E_.ss01_with_grave.glif</string>
+    <key>E.ss01_with_gravedbl</key>
+    <string>E_.ss01_with_gravedbl.glif</string>
+    <key>E.ss01_with_hook</key>
+    <string>E_.ss01_with_hook.glif</string>
+    <key>E.ss01_with_macron</key>
+    <string>E_.ss01_with_macron.glif</string>
+    <key>E.ss01_with_macron_and_acute</key>
+    <string>E_.ss01_with_macron_and_acute.glif</string>
+    <key>E.ss01_with_macron_and_grave</key>
+    <string>E_.ss01_with_macron_and_grave.glif</string>
+    <key>E.ss01_with_ogonek</key>
+    <string>E_.ss01_with_ogonek.glif</string>
+    <key>E.ss01_with_tildeabove</key>
+    <string>E_.ss01_with_tildeabove.glif</string>
+    <key>E.ss01_with_tildebelow</key>
+    <string>E_.ss01_with_tildebelow.glif</string>
     <key>ENG</key>
     <string>E_N_G_.glif</string>
+    <key>ENG.smcp</key>
+    <string>E_N_G_.smcp.glif</string>
     <key>ESZETT</key>
     <string>E_S_Z_E_T_T_.glif</string>
+    <key>ESZETT.smcp</key>
+    <string>E_S_Z_E_T_T_.smcp.glif</string>
     <key>ETH</key>
     <string>E_T_H_.glif</string>
+    <key>ETH.smcp</key>
+    <string>E_T_H_.smcp.glif</string>
     <key>E_with_acute</key>
     <string>E__with_acute.glif</string>
     <key>E_with_breve</key>
@@ -136,6 +428,8 @@
     <string>E__with_circumflex_and_acute.glif</string>
     <key>E_with_circumflex_and_dotbelow</key>
     <string>E__with_circumflex_and_dotbelow.glif</string>
+    <key>E_with_circumflex_and_dotbelow.ss02</key>
+    <string>E__with_circumflex_and_dotbelow.ss02.glif</string>
     <key>E_with_circumflex_and_grave</key>
     <string>E__with_circumflex_and_grave.glif</string>
     <key>E_with_circumflex_and_hook</key>
@@ -146,10 +440,16 @@
     <string>E__with_circumflexbelow.glif</string>
     <key>E_with_diaeresis</key>
     <string>E__with_diaeresis.glif</string>
+    <key>E_with_diaeresis.ss02</key>
+    <string>E__with_diaeresis.ss02.glif</string>
     <key>E_with_dotabove</key>
     <string>E__with_dotabove.glif</string>
+    <key>E_with_dotabove.ss02</key>
+    <string>E__with_dotabove.ss02.glif</string>
     <key>E_with_dotbelow</key>
     <string>E__with_dotbelow.glif</string>
+    <key>E_with_dotbelow.ss02</key>
+    <string>E__with_dotbelow.ss02.glif</string>
     <key>E_with_grave</key>
     <string>E__with_grave.glif</string>
     <key>E_with_gravedbl</key>
@@ -170,12 +470,50 @@
     <string>E__with_tildebelow.glif</string>
     <key>F</key>
     <string>F_.glif</string>
+    <key>F.smcp</key>
+    <string>F_.smcp.glif</string>
+    <key>F.smcp_with_dotabove</key>
+    <string>F_.smcp_with_dotabove.glif</string>
+    <key>F.smcp_with_dotabove.ss02</key>
+    <string>F_.smcp_with_dotabove.ss02.glif</string>
+    <key>F.smcp_with_hookleft</key>
+    <string>F_.smcp_with_hookleft.glif</string>
+    <key>F.ss01</key>
+    <string>F_.ss01.glif</string>
+    <key>F.ss01_with_dotabove</key>
+    <string>F_.ss01_with_dotabove.glif</string>
+    <key>F.ss01_with_dotabove.ss02</key>
+    <string>F_.ss01_with_dotabove.ss02.glif</string>
+    <key>F.ss01_with_hookleft</key>
+    <string>F_.ss01_with_hookleft.glif</string>
     <key>F_with_dotabove</key>
     <string>F__with_dotabove.glif</string>
+    <key>F_with_dotabove.ss02</key>
+    <string>F__with_dotabove.ss02.glif</string>
     <key>F_with_hookleft</key>
     <string>F__with_hookleft.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>G.smcp</key>
+    <string>G_.smcp.glif</string>
+    <key>G.smcp_with_acute</key>
+    <string>G_.smcp_with_acute.glif</string>
+    <key>G.smcp_with_breve</key>
+    <string>G_.smcp_with_breve.glif</string>
+    <key>G.smcp_with_caron</key>
+    <string>G_.smcp_with_caron.glif</string>
+    <key>G.smcp_with_circumflex</key>
+    <string>G_.smcp_with_circumflex.glif</string>
+    <key>G.smcp_with_commabelow</key>
+    <string>G_.smcp_with_commabelow.glif</string>
+    <key>G.smcp_with_commabelow.ss02</key>
+    <string>G_.smcp_with_commabelow.ss02.glif</string>
+    <key>G.smcp_with_dotabove</key>
+    <string>G_.smcp_with_dotabove.glif</string>
+    <key>G.smcp_with_dotabove.ss02</key>
+    <string>G_.smcp_with_dotabove.ss02.glif</string>
+    <key>G.smcp_with_macron</key>
+    <string>G_.smcp_with_macron.glif</string>
     <key>G_with_acute</key>
     <string>G__with_acute.glif</string>
     <key>G_with_breve</key>
@@ -186,12 +524,60 @@
     <string>G__with_circumflex.glif</string>
     <key>G_with_commabelow</key>
     <string>G__with_commabelow.glif</string>
+    <key>G_with_commabelow.ss02</key>
+    <string>G__with_commabelow.ss02.glif</string>
     <key>G_with_dotabove</key>
     <string>G__with_dotabove.glif</string>
+    <key>G_with_dotabove.ss02</key>
+    <string>G__with_dotabove.ss02.glif</string>
     <key>G_with_macron</key>
     <string>G__with_macron.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>H.smcp</key>
+    <string>H_.smcp.glif</string>
+    <key>H.smcp_with_caron</key>
+    <string>H_.smcp_with_caron.glif</string>
+    <key>H.smcp_with_cedilla</key>
+    <string>H_.smcp_with_cedilla.glif</string>
+    <key>H.smcp_with_circumflex</key>
+    <string>H_.smcp_with_circumflex.glif</string>
+    <key>H.smcp_with_diaeresis</key>
+    <string>H_.smcp_with_diaeresis.glif</string>
+    <key>H.smcp_with_diaeresis.ss02</key>
+    <string>H_.smcp_with_diaeresis.ss02.glif</string>
+    <key>H.smcp_with_dotabove</key>
+    <string>H_.smcp_with_dotabove.glif</string>
+    <key>H.smcp_with_dotabove.ss02</key>
+    <string>H_.smcp_with_dotabove.ss02.glif</string>
+    <key>H.smcp_with_dotbelow</key>
+    <string>H_.smcp_with_dotbelow.glif</string>
+    <key>H.smcp_with_dotbelow.ss02</key>
+    <string>H_.smcp_with_dotbelow.ss02.glif</string>
+    <key>H.smcp_with_stroke</key>
+    <string>H_.smcp_with_stroke.glif</string>
+    <key>H.ss01</key>
+    <string>H_.ss01.glif</string>
+    <key>H.ss01_with_caron</key>
+    <string>H_.ss01_with_caron.glif</string>
+    <key>H.ss01_with_cedilla</key>
+    <string>H_.ss01_with_cedilla.glif</string>
+    <key>H.ss01_with_circumflex</key>
+    <string>H_.ss01_with_circumflex.glif</string>
+    <key>H.ss01_with_diaeresis</key>
+    <string>H_.ss01_with_diaeresis.glif</string>
+    <key>H.ss01_with_diaeresis.ss02</key>
+    <string>H_.ss01_with_diaeresis.ss02.glif</string>
+    <key>H.ss01_with_dotabove</key>
+    <string>H_.ss01_with_dotabove.glif</string>
+    <key>H.ss01_with_dotabove.ss02</key>
+    <string>H_.ss01_with_dotabove.ss02.glif</string>
+    <key>H.ss01_with_dotbelow</key>
+    <string>H_.ss01_with_dotbelow.glif</string>
+    <key>H.ss01_with_dotbelow.ss02</key>
+    <string>H_.ss01_with_dotbelow.ss02.glif</string>
+    <key>H.ss01_with_stroke</key>
+    <string>H_.ss01_with_stroke.glif</string>
     <key>H_with_caron</key>
     <string>H__with_caron.glif</string>
     <key>H_with_cedilla</key>
@@ -200,14 +586,64 @@
     <string>H__with_circumflex.glif</string>
     <key>H_with_diaeresis</key>
     <string>H__with_diaeresis.glif</string>
+    <key>H_with_diaeresis.ss02</key>
+    <string>H__with_diaeresis.ss02.glif</string>
     <key>H_with_dotabove</key>
     <string>H__with_dotabove.glif</string>
+    <key>H_with_dotabove.ss02</key>
+    <string>H__with_dotabove.ss02.glif</string>
     <key>H_with_dotbelow</key>
     <string>H__with_dotbelow.glif</string>
+    <key>H_with_dotbelow.ss02</key>
+    <string>H__with_dotbelow.ss02.glif</string>
     <key>H_with_stroke</key>
     <string>H__with_stroke.glif</string>
     <key>I</key>
     <string>I_.glif</string>
+    <key>I.smcp</key>
+    <string>I_.smcp.glif</string>
+    <key>I.smcp_with_acute</key>
+    <string>I_.smcp_with_acute.glif</string>
+    <key>I.smcp_with_breve</key>
+    <string>I_.smcp_with_breve.glif</string>
+    <key>I.smcp_with_breveinv</key>
+    <string>I_.smcp_with_breveinv.glif</string>
+    <key>I.smcp_with_caron</key>
+    <string>I_.smcp_with_caron.glif</string>
+    <key>I.smcp_with_circumflex</key>
+    <string>I_.smcp_with_circumflex.glif</string>
+    <key>I.smcp_with_diaeresis</key>
+    <string>I_.smcp_with_diaeresis.glif</string>
+    <key>I.smcp_with_diaeresis.ss02</key>
+    <string>I_.smcp_with_diaeresis.ss02.glif</string>
+    <key>I.smcp_with_diaeresis.ss02_and_acute</key>
+    <string>I_.smcp_with_diaeresis.ss02_and_acute.glif</string>
+    <key>I.smcp_with_diaeresis_and_acute</key>
+    <string>I_.smcp_with_diaeresis_and_acute.glif</string>
+    <key>I.smcp_with_dotabove</key>
+    <string>I_.smcp_with_dotabove.glif</string>
+    <key>I.smcp_with_dotabove.ss02</key>
+    <string>I_.smcp_with_dotabove.ss02.glif</string>
+    <key>I.smcp_with_dotbelow</key>
+    <string>I_.smcp_with_dotbelow.glif</string>
+    <key>I.smcp_with_dotbelow.ss02</key>
+    <string>I_.smcp_with_dotbelow.ss02.glif</string>
+    <key>I.smcp_with_grave</key>
+    <string>I_.smcp_with_grave.glif</string>
+    <key>I.smcp_with_gravedbl</key>
+    <string>I_.smcp_with_gravedbl.glif</string>
+    <key>I.smcp_with_hook</key>
+    <string>I_.smcp_with_hook.glif</string>
+    <key>I.smcp_with_macron</key>
+    <string>I_.smcp_with_macron.glif</string>
+    <key>I.smcp_with_ogonek</key>
+    <string>I_.smcp_with_ogonek.glif</string>
+    <key>I.smcp_with_stroke</key>
+    <string>I_.smcp_with_stroke.glif</string>
+    <key>I.smcp_with_tildeabove</key>
+    <string>I_.smcp_with_tildeabove.glif</string>
+    <key>I.smcp_with_tildebelow</key>
+    <string>I_.smcp_with_tildebelow.glif</string>
     <key>I_with_acute</key>
     <string>I__with_acute.glif</string>
     <key>I_with_breve</key>
@@ -220,12 +656,20 @@
     <string>I__with_circumflex.glif</string>
     <key>I_with_diaeresis</key>
     <string>I__with_diaeresis.glif</string>
+    <key>I_with_diaeresis.ss02</key>
+    <string>I__with_diaeresis.ss02.glif</string>
+    <key>I_with_diaeresis.ss02_and_acute</key>
+    <string>I__with_diaeresis.ss02_and_acute.glif</string>
     <key>I_with_diaeresis_and_acute</key>
     <string>I__with_diaeresis_and_acute.glif</string>
     <key>I_with_dotabove</key>
     <string>I__with_dotabove.glif</string>
+    <key>I_with_dotabove.ss02</key>
+    <string>I__with_dotabove.ss02.glif</string>
     <key>I_with_dotbelow</key>
     <string>I__with_dotbelow.glif</string>
+    <key>I_with_dotbelow.ss02</key>
+    <string>I__with_dotbelow.ss02.glif</string>
     <key>I_with_grave</key>
     <string>I__with_grave.glif</string>
     <key>I_with_gravedbl</key>
@@ -244,24 +688,136 @@
     <string>I__with_tildebelow.glif</string>
     <key>J</key>
     <string>J_.glif</string>
+    <key>J.smcp</key>
+    <string>J_.smcp.glif</string>
+    <key>J.smcp_with_circumflex</key>
+    <string>J_.smcp_with_circumflex.glif</string>
     <key>J_with_acute</key>
     <string>J__with_acute.glif</string>
     <key>J_with_circumflex</key>
     <string>J__with_circumflex.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>K.smcp</key>
+    <string>K_.smcp.glif</string>
+    <key>K.smcp_with_acute</key>
+    <string>K_.smcp_with_acute.glif</string>
+    <key>K.smcp_with_caron</key>
+    <string>K_.smcp_with_caron.glif</string>
+    <key>K.smcp_with_commabelow</key>
+    <string>K_.smcp_with_commabelow.glif</string>
+    <key>K.smcp_with_commabelow.ss02</key>
+    <string>K_.smcp_with_commabelow.ss02.glif</string>
+    <key>K.smcp_with_dotbelow</key>
+    <string>K_.smcp_with_dotbelow.glif</string>
+    <key>K.smcp_with_dotbelow.ss02</key>
+    <string>K_.smcp_with_dotbelow.ss02.glif</string>
+    <key>K.smcp_with_macronbelow</key>
+    <string>K_.smcp_with_macronbelow.glif</string>
+    <key>K.ss01</key>
+    <string>K_.ss01.glif</string>
+    <key>K.ss01.smcp</key>
+    <string>K_.ss01.smcp.glif</string>
+    <key>K.ss01.smcp_with_acute</key>
+    <string>K_.ss01.smcp_with_acute.glif</string>
+    <key>K.ss01.smcp_with_caron</key>
+    <string>K_.ss01.smcp_with_caron.glif</string>
+    <key>K.ss01.smcp_with_commabelow</key>
+    <string>K_.ss01.smcp_with_commabelow.glif</string>
+    <key>K.ss01.smcp_with_commabelow.ss02</key>
+    <string>K_.ss01.smcp_with_commabelow.ss02.glif</string>
+    <key>K.ss01.smcp_with_dotbelow</key>
+    <string>K_.ss01.smcp_with_dotbelow.glif</string>
+    <key>K.ss01.smcp_with_dotbelow.ss02</key>
+    <string>K_.ss01.smcp_with_dotbelow.ss02.glif</string>
+    <key>K.ss01.smcp_with_macronbelow</key>
+    <string>K_.ss01.smcp_with_macronbelow.glif</string>
+    <key>K.ss01_with_acute</key>
+    <string>K_.ss01_with_acute.glif</string>
+    <key>K.ss01_with_caron</key>
+    <string>K_.ss01_with_caron.glif</string>
+    <key>K.ss01_with_commabelow</key>
+    <string>K_.ss01_with_commabelow.glif</string>
+    <key>K.ss01_with_commabelow.ss02</key>
+    <string>K_.ss01_with_commabelow.ss02.glif</string>
+    <key>K.ss01_with_dotbelow</key>
+    <string>K_.ss01_with_dotbelow.glif</string>
+    <key>K.ss01_with_dotbelow.ss02</key>
+    <string>K_.ss01_with_dotbelow.ss02.glif</string>
+    <key>K.ss01_with_macronbelow</key>
+    <string>K_.ss01_with_macronbelow.glif</string>
     <key>K_with_acute</key>
     <string>K__with_acute.glif</string>
     <key>K_with_caron</key>
     <string>K__with_caron.glif</string>
     <key>K_with_commabelow</key>
     <string>K__with_commabelow.glif</string>
+    <key>K_with_commabelow.ss02</key>
+    <string>K__with_commabelow.ss02.glif</string>
     <key>K_with_dotbelow</key>
     <string>K__with_dotbelow.glif</string>
+    <key>K_with_dotbelow.ss02</key>
+    <string>K__with_dotbelow.ss02.glif</string>
     <key>K_with_macronbelow</key>
     <string>K__with_macronbelow.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>L.smcp</key>
+    <string>L_.smcp.glif</string>
+    <key>L.smcp_with_acute</key>
+    <string>L_.smcp_with_acute.glif</string>
+    <key>L.smcp_with_caron</key>
+    <string>L_.smcp_with_caron.glif</string>
+    <key>L.smcp_with_circumflexbelow</key>
+    <string>L_.smcp_with_circumflexbelow.glif</string>
+    <key>L.smcp_with_commabelow</key>
+    <string>L_.smcp_with_commabelow.glif</string>
+    <key>L.smcp_with_commabelow.ss02</key>
+    <string>L_.smcp_with_commabelow.ss02.glif</string>
+    <key>L.smcp_with_dotbelow</key>
+    <string>L_.smcp_with_dotbelow.glif</string>
+    <key>L.smcp_with_dotbelow.ss02</key>
+    <string>L_.smcp_with_dotbelow.ss02.glif</string>
+    <key>L.smcp_with_dotbelow.ss02_and_macron</key>
+    <string>L_.smcp_with_dotbelow.ss02_and_macron.glif</string>
+    <key>L.smcp_with_dotbelow_and_macron</key>
+    <string>L_.smcp_with_dotbelow_and_macron.glif</string>
+    <key>L.smcp_with_dotmiddle</key>
+    <string>L_.smcp_with_dotmiddle.glif</string>
+    <key>L.smcp_with_dotmiddle.ss02</key>
+    <string>L_.smcp_with_dotmiddle.ss02.glif</string>
+    <key>L.smcp_with_macronbelow</key>
+    <string>L_.smcp_with_macronbelow.glif</string>
+    <key>L.smcp_with_stroke</key>
+    <string>L_.smcp_with_stroke.glif</string>
+    <key>L.ss01</key>
+    <string>L_.ss01.glif</string>
+    <key>L.ss01_with_acute</key>
+    <string>L_.ss01_with_acute.glif</string>
+    <key>L.ss01_with_caron</key>
+    <string>L_.ss01_with_caron.glif</string>
+    <key>L.ss01_with_circumflexbelow</key>
+    <string>L_.ss01_with_circumflexbelow.glif</string>
+    <key>L.ss01_with_commabelow</key>
+    <string>L_.ss01_with_commabelow.glif</string>
+    <key>L.ss01_with_commabelow.ss02</key>
+    <string>L_.ss01_with_commabelow.ss02.glif</string>
+    <key>L.ss01_with_dotbelow</key>
+    <string>L_.ss01_with_dotbelow.glif</string>
+    <key>L.ss01_with_dotbelow.ss02</key>
+    <string>L_.ss01_with_dotbelow.ss02.glif</string>
+    <key>L.ss01_with_dotbelow.ss02_and_macron</key>
+    <string>L_.ss01_with_dotbelow.ss02_and_macron.glif</string>
+    <key>L.ss01_with_dotbelow_and_macron</key>
+    <string>L_.ss01_with_dotbelow_and_macron.glif</string>
+    <key>L.ss01_with_dotmiddle</key>
+    <string>L_.ss01_with_dotmiddle.glif</string>
+    <key>L.ss01_with_dotmiddle.ss02</key>
+    <string>L_.ss01_with_dotmiddle.ss02.glif</string>
+    <key>L.ss01_with_macronbelow</key>
+    <string>L_.ss01_with_macronbelow.glif</string>
+    <key>L.ss01_with_stroke</key>
+    <string>L_.ss01_with_stroke.glif</string>
     <key>L_with_acute</key>
     <string>L__with_acute.glif</string>
     <key>L_with_caron</key>
@@ -270,26 +826,110 @@
     <string>L__with_circumflexbelow.glif</string>
     <key>L_with_commabelow</key>
     <string>L__with_commabelow.glif</string>
+    <key>L_with_commabelow.ss02</key>
+    <string>L__with_commabelow.ss02.glif</string>
     <key>L_with_dotbelow</key>
     <string>L__with_dotbelow.glif</string>
+    <key>L_with_dotbelow.ss02</key>
+    <string>L__with_dotbelow.ss02.glif</string>
+    <key>L_with_dotbelow.ss02_and_macron</key>
+    <string>L__with_dotbelow.ss02_and_macron.glif</string>
     <key>L_with_dotbelow_and_macron</key>
     <string>L__with_dotbelow_and_macron.glif</string>
     <key>L_with_dotmiddle</key>
     <string>L__with_dotmiddle.glif</string>
+    <key>L_with_dotmiddle.ss02</key>
+    <string>L__with_dotmiddle.ss02.glif</string>
     <key>L_with_macronbelow</key>
     <string>L__with_macronbelow.glif</string>
     <key>L_with_stroke</key>
     <string>L__with_stroke.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>M.smcp</key>
+    <string>M_.smcp.glif</string>
+    <key>M.smcp_with_acute</key>
+    <string>M_.smcp_with_acute.glif</string>
+    <key>M.smcp_with_dotabove</key>
+    <string>M_.smcp_with_dotabove.glif</string>
+    <key>M.smcp_with_dotabove.ss02</key>
+    <string>M_.smcp_with_dotabove.ss02.glif</string>
+    <key>M.smcp_with_dotbelow</key>
+    <string>M_.smcp_with_dotbelow.glif</string>
+    <key>M.smcp_with_dotbelow.ss02</key>
+    <string>M_.smcp_with_dotbelow.ss02.glif</string>
+    <key>M.ss01</key>
+    <string>M_.ss01.glif</string>
+    <key>M.ss01.smcp</key>
+    <string>M_.ss01.smcp.glif</string>
+    <key>M.ss01.smcp_with_acute</key>
+    <string>M_.ss01.smcp_with_acute.glif</string>
+    <key>M.ss01.smcp_with_dotabove</key>
+    <string>M_.ss01.smcp_with_dotabove.glif</string>
+    <key>M.ss01.smcp_with_dotabove.ss02</key>
+    <string>M_.ss01.smcp_with_dotabove.ss02.glif</string>
+    <key>M.ss01.smcp_with_dotbelow</key>
+    <string>M_.ss01.smcp_with_dotbelow.glif</string>
+    <key>M.ss01.smcp_with_dotbelow.ss02</key>
+    <string>M_.ss01.smcp_with_dotbelow.ss02.glif</string>
+    <key>M.ss01_with_acute</key>
+    <string>M_.ss01_with_acute.glif</string>
+    <key>M.ss01_with_dotabove</key>
+    <string>M_.ss01_with_dotabove.glif</string>
+    <key>M.ss01_with_dotabove.ss02</key>
+    <string>M_.ss01_with_dotabove.ss02.glif</string>
+    <key>M.ss01_with_dotbelow</key>
+    <string>M_.ss01_with_dotbelow.glif</string>
+    <key>M.ss01_with_dotbelow.ss02</key>
+    <string>M_.ss01_with_dotbelow.ss02.glif</string>
+    <key>MENG</key>
+    <string>M_E_N_G_.glif</string>
+    <key>MENG.smcp</key>
+    <string>M_E_N_G_.smcp.glif</string>
+    <key>MENG.ss01</key>
+    <string>M_E_N_G_.ss01.glif</string>
+    <key>MENG.ss01.smcp</key>
+    <string>M_E_N_G_.ss01.smcp.glif</string>
     <key>M_with_acute</key>
     <string>M__with_acute.glif</string>
     <key>M_with_dotabove</key>
     <string>M__with_dotabove.glif</string>
+    <key>M_with_dotabove.ss02</key>
+    <string>M__with_dotabove.ss02.glif</string>
     <key>M_with_dotbelow</key>
     <string>M__with_dotbelow.glif</string>
+    <key>M_with_dotbelow.ss02</key>
+    <string>M__with_dotbelow.ss02.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>N.smcp</key>
+    <string>N_.smcp.glif</string>
+    <key>N.smcp_with_acute</key>
+    <string>N_.smcp_with_acute.glif</string>
+    <key>N.smcp_with_caron</key>
+    <string>N_.smcp_with_caron.glif</string>
+    <key>N.smcp_with_circumflexbelow</key>
+    <string>N_.smcp_with_circumflexbelow.glif</string>
+    <key>N.smcp_with_commabelow</key>
+    <string>N_.smcp_with_commabelow.glif</string>
+    <key>N.smcp_with_commabelow.ss02</key>
+    <string>N_.smcp_with_commabelow.ss02.glif</string>
+    <key>N.smcp_with_dotabove</key>
+    <string>N_.smcp_with_dotabove.glif</string>
+    <key>N.smcp_with_dotabove.ss02</key>
+    <string>N_.smcp_with_dotabove.ss02.glif</string>
+    <key>N.smcp_with_dotbelow</key>
+    <string>N_.smcp_with_dotbelow.glif</string>
+    <key>N.smcp_with_dotbelow.ss02</key>
+    <string>N_.smcp_with_dotbelow.ss02.glif</string>
+    <key>N.smcp_with_grave</key>
+    <string>N_.smcp_with_grave.glif</string>
+    <key>N.smcp_with_hookleft</key>
+    <string>N_.smcp_with_hookleft.glif</string>
+    <key>N.smcp_with_macronbelow</key>
+    <string>N_.smcp_with_macronbelow.glif</string>
+    <key>N.smcp_with_tildeabove</key>
+    <string>N_.smcp_with_tildeabove.glif</string>
     <key>N_with_acute</key>
     <string>N__with_acute.glif</string>
     <key>N_with_caron</key>
@@ -298,10 +938,16 @@
     <string>N__with_circumflexbelow.glif</string>
     <key>N_with_commabelow</key>
     <string>N__with_commabelow.glif</string>
+    <key>N_with_commabelow.ss02</key>
+    <string>N__with_commabelow.ss02.glif</string>
     <key>N_with_dotabove</key>
     <string>N__with_dotabove.glif</string>
+    <key>N_with_dotabove.ss02</key>
+    <string>N__with_dotabove.ss02.glif</string>
     <key>N_with_dotbelow</key>
     <string>N__with_dotbelow.glif</string>
+    <key>N_with_dotbelow.ss02</key>
+    <string>N__with_dotbelow.ss02.glif</string>
     <key>N_with_grave</key>
     <string>N__with_grave.glif</string>
     <key>N_with_hookleft</key>
@@ -312,8 +958,100 @@
     <string>N__with_tildeabove.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>O.smcp</key>
+    <string>O_.smcp.glif</string>
+    <key>O.smcp_with_acute</key>
+    <string>O_.smcp_with_acute.glif</string>
+    <key>O.smcp_with_acutedbl</key>
+    <string>O_.smcp_with_acutedbl.glif</string>
+    <key>O.smcp_with_breve</key>
+    <string>O_.smcp_with_breve.glif</string>
+    <key>O.smcp_with_breveinv</key>
+    <string>O_.smcp_with_breveinv.glif</string>
+    <key>O.smcp_with_caron</key>
+    <string>O_.smcp_with_caron.glif</string>
+    <key>O.smcp_with_circumflex</key>
+    <string>O_.smcp_with_circumflex.glif</string>
+    <key>O.smcp_with_circumflex_and_acute</key>
+    <string>O_.smcp_with_circumflex_and_acute.glif</string>
+    <key>O.smcp_with_circumflex_and_dotbelow</key>
+    <string>O_.smcp_with_circumflex_and_dotbelow.glif</string>
+    <key>O.smcp_with_circumflex_and_dotbelow.ss02</key>
+    <string>O_.smcp_with_circumflex_and_dotbelow.ss02.glif</string>
+    <key>O.smcp_with_circumflex_and_grave</key>
+    <string>O_.smcp_with_circumflex_and_grave.glif</string>
+    <key>O.smcp_with_circumflex_and_hook</key>
+    <string>O_.smcp_with_circumflex_and_hook.glif</string>
+    <key>O.smcp_with_circumflex_and_tildeabove</key>
+    <string>O_.smcp_with_circumflex_and_tildeabove.glif</string>
+    <key>O.smcp_with_diaeresis</key>
+    <string>O_.smcp_with_diaeresis.glif</string>
+    <key>O.smcp_with_diaeresis.ss02</key>
+    <string>O_.smcp_with_diaeresis.ss02.glif</string>
+    <key>O.smcp_with_diaeresis.ss02_and_macron</key>
+    <string>O_.smcp_with_diaeresis.ss02_and_macron.glif</string>
+    <key>O.smcp_with_diaeresis_and_macron</key>
+    <string>O_.smcp_with_diaeresis_and_macron.glif</string>
+    <key>O.smcp_with_dotabove</key>
+    <string>O_.smcp_with_dotabove.glif</string>
+    <key>O.smcp_with_dotabove.ss02</key>
+    <string>O_.smcp_with_dotabove.ss02.glif</string>
+    <key>O.smcp_with_dotabove.ss02_and_macron</key>
+    <string>O_.smcp_with_dotabove.ss02_and_macron.glif</string>
+    <key>O.smcp_with_dotabove_and_macron</key>
+    <string>O_.smcp_with_dotabove_and_macron.glif</string>
+    <key>O.smcp_with_dotbelow</key>
+    <string>O_.smcp_with_dotbelow.glif</string>
+    <key>O.smcp_with_dotbelow.ss02</key>
+    <string>O_.smcp_with_dotbelow.ss02.glif</string>
+    <key>O.smcp_with_grave</key>
+    <string>O_.smcp_with_grave.glif</string>
+    <key>O.smcp_with_gravedbl</key>
+    <string>O_.smcp_with_gravedbl.glif</string>
+    <key>O.smcp_with_hook</key>
+    <string>O_.smcp_with_hook.glif</string>
+    <key>O.smcp_with_horn</key>
+    <string>O_.smcp_with_horn.glif</string>
+    <key>O.smcp_with_horn_and_acute</key>
+    <string>O_.smcp_with_horn_and_acute.glif</string>
+    <key>O.smcp_with_horn_and_dotbelow</key>
+    <string>O_.smcp_with_horn_and_dotbelow.glif</string>
+    <key>O.smcp_with_horn_and_dotbelow.ss02</key>
+    <string>O_.smcp_with_horn_and_dotbelow.ss02.glif</string>
+    <key>O.smcp_with_horn_and_grave</key>
+    <string>O_.smcp_with_horn_and_grave.glif</string>
+    <key>O.smcp_with_horn_and_hook</key>
+    <string>O_.smcp_with_horn_and_hook.glif</string>
+    <key>O.smcp_with_horn_and_tildeabove</key>
+    <string>O_.smcp_with_horn_and_tildeabove.glif</string>
+    <key>O.smcp_with_macron</key>
+    <string>O_.smcp_with_macron.glif</string>
+    <key>O.smcp_with_macron_and_acute</key>
+    <string>O_.smcp_with_macron_and_acute.glif</string>
+    <key>O.smcp_with_macron_and_grave</key>
+    <string>O_.smcp_with_macron_and_grave.glif</string>
+    <key>O.smcp_with_ogonek</key>
+    <string>O_.smcp_with_ogonek.glif</string>
+    <key>O.smcp_with_ogonek_and_macron</key>
+    <string>O_.smcp_with_ogonek_and_macron.glif</string>
+    <key>O.smcp_with_stroke</key>
+    <string>O_.smcp_with_stroke.glif</string>
+    <key>O.smcp_with_stroke_and_acute</key>
+    <string>O_.smcp_with_stroke_and_acute.glif</string>
+    <key>O.smcp_with_tildeabove</key>
+    <string>O_.smcp_with_tildeabove.glif</string>
+    <key>O.smcp_with_tildeabove_and_acute</key>
+    <string>O_.smcp_with_tildeabove_and_acute.glif</string>
+    <key>O.smcp_with_tildeabove_and_diaeresis</key>
+    <string>O_.smcp_with_tildeabove_and_diaeresis.glif</string>
+    <key>O.smcp_with_tildeabove_and_diaeresis.ss02</key>
+    <string>O_.smcp_with_tildeabove_and_diaeresis.ss02.glif</string>
+    <key>O.smcp_with_tildeabove_and_macron</key>
+    <string>O_.smcp_with_tildeabove_and_macron.glif</string>
     <key>OE</key>
     <string>O_E_.glif</string>
+    <key>OE.smcp</key>
+    <string>O_E_.smcp.glif</string>
     <key>O_with_acute</key>
     <string>O__with_acute.glif</string>
     <key>O_with_acutedbl</key>
@@ -330,6 +1068,8 @@
     <string>O__with_circumflex_and_acute.glif</string>
     <key>O_with_circumflex_and_dotbelow</key>
     <string>O__with_circumflex_and_dotbelow.glif</string>
+    <key>O_with_circumflex_and_dotbelow.ss02</key>
+    <string>O__with_circumflex_and_dotbelow.ss02.glif</string>
     <key>O_with_circumflex_and_grave</key>
     <string>O__with_circumflex_and_grave.glif</string>
     <key>O_with_circumflex_and_hook</key>
@@ -338,14 +1078,24 @@
     <string>O__with_circumflex_and_tildeabove.glif</string>
     <key>O_with_diaeresis</key>
     <string>O__with_diaeresis.glif</string>
+    <key>O_with_diaeresis.ss02</key>
+    <string>O__with_diaeresis.ss02.glif</string>
+    <key>O_with_diaeresis.ss02_and_macron</key>
+    <string>O__with_diaeresis.ss02_and_macron.glif</string>
     <key>O_with_diaeresis_and_macron</key>
     <string>O__with_diaeresis_and_macron.glif</string>
     <key>O_with_dotabove</key>
     <string>O__with_dotabove.glif</string>
+    <key>O_with_dotabove.ss02</key>
+    <string>O__with_dotabove.ss02.glif</string>
+    <key>O_with_dotabove.ss02_and_macron</key>
+    <string>O__with_dotabove.ss02_and_macron.glif</string>
     <key>O_with_dotabove_and_macron</key>
     <string>O__with_dotabove_and_macron.glif</string>
     <key>O_with_dotbelow</key>
     <string>O__with_dotbelow.glif</string>
+    <key>O_with_dotbelow.ss02</key>
+    <string>O__with_dotbelow.ss02.glif</string>
     <key>O_with_grave</key>
     <string>O__with_grave.glif</string>
     <key>O_with_gravedbl</key>
@@ -358,6 +1108,8 @@
     <string>O__with_horn_and_acute.glif</string>
     <key>O_with_horn_and_dotbelow</key>
     <string>O__with_horn_and_dotbelow.glif</string>
+    <key>O_with_horn_and_dotbelow.ss02</key>
+    <string>O__with_horn_and_dotbelow.ss02.glif</string>
     <key>O_with_horn_and_grave</key>
     <string>O__with_horn_and_grave.glif</string>
     <key>O_with_horn_and_hook</key>
@@ -384,20 +1136,98 @@
     <string>O__with_tildeabove_and_acute.glif</string>
     <key>O_with_tildeabove_and_diaeresis</key>
     <string>O__with_tildeabove_and_diaeresis.glif</string>
+    <key>O_with_tildeabove_and_diaeresis.ss02</key>
+    <string>O__with_tildeabove_and_diaeresis.ss02.glif</string>
     <key>O_with_tildeabove_and_macron</key>
     <string>O__with_tildeabove_and_macron.glif</string>
     <key>P</key>
     <string>P_.glif</string>
+    <key>P.smcp</key>
+    <string>P_.smcp.glif</string>
+    <key>P.smcp_with_acute</key>
+    <string>P_.smcp_with_acute.glif</string>
+    <key>P.smcp_with_dotabove</key>
+    <string>P_.smcp_with_dotabove.glif</string>
+    <key>P.smcp_with_dotabove.ss02</key>
+    <string>P_.smcp_with_dotabove.ss02.glif</string>
+    <key>P.ss01</key>
+    <string>P_.ss01.glif</string>
+    <key>P.ss01_with_acute</key>
+    <string>P_.ss01_with_acute.glif</string>
+    <key>P.ss01_with_dotabove</key>
+    <string>P_.ss01_with_dotabove.glif</string>
+    <key>P.ss01_with_dotabove.ss02</key>
+    <string>P_.ss01_with_dotabove.ss02.glif</string>
     <key>PI</key>
     <string>P_I_.glif</string>
     <key>P_with_acute</key>
     <string>P__with_acute.glif</string>
     <key>P_with_dotabove</key>
     <string>P__with_dotabove.glif</string>
+    <key>P_with_dotabove.ss02</key>
+    <string>P__with_dotabove.ss02.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
+    <key>Q.smcp</key>
+    <string>Q_.smcp.glif</string>
     <key>R</key>
     <string>R_.glif</string>
+    <key>R.smcp</key>
+    <string>R_.smcp.glif</string>
+    <key>R.smcp_with_acute</key>
+    <string>R_.smcp_with_acute.glif</string>
+    <key>R.smcp_with_breveinv</key>
+    <string>R_.smcp_with_breveinv.glif</string>
+    <key>R.smcp_with_caron</key>
+    <string>R_.smcp_with_caron.glif</string>
+    <key>R.smcp_with_commabelow</key>
+    <string>R_.smcp_with_commabelow.glif</string>
+    <key>R.smcp_with_commabelow.ss02</key>
+    <string>R_.smcp_with_commabelow.ss02.glif</string>
+    <key>R.smcp_with_dotabove</key>
+    <string>R_.smcp_with_dotabove.glif</string>
+    <key>R.smcp_with_dotabove.ss02</key>
+    <string>R_.smcp_with_dotabove.ss02.glif</string>
+    <key>R.smcp_with_dotbelow</key>
+    <string>R_.smcp_with_dotbelow.glif</string>
+    <key>R.smcp_with_dotbelow.ss02</key>
+    <string>R_.smcp_with_dotbelow.ss02.glif</string>
+    <key>R.smcp_with_dotbelow.ss02_and_macron</key>
+    <string>R_.smcp_with_dotbelow.ss02_and_macron.glif</string>
+    <key>R.smcp_with_dotbelow_and_macron</key>
+    <string>R_.smcp_with_dotbelow_and_macron.glif</string>
+    <key>R.smcp_with_gravedbl</key>
+    <string>R_.smcp_with_gravedbl.glif</string>
+    <key>R.smcp_with_macronbelow</key>
+    <string>R_.smcp_with_macronbelow.glif</string>
+    <key>R.ss01</key>
+    <string>R_.ss01.glif</string>
+    <key>R.ss01_with_acute</key>
+    <string>R_.ss01_with_acute.glif</string>
+    <key>R.ss01_with_breveinv</key>
+    <string>R_.ss01_with_breveinv.glif</string>
+    <key>R.ss01_with_caron</key>
+    <string>R_.ss01_with_caron.glif</string>
+    <key>R.ss01_with_commabelow</key>
+    <string>R_.ss01_with_commabelow.glif</string>
+    <key>R.ss01_with_commabelow.ss02</key>
+    <string>R_.ss01_with_commabelow.ss02.glif</string>
+    <key>R.ss01_with_dotabove</key>
+    <string>R_.ss01_with_dotabove.glif</string>
+    <key>R.ss01_with_dotabove.ss02</key>
+    <string>R_.ss01_with_dotabove.ss02.glif</string>
+    <key>R.ss01_with_dotbelow</key>
+    <string>R_.ss01_with_dotbelow.glif</string>
+    <key>R.ss01_with_dotbelow.ss02</key>
+    <string>R_.ss01_with_dotbelow.ss02.glif</string>
+    <key>R.ss01_with_dotbelow.ss02_and_macron</key>
+    <string>R_.ss01_with_dotbelow.ss02_and_macron.glif</string>
+    <key>R.ss01_with_dotbelow_and_macron</key>
+    <string>R_.ss01_with_dotbelow_and_macron.glif</string>
+    <key>R.ss01_with_gravedbl</key>
+    <string>R_.ss01_with_gravedbl.glif</string>
+    <key>R.ss01_with_macronbelow</key>
+    <string>R_.ss01_with_macronbelow.glif</string>
     <key>R_with_acute</key>
     <string>R__with_acute.glif</string>
     <key>R_with_breveinv</key>
@@ -406,10 +1236,18 @@
     <string>R__with_caron.glif</string>
     <key>R_with_commabelow</key>
     <string>R__with_commabelow.glif</string>
+    <key>R_with_commabelow.ss02</key>
+    <string>R__with_commabelow.ss02.glif</string>
     <key>R_with_dotabove</key>
     <string>R__with_dotabove.glif</string>
+    <key>R_with_dotabove.ss02</key>
+    <string>R__with_dotabove.ss02.glif</string>
     <key>R_with_dotbelow</key>
     <string>R__with_dotbelow.glif</string>
+    <key>R_with_dotbelow.ss02</key>
+    <string>R__with_dotbelow.ss02.glif</string>
+    <key>R_with_dotbelow.ss02_and_macron</key>
+    <string>R__with_dotbelow.ss02_and_macron.glif</string>
     <key>R_with_dotbelow_and_macron</key>
     <string>R__with_dotbelow_and_macron.glif</string>
     <key>R_with_gravedbl</key>
@@ -418,34 +1256,166 @@
     <string>R__with_macronbelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>S.smcp</key>
+    <string>S_.smcp.glif</string>
+    <key>S.smcp_with_acute</key>
+    <string>S_.smcp_with_acute.glif</string>
+    <key>S.smcp_with_acute_and_dotabove</key>
+    <string>S_.smcp_with_acute_and_dotabove.glif</string>
+    <key>S.smcp_with_acute_and_dotabove.ss02</key>
+    <string>S_.smcp_with_acute_and_dotabove.ss02.glif</string>
+    <key>S.smcp_with_caron</key>
+    <string>S_.smcp_with_caron.glif</string>
+    <key>S.smcp_with_caron_and_dotabove</key>
+    <string>S_.smcp_with_caron_and_dotabove.glif</string>
+    <key>S.smcp_with_caron_and_dotabove.ss02</key>
+    <string>S_.smcp_with_caron_and_dotabove.ss02.glif</string>
+    <key>S.smcp_with_cedilla</key>
+    <string>S_.smcp_with_cedilla.glif</string>
+    <key>S.smcp_with_circumflex</key>
+    <string>S_.smcp_with_circumflex.glif</string>
+    <key>S.smcp_with_commabelow</key>
+    <string>S_.smcp_with_commabelow.glif</string>
+    <key>S.smcp_with_commabelow.ss02</key>
+    <string>S_.smcp_with_commabelow.ss02.glif</string>
+    <key>S.smcp_with_dotabove</key>
+    <string>S_.smcp_with_dotabove.glif</string>
+    <key>S.smcp_with_dotabove.ss02</key>
+    <string>S_.smcp_with_dotabove.ss02.glif</string>
+    <key>S.smcp_with_dotbelow</key>
+    <string>S_.smcp_with_dotbelow.glif</string>
+    <key>S.smcp_with_dotbelow.ss02</key>
+    <string>S_.smcp_with_dotbelow.ss02.glif</string>
+    <key>S.smcp_with_dotbelow.ss02_and_dotabove.ss02</key>
+    <string>S_.smcp_with_dotbelow.ss02_and_dotabove.ss02.glif</string>
+    <key>S.smcp_with_dotbelow_and_dotabove</key>
+    <string>S_.smcp_with_dotbelow_and_dotabove.glif</string>
+    <key>S.ss01</key>
+    <string>S_.ss01.glif</string>
+    <key>S.ss01_with_acute</key>
+    <string>S_.ss01_with_acute.glif</string>
+    <key>S.ss01_with_acute_and_dotabove</key>
+    <string>S_.ss01_with_acute_and_dotabove.glif</string>
+    <key>S.ss01_with_acute_and_dotabove.ss02</key>
+    <string>S_.ss01_with_acute_and_dotabove.ss02.glif</string>
+    <key>S.ss01_with_caron</key>
+    <string>S_.ss01_with_caron.glif</string>
+    <key>S.ss01_with_caron_and_dotabove</key>
+    <string>S_.ss01_with_caron_and_dotabove.glif</string>
+    <key>S.ss01_with_caron_and_dotabove.ss02</key>
+    <string>S_.ss01_with_caron_and_dotabove.ss02.glif</string>
+    <key>S.ss01_with_cedilla</key>
+    <string>S_.ss01_with_cedilla.glif</string>
+    <key>S.ss01_with_circumflex</key>
+    <string>S_.ss01_with_circumflex.glif</string>
+    <key>S.ss01_with_commabelow</key>
+    <string>S_.ss01_with_commabelow.glif</string>
+    <key>S.ss01_with_commabelow.ss02</key>
+    <string>S_.ss01_with_commabelow.ss02.glif</string>
+    <key>S.ss01_with_dotabove</key>
+    <string>S_.ss01_with_dotabove.glif</string>
+    <key>S.ss01_with_dotabove.ss02</key>
+    <string>S_.ss01_with_dotabove.ss02.glif</string>
+    <key>S.ss01_with_dotbelow</key>
+    <string>S_.ss01_with_dotbelow.glif</string>
+    <key>S.ss01_with_dotbelow.ss02</key>
+    <string>S_.ss01_with_dotbelow.ss02.glif</string>
+    <key>S.ss01_with_dotbelow.ss02_and_dotabove.ss02</key>
+    <string>S_.ss01_with_dotbelow.ss02_and_dotabove.ss02.glif</string>
+    <key>S.ss01_with_dotbelow_and_dotabove</key>
+    <string>S_.ss01_with_dotbelow_and_dotabove.glif</string>
     <key>SCHWA</key>
     <string>S_C_H_W_A_.glif</string>
+    <key>SCHWA.smcp</key>
+    <string>S_C_H_W_A_.smcp.glif</string>
     <key>SIGMA</key>
     <string>S_I_G_M_A_.glif</string>
     <key>S_with_acute</key>
     <string>S__with_acute.glif</string>
     <key>S_with_acute_and_dotabove</key>
     <string>S__with_acute_and_dotabove.glif</string>
+    <key>S_with_acute_and_dotabove.ss02</key>
+    <string>S__with_acute_and_dotabove.ss02.glif</string>
     <key>S_with_caron</key>
     <string>S__with_caron.glif</string>
     <key>S_with_caron_and_dotabove</key>
     <string>S__with_caron_and_dotabove.glif</string>
+    <key>S_with_caron_and_dotabove.ss02</key>
+    <string>S__with_caron_and_dotabove.ss02.glif</string>
     <key>S_with_cedilla</key>
     <string>S__with_cedilla.glif</string>
     <key>S_with_circumflex</key>
     <string>S__with_circumflex.glif</string>
     <key>S_with_commabelow</key>
     <string>S__with_commabelow.glif</string>
+    <key>S_with_commabelow.ss02</key>
+    <string>S__with_commabelow.ss02.glif</string>
     <key>S_with_dotabove</key>
     <string>S__with_dotabove.glif</string>
+    <key>S_with_dotabove.ss02</key>
+    <string>S__with_dotabove.ss02.glif</string>
     <key>S_with_dotbelow</key>
     <string>S__with_dotbelow.glif</string>
+    <key>S_with_dotbelow.ss02</key>
+    <string>S__with_dotbelow.ss02.glif</string>
+    <key>S_with_dotbelow.ss02_and_dotabove.ss02</key>
+    <string>S__with_dotbelow.ss02_and_dotabove.ss02.glif</string>
     <key>S_with_dotbelow_and_dotabove</key>
     <string>S__with_dotbelow_and_dotabove.glif</string>
     <key>T</key>
     <string>T_.glif</string>
+    <key>T.smcp</key>
+    <string>T_.smcp.glif</string>
+    <key>T.smcp_with_caron</key>
+    <string>T_.smcp_with_caron.glif</string>
+    <key>T.smcp_with_cedilla</key>
+    <string>T_.smcp_with_cedilla.glif</string>
+    <key>T.smcp_with_circumflexbelow</key>
+    <string>T_.smcp_with_circumflexbelow.glif</string>
+    <key>T.smcp_with_commabelow</key>
+    <string>T_.smcp_with_commabelow.glif</string>
+    <key>T.smcp_with_commabelow.ss02</key>
+    <string>T_.smcp_with_commabelow.ss02.glif</string>
+    <key>T.smcp_with_dotabove</key>
+    <string>T_.smcp_with_dotabove.glif</string>
+    <key>T.smcp_with_dotabove.ss02</key>
+    <string>T_.smcp_with_dotabove.ss02.glif</string>
+    <key>T.smcp_with_dotbelow</key>
+    <string>T_.smcp_with_dotbelow.glif</string>
+    <key>T.smcp_with_dotbelow.ss02</key>
+    <string>T_.smcp_with_dotbelow.ss02.glif</string>
+    <key>T.smcp_with_macronbelow</key>
+    <string>T_.smcp_with_macronbelow.glif</string>
+    <key>T.smcp_with_stroke</key>
+    <string>T_.smcp_with_stroke.glif</string>
+    <key>T.ss01</key>
+    <string>T_.ss01.glif</string>
+    <key>T.ss01_with_caron</key>
+    <string>T_.ss01_with_caron.glif</string>
+    <key>T.ss01_with_cedilla</key>
+    <string>T_.ss01_with_cedilla.glif</string>
+    <key>T.ss01_with_circumflexbelow</key>
+    <string>T_.ss01_with_circumflexbelow.glif</string>
+    <key>T.ss01_with_commabelow</key>
+    <string>T_.ss01_with_commabelow.glif</string>
+    <key>T.ss01_with_commabelow.ss02</key>
+    <string>T_.ss01_with_commabelow.ss02.glif</string>
+    <key>T.ss01_with_dotabove</key>
+    <string>T_.ss01_with_dotabove.glif</string>
+    <key>T.ss01_with_dotabove.ss02</key>
+    <string>T_.ss01_with_dotabove.ss02.glif</string>
+    <key>T.ss01_with_dotbelow</key>
+    <string>T_.ss01_with_dotbelow.glif</string>
+    <key>T.ss01_with_dotbelow.ss02</key>
+    <string>T_.ss01_with_dotbelow.ss02.glif</string>
+    <key>T.ss01_with_macronbelow</key>
+    <string>T_.ss01_with_macronbelow.glif</string>
+    <key>T.ss01_with_stroke</key>
+    <string>T_.ss01_with_stroke.glif</string>
     <key>THORN</key>
     <string>T_H_O_R_N_.glif</string>
+    <key>THORN.smcp</key>
+    <string>T_H_O_R_N_.smcp.glif</string>
     <key>T_with_caron</key>
     <string>T__with_caron.glif</string>
     <key>T_with_cedilla</key>
@@ -454,16 +1424,182 @@
     <string>T__with_circumflexbelow.glif</string>
     <key>T_with_commabelow</key>
     <string>T__with_commabelow.glif</string>
+    <key>T_with_commabelow.ss02</key>
+    <string>T__with_commabelow.ss02.glif</string>
     <key>T_with_dotabove</key>
     <string>T__with_dotabove.glif</string>
+    <key>T_with_dotabove.ss02</key>
+    <string>T__with_dotabove.ss02.glif</string>
     <key>T_with_dotbelow</key>
     <string>T__with_dotbelow.glif</string>
+    <key>T_with_dotbelow.ss02</key>
+    <string>T__with_dotbelow.ss02.glif</string>
     <key>T_with_macronbelow</key>
     <string>T__with_macronbelow.glif</string>
     <key>T_with_stroke</key>
     <string>T__with_stroke.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>U.smcp</key>
+    <string>U_.smcp.glif</string>
+    <key>U.smcp_with_acute</key>
+    <string>U_.smcp_with_acute.glif</string>
+    <key>U.smcp_with_acutedbl</key>
+    <string>U_.smcp_with_acutedbl.glif</string>
+    <key>U.smcp_with_breve</key>
+    <string>U_.smcp_with_breve.glif</string>
+    <key>U.smcp_with_breveinv</key>
+    <string>U_.smcp_with_breveinv.glif</string>
+    <key>U.smcp_with_caron</key>
+    <string>U_.smcp_with_caron.glif</string>
+    <key>U.smcp_with_circumflex</key>
+    <string>U_.smcp_with_circumflex.glif</string>
+    <key>U.smcp_with_circumflexbelow</key>
+    <string>U_.smcp_with_circumflexbelow.glif</string>
+    <key>U.smcp_with_diaeresis</key>
+    <string>U_.smcp_with_diaeresis.glif</string>
+    <key>U.smcp_with_diaeresis.ss02</key>
+    <string>U_.smcp_with_diaeresis.ss02.glif</string>
+    <key>U.smcp_with_diaeresis.ss02_and_acute</key>
+    <string>U_.smcp_with_diaeresis.ss02_and_acute.glif</string>
+    <key>U.smcp_with_diaeresis.ss02_and_caron</key>
+    <string>U_.smcp_with_diaeresis.ss02_and_caron.glif</string>
+    <key>U.smcp_with_diaeresis.ss02_and_grave</key>
+    <string>U_.smcp_with_diaeresis.ss02_and_grave.glif</string>
+    <key>U.smcp_with_diaeresis.ss02_and_macron</key>
+    <string>U_.smcp_with_diaeresis.ss02_and_macron.glif</string>
+    <key>U.smcp_with_diaeresis_and_acute</key>
+    <string>U_.smcp_with_diaeresis_and_acute.glif</string>
+    <key>U.smcp_with_diaeresis_and_caron</key>
+    <string>U_.smcp_with_diaeresis_and_caron.glif</string>
+    <key>U.smcp_with_diaeresis_and_grave</key>
+    <string>U_.smcp_with_diaeresis_and_grave.glif</string>
+    <key>U.smcp_with_diaeresis_and_macron</key>
+    <string>U_.smcp_with_diaeresis_and_macron.glif</string>
+    <key>U.smcp_with_diaeresisbelow</key>
+    <string>U_.smcp_with_diaeresisbelow.glif</string>
+    <key>U.smcp_with_diaeresisbelow.ss02</key>
+    <string>U_.smcp_with_diaeresisbelow.ss02.glif</string>
+    <key>U.smcp_with_dotbelow</key>
+    <string>U_.smcp_with_dotbelow.glif</string>
+    <key>U.smcp_with_dotbelow.ss02</key>
+    <string>U_.smcp_with_dotbelow.ss02.glif</string>
+    <key>U.smcp_with_grave</key>
+    <string>U_.smcp_with_grave.glif</string>
+    <key>U.smcp_with_gravedbl</key>
+    <string>U_.smcp_with_gravedbl.glif</string>
+    <key>U.smcp_with_hook</key>
+    <string>U_.smcp_with_hook.glif</string>
+    <key>U.smcp_with_horn</key>
+    <string>U_.smcp_with_horn.glif</string>
+    <key>U.smcp_with_horn_and_acute</key>
+    <string>U_.smcp_with_horn_and_acute.glif</string>
+    <key>U.smcp_with_horn_and_dotbelow</key>
+    <string>U_.smcp_with_horn_and_dotbelow.glif</string>
+    <key>U.smcp_with_horn_and_dotbelow.ss02</key>
+    <string>U_.smcp_with_horn_and_dotbelow.ss02.glif</string>
+    <key>U.smcp_with_horn_and_grave</key>
+    <string>U_.smcp_with_horn_and_grave.glif</string>
+    <key>U.smcp_with_horn_and_hook</key>
+    <string>U_.smcp_with_horn_and_hook.glif</string>
+    <key>U.smcp_with_horn_and_tildeabove</key>
+    <string>U_.smcp_with_horn_and_tildeabove.glif</string>
+    <key>U.smcp_with_macron</key>
+    <string>U_.smcp_with_macron.glif</string>
+    <key>U.smcp_with_macron_and_diaeresis</key>
+    <string>U_.smcp_with_macron_and_diaeresis.glif</string>
+    <key>U.smcp_with_macron_and_diaeresis.ss02</key>
+    <string>U_.smcp_with_macron_and_diaeresis.ss02.glif</string>
+    <key>U.smcp_with_ogonek</key>
+    <string>U_.smcp_with_ogonek.glif</string>
+    <key>U.smcp_with_ring</key>
+    <string>U_.smcp_with_ring.glif</string>
+    <key>U.smcp_with_tildeabove</key>
+    <string>U_.smcp_with_tildeabove.glif</string>
+    <key>U.smcp_with_tildeabove_and_acute</key>
+    <string>U_.smcp_with_tildeabove_and_acute.glif</string>
+    <key>U.smcp_with_tildebelow</key>
+    <string>U_.smcp_with_tildebelow.glif</string>
+    <key>U.ss01</key>
+    <string>U_.ss01.glif</string>
+    <key>U.ss01_with_acute</key>
+    <string>U_.ss01_with_acute.glif</string>
+    <key>U.ss01_with_acutedbl</key>
+    <string>U_.ss01_with_acutedbl.glif</string>
+    <key>U.ss01_with_breve</key>
+    <string>U_.ss01_with_breve.glif</string>
+    <key>U.ss01_with_breveinv</key>
+    <string>U_.ss01_with_breveinv.glif</string>
+    <key>U.ss01_with_caron</key>
+    <string>U_.ss01_with_caron.glif</string>
+    <key>U.ss01_with_circumflex</key>
+    <string>U_.ss01_with_circumflex.glif</string>
+    <key>U.ss01_with_circumflexbelow</key>
+    <string>U_.ss01_with_circumflexbelow.glif</string>
+    <key>U.ss01_with_diaeresis</key>
+    <string>U_.ss01_with_diaeresis.glif</string>
+    <key>U.ss01_with_diaeresis.ss02</key>
+    <string>U_.ss01_with_diaeresis.ss02.glif</string>
+    <key>U.ss01_with_diaeresis.ss02_and_acute</key>
+    <string>U_.ss01_with_diaeresis.ss02_and_acute.glif</string>
+    <key>U.ss01_with_diaeresis.ss02_and_caron</key>
+    <string>U_.ss01_with_diaeresis.ss02_and_caron.glif</string>
+    <key>U.ss01_with_diaeresis.ss02_and_grave</key>
+    <string>U_.ss01_with_diaeresis.ss02_and_grave.glif</string>
+    <key>U.ss01_with_diaeresis.ss02_and_macron</key>
+    <string>U_.ss01_with_diaeresis.ss02_and_macron.glif</string>
+    <key>U.ss01_with_diaeresis_and_acute</key>
+    <string>U_.ss01_with_diaeresis_and_acute.glif</string>
+    <key>U.ss01_with_diaeresis_and_caron</key>
+    <string>U_.ss01_with_diaeresis_and_caron.glif</string>
+    <key>U.ss01_with_diaeresis_and_grave</key>
+    <string>U_.ss01_with_diaeresis_and_grave.glif</string>
+    <key>U.ss01_with_diaeresis_and_macron</key>
+    <string>U_.ss01_with_diaeresis_and_macron.glif</string>
+    <key>U.ss01_with_diaeresisbelow</key>
+    <string>U_.ss01_with_diaeresisbelow.glif</string>
+    <key>U.ss01_with_diaeresisbelow.ss02</key>
+    <string>U_.ss01_with_diaeresisbelow.ss02.glif</string>
+    <key>U.ss01_with_dotbelow</key>
+    <string>U_.ss01_with_dotbelow.glif</string>
+    <key>U.ss01_with_dotbelow.ss02</key>
+    <string>U_.ss01_with_dotbelow.ss02.glif</string>
+    <key>U.ss01_with_grave</key>
+    <string>U_.ss01_with_grave.glif</string>
+    <key>U.ss01_with_gravedbl</key>
+    <string>U_.ss01_with_gravedbl.glif</string>
+    <key>U.ss01_with_hook</key>
+    <string>U_.ss01_with_hook.glif</string>
+    <key>U.ss01_with_horn</key>
+    <string>U_.ss01_with_horn.glif</string>
+    <key>U.ss01_with_horn_and_acute</key>
+    <string>U_.ss01_with_horn_and_acute.glif</string>
+    <key>U.ss01_with_horn_and_dotbelow</key>
+    <string>U_.ss01_with_horn_and_dotbelow.glif</string>
+    <key>U.ss01_with_horn_and_dotbelow.ss02</key>
+    <string>U_.ss01_with_horn_and_dotbelow.ss02.glif</string>
+    <key>U.ss01_with_horn_and_grave</key>
+    <string>U_.ss01_with_horn_and_grave.glif</string>
+    <key>U.ss01_with_horn_and_hook</key>
+    <string>U_.ss01_with_horn_and_hook.glif</string>
+    <key>U.ss01_with_horn_and_tildeabove</key>
+    <string>U_.ss01_with_horn_and_tildeabove.glif</string>
+    <key>U.ss01_with_macron</key>
+    <string>U_.ss01_with_macron.glif</string>
+    <key>U.ss01_with_macron_and_diaeresis</key>
+    <string>U_.ss01_with_macron_and_diaeresis.glif</string>
+    <key>U.ss01_with_macron_and_diaeresis.ss02</key>
+    <string>U_.ss01_with_macron_and_diaeresis.ss02.glif</string>
+    <key>U.ss01_with_ogonek</key>
+    <string>U_.ss01_with_ogonek.glif</string>
+    <key>U.ss01_with_ring</key>
+    <string>U_.ss01_with_ring.glif</string>
+    <key>U.ss01_with_tildeabove</key>
+    <string>U_.ss01_with_tildeabove.glif</string>
+    <key>U.ss01_with_tildeabove_and_acute</key>
+    <string>U_.ss01_with_tildeabove_and_acute.glif</string>
+    <key>U.ss01_with_tildebelow</key>
+    <string>U_.ss01_with_tildebelow.glif</string>
     <key>U_with_acute</key>
     <string>U__with_acute.glif</string>
     <key>U_with_acutedbl</key>
@@ -480,6 +1616,16 @@
     <string>U__with_circumflexbelow.glif</string>
     <key>U_with_diaeresis</key>
     <string>U__with_diaeresis.glif</string>
+    <key>U_with_diaeresis.ss02</key>
+    <string>U__with_diaeresis.ss02.glif</string>
+    <key>U_with_diaeresis.ss02_and_acute</key>
+    <string>U__with_diaeresis.ss02_and_acute.glif</string>
+    <key>U_with_diaeresis.ss02_and_caron</key>
+    <string>U__with_diaeresis.ss02_and_caron.glif</string>
+    <key>U_with_diaeresis.ss02_and_grave</key>
+    <string>U__with_diaeresis.ss02_and_grave.glif</string>
+    <key>U_with_diaeresis.ss02_and_macron</key>
+    <string>U__with_diaeresis.ss02_and_macron.glif</string>
     <key>U_with_diaeresis_and_acute</key>
     <string>U__with_diaeresis_and_acute.glif</string>
     <key>U_with_diaeresis_and_caron</key>
@@ -490,8 +1636,12 @@
     <string>U__with_diaeresis_and_macron.glif</string>
     <key>U_with_diaeresisbelow</key>
     <string>U__with_diaeresisbelow.glif</string>
+    <key>U_with_diaeresisbelow.ss02</key>
+    <string>U__with_diaeresisbelow.ss02.glif</string>
     <key>U_with_dotbelow</key>
     <string>U__with_dotbelow.glif</string>
+    <key>U_with_dotbelow.ss02</key>
+    <string>U__with_dotbelow.ss02.glif</string>
     <key>U_with_grave</key>
     <string>U__with_grave.glif</string>
     <key>U_with_gravedbl</key>
@@ -504,6 +1654,8 @@
     <string>U__with_horn_and_acute.glif</string>
     <key>U_with_horn_and_dotbelow</key>
     <string>U__with_horn_and_dotbelow.glif</string>
+    <key>U_with_horn_and_dotbelow.ss02</key>
+    <string>U__with_horn_and_dotbelow.ss02.glif</string>
     <key>U_with_horn_and_grave</key>
     <string>U__with_horn_and_grave.glif</string>
     <key>U_with_horn_and_hook</key>
@@ -514,6 +1666,8 @@
     <string>U__with_macron.glif</string>
     <key>U_with_macron_and_diaeresis</key>
     <string>U__with_macron_and_diaeresis.glif</string>
+    <key>U_with_macron_and_diaeresis.ss02</key>
+    <string>U__with_macron_and_diaeresis.ss02.glif</string>
     <key>U_with_ogonek</key>
     <string>U__with_ogonek.glif</string>
     <key>U_with_ring</key>
@@ -526,42 +1680,160 @@
     <string>U__with_tildebelow.glif</string>
     <key>V</key>
     <string>V_.glif</string>
+    <key>V.smcp</key>
+    <string>V_.smcp.glif</string>
+    <key>V.smcp_with_dotbelow</key>
+    <string>V_.smcp_with_dotbelow.glif</string>
+    <key>V.smcp_with_dotbelow.ss02</key>
+    <string>V_.smcp_with_dotbelow.ss02.glif</string>
+    <key>V.smcp_with_tildeabove</key>
+    <string>V_.smcp_with_tildeabove.glif</string>
     <key>V_with_dotbelow</key>
     <string>V__with_dotbelow.glif</string>
+    <key>V_with_dotbelow.ss02</key>
+    <string>V__with_dotbelow.ss02.glif</string>
     <key>V_with_tildeabove</key>
     <string>V__with_tildeabove.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>W.smcp</key>
+    <string>W_.smcp.glif</string>
+    <key>W.smcp_with_acute</key>
+    <string>W_.smcp_with_acute.glif</string>
+    <key>W.smcp_with_circumflex</key>
+    <string>W_.smcp_with_circumflex.glif</string>
+    <key>W.smcp_with_diaeresis</key>
+    <string>W_.smcp_with_diaeresis.glif</string>
+    <key>W.smcp_with_diaeresis.ss02</key>
+    <string>W_.smcp_with_diaeresis.ss02.glif</string>
+    <key>W.smcp_with_dotabove</key>
+    <string>W_.smcp_with_dotabove.glif</string>
+    <key>W.smcp_with_dotabove.ss02</key>
+    <string>W_.smcp_with_dotabove.ss02.glif</string>
+    <key>W.smcp_with_dotbelow</key>
+    <string>W_.smcp_with_dotbelow.glif</string>
+    <key>W.smcp_with_dotbelow.ss02</key>
+    <string>W_.smcp_with_dotbelow.ss02.glif</string>
+    <key>W.smcp_with_grave</key>
+    <string>W_.smcp_with_grave.glif</string>
     <key>W_with_acute</key>
     <string>W__with_acute.glif</string>
     <key>W_with_circumflex</key>
     <string>W__with_circumflex.glif</string>
     <key>W_with_diaeresis</key>
     <string>W__with_diaeresis.glif</string>
+    <key>W_with_diaeresis.ss02</key>
+    <string>W__with_diaeresis.ss02.glif</string>
     <key>W_with_dotabove</key>
     <string>W__with_dotabove.glif</string>
+    <key>W_with_dotabove.ss02</key>
+    <string>W__with_dotabove.ss02.glif</string>
     <key>W_with_dotbelow</key>
     <string>W__with_dotbelow.glif</string>
+    <key>W_with_dotbelow.ss02</key>
+    <string>W__with_dotbelow.ss02.glif</string>
     <key>W_with_grave</key>
     <string>W__with_grave.glif</string>
     <key>X</key>
     <string>X_.glif</string>
+    <key>X.smcp</key>
+    <string>X_.smcp.glif</string>
+    <key>X.smcp_with_diaeresis</key>
+    <string>X_.smcp_with_diaeresis.glif</string>
+    <key>X.smcp_with_diaeresis.ss02</key>
+    <string>X_.smcp_with_diaeresis.ss02.glif</string>
+    <key>X.smcp_with_dotabove</key>
+    <string>X_.smcp_with_dotabove.glif</string>
+    <key>X.smcp_with_dotabove.ss02</key>
+    <string>X_.smcp_with_dotabove.ss02.glif</string>
+    <key>X.ss01</key>
+    <string>X_.ss01.glif</string>
+    <key>X.ss01_with_diaeresis</key>
+    <string>X_.ss01_with_diaeresis.glif</string>
+    <key>X.ss01_with_diaeresis.ss02</key>
+    <string>X_.ss01_with_diaeresis.ss02.glif</string>
+    <key>X.ss01_with_dotabove</key>
+    <string>X_.ss01_with_dotabove.glif</string>
+    <key>X.ss01_with_dotabove.ss02</key>
+    <string>X_.ss01_with_dotabove.ss02.glif</string>
     <key>X_with_diaeresis</key>
     <string>X__with_diaeresis.glif</string>
+    <key>X_with_diaeresis.ss02</key>
+    <string>X__with_diaeresis.ss02.glif</string>
     <key>X_with_dotabove</key>
     <string>X__with_dotabove.glif</string>
+    <key>X_with_dotabove.ss02</key>
+    <string>X__with_dotabove.ss02.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Y.smcp</key>
+    <string>Y_.smcp.glif</string>
+    <key>Y.smcp_with_acute</key>
+    <string>Y_.smcp_with_acute.glif</string>
+    <key>Y.smcp_with_circumflex</key>
+    <string>Y_.smcp_with_circumflex.glif</string>
+    <key>Y.smcp_with_diaeresis</key>
+    <string>Y_.smcp_with_diaeresis.glif</string>
+    <key>Y.smcp_with_diaeresis.ss02</key>
+    <string>Y_.smcp_with_diaeresis.ss02.glif</string>
+    <key>Y.smcp_with_dotabove</key>
+    <string>Y_.smcp_with_dotabove.glif</string>
+    <key>Y.smcp_with_dotabove.ss02</key>
+    <string>Y_.smcp_with_dotabove.ss02.glif</string>
+    <key>Y.smcp_with_dotbelow</key>
+    <string>Y_.smcp_with_dotbelow.glif</string>
+    <key>Y.smcp_with_dotbelow.ss02</key>
+    <string>Y_.smcp_with_dotbelow.ss02.glif</string>
+    <key>Y.smcp_with_grave</key>
+    <string>Y_.smcp_with_grave.glif</string>
+    <key>Y.smcp_with_hook</key>
+    <string>Y_.smcp_with_hook.glif</string>
+    <key>Y.smcp_with_macron</key>
+    <string>Y_.smcp_with_macron.glif</string>
+    <key>Y.smcp_with_tildeabove</key>
+    <string>Y_.smcp_with_tildeabove.glif</string>
+    <key>Y.ss01</key>
+    <string>Y_.ss01.glif</string>
+    <key>Y.ss01_with_acute</key>
+    <string>Y_.ss01_with_acute.glif</string>
+    <key>Y.ss01_with_circumflex</key>
+    <string>Y_.ss01_with_circumflex.glif</string>
+    <key>Y.ss01_with_diaeresis</key>
+    <string>Y_.ss01_with_diaeresis.glif</string>
+    <key>Y.ss01_with_diaeresis.ss02</key>
+    <string>Y_.ss01_with_diaeresis.ss02.glif</string>
+    <key>Y.ss01_with_dotabove</key>
+    <string>Y_.ss01_with_dotabove.glif</string>
+    <key>Y.ss01_with_dotabove.ss02</key>
+    <string>Y_.ss01_with_dotabove.ss02.glif</string>
+    <key>Y.ss01_with_dotbelow</key>
+    <string>Y_.ss01_with_dotbelow.glif</string>
+    <key>Y.ss01_with_dotbelow.ss02</key>
+    <string>Y_.ss01_with_dotbelow.ss02.glif</string>
+    <key>Y.ss01_with_grave</key>
+    <string>Y_.ss01_with_grave.glif</string>
+    <key>Y.ss01_with_hook</key>
+    <string>Y_.ss01_with_hook.glif</string>
+    <key>Y.ss01_with_macron</key>
+    <string>Y_.ss01_with_macron.glif</string>
+    <key>Y.ss01_with_tildeabove</key>
+    <string>Y_.ss01_with_tildeabove.glif</string>
     <key>Y_with_acute</key>
     <string>Y__with_acute.glif</string>
     <key>Y_with_circumflex</key>
     <string>Y__with_circumflex.glif</string>
     <key>Y_with_diaeresis</key>
     <string>Y__with_diaeresis.glif</string>
+    <key>Y_with_diaeresis.ss02</key>
+    <string>Y__with_diaeresis.ss02.glif</string>
     <key>Y_with_dotabove</key>
     <string>Y__with_dotabove.glif</string>
+    <key>Y_with_dotabove.ss02</key>
+    <string>Y__with_dotabove.ss02.glif</string>
     <key>Y_with_dotbelow</key>
     <string>Y__with_dotbelow.glif</string>
+    <key>Y_with_dotbelow.ss02</key>
+    <string>Y__with_dotbelow.ss02.glif</string>
     <key>Y_with_grave</key>
     <string>Y__with_grave.glif</string>
     <key>Y_with_hook</key>
@@ -572,6 +1844,46 @@
     <string>Y__with_tildeabove.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Z.smcp</key>
+    <string>Z_.smcp.glif</string>
+    <key>Z.smcp_with_acute</key>
+    <string>Z_.smcp_with_acute.glif</string>
+    <key>Z.smcp_with_caron</key>
+    <string>Z_.smcp_with_caron.glif</string>
+    <key>Z.smcp_with_circumflex</key>
+    <string>Z_.smcp_with_circumflex.glif</string>
+    <key>Z.smcp_with_dotabove</key>
+    <string>Z_.smcp_with_dotabove.glif</string>
+    <key>Z.smcp_with_dotabove.ss02</key>
+    <string>Z_.smcp_with_dotabove.ss02.glif</string>
+    <key>Z.smcp_with_dotbelow</key>
+    <string>Z_.smcp_with_dotbelow.glif</string>
+    <key>Z.smcp_with_dotbelow.ss02</key>
+    <string>Z_.smcp_with_dotbelow.ss02.glif</string>
+    <key>Z.smcp_with_macronbelow</key>
+    <string>Z_.smcp_with_macronbelow.glif</string>
+    <key>Z.smcp_with_stroke</key>
+    <string>Z_.smcp_with_stroke.glif</string>
+    <key>Z.ss01</key>
+    <string>Z_.ss01.glif</string>
+    <key>Z.ss01_with_acute</key>
+    <string>Z_.ss01_with_acute.glif</string>
+    <key>Z.ss01_with_caron</key>
+    <string>Z_.ss01_with_caron.glif</string>
+    <key>Z.ss01_with_circumflex</key>
+    <string>Z_.ss01_with_circumflex.glif</string>
+    <key>Z.ss01_with_dotabove</key>
+    <string>Z_.ss01_with_dotabove.glif</string>
+    <key>Z.ss01_with_dotabove.ss02</key>
+    <string>Z_.ss01_with_dotabove.ss02.glif</string>
+    <key>Z.ss01_with_dotbelow</key>
+    <string>Z_.ss01_with_dotbelow.glif</string>
+    <key>Z.ss01_with_dotbelow.ss02</key>
+    <string>Z_.ss01_with_dotbelow.ss02.glif</string>
+    <key>Z.ss01_with_macronbelow</key>
+    <string>Z_.ss01_with_macronbelow.glif</string>
+    <key>Z.ss01_with_stroke</key>
+    <string>Z_.ss01_with_stroke.glif</string>
     <key>Z_with_acute</key>
     <string>Z__with_acute.glif</string>
     <key>Z_with_caron</key>
@@ -580,14 +1892,92 @@
     <string>Z__with_circumflex.glif</string>
     <key>Z_with_dotabove</key>
     <string>Z__with_dotabove.glif</string>
+    <key>Z_with_dotabove.ss02</key>
+    <string>Z__with_dotabove.ss02.glif</string>
     <key>Z_with_dotbelow</key>
     <string>Z__with_dotbelow.glif</string>
+    <key>Z_with_dotbelow.ss02</key>
+    <string>Z__with_dotbelow.ss02.glif</string>
     <key>Z_with_macronbelow</key>
     <string>Z__with_macronbelow.glif</string>
     <key>Z_with_stroke</key>
     <string>Z__with_stroke.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>a.ss03</key>
+    <string>a.ss03.glif</string>
+    <key>a.ss03_with_acute</key>
+    <string>a.ss03_with_acute.glif</string>
+    <key>a.ss03_with_breve</key>
+    <string>a.ss03_with_breve.glif</string>
+    <key>a.ss03_with_breve_and_acute</key>
+    <string>a.ss03_with_breve_and_acute.glif</string>
+    <key>a.ss03_with_breve_and_dotbelow</key>
+    <string>a.ss03_with_breve_and_dotbelow.glif</string>
+    <key>a.ss03_with_breve_and_dotbelow.ss02</key>
+    <string>a.ss03_with_breve_and_dotbelow.ss02.glif</string>
+    <key>a.ss03_with_breve_and_grave</key>
+    <string>a.ss03_with_breve_and_grave.glif</string>
+    <key>a.ss03_with_breve_and_hook</key>
+    <string>a.ss03_with_breve_and_hook.glif</string>
+    <key>a.ss03_with_breve_and_tildeabove</key>
+    <string>a.ss03_with_breve_and_tildeabove.glif</string>
+    <key>a.ss03_with_breveinv</key>
+    <string>a.ss03_with_breveinv.glif</string>
+    <key>a.ss03_with_caron</key>
+    <string>a.ss03_with_caron.glif</string>
+    <key>a.ss03_with_circumflex</key>
+    <string>a.ss03_with_circumflex.glif</string>
+    <key>a.ss03_with_circumflex_and_acute</key>
+    <string>a.ss03_with_circumflex_and_acute.glif</string>
+    <key>a.ss03_with_circumflex_and_dotbelow</key>
+    <string>a.ss03_with_circumflex_and_dotbelow.glif</string>
+    <key>a.ss03_with_circumflex_and_dotbelow.ss02</key>
+    <string>a.ss03_with_circumflex_and_dotbelow.ss02.glif</string>
+    <key>a.ss03_with_circumflex_and_grave</key>
+    <string>a.ss03_with_circumflex_and_grave.glif</string>
+    <key>a.ss03_with_circumflex_and_hook</key>
+    <string>a.ss03_with_circumflex_and_hook.glif</string>
+    <key>a.ss03_with_circumflex_and_tildeabove</key>
+    <string>a.ss03_with_circumflex_and_tildeabove.glif</string>
+    <key>a.ss03_with_diaeresis</key>
+    <string>a.ss03_with_diaeresis.glif</string>
+    <key>a.ss03_with_diaeresis.ss02</key>
+    <string>a.ss03_with_diaeresis.ss02.glif</string>
+    <key>a.ss03_with_diaeresis.ss02_and_macron</key>
+    <string>a.ss03_with_diaeresis.ss02_and_macron.glif</string>
+    <key>a.ss03_with_diaeresis_and_macron</key>
+    <string>a.ss03_with_diaeresis_and_macron.glif</string>
+    <key>a.ss03_with_dotabove</key>
+    <string>a.ss03_with_dotabove.glif</string>
+    <key>a.ss03_with_dotabove.ss02</key>
+    <string>a.ss03_with_dotabove.ss02.glif</string>
+    <key>a.ss03_with_dotabove.ss02_and_macron</key>
+    <string>a.ss03_with_dotabove.ss02_and_macron.glif</string>
+    <key>a.ss03_with_dotabove_and_macron</key>
+    <string>a.ss03_with_dotabove_and_macron.glif</string>
+    <key>a.ss03_with_dotbelow</key>
+    <string>a.ss03_with_dotbelow.glif</string>
+    <key>a.ss03_with_dotbelow.ss02</key>
+    <string>a.ss03_with_dotbelow.ss02.glif</string>
+    <key>a.ss03_with_grave</key>
+    <string>a.ss03_with_grave.glif</string>
+    <key>a.ss03_with_gravedbl</key>
+    <string>a.ss03_with_gravedbl.glif</string>
+    <key>a.ss03_with_hook</key>
+    <string>a.ss03_with_hook.glif</string>
+    <key>a.ss03_with_macron</key>
+    <string>a.ss03_with_macron.glif</string>
+    <key>a.ss03_with_ogonek</key>
+    <string>a.ss03_with_ogonek.glif</string>
+    <key>a.ss03_with_ring</key>
+    <string>a.ss03_with_ring.glif</string>
+    <key>a.ss03_with_ring_and_acute</key>
+    <string>a.ss03_with_ring_and_acute.glif</string>
+    <key>a.ss03_with_ringbelow</key>
+    <string>a.ss03_with_ringbelow.glif</string>
+    <key>a.ss03_with_tildeabove</key>
+    <string>a.ss03_with_tildeabove.glif</string>
     <key>a_with_acute</key>
     <string>a_with_acute.glif</string>
     <key>a_with_breve</key>
@@ -596,6 +1986,8 @@
     <string>a_with_breve_and_acute.glif</string>
     <key>a_with_breve_and_dotbelow</key>
     <string>a_with_breve_and_dotbelow.glif</string>
+    <key>a_with_breve_and_dotbelow.ss02</key>
+    <string>a_with_breve_and_dotbelow.ss02.glif</string>
     <key>a_with_breve_and_grave</key>
     <string>a_with_breve_and_grave.glif</string>
     <key>a_with_breve_and_hook</key>
@@ -612,6 +2004,8 @@
     <string>a_with_circumflex_and_acute.glif</string>
     <key>a_with_circumflex_and_dotbelow</key>
     <string>a_with_circumflex_and_dotbelow.glif</string>
+    <key>a_with_circumflex_and_dotbelow.ss02</key>
+    <string>a_with_circumflex_and_dotbelow.ss02.glif</string>
     <key>a_with_circumflex_and_grave</key>
     <string>a_with_circumflex_and_grave.glif</string>
     <key>a_with_circumflex_and_hook</key>
@@ -620,14 +2014,24 @@
     <string>a_with_circumflex_and_tildeabove.glif</string>
     <key>a_with_diaeresis</key>
     <string>a_with_diaeresis.glif</string>
+    <key>a_with_diaeresis.ss02</key>
+    <string>a_with_diaeresis.ss02.glif</string>
+    <key>a_with_diaeresis.ss02_and_macron</key>
+    <string>a_with_diaeresis.ss02_and_macron.glif</string>
     <key>a_with_diaeresis_and_macron</key>
     <string>a_with_diaeresis_and_macron.glif</string>
     <key>a_with_dotabove</key>
     <string>a_with_dotabove.glif</string>
+    <key>a_with_dotabove.ss02</key>
+    <string>a_with_dotabove.ss02.glif</string>
+    <key>a_with_dotabove.ss02_and_macron</key>
+    <string>a_with_dotabove.ss02_and_macron.glif</string>
     <key>a_with_dotabove_and_macron</key>
     <string>a_with_dotabove_and_macron.glif</string>
     <key>a_with_dotbelow</key>
     <string>a_with_dotbelow.glif</string>
+    <key>a_with_dotbelow.ss02</key>
+    <string>a_with_dotbelow.ss02.glif</string>
     <key>a_with_grave</key>
     <string>a_with_grave.glif</string>
     <key>a_with_gravedbl</key>
@@ -652,6 +2056,12 @@
     <string>acutedbl.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>ae.ss03</key>
+    <string>ae.ss03.glif</string>
+    <key>ae.ss03_with_acute</key>
+    <string>ae.ss03_with_acute.glif</string>
+    <key>ae.ss03_with_macron</key>
+    <string>ae.ss03_with_macron.glif</string>
     <key>ae_with_acute</key>
     <string>ae_with_acute.glif</string>
     <key>ae_with_macron</key>
@@ -670,6 +2080,8 @@
     <string>angleright_dbl.glif</string>
     <key>apostrophe</key>
     <string>apostrophe.glif</string>
+    <key>apostrophe.ss02</key>
+    <string>apostrophe.ss02.glif</string>
     <key>arrow_down</key>
     <string>arrow_down.glif</string>
     <key>arrow_left</key>
@@ -698,10 +2110,26 @@
     <string>austral.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>b.ss03</key>
+    <string>b.ss03.glif</string>
+    <key>b.ss03_with_dotabove</key>
+    <string>b.ss03_with_dotabove.glif</string>
+    <key>b.ss03_with_dotabove.ss02</key>
+    <string>b.ss03_with_dotabove.ss02.glif</string>
+    <key>b.ss03_with_dotbelow</key>
+    <string>b.ss03_with_dotbelow.glif</string>
+    <key>b.ss03_with_dotbelow.ss02</key>
+    <string>b.ss03_with_dotbelow.ss02.glif</string>
+    <key>b.ss03_with_macronbelow</key>
+    <string>b.ss03_with_macronbelow.glif</string>
     <key>b_with_dotabove</key>
     <string>b_with_dotabove.glif</string>
+    <key>b_with_dotabove.ss02</key>
+    <string>b_with_dotabove.ss02.glif</string>
     <key>b_with_dotbelow</key>
     <string>b_with_dotbelow.glif</string>
+    <key>b_with_dotbelow.ss02</key>
+    <string>b_with_dotbelow.ss02.glif</string>
     <key>b_with_macronbelow</key>
     <string>b_with_macronbelow.glif</string>
     <key>backslash</key>
@@ -724,6 +2152,8 @@
     <string>brokenbar.glif</string>
     <key>bullet</key>
     <string>bullet.glif</string>
+    <key>bullet.ss02</key>
+    <string>bullet.ss02.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>c_with_acute</key>
@@ -738,6 +2168,8 @@
     <string>c_with_circumflex.glif</string>
     <key>c_with_dotabove</key>
     <string>c_with_dotabove.glif</string>
+    <key>c_with_dotabove.ss02</key>
+    <string>c_with_dotabove.ss02.glif</string>
     <key>caron</key>
     <string>caron.glif</string>
     <key>cedi</key>
@@ -750,6 +2182,8 @@
     <string>circumflex.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
+    <key>colon.ss02</key>
+    <string>colon.ss02.glif</string>
     <key>colon_currency</key>
     <string>colon_currency.glif</string>
     <key>combining_acute</key>
@@ -768,16 +2202,28 @@
     <string>combining_circumflex.glif</string>
     <key>combining_commabelow</key>
     <string>combining_commabelow.glif</string>
+    <key>combining_commabelow.ss02</key>
+    <string>combining_commabelow.ss02.glif</string>
     <key>combining_diaeresis</key>
     <string>combining_diaeresis.glif</string>
+    <key>combining_diaeresis.ss02</key>
+    <string>combining_diaeresis.ss02.glif</string>
     <key>combining_diaeresisbelow</key>
     <string>combining_diaeresisbelow.glif</string>
+    <key>combining_diaeresisbelow.ss02</key>
+    <string>combining_diaeresisbelow.ss02.glif</string>
     <key>combining_dotabove</key>
     <string>combining_dotabove.glif</string>
+    <key>combining_dotabove.ss02</key>
+    <string>combining_dotabove.ss02.glif</string>
     <key>combining_dotaboveright</key>
     <string>combining_dotaboveright.glif</string>
+    <key>combining_dotaboveright.ss02</key>
+    <string>combining_dotaboveright.ss02.glif</string>
     <key>combining_dotbelow</key>
     <string>combining_dotbelow.glif</string>
+    <key>combining_dotbelow.ss02</key>
+    <string>combining_dotbelow.ss02.glif</string>
     <key>combining_grave</key>
     <string>combining_grave.glif</string>
     <key>combining_gravedbl</key>
@@ -806,22 +2252,52 @@
     <string>combining_vertlinedbl.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>comma.ss02</key>
+    <string>comma.ss02.glif</string>
     <key>copyright</key>
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
     <key>d</key>
     <string>d.glif</string>
+    <key>d.ss03</key>
+    <string>d.ss03.glif</string>
+    <key>d.ss03_with_caron</key>
+    <string>d.ss03_with_caron.glif</string>
+    <key>d.ss03_with_circumflexbelow</key>
+    <string>d.ss03_with_circumflexbelow.glif</string>
+    <key>d.ss03_with_commabelow</key>
+    <string>d.ss03_with_commabelow.glif</string>
+    <key>d.ss03_with_commabelow.ss02</key>
+    <string>d.ss03_with_commabelow.ss02.glif</string>
+    <key>d.ss03_with_dotabove</key>
+    <string>d.ss03_with_dotabove.glif</string>
+    <key>d.ss03_with_dotabove.ss02</key>
+    <string>d.ss03_with_dotabove.ss02.glif</string>
+    <key>d.ss03_with_dotbelow</key>
+    <string>d.ss03_with_dotbelow.glif</string>
+    <key>d.ss03_with_dotbelow.ss02</key>
+    <string>d.ss03_with_dotbelow.ss02.glif</string>
+    <key>d.ss03_with_macronbelow</key>
+    <string>d.ss03_with_macronbelow.glif</string>
+    <key>d.ss03_with_stroke</key>
+    <string>d.ss03_with_stroke.glif</string>
     <key>d_with_caron</key>
     <string>d_with_caron.glif</string>
     <key>d_with_circumflexbelow</key>
     <string>d_with_circumflexbelow.glif</string>
     <key>d_with_commabelow</key>
     <string>d_with_commabelow.glif</string>
+    <key>d_with_commabelow.ss02</key>
+    <string>d_with_commabelow.ss02.glif</string>
     <key>d_with_dotabove</key>
     <string>d_with_dotabove.glif</string>
+    <key>d_with_dotabove.ss02</key>
+    <string>d_with_dotabove.ss02.glif</string>
     <key>d_with_dotbelow</key>
     <string>d_with_dotbelow.glif</string>
+    <key>d_with_dotbelow.ss02</key>
+    <string>d_with_dotbelow.ss02.glif</string>
     <key>d_with_macronbelow</key>
     <string>d_with_macronbelow.glif</string>
     <key>d_with_stroke</key>
@@ -830,14 +2306,20 @@
     <string>dagger.glif</string>
     <key>db</key>
     <string>db.glif</string>
+    <key>db.ss03</key>
+    <string>db.ss03.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>diaeresis</key>
     <string>diaeresis.glif</string>
+    <key>diaeresis.ss02</key>
+    <string>diaeresis.ss02.glif</string>
     <key>diesis</key>
     <string>diesis.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
+    <key>divide.ss02</key>
+    <string>divide.ss02.glif</string>
     <key>divslash</key>
     <string>divslash.glif</string>
     <key>dollar</key>
@@ -846,8 +2328,70 @@
     <string>dong.glif</string>
     <key>dotabove</key>
     <string>dotabove.glif</string>
+    <key>dotabove.ss02</key>
+    <string>dotabove.ss02.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>e.ss03</key>
+    <string>e.ss03.glif</string>
+    <key>e.ss03_with_acute</key>
+    <string>e.ss03_with_acute.glif</string>
+    <key>e.ss03_with_breve</key>
+    <string>e.ss03_with_breve.glif</string>
+    <key>e.ss03_with_breveinv</key>
+    <string>e.ss03_with_breveinv.glif</string>
+    <key>e.ss03_with_caron</key>
+    <string>e.ss03_with_caron.glif</string>
+    <key>e.ss03_with_cedilla</key>
+    <string>e.ss03_with_cedilla.glif</string>
+    <key>e.ss03_with_cedilla_and_breve</key>
+    <string>e.ss03_with_cedilla_and_breve.glif</string>
+    <key>e.ss03_with_circumflex</key>
+    <string>e.ss03_with_circumflex.glif</string>
+    <key>e.ss03_with_circumflex_and_acute</key>
+    <string>e.ss03_with_circumflex_and_acute.glif</string>
+    <key>e.ss03_with_circumflex_and_dotbelow</key>
+    <string>e.ss03_with_circumflex_and_dotbelow.glif</string>
+    <key>e.ss03_with_circumflex_and_dotbelow.ss02</key>
+    <string>e.ss03_with_circumflex_and_dotbelow.ss02.glif</string>
+    <key>e.ss03_with_circumflex_and_grave</key>
+    <string>e.ss03_with_circumflex_and_grave.glif</string>
+    <key>e.ss03_with_circumflex_and_hook</key>
+    <string>e.ss03_with_circumflex_and_hook.glif</string>
+    <key>e.ss03_with_circumflex_and_tildeabove</key>
+    <string>e.ss03_with_circumflex_and_tildeabove.glif</string>
+    <key>e.ss03_with_circumflexbelow</key>
+    <string>e.ss03_with_circumflexbelow.glif</string>
+    <key>e.ss03_with_diaeresis</key>
+    <string>e.ss03_with_diaeresis.glif</string>
+    <key>e.ss03_with_diaeresis.ss02</key>
+    <string>e.ss03_with_diaeresis.ss02.glif</string>
+    <key>e.ss03_with_dotabove</key>
+    <string>e.ss03_with_dotabove.glif</string>
+    <key>e.ss03_with_dotabove.ss02</key>
+    <string>e.ss03_with_dotabove.ss02.glif</string>
+    <key>e.ss03_with_dotbelow</key>
+    <string>e.ss03_with_dotbelow.glif</string>
+    <key>e.ss03_with_dotbelow.ss02</key>
+    <string>e.ss03_with_dotbelow.ss02.glif</string>
+    <key>e.ss03_with_grave</key>
+    <string>e.ss03_with_grave.glif</string>
+    <key>e.ss03_with_gravedbl</key>
+    <string>e.ss03_with_gravedbl.glif</string>
+    <key>e.ss03_with_hook</key>
+    <string>e.ss03_with_hook.glif</string>
+    <key>e.ss03_with_macron</key>
+    <string>e.ss03_with_macron.glif</string>
+    <key>e.ss03_with_macron_and_acute</key>
+    <string>e.ss03_with_macron_and_acute.glif</string>
+    <key>e.ss03_with_macron_and_grave</key>
+    <string>e.ss03_with_macron_and_grave.glif</string>
+    <key>e.ss03_with_ogonek</key>
+    <string>e.ss03_with_ogonek.glif</string>
+    <key>e.ss03_with_tildeabove</key>
+    <string>e.ss03_with_tildeabove.glif</string>
+    <key>e.ss03_with_tildebelow</key>
+    <string>e.ss03_with_tildebelow.glif</string>
     <key>e_with_acute</key>
     <string>e_with_acute.glif</string>
     <key>e_with_breve</key>
@@ -866,6 +2410,8 @@
     <string>e_with_circumflex_and_acute.glif</string>
     <key>e_with_circumflex_and_dotbelow</key>
     <string>e_with_circumflex_and_dotbelow.glif</string>
+    <key>e_with_circumflex_and_dotbelow.ss02</key>
+    <string>e_with_circumflex_and_dotbelow.ss02.glif</string>
     <key>e_with_circumflex_and_grave</key>
     <string>e_with_circumflex_and_grave.glif</string>
     <key>e_with_circumflex_and_hook</key>
@@ -876,10 +2422,16 @@
     <string>e_with_circumflexbelow.glif</string>
     <key>e_with_diaeresis</key>
     <string>e_with_diaeresis.glif</string>
+    <key>e_with_diaeresis.ss02</key>
+    <string>e_with_diaeresis.ss02.glif</string>
     <key>e_with_dotabove</key>
     <string>e_with_dotabove.glif</string>
+    <key>e_with_dotabove.ss02</key>
+    <string>e_with_dotabove.ss02.glif</string>
     <key>e_with_dotbelow</key>
     <string>e_with_dotbelow.glif</string>
+    <key>e_with_dotbelow.ss02</key>
+    <string>e_with_dotbelow.ss02.glif</string>
     <key>e_with_grave</key>
     <string>e_with_grave.glif</string>
     <key>e_with_gravedbl</key>
@@ -900,38 +2452,62 @@
     <string>e_with_tildebelow.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eight.ss01</key>
+    <string>eight.ss01.glif</string>
+    <key>eight.ss01.tnum</key>
+    <string>eight.ss01.tnum.glif</string>
+    <key>eight.tnum</key>
+    <string>eight.tnum.glif</string>
     <key>ellipsis</key>
     <string>ellipsis.glif</string>
+    <key>ellipsis.ss02</key>
+    <string>ellipsis.ss02.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
+    <key>eng.ss03</key>
+    <string>eng.ss03.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>eszett</key>
     <string>eszett.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
+    <key>eth.ss03</key>
+    <string>eth.ss03.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
     <key>exclamation</key>
     <string>exclamation.glif</string>
+    <key>exclamation.ss02</key>
+    <string>exclamation.ss02.glif</string>
     <key>f</key>
     <string>f.glif</string>
     <key>f_with_dotabove</key>
     <string>f_with_dotabove.glif</string>
+    <key>f_with_dotabove.ss02</key>
+    <string>f_with_dotabove.ss02.glif</string>
+    <key>f_with_hookleft</key>
+    <string>f_with_hookleft.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>five.tnum</key>
+    <string>five.tnum.glif</string>
     <key>five_over_eight</key>
     <string>five_over_eight.glif</string>
+    <key>five_over_eight.ss01</key>
+    <string>five_over_eight.ss01.glif</string>
     <key>five_over_six</key>
     <string>five_over_six.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>four.tnum</key>
+    <string>four.tnum.glif</string>
     <key>four_over_five</key>
     <string>four_over_five.glif</string>
     <key>fraction</key>
@@ -940,6 +2516,26 @@
     <string>franc.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>g.ss03</key>
+    <string>g.ss03.glif</string>
+    <key>g.ss03_with_acute</key>
+    <string>g.ss03_with_acute.glif</string>
+    <key>g.ss03_with_breve</key>
+    <string>g.ss03_with_breve.glif</string>
+    <key>g.ss03_with_caron</key>
+    <string>g.ss03_with_caron.glif</string>
+    <key>g.ss03_with_circumflex</key>
+    <string>g.ss03_with_circumflex.glif</string>
+    <key>g.ss03_with_commabelow</key>
+    <string>g.ss03_with_commabelow.glif</string>
+    <key>g.ss03_with_commabelow.ss02</key>
+    <string>g.ss03_with_commabelow.ss02.glif</string>
+    <key>g.ss03_with_dotabove</key>
+    <string>g.ss03_with_dotabove.glif</string>
+    <key>g.ss03_with_dotabove.ss02</key>
+    <string>g.ss03_with_dotabove.ss02.glif</string>
+    <key>g.ss03_with_macron</key>
+    <string>g.ss03_with_macron.glif</string>
     <key>g_with_acute</key>
     <string>g_with_acute.glif</string>
     <key>g_with_breve</key>
@@ -950,8 +2546,12 @@
     <string>g_with_circumflex.glif</string>
     <key>g_with_commabelow</key>
     <string>g_with_commabelow.glif</string>
+    <key>g_with_commabelow.ss02</key>
+    <string>g_with_commabelow.ss02.glif</string>
     <key>g_with_dotabove</key>
     <string>g_with_dotabove.glif</string>
+    <key>g_with_dotabove.ss02</key>
+    <string>g_with_dotabove.ss02.glif</string>
     <key>g_with_macron</key>
     <string>g_with_macron.glif</string>
     <key>grave</key>
@@ -964,6 +2564,30 @@
     <string>guarani.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>h.ss03</key>
+    <string>h.ss03.glif</string>
+    <key>h.ss03_with_caron</key>
+    <string>h.ss03_with_caron.glif</string>
+    <key>h.ss03_with_cedilla</key>
+    <string>h.ss03_with_cedilla.glif</string>
+    <key>h.ss03_with_circumflex</key>
+    <string>h.ss03_with_circumflex.glif</string>
+    <key>h.ss03_with_diaeresis</key>
+    <string>h.ss03_with_diaeresis.glif</string>
+    <key>h.ss03_with_diaeresis.ss02</key>
+    <string>h.ss03_with_diaeresis.ss02.glif</string>
+    <key>h.ss03_with_dotabove</key>
+    <string>h.ss03_with_dotabove.glif</string>
+    <key>h.ss03_with_dotabove.ss02</key>
+    <string>h.ss03_with_dotabove.ss02.glif</string>
+    <key>h.ss03_with_dotbelow</key>
+    <string>h.ss03_with_dotbelow.glif</string>
+    <key>h.ss03_with_dotbelow.ss02</key>
+    <string>h.ss03_with_dotbelow.ss02.glif</string>
+    <key>h.ss03_with_macronbelow</key>
+    <string>h.ss03_with_macronbelow.glif</string>
+    <key>h.ss03_with_stroke</key>
+    <string>h.ss03_with_stroke.glif</string>
     <key>h_with_caron</key>
     <string>h_with_caron.glif</string>
     <key>h_with_cedilla</key>
@@ -972,10 +2596,16 @@
     <string>h_with_circumflex.glif</string>
     <key>h_with_diaeresis</key>
     <string>h_with_diaeresis.glif</string>
+    <key>h_with_diaeresis.ss02</key>
+    <string>h_with_diaeresis.ss02.glif</string>
     <key>h_with_dotabove</key>
     <string>h_with_dotabove.glif</string>
+    <key>h_with_dotabove.ss02</key>
+    <string>h_with_dotabove.ss02.glif</string>
     <key>h_with_dotbelow</key>
     <string>h_with_dotbelow.glif</string>
+    <key>h_with_dotbelow.ss02</key>
+    <string>h_with_dotbelow.ss02.glif</string>
     <key>h_with_macronbelow</key>
     <string>h_with_macronbelow.glif</string>
     <key>h_with_stroke</key>
@@ -984,6 +2614,16 @@
     <string>hyphen.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>i.ss02</key>
+    <string>i.ss02.glif</string>
+    <key>i.ss02_with_dotbelow.ss02</key>
+    <string>i.ss02_with_dotbelow.ss02.glif</string>
+    <key>i.ss02_with_ogonek</key>
+    <string>i.ss02_with_ogonek.glif</string>
+    <key>i.ss02_with_stroke</key>
+    <string>i.ss02_with_stroke.glif</string>
+    <key>i.ss02_with_tildebelow</key>
+    <string>i.ss02_with_tildebelow.glif</string>
     <key>i_dotless</key>
     <string>i_dotless.glif</string>
     <key>i_with_acute</key>
@@ -998,6 +2638,10 @@
     <string>i_with_circumflex.glif</string>
     <key>i_with_diaeresis</key>
     <string>i_with_diaeresis.glif</string>
+    <key>i_with_diaeresis.ss02</key>
+    <string>i_with_diaeresis.ss02.glif</string>
+    <key>i_with_diaeresis.ss02_and_acute</key>
+    <string>i_with_diaeresis.ss02_and_acute.glif</string>
     <key>i_with_diaeresis_and_acute</key>
     <string>i_with_diaeresis_and_acute.glif</string>
     <key>i_with_dotbelow</key>
@@ -1012,6 +2656,8 @@
     <string>i_with_macron.glif</string>
     <key>i_with_ogonek</key>
     <string>i_with_ogonek.glif</string>
+    <key>i_with_stroke</key>
+    <string>i_with_stroke.glif</string>
     <key>i_with_tildeabove</key>
     <string>i_with_tildeabove.glif</string>
     <key>i_with_tildebelow</key>
@@ -1022,12 +2668,20 @@
     <string>infinity.glif</string>
     <key>interpunct</key>
     <string>interpunct.glif</string>
+    <key>interpunct.ss02</key>
+    <string>interpunct.ss02.glif</string>
     <key>inv_exclamation</key>
     <string>inv_exclamation.glif</string>
+    <key>inv_exclamation.ss02</key>
+    <string>inv_exclamation.ss02.glif</string>
     <key>inv_question</key>
     <string>inv_question.glif</string>
+    <key>inv_question.ss02</key>
+    <string>inv_question.ss02.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>j.ss02</key>
+    <string>j.ss02.glif</string>
     <key>j_dotless</key>
     <string>j_dotless.glif</string>
     <key>j_with_acute</key>
@@ -1038,20 +2692,42 @@
     <string>j_with_circumflex.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>k.ss01</key>
+    <string>k.ss01.glif</string>
+    <key>k.ss01_with_acute</key>
+    <string>k.ss01_with_acute.glif</string>
+    <key>k.ss01_with_caron</key>
+    <string>k.ss01_with_caron.glif</string>
+    <key>k.ss01_with_commabelow</key>
+    <string>k.ss01_with_commabelow.glif</string>
+    <key>k.ss01_with_commabelow.ss02</key>
+    <string>k.ss01_with_commabelow.ss02.glif</string>
+    <key>k.ss01_with_dotbelow</key>
+    <string>k.ss01_with_dotbelow.glif</string>
+    <key>k.ss01_with_dotbelow.ss02</key>
+    <string>k.ss01_with_dotbelow.ss02.glif</string>
+    <key>k.ss01_with_macronbelow</key>
+    <string>k.ss01_with_macronbelow.glif</string>
     <key>k_with_acute</key>
     <string>k_with_acute.glif</string>
     <key>k_with_caron</key>
     <string>k_with_caron.glif</string>
     <key>k_with_commabelow</key>
     <string>k_with_commabelow.glif</string>
+    <key>k_with_commabelow.ss02</key>
+    <string>k_with_commabelow.ss02.glif</string>
     <key>k_with_dotbelow</key>
     <string>k_with_dotbelow.glif</string>
+    <key>k_with_dotbelow.ss02</key>
+    <string>k_with_dotbelow.ss02.glif</string>
     <key>k_with_macronbelow</key>
     <string>k_with_macronbelow.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
     <key>kra</key>
     <string>kra.glif</string>
+    <key>kra.ss01</key>
+    <string>kra.ss01.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>l_with_acute</key>
@@ -1062,12 +2738,20 @@
     <string>l_with_circumflexbelow.glif</string>
     <key>l_with_commabelow</key>
     <string>l_with_commabelow.glif</string>
+    <key>l_with_commabelow.ss02</key>
+    <string>l_with_commabelow.ss02.glif</string>
     <key>l_with_dotbelow</key>
     <string>l_with_dotbelow.glif</string>
+    <key>l_with_dotbelow.ss02</key>
+    <string>l_with_dotbelow.ss02.glif</string>
+    <key>l_with_dotbelow.ss02_and_macron</key>
+    <string>l_with_dotbelow.ss02_and_macron.glif</string>
     <key>l_with_dotbelow_and_macron</key>
     <string>l_with_dotbelow_and_macron.glif</string>
     <key>l_with_dotmiddle</key>
     <string>l_with_dotmiddle.glif</string>
+    <key>l_with_dotmiddle.ss02</key>
+    <string>l_with_dotmiddle.ss02.glif</string>
     <key>l_with_macronbelow</key>
     <string>l_with_macronbelow.glif</string>
     <key>l_with_stroke</key>
@@ -1088,16 +2772,36 @@
     <string>lozenge.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>m.ss03</key>
+    <string>m.ss03.glif</string>
+    <key>m.ss03_with_acute</key>
+    <string>m.ss03_with_acute.glif</string>
+    <key>m.ss03_with_dotabove</key>
+    <string>m.ss03_with_dotabove.glif</string>
+    <key>m.ss03_with_dotabove.ss02</key>
+    <string>m.ss03_with_dotabove.ss02.glif</string>
+    <key>m.ss03_with_dotbelow</key>
+    <string>m.ss03_with_dotbelow.glif</string>
+    <key>m.ss03_with_dotbelow.ss02</key>
+    <string>m.ss03_with_dotbelow.ss02.glif</string>
     <key>m_with_acute</key>
     <string>m_with_acute.glif</string>
     <key>m_with_dotabove</key>
     <string>m_with_dotabove.glif</string>
+    <key>m_with_dotabove.ss02</key>
+    <string>m_with_dotabove.ss02.glif</string>
     <key>m_with_dotbelow</key>
     <string>m_with_dotbelow.glif</string>
+    <key>m_with_dotbelow.ss02</key>
+    <string>m_with_dotbelow.ss02.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
     <key>manat</key>
     <string>manat.glif</string>
+    <key>meng</key>
+    <string>meng.glif</string>
+    <key>meng.ss03</key>
+    <string>meng.ss03.glif</string>
     <key>micron</key>
     <string>micron.glif</string>
     <key>minus</key>
@@ -1108,6 +2812,34 @@
     <string>multiply.glif</string>
     <key>n</key>
     <string>n.glif</string>
+    <key>n.ss03</key>
+    <string>n.ss03.glif</string>
+    <key>n.ss03_with_acute</key>
+    <string>n.ss03_with_acute.glif</string>
+    <key>n.ss03_with_caron</key>
+    <string>n.ss03_with_caron.glif</string>
+    <key>n.ss03_with_circumflexbelow</key>
+    <string>n.ss03_with_circumflexbelow.glif</string>
+    <key>n.ss03_with_commabelow</key>
+    <string>n.ss03_with_commabelow.glif</string>
+    <key>n.ss03_with_commabelow.ss02</key>
+    <string>n.ss03_with_commabelow.ss02.glif</string>
+    <key>n.ss03_with_dotabove</key>
+    <string>n.ss03_with_dotabove.glif</string>
+    <key>n.ss03_with_dotabove.ss02</key>
+    <string>n.ss03_with_dotabove.ss02.glif</string>
+    <key>n.ss03_with_dotbelow</key>
+    <string>n.ss03_with_dotbelow.glif</string>
+    <key>n.ss03_with_dotbelow.ss02</key>
+    <string>n.ss03_with_dotbelow.ss02.glif</string>
+    <key>n.ss03_with_grave</key>
+    <string>n.ss03_with_grave.glif</string>
+    <key>n.ss03_with_hookleft</key>
+    <string>n.ss03_with_hookleft.glif</string>
+    <key>n.ss03_with_macronbelow</key>
+    <string>n.ss03_with_macronbelow.glif</string>
+    <key>n.ss03_with_tildeabove</key>
+    <string>n.ss03_with_tildeabove.glif</string>
     <key>n_with_acute</key>
     <string>n_with_acute.glif</string>
     <key>n_with_caron</key>
@@ -1116,10 +2848,16 @@
     <string>n_with_circumflexbelow.glif</string>
     <key>n_with_commabelow</key>
     <string>n_with_commabelow.glif</string>
+    <key>n_with_commabelow.ss02</key>
+    <string>n_with_commabelow.ss02.glif</string>
     <key>n_with_dotabove</key>
     <string>n_with_dotabove.glif</string>
+    <key>n_with_dotabove.ss02</key>
+    <string>n_with_dotabove.ss02.glif</string>
     <key>n_with_dotbelow</key>
     <string>n_with_dotbelow.glif</string>
+    <key>n_with_dotbelow.ss02</key>
+    <string>n_with_dotbelow.ss02.glif</string>
     <key>n_with_grave</key>
     <string>n_with_grave.glif</string>
     <key>n_with_hookleft</key>
@@ -1136,6 +2874,8 @@
     <string>nary_sum.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>nine.tnum</key>
+    <string>nine.tnum.glif</string>
     <key>not_equal</key>
     <string>not_equal.glif</string>
     <key>null</key>
@@ -1162,6 +2902,8 @@
     <string>o_with_circumflex_and_acute.glif</string>
     <key>o_with_circumflex_and_dotbelow</key>
     <string>o_with_circumflex_and_dotbelow.glif</string>
+    <key>o_with_circumflex_and_dotbelow.ss02</key>
+    <string>o_with_circumflex_and_dotbelow.ss02.glif</string>
     <key>o_with_circumflex_and_grave</key>
     <string>o_with_circumflex_and_grave.glif</string>
     <key>o_with_circumflex_and_hook</key>
@@ -1170,14 +2912,24 @@
     <string>o_with_circumflex_and_tildeabove.glif</string>
     <key>o_with_diaeresis</key>
     <string>o_with_diaeresis.glif</string>
+    <key>o_with_diaeresis.ss02</key>
+    <string>o_with_diaeresis.ss02.glif</string>
+    <key>o_with_diaeresis.ss02_and_macron</key>
+    <string>o_with_diaeresis.ss02_and_macron.glif</string>
     <key>o_with_diaeresis_and_macron</key>
     <string>o_with_diaeresis_and_macron.glif</string>
     <key>o_with_dotabove</key>
     <string>o_with_dotabove.glif</string>
+    <key>o_with_dotabove.ss02</key>
+    <string>o_with_dotabove.ss02.glif</string>
+    <key>o_with_dotabove.ss02_and_macron</key>
+    <string>o_with_dotabove.ss02_and_macron.glif</string>
     <key>o_with_dotabove_and_macron</key>
     <string>o_with_dotabove_and_macron.glif</string>
     <key>o_with_dotbelow</key>
     <string>o_with_dotbelow.glif</string>
+    <key>o_with_dotbelow.ss02</key>
+    <string>o_with_dotbelow.ss02.glif</string>
     <key>o_with_grave</key>
     <string>o_with_grave.glif</string>
     <key>o_with_gravedbl</key>
@@ -1190,6 +2942,8 @@
     <string>o_with_horn_and_acute.glif</string>
     <key>o_with_horn_and_dotbelow</key>
     <string>o_with_horn_and_dotbelow.glif</string>
+    <key>o_with_horn_and_dotbelow.ss02</key>
+    <string>o_with_horn_and_dotbelow.ss02.glif</string>
     <key>o_with_horn_and_grave</key>
     <string>o_with_horn_and_grave.glif</string>
     <key>o_with_horn_and_hook</key>
@@ -1216,14 +2970,44 @@
     <string>o_with_tildeabove_and_acute.glif</string>
     <key>o_with_tildeabove_and_diaeresis</key>
     <string>o_with_tildeabove_and_diaeresis.glif</string>
+    <key>o_with_tildeabove_and_diaeresis.ss02</key>
+    <string>o_with_tildeabove_and_diaeresis.ss02.glif</string>
     <key>o_with_tildeabove_and_macron</key>
     <string>o_with_tildeabove_and_macron.glif</string>
     <key>oe</key>
     <string>oe.glif</string>
+    <key>oe.ss03</key>
+    <string>oe.ss03.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
     <key>one</key>
     <string>one.glif</string>
+    <key>one.ss01</key>
+    <string>one.ss01.glif</string>
+    <key>one.ss01.tnum</key>
+    <string>one.ss01.tnum.glif</string>
+    <key>one.ss01_over_</key>
+    <string>one.ss01_over_.glif</string>
+    <key>one.ss01_over_eight.ss01</key>
+    <string>one.ss01_over_eight.ss01.glif</string>
+    <key>one.ss01_over_five</key>
+    <string>one.ss01_over_five.glif</string>
+    <key>one.ss01_over_four</key>
+    <string>one.ss01_over_four.glif</string>
+    <key>one.ss01_over_nine</key>
+    <string>one.ss01_over_nine.glif</string>
+    <key>one.ss01_over_seven</key>
+    <string>one.ss01_over_seven.glif</string>
+    <key>one.ss01_over_six</key>
+    <string>one.ss01_over_six.glif</string>
+    <key>one.ss01_over_ten</key>
+    <string>one.ss01_over_ten.glif</string>
+    <key>one.ss01_over_three.ss01</key>
+    <string>one.ss01_over_three.ss01.glif</string>
+    <key>one.ss01_over_two</key>
+    <string>one.ss01_over_two.glif</string>
+    <key>one.tnum</key>
+    <string>one.tnum.glif</string>
     <key>one_over_</key>
     <string>one_over_.glif</string>
     <key>one_over_eight</key>
@@ -1250,10 +3034,20 @@
     <string>ordinal_o.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>p.ss03</key>
+    <string>p.ss03.glif</string>
+    <key>p.ss03_with_acute</key>
+    <string>p.ss03_with_acute.glif</string>
+    <key>p.ss03_with_dotabove</key>
+    <string>p.ss03_with_dotabove.glif</string>
+    <key>p.ss03_with_dotabove.ss02</key>
+    <string>p.ss03_with_dotabove.ss02.glif</string>
     <key>p_with_acute</key>
     <string>p_with_acute.glif</string>
     <key>p_with_dotabove</key>
     <string>p_with_dotabove.glif</string>
+    <key>p_with_dotabove.ss02</key>
+    <string>p_with_dotabove.ss02.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenright</key>
@@ -1262,12 +3056,16 @@
     <string>percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>period.ss02</key>
+    <string>period.ss02.glif</string>
     <key>permille</key>
     <string>permille.glif</string>
     <key>permyriad</key>
     <string>permyriad.glif</string>
     <key>peseta</key>
     <string>peseta.glif</string>
+    <key>peseta.ss01</key>
+    <string>peseta.ss01.glif</string>
     <key>peso</key>
     <string>peso.glif</string>
     <key>pi</key>
@@ -1296,30 +3094,78 @@
     <string>prime_rev_tpl.glif</string>
     <key>prime_tpl</key>
     <string>prime_tpl.glif</string>
+    <key>published</key>
+    <string>published.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>q.ss03</key>
+    <string>q.ss03.glif</string>
     <key>qp</key>
     <string>qp.glif</string>
+    <key>qp.ss03</key>
+    <string>qp.ss03.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>question.ss02</key>
+    <string>question.ss02.glif</string>
     <key>quote</key>
     <string>quote.glif</string>
     <key>quote_dbl</key>
     <string>quote_dbl.glif</string>
     <key>quoteleft</key>
     <string>quoteleft.glif</string>
+    <key>quoteleft.ss02</key>
+    <string>quoteleft.ss02.glif</string>
     <key>quoteleft_dbl</key>
     <string>quoteleft_dbl.glif</string>
+    <key>quoteleft_dbl.ss02</key>
+    <string>quoteleft_dbl.ss02.glif</string>
     <key>quotelow9</key>
     <string>quotelow9.glif</string>
+    <key>quotelow9.ss02</key>
+    <string>quotelow9.ss02.glif</string>
     <key>quotelow9_dbl</key>
     <string>quotelow9_dbl.glif</string>
+    <key>quotelow9_dbl.ss02</key>
+    <string>quotelow9_dbl.ss02.glif</string>
     <key>quoteright</key>
     <string>quoteright.glif</string>
+    <key>quoteright.ss02</key>
+    <string>quoteright.ss02.glif</string>
     <key>quoteright_dbl</key>
     <string>quoteright_dbl.glif</string>
+    <key>quoteright_dbl.ss02</key>
+    <string>quoteright_dbl.ss02.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>r.ss03</key>
+    <string>r.ss03.glif</string>
+    <key>r.ss03_with_acute</key>
+    <string>r.ss03_with_acute.glif</string>
+    <key>r.ss03_with_breveinv</key>
+    <string>r.ss03_with_breveinv.glif</string>
+    <key>r.ss03_with_caron</key>
+    <string>r.ss03_with_caron.glif</string>
+    <key>r.ss03_with_commabelow</key>
+    <string>r.ss03_with_commabelow.glif</string>
+    <key>r.ss03_with_commabelow.ss02</key>
+    <string>r.ss03_with_commabelow.ss02.glif</string>
+    <key>r.ss03_with_dotabove</key>
+    <string>r.ss03_with_dotabove.glif</string>
+    <key>r.ss03_with_dotabove.ss02</key>
+    <string>r.ss03_with_dotabove.ss02.glif</string>
+    <key>r.ss03_with_dotbelow</key>
+    <string>r.ss03_with_dotbelow.glif</string>
+    <key>r.ss03_with_dotbelow.ss02</key>
+    <string>r.ss03_with_dotbelow.ss02.glif</string>
+    <key>r.ss03_with_dotbelow.ss02_and_macron</key>
+    <string>r.ss03_with_dotbelow.ss02_and_macron.glif</string>
+    <key>r.ss03_with_dotbelow_and_macron</key>
+    <string>r.ss03_with_dotbelow_and_macron.glif</string>
+    <key>r.ss03_with_gravedbl</key>
+    <string>r.ss03_with_gravedbl.glif</string>
+    <key>r.ss03_with_macronbelow</key>
+    <string>r.ss03_with_macronbelow.glif</string>
     <key>r_with_acute</key>
     <string>r_with_acute.glif</string>
     <key>r_with_breveinv</key>
@@ -1328,10 +3174,18 @@
     <string>r_with_caron.glif</string>
     <key>r_with_commabelow</key>
     <string>r_with_commabelow.glif</string>
+    <key>r_with_commabelow.ss02</key>
+    <string>r_with_commabelow.ss02.glif</string>
     <key>r_with_dotabove</key>
     <string>r_with_dotabove.glif</string>
+    <key>r_with_dotabove.ss02</key>
+    <string>r_with_dotabove.ss02.glif</string>
     <key>r_with_dotbelow</key>
     <string>r_with_dotbelow.glif</string>
+    <key>r_with_dotbelow.ss02</key>
+    <string>r_with_dotbelow.ss02.glif</string>
+    <key>r_with_dotbelow.ss02_and_macron</key>
+    <string>r_with_dotbelow.ss02_and_macron.glif</string>
     <key>r_with_dotbelow_and_macron</key>
     <string>r_with_dotbelow_and_macron.glif</string>
     <key>r_with_gravedbl</key>
@@ -1340,6 +3194,8 @@
     <string>r_with_macronbelow.glif</string>
     <key>raised_colon</key>
     <string>raised_colon.glif</string>
+    <key>raised_colon.ss02</key>
+    <string>raised_colon.ss02.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
     <key>return</key>
@@ -1352,48 +3208,110 @@
     <string>rupee.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>s.ss01</key>
+    <string>s.ss01.glif</string>
+    <key>s.ss01_with_acute</key>
+    <string>s.ss01_with_acute.glif</string>
+    <key>s.ss01_with_acute_and_dotabove</key>
+    <string>s.ss01_with_acute_and_dotabove.glif</string>
+    <key>s.ss01_with_acute_and_dotabove.ss02</key>
+    <string>s.ss01_with_acute_and_dotabove.ss02.glif</string>
+    <key>s.ss01_with_caron</key>
+    <string>s.ss01_with_caron.glif</string>
+    <key>s.ss01_with_caron_and_dotabove</key>
+    <string>s.ss01_with_caron_and_dotabove.glif</string>
+    <key>s.ss01_with_caron_and_dotabove.ss02</key>
+    <string>s.ss01_with_caron_and_dotabove.ss02.glif</string>
+    <key>s.ss01_with_cedilla</key>
+    <string>s.ss01_with_cedilla.glif</string>
+    <key>s.ss01_with_circumflex</key>
+    <string>s.ss01_with_circumflex.glif</string>
+    <key>s.ss01_with_commabelow</key>
+    <string>s.ss01_with_commabelow.glif</string>
+    <key>s.ss01_with_commabelow.ss02</key>
+    <string>s.ss01_with_commabelow.ss02.glif</string>
+    <key>s.ss01_with_dotabove</key>
+    <string>s.ss01_with_dotabove.glif</string>
+    <key>s.ss01_with_dotabove.ss02</key>
+    <string>s.ss01_with_dotabove.ss02.glif</string>
+    <key>s.ss01_with_dotbelow</key>
+    <string>s.ss01_with_dotbelow.glif</string>
+    <key>s.ss01_with_dotbelow.ss02</key>
+    <string>s.ss01_with_dotbelow.ss02.glif</string>
+    <key>s.ss01_with_dotbelow.ss02_and_dotabove.ss02</key>
+    <string>s.ss01_with_dotbelow.ss02_and_dotabove.ss02.glif</string>
+    <key>s.ss01_with_dotbelow_and_dotabove</key>
+    <string>s.ss01_with_dotbelow_and_dotabove.glif</string>
     <key>s_long</key>
     <string>s_long.glif</string>
     <key>s_with_acute</key>
     <string>s_with_acute.glif</string>
     <key>s_with_acute_and_dotabove</key>
     <string>s_with_acute_and_dotabove.glif</string>
+    <key>s_with_acute_and_dotabove.ss02</key>
+    <string>s_with_acute_and_dotabove.ss02.glif</string>
     <key>s_with_caron</key>
     <string>s_with_caron.glif</string>
     <key>s_with_caron_and_dotabove</key>
     <string>s_with_caron_and_dotabove.glif</string>
+    <key>s_with_caron_and_dotabove.ss02</key>
+    <string>s_with_caron_and_dotabove.ss02.glif</string>
     <key>s_with_cedilla</key>
     <string>s_with_cedilla.glif</string>
     <key>s_with_circumflex</key>
     <string>s_with_circumflex.glif</string>
     <key>s_with_commabelow</key>
     <string>s_with_commabelow.glif</string>
+    <key>s_with_commabelow.ss02</key>
+    <string>s_with_commabelow.ss02.glif</string>
     <key>s_with_dotabove</key>
     <string>s_with_dotabove.glif</string>
+    <key>s_with_dotabove.ss02</key>
+    <string>s_with_dotabove.ss02.glif</string>
     <key>s_with_dotbelow</key>
     <string>s_with_dotbelow.glif</string>
+    <key>s_with_dotbelow.ss02</key>
+    <string>s_with_dotbelow.ss02.glif</string>
+    <key>s_with_dotbelow.ss02_and_dotabove.ss02</key>
+    <string>s_with_dotbelow.ss02_and_dotabove.ss02.glif</string>
     <key>s_with_dotbelow_and_dotabove</key>
     <string>s_with_dotbelow_and_dotabove.glif</string>
     <key>schwa</key>
     <string>schwa.glif</string>
+    <key>schwa.ss03</key>
+    <string>schwa.ss03.glif</string>
     <key>section</key>
     <string>section.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
+    <key>semicolon.ss02</key>
+    <string>semicolon.ss02.glif</string>
+    <key>servicemark</key>
+    <string>servicemark.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>seven.tnum</key>
+    <string>seven.tnum.glif</string>
     <key>seven_over_eight</key>
     <string>seven_over_eight.glif</string>
+    <key>seven_over_eight.ss01</key>
+    <string>seven_over_eight.ss01.glif</string>
     <key>sigma</key>
     <string>sigma.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>six.tnum</key>
+    <string>six.tnum.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>space.frac</key>
+    <string>space.frac.glif</string>
     <key>sub_eight</key>
     <string>sub_eight.glif</string>
+    <key>sub_eight.ss01</key>
+    <string>sub_eight.ss01.glif</string>
     <key>sub_five</key>
     <string>sub_five.glif</string>
     <key>sub_four</key>
@@ -1402,12 +3320,16 @@
     <string>sub_nine.glif</string>
     <key>sub_one</key>
     <string>sub_one.glif</string>
+    <key>sub_one.ss01</key>
+    <string>sub_one.ss01.glif</string>
     <key>sub_seven</key>
     <string>sub_seven.glif</string>
     <key>sub_six</key>
     <string>sub_six.glif</string>
     <key>sub_three</key>
     <string>sub_three.glif</string>
+    <key>sub_three.ss01</key>
+    <string>sub_three.ss01.glif</string>
     <key>sub_two</key>
     <string>sub_two.glif</string>
     <key>sub_zero</key>
@@ -1416,6 +3338,8 @@
     <string>sup_N_.glif</string>
     <key>sup_eight</key>
     <string>sup_eight.glif</string>
+    <key>sup_eight.ss01</key>
+    <string>sup_eight.ss01.glif</string>
     <key>sup_five</key>
     <string>sup_five.glif</string>
     <key>sup_four</key>
@@ -1426,18 +3350,48 @@
     <string>sup_nine.glif</string>
     <key>sup_one</key>
     <string>sup_one.glif</string>
+    <key>sup_one.ss01</key>
+    <string>sup_one.ss01.glif</string>
     <key>sup_seven</key>
     <string>sup_seven.glif</string>
     <key>sup_six</key>
     <string>sup_six.glif</string>
     <key>sup_three</key>
     <string>sup_three.glif</string>
+    <key>sup_three.ss01</key>
+    <string>sup_three.ss01.glif</string>
     <key>sup_two</key>
     <string>sup_two.glif</string>
     <key>sup_zero</key>
     <string>sup_zero.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>t.ss01</key>
+    <string>t.ss01.glif</string>
+    <key>t.ss01_with_caron</key>
+    <string>t.ss01_with_caron.glif</string>
+    <key>t.ss01_with_cedilla</key>
+    <string>t.ss01_with_cedilla.glif</string>
+    <key>t.ss01_with_circumflexbelow</key>
+    <string>t.ss01_with_circumflexbelow.glif</string>
+    <key>t.ss01_with_commabelow</key>
+    <string>t.ss01_with_commabelow.glif</string>
+    <key>t.ss01_with_commabelow.ss02</key>
+    <string>t.ss01_with_commabelow.ss02.glif</string>
+    <key>t.ss01_with_diaeresis</key>
+    <string>t.ss01_with_diaeresis.glif</string>
+    <key>t.ss01_with_dotabove</key>
+    <string>t.ss01_with_dotabove.glif</string>
+    <key>t.ss01_with_dotabove.ss02</key>
+    <string>t.ss01_with_dotabove.ss02.glif</string>
+    <key>t.ss01_with_dotbelow</key>
+    <string>t.ss01_with_dotbelow.glif</string>
+    <key>t.ss01_with_dotbelow.ss02</key>
+    <string>t.ss01_with_dotbelow.ss02.glif</string>
+    <key>t.ss01_with_macronbelow</key>
+    <string>t.ss01_with_macronbelow.glif</string>
+    <key>t.ss01_with_stroke</key>
+    <string>t.ss01_with_stroke.glif</string>
     <key>t_with_caron</key>
     <string>t_with_caron.glif</string>
     <key>t_with_cedilla</key>
@@ -1446,12 +3400,18 @@
     <string>t_with_circumflexbelow.glif</string>
     <key>t_with_commabelow</key>
     <string>t_with_commabelow.glif</string>
+    <key>t_with_commabelow.ss02</key>
+    <string>t_with_commabelow.ss02.glif</string>
     <key>t_with_diaeresis</key>
     <string>t_with_diaeresis.glif</string>
     <key>t_with_dotabove</key>
     <string>t_with_dotabove.glif</string>
+    <key>t_with_dotabove.ss02</key>
+    <string>t_with_dotabove.ss02.glif</string>
     <key>t_with_dotbelow</key>
     <string>t_with_dotbelow.glif</string>
+    <key>t_with_dotbelow.ss02</key>
+    <string>t_with_dotbelow.ss02.glif</string>
     <key>t_with_macronbelow</key>
     <string>t_with_macronbelow.glif</string>
     <key>t_with_stroke</key>
@@ -1460,8 +3420,22 @@
     <string>tenge.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
+    <key>thorn.ss03</key>
+    <string>thorn.ss03.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>three.ss01</key>
+    <string>three.ss01.glif</string>
+    <key>three.ss01.tnum</key>
+    <string>three.ss01.tnum.glif</string>
+    <key>three.ss01_over_eight.ss01</key>
+    <string>three.ss01_over_eight.ss01.glif</string>
+    <key>three.ss01_over_five</key>
+    <string>three.ss01_over_five.glif</string>
+    <key>three.ss01_over_four</key>
+    <string>three.ss01_over_four.glif</string>
+    <key>three.tnum</key>
+    <string>three.tnum.glif</string>
     <key>three_over_eight</key>
     <string>three_over_eight.glif</string>
     <key>three_over_five</key>
@@ -1476,14 +3450,100 @@
     <string>trademark.glif</string>
     <key>turnedcomma</key>
     <string>turnedcomma.glif</string>
+    <key>turnedcomma.ss02</key>
+    <string>turnedcomma.ss02.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>two.tnum</key>
+    <string>two.tnum.glif</string>
     <key>two_over_five</key>
     <string>two_over_five.glif</string>
     <key>two_over_three</key>
     <string>two_over_three.glif</string>
+    <key>two_over_three.ss01</key>
+    <string>two_over_three.ss01.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>u.ss03</key>
+    <string>u.ss03.glif</string>
+    <key>u.ss03_with_acute</key>
+    <string>u.ss03_with_acute.glif</string>
+    <key>u.ss03_with_acutedbl</key>
+    <string>u.ss03_with_acutedbl.glif</string>
+    <key>u.ss03_with_breve</key>
+    <string>u.ss03_with_breve.glif</string>
+    <key>u.ss03_with_breveinv</key>
+    <string>u.ss03_with_breveinv.glif</string>
+    <key>u.ss03_with_caron</key>
+    <string>u.ss03_with_caron.glif</string>
+    <key>u.ss03_with_circumflex</key>
+    <string>u.ss03_with_circumflex.glif</string>
+    <key>u.ss03_with_circumflexbelow</key>
+    <string>u.ss03_with_circumflexbelow.glif</string>
+    <key>u.ss03_with_diaeresis</key>
+    <string>u.ss03_with_diaeresis.glif</string>
+    <key>u.ss03_with_diaeresis.ss02</key>
+    <string>u.ss03_with_diaeresis.ss02.glif</string>
+    <key>u.ss03_with_diaeresis.ss02_and_acute</key>
+    <string>u.ss03_with_diaeresis.ss02_and_acute.glif</string>
+    <key>u.ss03_with_diaeresis.ss02_and_caron</key>
+    <string>u.ss03_with_diaeresis.ss02_and_caron.glif</string>
+    <key>u.ss03_with_diaeresis.ss02_and_grave</key>
+    <string>u.ss03_with_diaeresis.ss02_and_grave.glif</string>
+    <key>u.ss03_with_diaeresis.ss02_and_macron</key>
+    <string>u.ss03_with_diaeresis.ss02_and_macron.glif</string>
+    <key>u.ss03_with_diaeresis_and_acute</key>
+    <string>u.ss03_with_diaeresis_and_acute.glif</string>
+    <key>u.ss03_with_diaeresis_and_caron</key>
+    <string>u.ss03_with_diaeresis_and_caron.glif</string>
+    <key>u.ss03_with_diaeresis_and_grave</key>
+    <string>u.ss03_with_diaeresis_and_grave.glif</string>
+    <key>u.ss03_with_diaeresis_and_macron</key>
+    <string>u.ss03_with_diaeresis_and_macron.glif</string>
+    <key>u.ss03_with_diaeresisbelow</key>
+    <string>u.ss03_with_diaeresisbelow.glif</string>
+    <key>u.ss03_with_diaeresisbelow.ss02</key>
+    <string>u.ss03_with_diaeresisbelow.ss02.glif</string>
+    <key>u.ss03_with_dotbelow</key>
+    <string>u.ss03_with_dotbelow.glif</string>
+    <key>u.ss03_with_dotbelow.ss02</key>
+    <string>u.ss03_with_dotbelow.ss02.glif</string>
+    <key>u.ss03_with_grave</key>
+    <string>u.ss03_with_grave.glif</string>
+    <key>u.ss03_with_gravedbl</key>
+    <string>u.ss03_with_gravedbl.glif</string>
+    <key>u.ss03_with_hook</key>
+    <string>u.ss03_with_hook.glif</string>
+    <key>u.ss03_with_horn</key>
+    <string>u.ss03_with_horn.glif</string>
+    <key>u.ss03_with_horn_and_acute</key>
+    <string>u.ss03_with_horn_and_acute.glif</string>
+    <key>u.ss03_with_horn_and_dotbelow</key>
+    <string>u.ss03_with_horn_and_dotbelow.glif</string>
+    <key>u.ss03_with_horn_and_dotbelow.ss02</key>
+    <string>u.ss03_with_horn_and_dotbelow.ss02.glif</string>
+    <key>u.ss03_with_horn_and_grave</key>
+    <string>u.ss03_with_horn_and_grave.glif</string>
+    <key>u.ss03_with_horn_and_hook</key>
+    <string>u.ss03_with_horn_and_hook.glif</string>
+    <key>u.ss03_with_horn_and_tildeabove</key>
+    <string>u.ss03_with_horn_and_tildeabove.glif</string>
+    <key>u.ss03_with_macron</key>
+    <string>u.ss03_with_macron.glif</string>
+    <key>u.ss03_with_macron_and_diaeresis</key>
+    <string>u.ss03_with_macron_and_diaeresis.glif</string>
+    <key>u.ss03_with_macron_and_diaeresis.ss02</key>
+    <string>u.ss03_with_macron_and_diaeresis.ss02.glif</string>
+    <key>u.ss03_with_ogonek</key>
+    <string>u.ss03_with_ogonek.glif</string>
+    <key>u.ss03_with_ring</key>
+    <string>u.ss03_with_ring.glif</string>
+    <key>u.ss03_with_tildeabove</key>
+    <string>u.ss03_with_tildeabove.glif</string>
+    <key>u.ss03_with_tildeabove_and_acute</key>
+    <string>u.ss03_with_tildeabove_and_acute.glif</string>
+    <key>u.ss03_with_tildebelow</key>
+    <string>u.ss03_with_tildebelow.glif</string>
     <key>u_with_acute</key>
     <string>u_with_acute.glif</string>
     <key>u_with_acutedbl</key>
@@ -1500,6 +3560,16 @@
     <string>u_with_circumflexbelow.glif</string>
     <key>u_with_diaeresis</key>
     <string>u_with_diaeresis.glif</string>
+    <key>u_with_diaeresis.ss02</key>
+    <string>u_with_diaeresis.ss02.glif</string>
+    <key>u_with_diaeresis.ss02_and_acute</key>
+    <string>u_with_diaeresis.ss02_and_acute.glif</string>
+    <key>u_with_diaeresis.ss02_and_caron</key>
+    <string>u_with_diaeresis.ss02_and_caron.glif</string>
+    <key>u_with_diaeresis.ss02_and_grave</key>
+    <string>u_with_diaeresis.ss02_and_grave.glif</string>
+    <key>u_with_diaeresis.ss02_and_macron</key>
+    <string>u_with_diaeresis.ss02_and_macron.glif</string>
     <key>u_with_diaeresis_and_acute</key>
     <string>u_with_diaeresis_and_acute.glif</string>
     <key>u_with_diaeresis_and_caron</key>
@@ -1510,8 +3580,12 @@
     <string>u_with_diaeresis_and_macron.glif</string>
     <key>u_with_diaeresisbelow</key>
     <string>u_with_diaeresisbelow.glif</string>
+    <key>u_with_diaeresisbelow.ss02</key>
+    <string>u_with_diaeresisbelow.ss02.glif</string>
     <key>u_with_dotbelow</key>
     <string>u_with_dotbelow.glif</string>
+    <key>u_with_dotbelow.ss02</key>
+    <string>u_with_dotbelow.ss02.glif</string>
     <key>u_with_grave</key>
     <string>u_with_grave.glif</string>
     <key>u_with_gravedbl</key>
@@ -1524,6 +3598,8 @@
     <string>u_with_horn_and_acute.glif</string>
     <key>u_with_horn_and_dotbelow</key>
     <string>u_with_horn_and_dotbelow.glif</string>
+    <key>u_with_horn_and_dotbelow.ss02</key>
+    <string>u_with_horn_and_dotbelow.ss02.glif</string>
     <key>u_with_horn_and_grave</key>
     <string>u_with_horn_and_grave.glif</string>
     <key>u_with_horn_and_hook</key>
@@ -1534,6 +3610,8 @@
     <string>u_with_macron.glif</string>
     <key>u_with_macron_and_diaeresis</key>
     <string>u_with_macron_and_diaeresis.glif</string>
+    <key>u_with_macron_and_diaeresis.ss02</key>
+    <string>u_with_macron_and_diaeresis.ss02.glif</string>
     <key>u_with_ogonek</key>
     <string>u_with_ogonek.glif</string>
     <key>u_with_ring</key>
@@ -1550,6 +3628,8 @@
     <string>v.glif</string>
     <key>v_with_dotbelow</key>
     <string>v_with_dotbelow.glif</string>
+    <key>v_with_dotbelow.ss02</key>
+    <string>v_with_dotbelow.ss02.glif</string>
     <key>v_with_tildeabove</key>
     <string>v_with_tildeabove.glif</string>
     <key>w</key>
@@ -1560,10 +3640,16 @@
     <string>w_with_circumflex.glif</string>
     <key>w_with_diaeresis</key>
     <string>w_with_diaeresis.glif</string>
+    <key>w_with_diaeresis.ss02</key>
+    <string>w_with_diaeresis.ss02.glif</string>
     <key>w_with_dotabove</key>
     <string>w_with_dotabove.glif</string>
+    <key>w_with_dotabove.ss02</key>
+    <string>w_with_dotabove.ss02.glif</string>
     <key>w_with_dotbelow</key>
     <string>w_with_dotbelow.glif</string>
+    <key>w_with_dotbelow.ss02</key>
+    <string>w_with_dotbelow.ss02.glif</string>
     <key>w_with_grave</key>
     <string>w_with_grave.glif</string>
     <key>w_with_ring</key>
@@ -1574,8 +3660,12 @@
     <string>x.glif</string>
     <key>x_with_diaeresis</key>
     <string>x_with_diaeresis.glif</string>
+    <key>x_with_diaeresis.ss02</key>
+    <string>x_with_diaeresis.ss02.glif</string>
     <key>x_with_dotabove</key>
     <string>x_with_dotabove.glif</string>
+    <key>x_with_dotabove.ss02</key>
+    <string>x_with_dotabove.ss02.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>y_with_acute</key>
@@ -1584,10 +3674,16 @@
     <string>y_with_circumflex.glif</string>
     <key>y_with_diaeresis</key>
     <string>y_with_diaeresis.glif</string>
+    <key>y_with_diaeresis.ss02</key>
+    <string>y_with_diaeresis.ss02.glif</string>
     <key>y_with_dotabove</key>
     <string>y_with_dotabove.glif</string>
+    <key>y_with_dotabove.ss02</key>
+    <string>y_with_dotabove.ss02.glif</string>
     <key>y_with_dotbelow</key>
     <string>y_with_dotbelow.glif</string>
+    <key>y_with_dotbelow.ss02</key>
+    <string>y_with_dotbelow.ss02.glif</string>
     <key>y_with_grave</key>
     <string>y_with_grave.glif</string>
     <key>y_with_hook</key>
@@ -1602,6 +3698,26 @@
     <string>yen.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>z.ss01</key>
+    <string>z.ss01.glif</string>
+    <key>z.ss01_with_acute</key>
+    <string>z.ss01_with_acute.glif</string>
+    <key>z.ss01_with_caron</key>
+    <string>z.ss01_with_caron.glif</string>
+    <key>z.ss01_with_circumflex</key>
+    <string>z.ss01_with_circumflex.glif</string>
+    <key>z.ss01_with_dotabove</key>
+    <string>z.ss01_with_dotabove.glif</string>
+    <key>z.ss01_with_dotabove.ss02</key>
+    <string>z.ss01_with_dotabove.ss02.glif</string>
+    <key>z.ss01_with_dotbelow</key>
+    <string>z.ss01_with_dotbelow.glif</string>
+    <key>z.ss01_with_dotbelow.ss02</key>
+    <string>z.ss01_with_dotbelow.ss02.glif</string>
+    <key>z.ss01_with_macronbelow</key>
+    <string>z.ss01_with_macronbelow.glif</string>
+    <key>z.ss01_with_stroke</key>
+    <string>z.ss01_with_stroke.glif</string>
     <key>z_with_acute</key>
     <string>z_with_acute.glif</string>
     <key>z_with_caron</key>
@@ -1610,15 +3726,23 @@
     <string>z_with_circumflex.glif</string>
     <key>z_with_dotabove</key>
     <string>z_with_dotabove.glif</string>
+    <key>z_with_dotabove.ss02</key>
+    <string>z_with_dotabove.ss02.glif</string>
     <key>z_with_dotbelow</key>
     <string>z_with_dotbelow.glif</string>
+    <key>z_with_dotbelow.ss02</key>
+    <string>z_with_dotbelow.ss02.glif</string>
     <key>z_with_macronbelow</key>
     <string>z_with_macronbelow.glif</string>
     <key>z_with_stroke</key>
     <string>z_with_stroke.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zero.tnum</key>
+    <string>zero.tnum.glif</string>
     <key>zero_over_three</key>
     <string>zero_over_three.glif</string>
+    <key>zero_over_three.ss01</key>
+    <string>zero_over_three.ss01.glif</string>
   </dict>
 </plist>

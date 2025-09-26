@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_with_diaeresis.ss02" format="2">
+  <advance width="385.98922503108156"/>
+  <unicode hex="E592"/>
+  <anchor x="192.9946125155408" y="-107.41815167840862" name="below" identifier="below"/>
+  <anchor x="192.9946125155408" y="444.28566633734926" name="stroke" identifier="stroke"/>
+  <anchor x="303.32200580190636" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="192.9946125155408" y="1231.3135387484458" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="-108.11773" y="956.78582" type="line"/>
+      <point x="130.60393" y="956.78582" type="line"/>
+      <point x="130.60393" y="1195.50749" type="line"/>
+      <point x="-108.11773" y="1195.50749" type="line"/>
+    </contour>
+    <contour>
+      <point x="255.38529" y="956.78582" type="line"/>
+      <point x="494.10696" y="956.78582" type="line"/>
+      <point x="494.10696" y="1195.50749" type="line"/>
+      <point x="255.38529" y="1195.50749" type="line"/>
+    </contour>
+    <contour>
+      <point x="82.66722" y="0.0" type="line"/>
+      <point x="303.32201" y="0.0" type="line"/>
+      <point x="303.32201" y="833.00119" type="line"/>
+      <point x="82.66722" y="833.00119" type="line"/>
+    </contour>
+  </outline>
+</glyph>

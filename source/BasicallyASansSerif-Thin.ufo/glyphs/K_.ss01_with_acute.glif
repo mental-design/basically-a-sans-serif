@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.ss01_with_acute" format="2">
+  <advance width="795.2727272727271"/>
+  <unicode hex="E19D"/>
+  <anchor x="432.27272727272725" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="432.27272727272725" y="1521.1363636363635" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="412.76133" y="1204.77273" type="line"/>
+      <point x="451.78413" y="1204.77273" type="line"/>
+      <point x="628.89529" y="1477.5" type="line"/>
+      <point x="589.87249" y="1477.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.45455169677734" y="0" type="line"/>
+      <point x="152.18182373046875" y="0" type="line"/>
+      <point x="152.18182373046875" y="522.75" type="line"/>
+      <point x="772.3132400512695" y="0" type="line"/>
+      <point x="823.0909118652344" y="0" type="line"/>
+      <point x="183.54752731323242" y="539.113639831543" type="line"/>
+      <point x="817.9143829345703" y="1073.863639831543" type="line"/>
+      <point x="767.13671875" y="1073.863639831543" type="line"/>
+      <point x="152.18182373046875" y="555.4772796630859" type="line"/>
+      <point x="152.18182373046875" y="1073.863639831543" type="line"/>
+      <point x="119.45455169677734" y="1073.863639831543" type="line"/>
+    </contour>
+  </outline>
+</glyph>

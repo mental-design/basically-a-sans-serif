@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y_with_diaeresis.ss02" format="2">
+  <advance width="975.0681818181818"/>
+  <unicode hex="E5B8"/>
+  <anchor x="816.9954545454545" y="-98.18181818181819" name="below" identifier="below"/>
+  <anchor x="487.53409090909093" y="1268.0754545454547" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="147.97227" y="955.33364" type="line"/>
+      <point x="427.98682" y="955.33364" type="line"/>
+      <point x="427.98682" y="1235.34818" type="line"/>
+      <point x="147.97227" y="1235.34818" type="line"/>
+    </contour>
+    <contour>
+      <point x="547.08136" y="955.33364" type="line"/>
+      <point x="827.09591" y="955.33364" type="line"/>
+      <point x="827.09591" y="1235.34818" type="line"/>
+      <point x="547.08136" y="1235.34818" type="line"/>
+    </contour>
+    <contour>
+      <point x="189.06490325927734" y="-374.31817626953125" type="line"/>
+      <point x="499.45127868652344" y="-374.31817626953125" type="line"/>
+      <point x="639.6244087219238" y="0.0" type="line"/>
+      <point x="957.886360168457" y="849.886360168457" type="line"/>
+      <point x="657.8379898071289" y="849.886360168457" type="line"/>
+      <point x="487.5340881347656" y="347.85286712646484" type="line"/>
+      <point x="317.23018646240234" y="849.886360168457" type="line"/>
+      <point x="17.18182373046875" y="849.886360168457" type="line"/>
+      <point x="345.63560485839844" y="-27.216270446777344" type="line"/>
+    </contour>
+  </outline>
+</glyph>

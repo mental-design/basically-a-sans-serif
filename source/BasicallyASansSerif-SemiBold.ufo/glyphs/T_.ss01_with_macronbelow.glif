@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.ss01_with_macronbelow" format="2">
+  <advance width="869.598272138229"/>
+  <unicode hex="E1C5"/>
+  <anchor x="434.79913606911447" y="1196.4848812095033" name="above" identifier="above"/>
+  <anchor x="434.79913606911447" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="434.79913606911447" y="542.2597192224622" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="342.6609115600586" y="0" type="line"/>
+      <point x="526.937370300293" y="0" type="line"/>
+      <point x="526.937370300293" y="906.5305633544922" type="line"/>
+      <point x="820.8466491699219" y="906.5305633544922" type="line"/>
+      <point x="820.8466491699219" y="1084.5194396972656" type="line"/>
+      <point x="48.751617431640625" y="1084.5194396972656" type="line"/>
+      <point x="48.751617431640625" y="906.5305633544922" type="line"/>
+      <point x="342.6609115600586" y="906.5305633544922" type="line"/>
+    </contour>
+    <contour>
+      <point x="150.8642" y="-304.71838" type="line"/>
+      <point x="718.73407" y="-304.71838" type="line"/>
+      <point x="718.73407" y="-145.80924" type="line"/>
+      <point x="150.8642" y="-145.80924" type="line"/>
+    </contour>
+  </outline>
+</glyph>

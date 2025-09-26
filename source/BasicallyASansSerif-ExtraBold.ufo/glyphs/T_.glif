@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="961.4634146341464"/>
+  <advance width="933.4010313367711"/>
   <unicode hex="0054"/>
-  <anchor x="480.7317073170732" y="1193.5975609756097" name="above" identifier="above"/>
-  <anchor x="480.7317073170732" y="-105.36585365853658" name="below" identifier="below"/>
-  <anchor x="480.7317073170732" y="0" name="cedilla" identifier="cedilla"/>
-  <anchor x="480.7317073170732" y="544.1158536585366" name="stroke" identifier="stroke"/>
+  <anchor x="466.70051566838555" y="1192.4821499404998" name="above" identifier="above"/>
+  <anchor x="466.70051566838555" y="-102.8163427211424" name="below" identifier="below"/>
+  <anchor x="466.70051566838555" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="466.70051566838555" y="544.8329036096786" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
-      <point x="362.1951217651367" y="0" type="line"/>
-      <point x="599.2682876586914" y="0" type="line"/>
-      <point x="599.2682876586914" y="851.1585388183594" type="line"/>
-      <point x="915.365852355957" y="851.1585388183594" type="line"/>
-      <point x="915.365852355957" y="1088.2317123413086" type="line"/>
-      <point x="46.097557067871094" y="1088.2317123413086" type="line"/>
-      <point x="46.097557067871094" y="851.1585388183594" type="line"/>
-      <point x="362.1951217651367" y="851.1585388183594" type="line"/>
+      <point x="337.9658889770508" y="0" type="line"/>
+      <point x="595.4351425170898" y="0" type="line"/>
+      <point x="595.4351425170898" y="846.3835830688477" type="line"/>
+      <point x="897.4581527709961" y="846.3835830688477" type="line"/>
+      <point x="897.4581527709961" y="1089.6658096313477" type="line"/>
+      <point x="35.94287872314453" y="1089.6658096313477" type="line"/>
+      <point x="35.94287872314453" y="846.3835830688477" type="line"/>
+      <point x="337.9658889770508" y="846.3835830688477" type="line"/>
     </contour>
   </outline>
 </glyph>

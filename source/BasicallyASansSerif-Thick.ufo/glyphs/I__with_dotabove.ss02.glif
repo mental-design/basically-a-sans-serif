@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_dotabove.ss02" format="2">
+  <advance width="445.0909090909091"/>
+  <unicode hex="E552"/>
+  <anchor x="222.54545454545456" y="-98.18181818181819" name="below" identifier="below"/>
+  <anchor x="378.81818181818187" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="222.54545454545456" y="546.1363636363636" name="stroke" identifier="stroke"/>
+  <anchor x="222.54545454545456" y="1522.6363636363637" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="70.36364" y="1185.54545" type="line"/>
+      <point x="374.72727" y="1185.54545" type="line"/>
+      <point x="374.72727" y="1489.90909" type="line"/>
+      <point x="70.36364" y="1489.90909" type="line"/>
+    </contour>
+    <contour>
+      <point x="66.27273" y="0.0" type="line"/>
+      <point x="378.81818" y="0.0" type="line"/>
+      <point x="378.81818" y="1092.27273" type="line"/>
+      <point x="66.27273" y="1092.27273" type="line"/>
+    </contour>
+  </outline>
+</glyph>

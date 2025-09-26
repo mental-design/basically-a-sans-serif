@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_with_dotbelow.ss02" format="2">
+  <advance width="875.3381230354736"/>
+  <unicode hex="E598"/>
+  <anchor x="391.82936686124833" y="1262.7076784912438" name="above" identifier="above"/>
+  <anchor x="170.16579852088842" y="1262.7076784912438" name="stem" identifier="stem"/>
+  <anchor x="475.5938756673153" y="-116.3897620116749" name="macronbelow" identifier="macronbelow"/>
+  <outline>
+    <contour>
+      <point x="98.59182739257812" y="0" type="line"/>
+      <point x="241.7397689819336" y="0" type="line"/>
+      <point x="241.7397689819336" y="280.78724670410156" type="line"/>
+      <point x="320.40149688720703" y="350.1062927246094" type="line"/>
+      <point x="666.7143707275391" y="0" type="line"/>
+      <point x="868.3403701782227" y="0" type="line"/>
+      <point x="425.9375991821289" y="443.1078186035156" type="line"/>
+      <point x="849.7683029174805" y="816.599967956543" type="line"/>
+      <point x="633.9087295532227" y="816.599967956543" type="line"/>
+      <point x="241.7397689819336" y="465.0406265258789" type="line"/>
+      <point x="241.7397689819336" y="1146.3179168701172" type="line"/>
+      <point x="98.59182739257812" y="1146.3179168701172" type="line"/>
+    </contour>
+    <contour>
+      <point x="291.54019" y="-341.19174" type="line"/>
+      <point x="492.11855" y="-341.19174" type="line"/>
+      <point x="492.11855" y="-140.61338" type="line"/>
+      <point x="291.54019" y="-140.61338" type="line"/>
+    </contour>
+  </outline>
+</glyph>

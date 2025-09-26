@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.smcp_with_acute" format="2">
+  <advance width="761.1465036682266"/>
+  <unicode hex="EF2E"/>
+  <anchor x="380.5732518341104" y="-100.53079531779893" name="below" identifier="below"/>
+  <anchor x="380.5732518341104" y="446.05359655677177" name="stroke" identifier="stroke"/>
+  <anchor x="380.5732518341104" y="1330.7504922874962" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="247.89574" y="970.75049" type="line"/>
+      <point x="488.92656" y="970.75049" type="line"/>
+      <point x="725.78416" y="1298.02322" type="line"/>
+      <point x="436.10492" y="1298.02322" type="line"/>
+    </contour>
+    <contour>
+      <point x="46.71723175048828" y="0" type="line"/>
+      <point x="714.4292831420898" y="0" type="line"/>
+      <point x="714.4292831420898" y="246.6880874633789" type="line"/>
+      <point x="396.4145965576172" y="246.6880874633789" type="line"/>
+      <point x="714.4292831420898" y="625.5186004638672" type="line"/>
+      <point x="714.4292831420898" y="870.2197036743164" type="line"/>
+      <point x="46.71723175048828" y="870.2197036743164" type="line"/>
+      <point x="46.71723175048828" y="623.531608581543" type="line"/>
+      <point x="364.73192596435547" y="623.531608581543" type="line"/>
+      <point x="46.71723175048828" y="244.70108795166016" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_with_dotabove.ss02_and_macron" format="2">
+  <advance width="1126.636363636364"/>
+  <unicode hex="E5C2"/>
+  <anchor x="563.3181818181819" y="-98.18181818181819" name="below" identifier="below"/>
+  <anchor x="1134.0000000000002" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="563.3181818181819" y="1864.6069840500563" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="265.83665" y="1561.69302" type="line"/>
+      <point x="860.79972" y="1561.69302" type="line"/>
+      <point x="860.79972" y="1766.42517" type="line"/>
+      <point x="265.83665" y="1766.42517" type="line"/>
+    </contour>
+    <contour>
+      <point x="411.13636" y="1185.54545" type="line"/>
+      <point x="715.5" y="1185.54545" type="line"/>
+      <point x="715.5" y="1489.90909" type="line"/>
+      <point x="411.13636" y="1489.90909" type="line"/>
+    </contour>
+    <contour>
+      <point x="-7.363639831542969" y="0" type="line"/>
+      <point x="296.5183334350586" y="0" type="line"/>
+      <point x="356.0792465209961" y="165.65229034423828" type="line"/>
+      <point x="770.5571136474609" y="165.65229034423828" type="line"/>
+      <point x="830.1180267333984" y="0" type="line"/>
+      <point x="1134" y="0" type="line"/>
+      <point x="715.259162902832" y="1092.2727279663086" type="line"/>
+      <point x="411.377197265625" y="1092.2727279663086" type="line"/>
+    </contour>
+    <contour>
+      <point x="563.3181762695312" y="742.0303497314453" type="line"/>
+      <point x="683.3115005493164" y="408.3019485473633" type="line"/>
+      <point x="443.3248596191406" y="408.3019485473633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

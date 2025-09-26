@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.ss01_with_macron" format="2">
+  <advance width="1001.6181818181819"/>
+  <unicode hex="E1CD"/>
+  <anchor x="500.80909090909097" y="-98.18181818181819" name="below" identifier="below"/>
+  <anchor x="500.80909090909097" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="947.6181818181819" y="1092.2727272727273" name="horn" identifier="horn"/>
+  <anchor x="500.80909090909097" y="1543.7818181818184" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="192.96818" y="1229.85455" type="line"/>
+      <point x="808.65" y="1229.85455" type="line"/>
+      <point x="808.65" y="1445.6" type="line"/>
+      <point x="192.96818" y="1445.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="54.0" y="423.0757598876953" type="line"/>
+      <point x="54.00000000000002" y="91.29674479074413"/>
+      <point x="291.3474964653354" y="-20.333329999999975"/>
+      <point x="500.80909" y="-20.33333" type="curve"/>
+      <point x="710.2706835346647" y="-20.33333"/>
+      <point x="947.6181803070355" y="91.29674484689639"/>
+      <point x="947.6181799803044" y="423.07576" type="curve"/>
+      <point x="947.6181793212891" y="1092.2727279663086" type="line"/>
+      <point x="647.6727294921875" y="1092.2727279663086" type="line"/>
+      <point x="647.6727294921875" y="421.7954918849009" type="line"/>
+      <point x="647.6727294921875" y="301.631385820489"/>
+      <point x="569.7424316262872" y="256.21212"/>
+      <point x="500.80909" y="256.21212" type="curve"/>
+      <point x="431.8757483737128" y="256.21212"/>
+      <point x="353.9454500251549" y="301.6313858766414"/>
+      <point x="353.9454499953581" y="421.7954917354741" type="curve"/>
+      <point x="353.94544982910156" y="1092.2727279663086" type="line"/>
+      <point x="54" y="1092.2727279663086" type="line"/>
+    </contour>
+  </outline>
+</glyph>

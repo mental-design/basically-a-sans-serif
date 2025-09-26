@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="346.2238267148014"/>
+  <advance width="349.47054333183655"/>
   <unicode hex="0049"/>
-  <anchor x="173.1119133574007" y="1198.673285198556" name="above" identifier="above"/>
-  <anchor x="173.1119133574007" y="-116.96750902527076" name="below" identifier="below"/>
-  <anchor x="245.24187725631768" y="0" name="ogonek" identifier="ogonek"/>
-  <anchor x="173.1119133574007" y="540.8528880866426" name="stroke" identifier="stroke"/>
+  <anchor x="174.73527166591828" y="1198.4205208801077" name="above" identifier="above"/>
+  <anchor x="174.73527166591828" y="-116.3897620116749" name="below" identifier="below"/>
+  <anchor x="250.8787157611136" y="0" name="ogonek" identifier="ogonek"/>
+  <anchor x="174.73527166591828" y="541.0153794342165" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
-      <point x="100.98195" y="0.0" type="line"/>
-      <point x="245.24188" y="0.0" type="line"/>
-      <point x="245.24188" y="1081.70578" type="line"/>
-      <point x="100.98195" y="1081.70578" type="line"/>
+      <point x="98.59183" y="0.0" type="line"/>
+      <point x="250.87872" y="0.0" type="line"/>
+      <point x="250.87872" y="1082.03076" type="line"/>
+      <point x="98.59183" y="1082.03076" type="line"/>
     </contour>
   </outline>
 </glyph>

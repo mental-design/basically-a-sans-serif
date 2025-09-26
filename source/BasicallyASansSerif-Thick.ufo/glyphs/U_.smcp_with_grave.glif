@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.smcp_with_grave" format="2">
+  <advance width="884.1719814068578"/>
+  <unicode hex="EF09"/>
+  <anchor x="442.0859907034288" y="-100.53079531779893" name="below" identifier="below"/>
+  <anchor x="442.0859907034288" y="0.0" name="ogonek" identifier="ogonek"/>
+  <anchor x="827.6770035382843" y="870.2196969696971" name="horn" identifier="horn"/>
+  <outline>
+    <contour>
+      <point x="574.76351" y="970.75049" type="line"/>
+      <point x="386.55432" y="1298.02322" type="line"/>
+      <point x="96.87508" y="1298.02322" type="line"/>
+      <point x="333.73269" y="970.75049" type="line"/>
+    </contour>
+    <contour>
+      <point x="56.49497985839844" y="357.8725280761719" type="line"/>
+      <point x="56.49497985839845" y="83.34353596437006"/>
+      <point x="235.55755267361658" y="-21.887499999999974"/>
+      <point x="442.08599" y="-21.8875" type="curve"/>
+      <point x="648.6144273263834" y="-21.8875"/>
+      <point x="827.6769990661603" y="83.34353692628412"/>
+      <point x="827.6770000733779" y="357.87253" type="curve"/>
+      <point x="827.677001953125" y="870.2197036743164" type="line"/>
+      <point x="555.1579208374023" y="870.2197036743164" type="line"/>
+      <point x="555.1579208374023" y="352.2850572610688" type="line"/>
+      <point x="555.1579208374023" y="259.42684510495417"/>
+      <point x="494.74803513822445" y="224.8006"/>
+      <point x="442.08599" y="224.8006" type="curve"/>
+      <point x="389.42394486177557" y="224.8006"/>
+      <point x="329.0140598564553" y="259.4268460668682"/>
+      <point x="329.0140600263729" y="352.285059055122" type="curve"/>
+      <point x="329.0140609741211" y="870.2197036743164" type="line"/>
+      <point x="56.49497985839844" y="870.2197036743164" type="line"/>
+    </contour>
+  </outline>
+</glyph>

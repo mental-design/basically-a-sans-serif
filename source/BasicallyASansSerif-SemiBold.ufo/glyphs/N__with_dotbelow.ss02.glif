@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N_with_dotbelow.ss02" format="2">
+  <advance width="1126.3153347732182"/>
+  <unicode hex="E55E"/>
+  <anchor x="563.1576673866091" y="1196.4848812095033" name="above" identifier="above"/>
+  <anchor x="90.73866090712744" y="0" name="hookleft" identifier="hookleft"/>
+  <anchor x="1035.5766738660907" y="0" name="hookright" identifier="hookright"/>
+  <outline>
+    <contour>
+      <point x="90.73866271972656" y="0" type="line"/>
+      <point x="269.2991409301758" y="0" type="line"/>
+      <point x="269.2991409301758" y="827.9156799316406" type="line"/>
+      <point x="817.3995819091797" y="0" type="line"/>
+      <point x="1035.5766677856445" y="0" type="line"/>
+      <point x="1035.5766677856445" y="1084.5194396972656" type="line"/>
+      <point x="857.0161972045898" y="1084.5194396972656" type="line"/>
+      <point x="857.0161972045898" y="256.60376739501953" type="line"/>
+      <point x="308.91575622558594" y="1084.5194396972656" type="line"/>
+      <point x="90.73866271972656" y="1084.5194396972656" type="line"/>
+    </contour>
+    <contour>
+      <point x="450.25918" y="-354.90713" type="line"/>
+      <point x="676.05616" y="-354.90713" type="line"/>
+      <point x="676.05616" y="-129.11015" type="line"/>
+      <point x="450.25918" y="-129.11015" type="line"/>
+    </contour>
+  </outline>
+</glyph>

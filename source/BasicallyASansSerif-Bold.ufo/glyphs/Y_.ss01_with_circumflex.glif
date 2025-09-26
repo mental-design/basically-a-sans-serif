@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.ss01_with_circumflex" format="2">
+  <advance width="980.3603398259428"/>
+  <unicode hex="E1DD"/>
+  <anchor x="490.1801699129714" y="-107.41815167840862" name="below" identifier="below"/>
+  <anchor x="800.1673798176543" y="1406.1614173228345" name="topright" identifier="topright"/>
+  <anchor x="490.1801699129714" y="1513.5795690012433" name="above" identifier="above"/>
+  <anchor x="813.5946487774553" y="1406.1614173228345" name="grave" identifier="grave"/>
+  <outline>
+    <contour>
+      <point x="183.4766387939453" y="1194.4954376220703" type="line"/>
+      <point x="394.53565216064453" y="1194.4954376220703" type="line"/>
+      <point x="490.18016815185547" y="1300.421371459961" type="line"/>
+      <point x="585.8246917724609" y="1194.4954376220703" type="line"/>
+      <point x="796.8836975097656" y="1194.4954376220703" type="line"/>
+      <point x="560.4545669555664" y="1476.7167434692383" type="line"/>
+      <point x="419.90576934814453" y="1476.7167434692383" type="line"/>
+    </contour>
+    <contour>
+      <point x="379.852783203125" y="0" type="line"/>
+      <point x="600.5075607299805" y="0" type="line"/>
+      <point x="600.5075607299805" y="399.97010040283203" type="line"/>
+      <point x="983.7022399902344" y="1087.077293395996" type="line"/>
+      <point x="734.2261199951172" y="1087.077293395996" type="line"/>
+      <point x="490.18016815185547" y="647.4480895996094" type="line"/>
+      <point x="246.13421630859375" y="1087.077293395996" type="line"/>
+      <point x="-3.3419036865234375" y="1087.077293395996" type="line"/>
+      <point x="379.852783203125" y="399.97010040283203" type="line"/>
+    </contour>
+  </outline>
+</glyph>

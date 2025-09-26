@@ -1,16 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="power" format="2">
-  <advance width="710.517482517565"/>
+  <advance width="695.4125874125873"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="75.81817626953125" y="625.4370574951172" type="line"/>
-      <point x="113.66751098632812" y="625.4370574951172" type="line"/>
-      <point x="355.2587432861328" y="1041.28857421875" type="line"/>
-      <point x="596.849967956543" y="625.4370574951172" type="line"/>
-      <point x="634.6993026733398" y="625.4370574951172" type="line"/>
-      <point x="374.18341064453125" y="1073.863639831543" type="line"/>
-      <point x="336.3340835571289" y="1073.863639831543" type="line"/>
+      <point x="75.81818" y="625.43706" type="line"/>
+      <point x="113.39847" y="625.43706" type="line"/>
+      <point x="347.70629" y="1036.62996" type="line"/>
+      <point x="347.70629" y="1073.86364" type="line"/>
+      <point x="331.34265" y="1073.86364" type="line"/>
+    </contour>
+    <contour>
+      <point x="619.59441" y="625.43706" type="line"/>
+      <point x="364.06993" y="1073.86364" type="line"/>
+      <point x="347.7063" y="1073.86364" type="line"/>
+      <point x="347.7063" y="1036.62996" type="line"/>
+      <point x="582.01411" y="625.43706" type="line"/>
     </contour>
   </outline>
 </glyph>

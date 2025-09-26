@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="combining_dotabove" format="2">
   <unicode hex="0307"/>
-  <anchor x="-502.9553571428571" y="944.1964285714286" name="_above" identifier="_above"/>
-  <anchor x="-502.9553571428571" y="944.1964285714286" name="_stem" identifier="_stem"/>
-  <anchor x="-502.9553571428571" y="1252.1964285714287" name="above" identifier="above"/>
+  <anchor x="-491.2159090909091" y="948.0681818181819" name="_above" identifier="_above"/>
+  <anchor x="-491.2159090909091" y="948.0681818181819" name="_stem" identifier="_stem"/>
+  <anchor x="-491.2159090909091" y="1304.7954545454547" name="above" identifier="above"/>
   <outline>
     <contour>
-      <point x="-343.52679" y="1058.48214" type="curve" smooth="yes"/>
-      <point x="-343.52679" y="1146.47317"/>
-      <point x="-414.96433" y="1217.91071"/>
-      <point x="-502.95536" y="1217.91071" type="curve" smooth="yes"/>
-      <point x="-590.94638" y="1217.91071"/>
-      <point x="-662.38393" y="1146.47317"/>
-      <point x="-662.38393" y="1058.48214" type="curve" smooth="yes"/>
-      <point x="-662.38393" y="970.49112"/>
-      <point x="-590.94638" y="899.05357"/>
-      <point x="-502.95536" y="899.05357" type="curve" smooth="yes"/>
-      <point x="-414.96433" y="899.05357"/>
-      <point x="-343.52679" y="970.49112"/>
+      <point x="-314.48864" y="1095.34091" type="curve" smooth="yes"/>
+      <point x="-314.48864" y="1192.87935"/>
+      <point x="-393.67747" y="1272.06818"/>
+      <point x="-491.21591" y="1272.06818" type="curve" smooth="yes"/>
+      <point x="-588.75435" y="1272.06818"/>
+      <point x="-667.94318" y="1192.87935"/>
+      <point x="-667.94318" y="1095.34091" type="curve" smooth="yes"/>
+      <point x="-667.94318" y="997.80247"/>
+      <point x="-588.75435" y="918.61364"/>
+      <point x="-491.21591" y="918.61364" type="curve" smooth="yes"/>
+      <point x="-393.67747" y="918.61364"/>
+      <point x="-314.48864" y="997.80247"/>
     </contour>
   </outline>
 </glyph>

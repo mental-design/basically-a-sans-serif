@@ -1,23 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T_with_macronbelow" format="2">
-  <advance width="959.1810089020772"/>
+  <advance width="943.2142152023692"/>
   <unicode hex="1E6E"/>
+  <anchor x="471.60710760118457" y="1203.4723593287267" name="above" identifier="above"/>
+  <anchor x="471.60710760118457" y="0" name="cedilla" identifier="cedilla"/>
+  <anchor x="471.60710760118457" y="537.7677690029615" name="stroke" identifier="stroke"/>
   <outline>
     <contour>
-      <point x="452.3501510620117" y="0" type="line"/>
-      <point x="506.8308563232422" y="0" type="line"/>
-      <point x="506.8308563232422" y="1020.9124603271484" type="line"/>
-      <point x="891.4005889892578" y="1020.9124603271484" type="line"/>
-      <point x="891.4005889892578" y="1075.393180847168" type="line"/>
-      <point x="67.7804183959961" y="1075.393180847168" type="line"/>
-      <point x="67.7804183959961" y="1020.9124603271484" type="line"/>
-      <point x="452.3501510620117" y="1020.9124603271484" type="line"/>
+      <point x="443.3543930053711" y="0" type="line"/>
+      <point x="499.8598175048828" y="0" type="line"/>
+      <point x="499.8598175048828" y="1019.2948532104492" type="line"/>
+      <point x="875.6742324829102" y="1019.2948532104492" type="line"/>
+      <point x="875.6742324829102" y="1075.5355377197266" type="line"/>
+      <point x="67.53997802734375" y="1075.5355377197266" type="line"/>
+      <point x="67.53997802734375" y="1019.2948532104492" type="line"/>
+      <point x="443.3543930053711" y="1019.2948532104492" type="line"/>
     </contour>
     <contour>
-      <point x="233.00853" y="-247.19797" type="line"/>
-      <point x="726.17248" y="-247.19797" type="line"/>
-      <point x="726.17248" y="-192.71725" type="line"/>
-      <point x="233.00853" y="-192.71725" type="line"/>
+      <point x="206.44361" y="-260.30002" type="line"/>
+      <point x="736.77061" y="-260.30002" type="line"/>
+      <point x="736.77061" y="-204.87556" type="line"/>
+      <point x="206.44361" y="-204.87556" type="line"/>
     </contour>
   </outline>
 </glyph>

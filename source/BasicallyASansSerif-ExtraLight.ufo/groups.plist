@@ -35,14 +35,77 @@
       <string>A_with_ring_and_acute</string>
       <string>A_with_dotabove_and_macron</string>
       <string>A_with_diaeresis_and_macron</string>
+      <string>A_with_dotabove.ss02</string>
+      <string>A_with_diaeresis.ss02</string>
+      <string>A_with_dotbelow.ss02</string>
+      <string>A_with_circumflex_and_dotbelow.ss02</string>
+      <string>A_with_breve_and_dotbelow.ss02</string>
+      <string>A_with_dotabove.ss02_and_macron</string>
+      <string>A_with_diaeresis.ss02_and_macron</string>
+    </array>
+    <key>public.kern1.A.smcp</key>
+    <array>
+      <string>A.smcp</string>
+      <string>A.smcp_with_diaeresis.ss02</string>
+      <string>A.smcp_with_dotbelow.ss02</string>
+      <string>A.smcp_with_circumflex_and_dotbelow.ss02</string>
+      <string>A.smcp_with_breve_and_dotbelow.ss02</string>
+      <string>A.smcp_with_dotabove.ss02_and_macron</string>
+      <string>A.smcp_with_diaeresis.ss02_and_macron</string>
+      <string>A.smcp_with_acute</string>
+      <string>A.smcp_with_grave</string>
+      <string>A.smcp_with_circumflex</string>
+      <string>A.smcp_with_caron</string>
+      <string>A.smcp_with_breve</string>
+      <string>A.smcp_with_breveinv</string>
+      <string>A.smcp_with_ring</string>
+      <string>A.smcp_with_dotabove</string>
+      <string>A.smcp_with_macron</string>
+      <string>A.smcp_with_tildeabove</string>
+      <string>A.smcp_with_hook</string>
+      <string>A.smcp_with_diaeresis</string>
+      <string>A.smcp_with_gravedbl</string>
+      <string>A.smcp_with_ogonek</string>
+      <string>A.smcp_with_ringbelow</string>
+      <string>A.smcp_with_dotbelow</string>
+      <string>A.smcp_with_circumflex_and_acute</string>
+      <string>A.smcp_with_circumflex_and_grave</string>
+      <string>A.smcp_with_circumflex_and_tildeabove</string>
+      <string>A.smcp_with_circumflex_and_hook</string>
+      <string>A.smcp_with_circumflex_and_dotbelow</string>
+      <string>A.smcp_with_breve_and_acute</string>
+      <string>A.smcp_with_breve_and_grave</string>
+      <string>A.smcp_with_breve_and_tildeabove</string>
+      <string>A.smcp_with_breve_and_hook</string>
+      <string>A.smcp_with_breve_and_dotbelow</string>
+      <string>A.smcp_with_ring_and_acute</string>
+      <string>A.smcp_with_dotabove_and_macron</string>
+      <string>A.smcp_with_diaeresis_and_macron</string>
     </array>
     <key>public.kern1.B</key>
     <array>
       <string>B</string>
+      <string>B.ss01</string>
       <string>bitcoin</string>
       <string>B_with_dotabove</string>
       <string>B_with_dotbelow</string>
       <string>B_with_macronbelow</string>
+      <string>B_with_dotabove.ss02</string>
+      <string>B_with_dotbelow.ss02</string>
+      <string>B.ss01_with_dotabove</string>
+      <string>B.ss01_with_dotbelow</string>
+      <string>B.ss01_with_macronbelow</string>
+      <string>B.ss01_with_dotabove.ss02</string>
+      <string>B.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.B.smcp</key>
+    <array>
+      <string>B.smcp</string>
+      <string>B.smcp_with_dotabove.ss02</string>
+      <string>B.smcp_with_dotbelow.ss02</string>
+      <string>B.smcp_with_dotabove</string>
+      <string>B.smcp_with_dotbelow</string>
+      <string>B.smcp_with_macronbelow</string>
     </array>
     <key>public.kern1.C</key>
     <array>
@@ -56,12 +119,43 @@
       <string>C_with_dotabove</string>
       <string>C_with_cedilla</string>
       <string>C_with_cedilla_and_acute</string>
+      <string>C_with_dotabove.ss02</string>
     </array>
     <key>public.kern1.E</key>
     <array>
       <string>E</string>
       <string>AE</string>
       <string>OE</string>
+      <string>E.ss01</string>
+      <string>E.ss01_with_acute</string>
+      <string>E.ss01_with_grave</string>
+      <string>E.ss01_with_circumflex</string>
+      <string>E.ss01_with_caron</string>
+      <string>E.ss01_with_breve</string>
+      <string>E.ss01_with_breveinv</string>
+      <string>E.ss01_with_dotabove</string>
+      <string>E.ss01_with_macron</string>
+      <string>E.ss01_with_tildeabove</string>
+      <string>E.ss01_with_hook</string>
+      <string>E.ss01_with_diaeresis</string>
+      <string>E.ss01_with_gravedbl</string>
+      <string>E.ss01_with_cedilla</string>
+      <string>E.ss01_with_ogonek</string>
+      <string>E.ss01_with_circumflexbelow</string>
+      <string>E.ss01_with_dotbelow</string>
+      <string>E.ss01_with_tildebelow</string>
+      <string>E.ss01_with_circumflex_and_acute</string>
+      <string>E.ss01_with_circumflex_and_grave</string>
+      <string>E.ss01_with_circumflex_and_tildeabove</string>
+      <string>E.ss01_with_circumflex_and_hook</string>
+      <string>E.ss01_with_circumflex_and_dotbelow</string>
+      <string>E.ss01_with_macron_and_acute</string>
+      <string>E.ss01_with_macron_and_grave</string>
+      <string>E.ss01_with_cedilla_and_breve</string>
+      <string>E.ss01_with_dotabove.ss02</string>
+      <string>E.ss01_with_diaeresis.ss02</string>
+      <string>E.ss01_with_dotbelow.ss02</string>
+      <string>E.ss01_with_circumflex_and_dotbelow.ss02</string>
       <string>E_with_acute</string>
       <string>E_with_grave</string>
       <string>E_with_circumflex</string>
@@ -87,19 +181,81 @@
       <string>E_with_macron_and_acute</string>
       <string>E_with_macron_and_grave</string>
       <string>E_with_cedilla_and_breve</string>
+      <string>E_with_dotabove.ss02</string>
+      <string>E_with_diaeresis.ss02</string>
+      <string>E_with_dotbelow.ss02</string>
+      <string>E_with_circumflex_and_dotbelow.ss02</string>
       <string>AE_with_acute</string>
       <string>AE_with_macron</string>
+    </array>
+    <key>public.kern1.E.smcp</key>
+    <array>
+      <string>E.smcp</string>
+      <string>AE.smcp</string>
+      <string>OE.smcp</string>
+      <string>E.smcp_with_dotabove.ss02</string>
+      <string>E.smcp_with_diaeresis.ss02</string>
+      <string>E.smcp_with_dotbelow.ss02</string>
+      <string>E.smcp_with_circumflex_and_dotbelow.ss02</string>
+      <string>AE.smcp_with_acute</string>
+      <string>AE.smcp_with_macron</string>
+      <string>E.smcp_with_acute</string>
+      <string>E.smcp_with_grave</string>
+      <string>E.smcp_with_circumflex</string>
+      <string>E.smcp_with_caron</string>
+      <string>E.smcp_with_breve</string>
+      <string>E.smcp_with_breveinv</string>
+      <string>E.smcp_with_dotabove</string>
+      <string>E.smcp_with_macron</string>
+      <string>E.smcp_with_tildeabove</string>
+      <string>E.smcp_with_hook</string>
+      <string>E.smcp_with_diaeresis</string>
+      <string>E.smcp_with_gravedbl</string>
+      <string>E.smcp_with_cedilla</string>
+      <string>E.smcp_with_ogonek</string>
+      <string>E.smcp_with_circumflexbelow</string>
+      <string>E.smcp_with_dotbelow</string>
+      <string>E.smcp_with_tildebelow</string>
+      <string>E.smcp_with_circumflex_and_acute</string>
+      <string>E.smcp_with_circumflex_and_grave</string>
+      <string>E.smcp_with_circumflex_and_tildeabove</string>
+      <string>E.smcp_with_circumflex_and_hook</string>
+      <string>E.smcp_with_circumflex_and_dotbelow</string>
+      <string>E.smcp_with_macron_and_acute</string>
+      <string>E.smcp_with_macron_and_grave</string>
+      <string>E.smcp_with_cedilla_and_breve</string>
     </array>
     <key>public.kern1.F</key>
     <array>
       <string>F</string>
+      <string>F.ss01</string>
       <string>franc</string>
+      <string>F.ss01_with_dotabove</string>
+      <string>F.ss01_with_hookleft</string>
+      <string>F.ss01_with_dotabove.ss02</string>
       <string>F_with_dotabove</string>
       <string>F_with_hookleft</string>
+      <string>F_with_dotabove.ss02</string>
+    </array>
+    <key>public.kern1.F.smcp</key>
+    <array>
+      <string>F.smcp</string>
+      <string>F.smcp_with_dotabove.ss02</string>
+      <string>F.smcp_with_dotabove</string>
+      <string>F.smcp_with_hookleft</string>
     </array>
     <key>public.kern1.H</key>
     <array>
       <string>H</string>
+      <string>I</string>
+      <string>M</string>
+      <string>N</string>
+      <string>ENG</string>
+      <string>M_with_acute</string>
+      <string>M_with_dotabove</string>
+      <string>M_with_dotbelow</string>
+      <string>M_with_dotabove.ss02</string>
+      <string>M_with_dotbelow.ss02</string>
       <string>H_with_circumflex</string>
       <string>H_with_caron</string>
       <string>H_with_dotabove</string>
@@ -107,10 +263,22 @@
       <string>H_with_cedilla</string>
       <string>H_with_stroke</string>
       <string>H_with_dotbelow</string>
-    </array>
-    <key>public.kern1.I</key>
-    <array>
-      <string>I</string>
+      <string>H_with_dotabove.ss02</string>
+      <string>H_with_diaeresis.ss02</string>
+      <string>H_with_dotbelow.ss02</string>
+      <string>N_with_acute</string>
+      <string>N_with_grave</string>
+      <string>N_with_caron</string>
+      <string>N_with_dotabove</string>
+      <string>N_with_tildeabove</string>
+      <string>N_with_hookleft</string>
+      <string>N_with_commabelow</string>
+      <string>N_with_circumflexbelow</string>
+      <string>N_with_dotbelow</string>
+      <string>N_with_macronbelow</string>
+      <string>N_with_dotabove.ss02</string>
+      <string>N_with_commabelow.ss02</string>
+      <string>N_with_dotbelow.ss02</string>
       <string>I_with_acute</string>
       <string>I_with_grave</string>
       <string>I_with_circumflex</string>
@@ -128,6 +296,24 @@
       <string>I_with_dotbelow</string>
       <string>I_with_tildebelow</string>
       <string>I_with_diaeresis_and_acute</string>
+      <string>I_with_dotabove.ss02</string>
+      <string>I_with_diaeresis.ss02</string>
+      <string>I_with_dotbelow.ss02</string>
+      <string>I_with_diaeresis.ss02_and_acute</string>
+    </array>
+    <key>public.kern1.H.ss01</key>
+    <array>
+      <string>H.ss01</string>
+      <string>H.ss01_with_circumflex</string>
+      <string>H.ss01_with_caron</string>
+      <string>H.ss01_with_dotabove</string>
+      <string>H.ss01_with_diaeresis</string>
+      <string>H.ss01_with_cedilla</string>
+      <string>H.ss01_with_stroke</string>
+      <string>H.ss01_with_dotbelow</string>
+      <string>H.ss01_with_dotabove.ss02</string>
+      <string>H.ss01_with_diaeresis.ss02</string>
+      <string>H.ss01_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.J</key>
     <array>
@@ -135,19 +321,67 @@
       <string>J_with_circumflex</string>
       <string>J_with_acute</string>
     </array>
+    <key>public.kern1.J.smcp</key>
+    <array>
+      <string>J.smcp</string>
+      <string>J.smcp_with_circumflex</string>
+    </array>
     <key>public.kern1.K</key>
     <array>
       <string>K</string>
+      <string>K.ss01</string>
       <string>kip</string>
       <string>K_with_acute</string>
       <string>K_with_caron</string>
       <string>K_with_commabelow</string>
       <string>K_with_dotbelow</string>
       <string>K_with_macronbelow</string>
+      <string>K_with_commabelow.ss02</string>
+      <string>K_with_dotbelow.ss02</string>
+      <string>K.ss01_with_acute</string>
+      <string>K.ss01_with_caron</string>
+      <string>K.ss01_with_commabelow</string>
+      <string>K.ss01_with_dotbelow</string>
+      <string>K.ss01_with_macronbelow</string>
+      <string>K.ss01_with_commabelow.ss02</string>
+      <string>K.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.K.smcp</key>
+    <array>
+      <string>K.smcp</string>
+      <string>K.ss01.smcp</string>
+      <string>K.smcp_with_commabelow.ss02</string>
+      <string>K.smcp_with_dotbelow.ss02</string>
+      <string>K.ss01.smcp_with_commabelow.ss02</string>
+      <string>K.ss01.smcp_with_dotbelow.ss02</string>
+      <string>K.smcp_with_acute</string>
+      <string>K.smcp_with_caron</string>
+      <string>K.smcp_with_commabelow</string>
+      <string>K.smcp_with_dotbelow</string>
+      <string>K.smcp_with_macronbelow</string>
+      <string>K.ss01.smcp_with_acute</string>
+      <string>K.ss01.smcp_with_caron</string>
+      <string>K.ss01.smcp_with_commabelow</string>
+      <string>K.ss01.smcp_with_dotbelow</string>
+      <string>K.ss01.smcp_with_macronbelow</string>
     </array>
     <key>public.kern1.L</key>
     <array>
       <string>L</string>
+      <string>L.ss01</string>
+      <string>L.ss01_with_acute</string>
+      <string>L.ss01_with_caron</string>
+      <string>L.ss01_with_stroke</string>
+      <string>L.ss01_with_dotmiddle</string>
+      <string>L.ss01_with_commabelow</string>
+      <string>L.ss01_with_circumflexbelow</string>
+      <string>L.ss01_with_dotbelow</string>
+      <string>L.ss01_with_macronbelow</string>
+      <string>L.ss01_with_dotbelow_and_macron</string>
+      <string>L.ss01_with_dotmiddle.ss02</string>
+      <string>L.ss01_with_commabelow.ss02</string>
+      <string>L.ss01_with_dotbelow.ss02</string>
+      <string>L.ss01_with_dotbelow.ss02_and_macron</string>
       <string>L_with_acute</string>
       <string>L_with_caron</string>
       <string>L_with_stroke</string>
@@ -157,27 +391,36 @@
       <string>L_with_dotbelow</string>
       <string>L_with_macronbelow</string>
       <string>L_with_dotbelow_and_macron</string>
+      <string>L_with_dotmiddle.ss02</string>
+      <string>L_with_commabelow.ss02</string>
+      <string>L_with_dotbelow.ss02</string>
+      <string>L_with_dotbelow.ss02_and_macron</string>
     </array>
-    <key>public.kern1.M</key>
+    <key>public.kern1.L.smcp</key>
     <array>
-      <string>M</string>
-      <string>M_with_acute</string>
-      <string>M_with_dotabove</string>
-      <string>M_with_dotbelow</string>
+      <string>L.smcp</string>
+      <string>L.smcp_with_dotmiddle.ss02</string>
+      <string>L.smcp_with_commabelow.ss02</string>
+      <string>L.smcp_with_dotbelow.ss02</string>
+      <string>L.smcp_with_dotbelow.ss02_and_macron</string>
+      <string>L.smcp_with_acute</string>
+      <string>L.smcp_with_caron</string>
+      <string>L.smcp_with_stroke</string>
+      <string>L.smcp_with_dotmiddle</string>
+      <string>L.smcp_with_commabelow</string>
+      <string>L.smcp_with_circumflexbelow</string>
+      <string>L.smcp_with_dotbelow</string>
+      <string>L.smcp_with_macronbelow</string>
+      <string>L.smcp_with_dotbelow_and_macron</string>
     </array>
-    <key>public.kern1.N</key>
+    <key>public.kern1.M.ss01</key>
     <array>
-      <string>N</string>
-      <string>N_with_acute</string>
-      <string>N_with_grave</string>
-      <string>N_with_caron</string>
-      <string>N_with_dotabove</string>
-      <string>N_with_tildeabove</string>
-      <string>N_with_hookleft</string>
-      <string>N_with_commabelow</string>
-      <string>N_with_circumflexbelow</string>
-      <string>N_with_dotbelow</string>
-      <string>N_with_macronbelow</string>
+      <string>M.ss01</string>
+      <string>M.ss01_with_acute</string>
+      <string>M.ss01_with_dotabove</string>
+      <string>M.ss01_with_dotbelow</string>
+      <string>M.ss01_with_dotabove.ss02</string>
+      <string>M.ss01_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.O</key>
     <array>
@@ -185,9 +428,19 @@
       <string>G</string>
       <string>O</string>
       <string>ETH</string>
+      <string>SCHWA</string>
       <string>copyright</string>
       <string>registered</string>
       <string>guarani</string>
+      <string>G_with_acute</string>
+      <string>G_with_circumflex</string>
+      <string>G_with_caron</string>
+      <string>G_with_breve</string>
+      <string>G_with_dotabove</string>
+      <string>G_with_macron</string>
+      <string>G_with_commabelow</string>
+      <string>G_with_dotabove.ss02</string>
+      <string>G_with_commabelow.ss02</string>
       <string>O_with_acute</string>
       <string>O_with_grave</string>
       <string>O_with_circumflex</string>
@@ -224,6 +477,14 @@
       <string>O_with_horn_and_tildeabove</string>
       <string>O_with_horn_and_hook</string>
       <string>O_with_horn_and_dotbelow</string>
+      <string>O_with_dotabove.ss02</string>
+      <string>O_with_diaeresis.ss02</string>
+      <string>O_with_dotbelow.ss02</string>
+      <string>O_with_circumflex_and_dotbelow.ss02</string>
+      <string>O_with_dotabove.ss02_and_macron</string>
+      <string>O_with_tildeabove_and_diaeresis.ss02</string>
+      <string>O_with_diaeresis.ss02_and_macron</string>
+      <string>O_with_horn_and_dotbelow.ss02</string>
       <string>D_with_caron</string>
       <string>D_with_dotabove</string>
       <string>D_with_stroke</string>
@@ -231,22 +492,29 @@
       <string>D_with_circumflexbelow</string>
       <string>D_with_dotbelow</string>
       <string>D_with_macronbelow</string>
-      <string>G_with_acute</string>
-      <string>G_with_circumflex</string>
-      <string>G_with_caron</string>
-      <string>G_with_breve</string>
-      <string>G_with_dotabove</string>
-      <string>G_with_macron</string>
-      <string>G_with_commabelow</string>
+      <string>D_with_commabelow.ss02</string>
+      <string>D_with_dotabove.ss02</string>
+      <string>D_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.P</key>
     <array>
       <string>P</string>
+      <string>P.ss01</string>
       <string>peso</string>
-      <string>peseta</string>
       <string>ruble</string>
       <string>P_with_acute</string>
       <string>P_with_dotabove</string>
+      <string>P_with_dotabove.ss02</string>
+      <string>P.ss01_with_acute</string>
+      <string>P.ss01_with_dotabove</string>
+      <string>P.ss01_with_dotabove.ss02</string>
+    </array>
+    <key>public.kern1.P.smcp</key>
+    <array>
+      <string>P.smcp</string>
+      <string>P.smcp_with_dotabove.ss02</string>
+      <string>P.smcp_with_acute</string>
+      <string>P.smcp_with_dotabove</string>
     </array>
     <key>public.kern1.PI</key>
     <array>
@@ -257,7 +525,21 @@
     <key>public.kern1.R</key>
     <array>
       <string>R</string>
+      <string>R.ss01</string>
       <string>rupee</string>
+      <string>R.ss01_with_acute</string>
+      <string>R.ss01_with_caron</string>
+      <string>R.ss01_with_breveinv</string>
+      <string>R.ss01_with_dotabove</string>
+      <string>R.ss01_with_gravedbl</string>
+      <string>R.ss01_with_commabelow</string>
+      <string>R.ss01_with_dotbelow</string>
+      <string>R.ss01_with_macronbelow</string>
+      <string>R.ss01_with_dotbelow_and_macron</string>
+      <string>R.ss01_with_dotabove.ss02</string>
+      <string>R.ss01_with_commabelow.ss02</string>
+      <string>R.ss01_with_dotbelow.ss02</string>
+      <string>R.ss01_with_dotbelow.ss02_and_macron</string>
       <string>R_with_acute</string>
       <string>R_with_caron</string>
       <string>R_with_breveinv</string>
@@ -267,10 +549,32 @@
       <string>R_with_dotbelow</string>
       <string>R_with_macronbelow</string>
       <string>R_with_dotbelow_and_macron</string>
+      <string>R_with_dotabove.ss02</string>
+      <string>R_with_commabelow.ss02</string>
+      <string>R_with_dotbelow.ss02</string>
+      <string>R_with_dotbelow.ss02_and_macron</string>
+    </array>
+    <key>public.kern1.R.smcp</key>
+    <array>
+      <string>R.smcp</string>
+      <string>R.smcp_with_dotabove.ss02</string>
+      <string>R.smcp_with_commabelow.ss02</string>
+      <string>R.smcp_with_dotbelow.ss02</string>
+      <string>R.smcp_with_dotbelow.ss02_and_macron</string>
+      <string>R.smcp_with_acute</string>
+      <string>R.smcp_with_caron</string>
+      <string>R.smcp_with_breveinv</string>
+      <string>R.smcp_with_dotabove</string>
+      <string>R.smcp_with_gravedbl</string>
+      <string>R.smcp_with_commabelow</string>
+      <string>R.smcp_with_dotbelow</string>
+      <string>R.smcp_with_macronbelow</string>
+      <string>R.smcp_with_dotbelow_and_macron</string>
     </array>
     <key>public.kern1.S</key>
     <array>
       <string>S</string>
+      <string>S.ss01</string>
       <string>dollar</string>
       <string>S_with_acute</string>
       <string>S_with_circumflex</string>
@@ -282,6 +586,48 @@
       <string>S_with_acute_and_dotabove</string>
       <string>S_with_caron_and_dotabove</string>
       <string>S_with_dotbelow_and_dotabove</string>
+      <string>S_with_dotabove.ss02</string>
+      <string>S_with_commabelow.ss02</string>
+      <string>S_with_dotbelow.ss02</string>
+      <string>S_with_acute_and_dotabove.ss02</string>
+      <string>S_with_caron_and_dotabove.ss02</string>
+      <string>S_with_dotbelow.ss02_and_dotabove.ss02</string>
+      <string>S.ss01_with_acute</string>
+      <string>S.ss01_with_circumflex</string>
+      <string>S.ss01_with_caron</string>
+      <string>S.ss01_with_dotabove</string>
+      <string>S.ss01_with_cedilla</string>
+      <string>S.ss01_with_commabelow</string>
+      <string>S.ss01_with_dotbelow</string>
+      <string>S.ss01_with_acute_and_dotabove</string>
+      <string>S.ss01_with_caron_and_dotabove</string>
+      <string>S.ss01_with_dotbelow_and_dotabove</string>
+      <string>S.ss01_with_dotabove.ss02</string>
+      <string>S.ss01_with_commabelow.ss02</string>
+      <string>S.ss01_with_dotbelow.ss02</string>
+      <string>S.ss01_with_acute_and_dotabove.ss02</string>
+      <string>S.ss01_with_caron_and_dotabove.ss02</string>
+      <string>S.ss01_with_dotbelow.ss02_and_dotabove.ss02</string>
+    </array>
+    <key>public.kern1.S.smcp</key>
+    <array>
+      <string>S.smcp</string>
+      <string>S.smcp_with_dotabove.ss02</string>
+      <string>S.smcp_with_commabelow.ss02</string>
+      <string>S.smcp_with_dotbelow.ss02</string>
+      <string>S.smcp_with_acute_and_dotabove.ss02</string>
+      <string>S.smcp_with_caron_and_dotabove.ss02</string>
+      <string>S.smcp_with_dotbelow.ss02_and_dotabove.ss02</string>
+      <string>S.smcp_with_acute</string>
+      <string>S.smcp_with_circumflex</string>
+      <string>S.smcp_with_caron</string>
+      <string>S.smcp_with_dotabove</string>
+      <string>S.smcp_with_cedilla</string>
+      <string>S.smcp_with_commabelow</string>
+      <string>S.smcp_with_dotbelow</string>
+      <string>S.smcp_with_acute_and_dotabove</string>
+      <string>S.smcp_with_caron_and_dotabove</string>
+      <string>S.smcp_with_dotbelow_and_dotabove</string>
     </array>
     <key>public.kern1.SIGMA</key>
     <array>
@@ -291,6 +637,18 @@
     <key>public.kern1.T</key>
     <array>
       <string>T</string>
+      <string>T.ss01</string>
+      <string>T.ss01_with_caron</string>
+      <string>T.ss01_with_dotabove</string>
+      <string>T.ss01_with_cedilla</string>
+      <string>T.ss01_with_stroke</string>
+      <string>T.ss01_with_commabelow</string>
+      <string>T.ss01_with_circumflexbelow</string>
+      <string>T.ss01_with_dotbelow</string>
+      <string>T.ss01_with_macronbelow</string>
+      <string>T.ss01_with_dotabove.ss02</string>
+      <string>T.ss01_with_commabelow.ss02</string>
+      <string>T.ss01_with_dotbelow.ss02</string>
       <string>T_with_caron</string>
       <string>T_with_dotabove</string>
       <string>T_with_cedilla</string>
@@ -299,10 +657,68 @@
       <string>T_with_circumflexbelow</string>
       <string>T_with_dotbelow</string>
       <string>T_with_macronbelow</string>
+      <string>T_with_dotabove.ss02</string>
+      <string>T_with_commabelow.ss02</string>
+      <string>T_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.T.smcp</key>
+    <array>
+      <string>T.smcp</string>
+      <string>T.smcp_with_dotabove.ss02</string>
+      <string>T.smcp_with_commabelow.ss02</string>
+      <string>T.smcp_with_dotbelow.ss02</string>
+      <string>T.smcp_with_caron</string>
+      <string>T.smcp_with_dotabove</string>
+      <string>T.smcp_with_cedilla</string>
+      <string>T.smcp_with_stroke</string>
+      <string>T.smcp_with_commabelow</string>
+      <string>T.smcp_with_circumflexbelow</string>
+      <string>T.smcp_with_dotbelow</string>
+      <string>T.smcp_with_macronbelow</string>
     </array>
     <key>public.kern1.U</key>
     <array>
       <string>U</string>
+      <string>U.ss01</string>
+      <string>U.ss01_with_acute</string>
+      <string>U.ss01_with_grave</string>
+      <string>U.ss01_with_circumflex</string>
+      <string>U.ss01_with_caron</string>
+      <string>U.ss01_with_breve</string>
+      <string>U.ss01_with_breveinv</string>
+      <string>U.ss01_with_ring</string>
+      <string>U.ss01_with_macron</string>
+      <string>U.ss01_with_tildeabove</string>
+      <string>U.ss01_with_hook</string>
+      <string>U.ss01_with_diaeresis</string>
+      <string>U.ss01_with_acutedbl</string>
+      <string>U.ss01_with_gravedbl</string>
+      <string>U.ss01_with_ogonek</string>
+      <string>U.ss01_with_horn</string>
+      <string>U.ss01_with_circumflexbelow</string>
+      <string>U.ss01_with_dotbelow</string>
+      <string>U.ss01_with_tildebelow</string>
+      <string>U.ss01_with_diaeresisbelow</string>
+      <string>U.ss01_with_macron_and_diaeresis</string>
+      <string>U.ss01_with_tildeabove_and_acute</string>
+      <string>U.ss01_with_diaeresis_and_acute</string>
+      <string>U.ss01_with_diaeresis_and_grave</string>
+      <string>U.ss01_with_diaeresis_and_caron</string>
+      <string>U.ss01_with_diaeresis_and_macron</string>
+      <string>U.ss01_with_horn_and_acute</string>
+      <string>U.ss01_with_horn_and_grave</string>
+      <string>U.ss01_with_horn_and_tildeabove</string>
+      <string>U.ss01_with_horn_and_hook</string>
+      <string>U.ss01_with_horn_and_dotbelow</string>
+      <string>U.ss01_with_diaeresis.ss02</string>
+      <string>U.ss01_with_dotbelow.ss02</string>
+      <string>U.ss01_with_diaeresisbelow.ss02</string>
+      <string>U.ss01_with_macron_and_diaeresis.ss02</string>
+      <string>U.ss01_with_diaeresis.ss02_and_acute</string>
+      <string>U.ss01_with_diaeresis.ss02_and_grave</string>
+      <string>U.ss01_with_diaeresis.ss02_and_caron</string>
+      <string>U.ss01_with_diaeresis.ss02_and_macron</string>
+      <string>U.ss01_with_horn_and_dotbelow.ss02</string>
       <string>U_with_acute</string>
       <string>U_with_grave</string>
       <string>U_with_circumflex</string>
@@ -317,7 +733,6 @@
       <string>U_with_acutedbl</string>
       <string>U_with_gravedbl</string>
       <string>U_with_ogonek</string>
-      <string>U_with_horn</string>
       <string>U_with_circumflexbelow</string>
       <string>U_with_dotbelow</string>
       <string>U_with_tildebelow</string>
@@ -328,6 +743,62 @@
       <string>U_with_diaeresis_and_grave</string>
       <string>U_with_diaeresis_and_caron</string>
       <string>U_with_diaeresis_and_macron</string>
+      <string>U_with_diaeresis.ss02</string>
+      <string>U_with_dotbelow.ss02</string>
+      <string>U_with_diaeresisbelow.ss02</string>
+      <string>U_with_macron_and_diaeresis.ss02</string>
+      <string>U_with_diaeresis.ss02_and_acute</string>
+      <string>U_with_diaeresis.ss02_and_grave</string>
+      <string>U_with_diaeresis.ss02_and_caron</string>
+      <string>U_with_diaeresis.ss02_and_macron</string>
+      <string>U_with_horn_and_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.U.smcp</key>
+    <array>
+      <string>U.smcp</string>
+      <string>U.smcp_with_diaeresis.ss02</string>
+      <string>U.smcp_with_dotbelow.ss02</string>
+      <string>U.smcp_with_diaeresisbelow.ss02</string>
+      <string>U.smcp_with_macron_and_diaeresis.ss02</string>
+      <string>U.smcp_with_diaeresis.ss02_and_acute</string>
+      <string>U.smcp_with_diaeresis.ss02_and_grave</string>
+      <string>U.smcp_with_diaeresis.ss02_and_caron</string>
+      <string>U.smcp_with_diaeresis.ss02_and_macron</string>
+      <string>U.smcp_with_horn_and_dotbelow.ss02</string>
+      <string>U.smcp_with_acute</string>
+      <string>U.smcp_with_grave</string>
+      <string>U.smcp_with_circumflex</string>
+      <string>U.smcp_with_caron</string>
+      <string>U.smcp_with_breve</string>
+      <string>U.smcp_with_breveinv</string>
+      <string>U.smcp_with_ring</string>
+      <string>U.smcp_with_macron</string>
+      <string>U.smcp_with_tildeabove</string>
+      <string>U.smcp_with_hook</string>
+      <string>U.smcp_with_diaeresis</string>
+      <string>U.smcp_with_acutedbl</string>
+      <string>U.smcp_with_gravedbl</string>
+      <string>U.smcp_with_ogonek</string>
+      <string>U.smcp_with_horn</string>
+      <string>U.smcp_with_circumflexbelow</string>
+      <string>U.smcp_with_dotbelow</string>
+      <string>U.smcp_with_tildebelow</string>
+      <string>U.smcp_with_diaeresisbelow</string>
+      <string>U.smcp_with_macron_and_diaeresis</string>
+      <string>U.smcp_with_tildeabove_and_acute</string>
+      <string>U.smcp_with_diaeresis_and_acute</string>
+      <string>U.smcp_with_diaeresis_and_grave</string>
+      <string>U.smcp_with_diaeresis_and_caron</string>
+      <string>U.smcp_with_diaeresis_and_macron</string>
+      <string>U.smcp_with_horn_and_acute</string>
+      <string>U.smcp_with_horn_and_grave</string>
+      <string>U.smcp_with_horn_and_tildeabove</string>
+      <string>U.smcp_with_horn_and_hook</string>
+      <string>U.smcp_with_horn_and_dotbelow</string>
+    </array>
+    <key>public.kern1.Uhorn</key>
+    <array>
+      <string>U_with_horn</string>
       <string>U_with_horn_and_acute</string>
       <string>U_with_horn_and_grave</string>
       <string>U_with_horn_and_tildeabove</string>
@@ -339,6 +810,14 @@
       <string>V</string>
       <string>V_with_tildeabove</string>
       <string>V_with_dotbelow</string>
+      <string>V_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.V.smcp</key>
+    <array>
+      <string>V.smcp</string>
+      <string>V.smcp_with_dotbelow.ss02</string>
+      <string>V.smcp_with_tildeabove</string>
+      <string>V.smcp_with_dotbelow</string>
     </array>
     <key>public.kern1.W</key>
     <array>
@@ -350,16 +829,60 @@
       <string>W_with_dotabove</string>
       <string>W_with_diaeresis</string>
       <string>W_with_dotbelow</string>
+      <string>W_with_dotabove.ss02</string>
+      <string>W_with_diaeresis.ss02</string>
+      <string>W_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.W.smcp</key>
+    <array>
+      <string>W.smcp</string>
+      <string>W.smcp_with_dotabove.ss02</string>
+      <string>W.smcp_with_diaeresis.ss02</string>
+      <string>W.smcp_with_dotbelow.ss02</string>
+      <string>W.smcp_with_acute</string>
+      <string>W.smcp_with_grave</string>
+      <string>W.smcp_with_circumflex</string>
+      <string>W.smcp_with_dotabove</string>
+      <string>W.smcp_with_diaeresis</string>
+      <string>W.smcp_with_dotbelow</string>
     </array>
     <key>public.kern1.X</key>
     <array>
       <string>X</string>
+      <string>X.ss01</string>
       <string>X_with_dotabove</string>
       <string>X_with_diaeresis</string>
+      <string>X_with_dotabove.ss02</string>
+      <string>X_with_diaeresis.ss02</string>
+      <string>X.ss01_with_dotabove</string>
+      <string>X.ss01_with_diaeresis</string>
+      <string>X.ss01_with_dotabove.ss02</string>
+      <string>X.ss01_with_diaeresis.ss02</string>
+    </array>
+    <key>public.kern1.X.smcp</key>
+    <array>
+      <string>X.smcp</string>
+      <string>X.smcp_with_dotabove.ss02</string>
+      <string>X.smcp_with_diaeresis.ss02</string>
+      <string>X.smcp_with_dotabove</string>
+      <string>X.smcp_with_diaeresis</string>
     </array>
     <key>public.kern1.Y</key>
     <array>
       <string>Y</string>
+      <string>Y.ss01</string>
+      <string>Y.ss01_with_acute</string>
+      <string>Y.ss01_with_grave</string>
+      <string>Y.ss01_with_circumflex</string>
+      <string>Y.ss01_with_dotabove</string>
+      <string>Y.ss01_with_macron</string>
+      <string>Y.ss01_with_tildeabove</string>
+      <string>Y.ss01_with_hook</string>
+      <string>Y.ss01_with_diaeresis</string>
+      <string>Y.ss01_with_dotbelow</string>
+      <string>Y.ss01_with_dotabove.ss02</string>
+      <string>Y.ss01_with_diaeresis.ss02</string>
+      <string>Y.ss01_with_dotbelow.ss02</string>
       <string>Y_with_acute</string>
       <string>Y_with_grave</string>
       <string>Y_with_circumflex</string>
@@ -369,10 +892,30 @@
       <string>Y_with_hook</string>
       <string>Y_with_diaeresis</string>
       <string>Y_with_dotbelow</string>
+      <string>Y_with_dotabove.ss02</string>
+      <string>Y_with_diaeresis.ss02</string>
+      <string>Y_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.Y.smcp</key>
+    <array>
+      <string>Y.smcp</string>
+      <string>Y.smcp_with_dotabove.ss02</string>
+      <string>Y.smcp_with_diaeresis.ss02</string>
+      <string>Y.smcp_with_dotbelow.ss02</string>
+      <string>Y.smcp_with_acute</string>
+      <string>Y.smcp_with_grave</string>
+      <string>Y.smcp_with_circumflex</string>
+      <string>Y.smcp_with_dotabove</string>
+      <string>Y.smcp_with_macron</string>
+      <string>Y.smcp_with_tildeabove</string>
+      <string>Y.smcp_with_hook</string>
+      <string>Y.smcp_with_diaeresis</string>
+      <string>Y.smcp_with_dotbelow</string>
     </array>
     <key>public.kern1.Z</key>
     <array>
       <string>Z</string>
+      <string>Z.ss01</string>
       <string>Z_with_acute</string>
       <string>Z_with_circumflex</string>
       <string>Z_with_caron</string>
@@ -380,44 +923,134 @@
       <string>Z_with_stroke</string>
       <string>Z_with_dotbelow</string>
       <string>Z_with_macronbelow</string>
+      <string>Z_with_dotabove.ss02</string>
+      <string>Z_with_dotbelow.ss02</string>
+      <string>Z.ss01_with_acute</string>
+      <string>Z.ss01_with_circumflex</string>
+      <string>Z.ss01_with_caron</string>
+      <string>Z.ss01_with_dotabove</string>
+      <string>Z.ss01_with_stroke</string>
+      <string>Z.ss01_with_dotbelow</string>
+      <string>Z.ss01_with_macronbelow</string>
+      <string>Z.ss01_with_dotabove.ss02</string>
+      <string>Z.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.Z.smcp</key>
+    <array>
+      <string>Z.smcp</string>
+      <string>Z.smcp_with_dotabove.ss02</string>
+      <string>Z.smcp_with_dotbelow.ss02</string>
+      <string>Z.smcp_with_acute</string>
+      <string>Z.smcp_with_circumflex</string>
+      <string>Z.smcp_with_caron</string>
+      <string>Z.smcp_with_dotabove</string>
+      <string>Z.smcp_with_stroke</string>
+      <string>Z.smcp_with_dotbelow</string>
+      <string>Z.smcp_with_macronbelow</string>
     </array>
     <key>public.kern1.a</key>
     <array>
       <string>a</string>
       <string>g</string>
-      <string>u</string>
       <string>q</string>
+      <string>u</string>
       <string>lower_i_dotless</string>
-      <string>u_with_acute</string>
-      <string>u_with_grave</string>
-      <string>u_with_circumflex</string>
-      <string>u_with_caron</string>
-      <string>u_with_breve</string>
-      <string>u_with_breveinv</string>
-      <string>u_with_ring</string>
-      <string>u_with_macron</string>
-      <string>u_with_tildeabove</string>
-      <string>u_with_hook</string>
-      <string>u_with_diaeresis</string>
-      <string>u_with_acutedbl</string>
-      <string>u_with_gravedbl</string>
-      <string>u_with_ogonek</string>
-      <string>u_with_horn</string>
-      <string>u_with_circumflexbelow</string>
-      <string>u_with_dotbelow</string>
-      <string>u_with_tildebelow</string>
-      <string>u_with_diaeresisbelow</string>
-      <string>u_with_macron_and_diaeresis</string>
-      <string>u_with_tildeabove_and_acute</string>
-      <string>u_with_diaeresis_and_acute</string>
-      <string>u_with_diaeresis_and_grave</string>
-      <string>u_with_diaeresis_and_caron</string>
-      <string>u_with_diaeresis_and_macron</string>
-      <string>u_with_horn_and_acute</string>
-      <string>u_with_horn_and_grave</string>
-      <string>u_with_horn_and_tildeabove</string>
-      <string>u_with_horn_and_hook</string>
-      <string>u_with_horn_and_dotbelow</string>
+      <string>a.ss03</string>
+      <string>g.ss03</string>
+      <string>q.ss03</string>
+      <string>u.ss03</string>
+      <string>y.ss04</string>
+      <string>y.ss03.ss04</string>
+      <string>H.smcp</string>
+      <string>I.smcp</string>
+      <string>M.smcp</string>
+      <string>N.smcp</string>
+      <string>ENG.smcp</string>
+      <string>M.ss01.smcp</string>
+      <string>a.ss03_with_acute</string>
+      <string>a.ss03_with_grave</string>
+      <string>a.ss03_with_circumflex</string>
+      <string>a.ss03_with_caron</string>
+      <string>a.ss03_with_breve</string>
+      <string>a.ss03_with_breveinv</string>
+      <string>a.ss03_with_ring</string>
+      <string>a.ss03_with_dotabove</string>
+      <string>a.ss03_with_macron</string>
+      <string>a.ss03_with_tildeabove</string>
+      <string>a.ss03_with_hook</string>
+      <string>a.ss03_with_diaeresis</string>
+      <string>a.ss03_with_gravedbl</string>
+      <string>a.ss03_with_ogonek</string>
+      <string>a.ss03_with_ringbelow</string>
+      <string>a.ss03_with_dotbelow</string>
+      <string>a.ss03_with_circumflex_and_acute</string>
+      <string>a.ss03_with_circumflex_and_grave</string>
+      <string>a.ss03_with_circumflex_and_tildeabove</string>
+      <string>a.ss03_with_circumflex_and_hook</string>
+      <string>a.ss03_with_circumflex_and_dotbelow</string>
+      <string>a.ss03_with_breve_and_acute</string>
+      <string>a.ss03_with_breve_and_grave</string>
+      <string>a.ss03_with_breve_and_tildeabove</string>
+      <string>a.ss03_with_breve_and_hook</string>
+      <string>a.ss03_with_breve_and_dotbelow</string>
+      <string>a.ss03_with_ring_and_acute</string>
+      <string>a.ss03_with_dotabove_and_macron</string>
+      <string>a.ss03_with_diaeresis_and_macron</string>
+      <string>a.ss03_with_dotabove.ss02</string>
+      <string>a.ss03_with_diaeresis.ss02</string>
+      <string>a.ss03_with_dotbelow.ss02</string>
+      <string>a.ss03_with_circumflex_and_dotbelow.ss02</string>
+      <string>a.ss03_with_breve_and_dotbelow.ss02</string>
+      <string>a.ss03_with_dotabove.ss02_and_macron</string>
+      <string>a.ss03_with_diaeresis.ss02_and_macron</string>
+      <string>g.ss03_with_acute</string>
+      <string>g.ss03_with_circumflex</string>
+      <string>g.ss03_with_caron</string>
+      <string>g.ss03_with_breve</string>
+      <string>g.ss03_with_dotabove</string>
+      <string>g.ss03_with_macron</string>
+      <string>g.ss03_with_commabelow</string>
+      <string>g.ss03_with_dotabove.ss02</string>
+      <string>g.ss03_with_commabelow.ss02</string>
+      <string>u.ss03_with_acute</string>
+      <string>u.ss03_with_grave</string>
+      <string>u.ss03_with_circumflex</string>
+      <string>u.ss03_with_caron</string>
+      <string>u.ss03_with_breve</string>
+      <string>u.ss03_with_breveinv</string>
+      <string>u.ss03_with_ring</string>
+      <string>u.ss03_with_macron</string>
+      <string>u.ss03_with_tildeabove</string>
+      <string>u.ss03_with_hook</string>
+      <string>u.ss03_with_diaeresis</string>
+      <string>u.ss03_with_acutedbl</string>
+      <string>u.ss03_with_gravedbl</string>
+      <string>u.ss03_with_ogonek</string>
+      <string>u.ss03_with_horn</string>
+      <string>u.ss03_with_circumflexbelow</string>
+      <string>u.ss03_with_dotbelow</string>
+      <string>u.ss03_with_tildebelow</string>
+      <string>u.ss03_with_diaeresisbelow</string>
+      <string>u.ss03_with_macron_and_diaeresis</string>
+      <string>u.ss03_with_tildeabove_and_acute</string>
+      <string>u.ss03_with_diaeresis_and_acute</string>
+      <string>u.ss03_with_diaeresis_and_grave</string>
+      <string>u.ss03_with_diaeresis_and_caron</string>
+      <string>u.ss03_with_diaeresis_and_macron</string>
+      <string>u.ss03_with_horn_and_acute</string>
+      <string>u.ss03_with_horn_and_grave</string>
+      <string>u.ss03_with_horn_and_tildeabove</string>
+      <string>u.ss03_with_horn_and_hook</string>
+      <string>u.ss03_with_horn_and_dotbelow</string>
+      <string>u.ss03_with_diaeresis.ss02</string>
+      <string>u.ss03_with_dotbelow.ss02</string>
+      <string>u.ss03_with_diaeresisbelow.ss02</string>
+      <string>u.ss03_with_macron_and_diaeresis.ss02</string>
+      <string>u.ss03_with_diaeresis.ss02_and_acute</string>
+      <string>u.ss03_with_diaeresis.ss02_and_grave</string>
+      <string>u.ss03_with_diaeresis.ss02_and_caron</string>
+      <string>u.ss03_with_diaeresis.ss02_and_macron</string>
+      <string>u.ss03_with_horn_and_dotbelow.ss02</string>
       <string>g_with_acute</string>
       <string>g_with_circumflex</string>
       <string>g_with_caron</string>
@@ -425,6 +1058,8 @@
       <string>g_with_dotabove</string>
       <string>g_with_macron</string>
       <string>g_with_commabelow</string>
+      <string>g_with_dotabove.ss02</string>
+      <string>g_with_commabelow.ss02</string>
       <string>a_with_acute</string>
       <string>a_with_grave</string>
       <string>a_with_circumflex</string>
@@ -454,11 +1089,107 @@
       <string>a_with_ring_and_acute</string>
       <string>a_with_dotabove_and_macron</string>
       <string>a_with_diaeresis_and_macron</string>
+      <string>a_with_dotabove.ss02</string>
+      <string>a_with_diaeresis.ss02</string>
+      <string>a_with_dotbelow.ss02</string>
+      <string>a_with_circumflex_and_dotbelow.ss02</string>
+      <string>a_with_breve_and_dotbelow.ss02</string>
+      <string>a_with_dotabove.ss02_and_macron</string>
+      <string>a_with_diaeresis.ss02_and_macron</string>
+      <string>u_with_acute</string>
+      <string>u_with_grave</string>
+      <string>u_with_circumflex</string>
+      <string>u_with_caron</string>
+      <string>u_with_breve</string>
+      <string>u_with_breveinv</string>
+      <string>u_with_ring</string>
+      <string>u_with_macron</string>
+      <string>u_with_tildeabove</string>
+      <string>u_with_hook</string>
+      <string>u_with_diaeresis</string>
+      <string>u_with_acutedbl</string>
+      <string>u_with_gravedbl</string>
+      <string>u_with_ogonek</string>
+      <string>u_with_circumflexbelow</string>
+      <string>u_with_dotbelow</string>
+      <string>u_with_tildebelow</string>
+      <string>u_with_diaeresisbelow</string>
+      <string>u_with_macron_and_diaeresis</string>
+      <string>u_with_tildeabove_and_acute</string>
+      <string>u_with_diaeresis_and_acute</string>
+      <string>u_with_diaeresis_and_grave</string>
+      <string>u_with_diaeresis_and_caron</string>
+      <string>u_with_diaeresis_and_macron</string>
+      <string>u_with_diaeresis.ss02</string>
+      <string>u_with_dotbelow.ss02</string>
+      <string>u_with_diaeresisbelow.ss02</string>
+      <string>u_with_macron_and_diaeresis.ss02</string>
+      <string>u_with_diaeresis.ss02_and_acute</string>
+      <string>u_with_diaeresis.ss02_and_grave</string>
+      <string>u_with_diaeresis.ss02_and_caron</string>
+      <string>u_with_diaeresis.ss02_and_macron</string>
+      <string>u_with_horn_and_dotbelow.ss02</string>
+      <string>H.smcp_with_dotabove.ss02</string>
+      <string>H.smcp_with_diaeresis.ss02</string>
+      <string>H.smcp_with_dotbelow.ss02</string>
+      <string>I.smcp_with_dotabove.ss02</string>
+      <string>I.smcp_with_diaeresis.ss02</string>
+      <string>I.smcp_with_dotbelow.ss02</string>
+      <string>M.smcp_with_dotabove.ss02</string>
+      <string>M.smcp_with_dotbelow.ss02</string>
+      <string>N.smcp_with_dotabove.ss02</string>
+      <string>N.smcp_with_commabelow.ss02</string>
+      <string>N.smcp_with_dotbelow.ss02</string>
+      <string>I.smcp_with_diaeresis.ss02_and_acute</string>
+      <string>M.ss01.smcp_with_dotabove.ss02</string>
+      <string>M.ss01.smcp_with_dotbelow.ss02</string>
+      <string>H.smcp_with_circumflex</string>
+      <string>H.smcp_with_caron</string>
+      <string>H.smcp_with_dotabove</string>
+      <string>H.smcp_with_diaeresis</string>
+      <string>H.smcp_with_cedilla</string>
+      <string>H.smcp_with_stroke</string>
+      <string>H.smcp_with_dotbelow</string>
+      <string>I.smcp_with_acute</string>
+      <string>I.smcp_with_grave</string>
+      <string>I.smcp_with_circumflex</string>
+      <string>I.smcp_with_caron</string>
+      <string>I.smcp_with_breve</string>
+      <string>I.smcp_with_breveinv</string>
+      <string>I.smcp_with_dotabove</string>
+      <string>I.smcp_with_macron</string>
+      <string>I.smcp_with_tildeabove</string>
+      <string>I.smcp_with_hook</string>
+      <string>I.smcp_with_diaeresis</string>
+      <string>I.smcp_with_gravedbl</string>
+      <string>I.smcp_with_ogonek</string>
+      <string>I.smcp_with_stroke</string>
+      <string>I.smcp_with_dotbelow</string>
+      <string>I.smcp_with_tildebelow</string>
+      <string>M.smcp_with_acute</string>
+      <string>M.smcp_with_dotabove</string>
+      <string>M.smcp_with_dotbelow</string>
+      <string>N.smcp_with_acute</string>
+      <string>N.smcp_with_grave</string>
+      <string>N.smcp_with_caron</string>
+      <string>N.smcp_with_dotabove</string>
+      <string>N.smcp_with_tildeabove</string>
+      <string>N.smcp_with_hookleft</string>
+      <string>N.smcp_with_commabelow</string>
+      <string>N.smcp_with_circumflexbelow</string>
+      <string>N.smcp_with_dotbelow</string>
+      <string>N.smcp_with_macronbelow</string>
+      <string>I.smcp_with_diaeresis_and_acute</string>
+      <string>M.ss01.smcp_with_acute</string>
+      <string>M.ss01.smcp_with_dotabove</string>
+      <string>M.ss01.smcp_with_dotbelow</string>
     </array>
     <key>public.kern1.apostrophe</key>
     <array>
       <string>apostrophe</string>
       <string>turnedcomma</string>
+      <string>apostrophe.ss02</string>
+      <string>turnedcomma.ss02</string>
     </array>
     <key>public.kern1.asterisk</key>
     <array>
@@ -484,31 +1215,76 @@
     <array>
       <string>colon</string>
       <string>semicolon</string>
+      <string>colon.ss02</string>
+      <string>semicolon.ss02</string>
     </array>
     <key>public.kern1.d</key>
     <array>
       <string>d</string>
+      <string>l</string>
+      <string>d.ss03</string>
+      <string>d.ss03_with_caron</string>
+      <string>d.ss03_with_dotabove</string>
+      <string>d.ss03_with_stroke</string>
+      <string>d.ss03_with_commabelow</string>
+      <string>d.ss03_with_circumflexbelow</string>
+      <string>d.ss03_with_dotbelow</string>
+      <string>d.ss03_with_macronbelow</string>
+      <string>d.ss03_with_dotabove.ss02</string>
+      <string>d.ss03_with_commabelow.ss02</string>
+      <string>d.ss03_with_dotbelow.ss02</string>
+      <string>l_with_acute</string>
+      <string>l_with_stroke</string>
+      <string>l_with_dotmiddle</string>
+      <string>l_with_commabelow</string>
+      <string>l_with_circumflexbelow</string>
+      <string>l_with_dotbelow</string>
+      <string>l_with_macronbelow</string>
+      <string>l_with_dotbelow_and_macron</string>
+      <string>l_with_dotmiddle.ss02</string>
+      <string>l_with_commabelow.ss02</string>
+      <string>l_with_dotbelow.ss02</string>
+      <string>l_with_dotbelow.ss02_and_macron</string>
       <string>d_with_dotabove</string>
       <string>d_with_stroke</string>
       <string>d_with_commabelow</string>
       <string>d_with_circumflexbelow</string>
       <string>d_with_dotbelow</string>
       <string>d_with_macronbelow</string>
+      <string>d_with_dotabove.ss02</string>
+      <string>d_with_commabelow.ss02</string>
+      <string>d_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.diesis</key>
     <array>
       <string>diesis</string>
       <string>dagger</string>
     </array>
+    <key>public.kern1.eight</key>
+    <array>
+      <string>eight</string>
+      <string>eight.ss01</string>
+    </array>
     <key>public.kern1.eszett</key>
     <array>
       <string>eszett</string>
       <string>ESZETT</string>
     </array>
+    <key>public.kern1.eszett.smcp</key>
+    <array>
+      <string>ESZETT.smcp</string>
+    </array>
+    <key>public.kern1.exclamation</key>
+    <array>
+      <string>exclamation</string>
+      <string>exclamation.ss02</string>
+    </array>
     <key>public.kern1.f</key>
     <array>
       <string>f</string>
       <string>f_with_dotabove</string>
+      <string>f_with_hookleft</string>
+      <string>f_with_dotabove.ss02</string>
     </array>
     <key>public.kern1.greater</key>
     <array>
@@ -523,9 +1299,43 @@
       <string>h</string>
       <string>m</string>
       <string>n</string>
+      <string>h.ss03</string>
+      <string>m.ss03</string>
+      <string>n.ss03</string>
+      <string>h.ss03_with_circumflex</string>
+      <string>h.ss03_with_caron</string>
+      <string>h.ss03_with_dotabove</string>
+      <string>h.ss03_with_diaeresis</string>
+      <string>h.ss03_with_cedilla</string>
+      <string>h.ss03_with_stroke</string>
+      <string>h.ss03_with_dotbelow</string>
+      <string>h.ss03_with_macronbelow</string>
+      <string>h.ss03_with_dotabove.ss02</string>
+      <string>h.ss03_with_diaeresis.ss02</string>
+      <string>h.ss03_with_dotbelow.ss02</string>
       <string>m_with_acute</string>
       <string>m_with_dotabove</string>
       <string>m_with_dotbelow</string>
+      <string>m_with_dotabove.ss02</string>
+      <string>m_with_dotbelow.ss02</string>
+      <string>m.ss03_with_acute</string>
+      <string>m.ss03_with_dotabove</string>
+      <string>m.ss03_with_dotbelow</string>
+      <string>m.ss03_with_dotabove.ss02</string>
+      <string>m.ss03_with_dotbelow.ss02</string>
+      <string>n.ss03_with_acute</string>
+      <string>n.ss03_with_grave</string>
+      <string>n.ss03_with_caron</string>
+      <string>n.ss03_with_dotabove</string>
+      <string>n.ss03_with_tildeabove</string>
+      <string>n.ss03_with_hookleft</string>
+      <string>n.ss03_with_commabelow</string>
+      <string>n.ss03_with_circumflexbelow</string>
+      <string>n.ss03_with_dotbelow</string>
+      <string>n.ss03_with_macronbelow</string>
+      <string>n.ss03_with_dotabove.ss02</string>
+      <string>n.ss03_with_commabelow.ss02</string>
+      <string>n.ss03_with_dotbelow.ss02</string>
       <string>h_with_circumflex</string>
       <string>h_with_caron</string>
       <string>h_with_dotabove</string>
@@ -534,6 +1344,9 @@
       <string>h_with_stroke</string>
       <string>h_with_dotbelow</string>
       <string>h_with_macronbelow</string>
+      <string>h_with_dotabove.ss02</string>
+      <string>h_with_diaeresis.ss02</string>
+      <string>h_with_dotbelow.ss02</string>
       <string>n_with_acute</string>
       <string>n_with_grave</string>
       <string>n_with_caron</string>
@@ -544,6 +1357,9 @@
       <string>n_with_circumflexbelow</string>
       <string>n_with_dotbelow</string>
       <string>n_with_macronbelow</string>
+      <string>n_with_dotabove.ss02</string>
+      <string>n_with_commabelow.ss02</string>
+      <string>n_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.hyphen</key>
     <array>
@@ -562,11 +1378,17 @@
       <string>interpunct</string>
       <string>bullet</string>
       <string>plusminus</string>
+      <string>interpunct.ss02</string>
+      <string>bullet.ss02</string>
+      <string>divide.ss02</string>
     </array>
     <key>public.kern1.i</key>
     <array>
       <string>i</string>
       <string>j</string>
+      <string>j_with_circumflex</string>
+      <string>j_with_caron</string>
+      <string>j_with_acute</string>
       <string>i_with_acute</string>
       <string>i_with_grave</string>
       <string>i_with_circumflex</string>
@@ -579,34 +1401,51 @@
       <string>i_with_diaeresis</string>
       <string>i_with_gravedbl</string>
       <string>i_with_ogonek</string>
+      <string>i_with_stroke</string>
       <string>i_with_dotbelow</string>
       <string>i_with_tildebelow</string>
       <string>i_with_diaeresis_and_acute</string>
-      <string>j_with_circumflex</string>
-      <string>j_with_caron</string>
-      <string>j_with_acute</string>
+      <string>i_with_diaeresis.ss02</string>
+      <string>i_with_diaeresis.ss02_and_acute</string>
+    </array>
+    <key>public.kern1.i.ss02</key>
+    <array>
+      <string>i.ss02</string>
+      <string>i.ss02_with_ogonek</string>
+      <string>i.ss02_with_stroke</string>
+      <string>i.ss02_with_dotbelow.ss02</string>
+      <string>i.ss02_with_tildebelow</string>
+    </array>
+    <key>public.kern1.inv_exclamation</key>
+    <array>
+      <string>inv_exclamation</string>
+      <string>inv_exclamation.ss02</string>
+    </array>
+    <key>public.kern1.inv_question</key>
+    <array>
+      <string>inv_question</string>
+      <string>inv_question.ss02</string>
     </array>
     <key>public.kern1.k</key>
     <array>
       <string>k</string>
       <string>kra</string>
+      <string>k.ss01</string>
+      <string>kra.ss01</string>
       <string>k_with_acute</string>
       <string>k_with_caron</string>
       <string>k_with_commabelow</string>
       <string>k_with_dotbelow</string>
       <string>k_with_macronbelow</string>
-    </array>
-    <key>public.kern1.l</key>
-    <array>
-      <string>l</string>
-      <string>l_with_acute</string>
-      <string>l_with_stroke</string>
-      <string>l_with_dotmiddle</string>
-      <string>l_with_commabelow</string>
-      <string>l_with_circumflexbelow</string>
-      <string>l_with_dotbelow</string>
-      <string>l_with_macronbelow</string>
-      <string>l_with_dotbelow_and_macron</string>
+      <string>k_with_commabelow.ss02</string>
+      <string>k_with_dotbelow.ss02</string>
+      <string>k.ss01_with_acute</string>
+      <string>k.ss01_with_caron</string>
+      <string>k.ss01_with_commabelow</string>
+      <string>k.ss01_with_dotbelow</string>
+      <string>k.ss01_with_macronbelow</string>
+      <string>k.ss01_with_commabelow.ss02</string>
+      <string>k.ss01_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.less</key>
     <array>
@@ -624,11 +1463,46 @@
       <string>p</string>
       <string>ae</string>
       <string>oe</string>
+      <string>db</string>
+      <string>qp</string>
       <string>eth</string>
       <string>thorn</string>
       <string>schwa</string>
+      <string>b.ss03</string>
+      <string>e.ss03</string>
+      <string>p.ss03</string>
+      <string>ae.ss03</string>
+      <string>db.ss03</string>
+      <string>qp.ss03</string>
+      <string>eth.ss03</string>
+      <string>thorn.ss03</string>
+      <string>schwa.ss03</string>
+      <string>C.smcp</string>
+      <string>D.smcp</string>
+      <string>G.smcp</string>
+      <string>O.smcp</string>
+      <string>ETH.smcp</string>
+      <string>SCHWA.smcp</string>
       <string>p_with_acute</string>
       <string>p_with_dotabove</string>
+      <string>p_with_dotabove.ss02</string>
+      <string>b_with_dotabove</string>
+      <string>b_with_dotbelow</string>
+      <string>b_with_macronbelow</string>
+      <string>b_with_dotabove.ss02</string>
+      <string>b_with_dotbelow.ss02</string>
+      <string>p.ss03_with_acute</string>
+      <string>p.ss03_with_dotabove</string>
+      <string>p.ss03_with_dotabove.ss02</string>
+      <string>ae_with_acute</string>
+      <string>ae_with_macron</string>
+      <string>c_with_acute</string>
+      <string>c_with_circumflex</string>
+      <string>c_with_caron</string>
+      <string>c_with_dotabove</string>
+      <string>c_with_cedilla</string>
+      <string>c_with_cedilla_and_acute</string>
+      <string>c_with_dotabove.ss02</string>
       <string>e_with_acute</string>
       <string>e_with_grave</string>
       <string>e_with_circumflex</string>
@@ -654,17 +1528,12 @@
       <string>e_with_macron_and_acute</string>
       <string>e_with_macron_and_grave</string>
       <string>e_with_cedilla_and_breve</string>
-      <string>c_with_acute</string>
-      <string>c_with_circumflex</string>
-      <string>c_with_caron</string>
-      <string>c_with_dotabove</string>
-      <string>c_with_cedilla</string>
-      <string>c_with_cedilla_and_acute</string>
-      <string>ae_with_acute</string>
-      <string>ae_with_macron</string>
-      <string>b_with_dotabove</string>
-      <string>b_with_dotbelow</string>
-      <string>b_with_macronbelow</string>
+      <string>e_with_dotabove.ss02</string>
+      <string>e_with_diaeresis.ss02</string>
+      <string>e_with_dotbelow.ss02</string>
+      <string>e_with_circumflex_and_dotbelow.ss02</string>
+      <string>ae.ss03_with_acute</string>
+      <string>ae.ss03_with_macron</string>
       <string>o_with_acute</string>
       <string>o_with_grave</string>
       <string>o_with_circumflex</string>
@@ -701,6 +1570,123 @@
       <string>o_with_horn_and_tildeabove</string>
       <string>o_with_horn_and_hook</string>
       <string>o_with_horn_and_dotbelow</string>
+      <string>o_with_dotabove.ss02</string>
+      <string>o_with_diaeresis.ss02</string>
+      <string>o_with_dotbelow.ss02</string>
+      <string>o_with_circumflex_and_dotbelow.ss02</string>
+      <string>o_with_dotabove.ss02_and_macron</string>
+      <string>o_with_tildeabove_and_diaeresis.ss02</string>
+      <string>o_with_diaeresis.ss02_and_macron</string>
+      <string>o_with_horn_and_dotbelow.ss02</string>
+      <string>e.ss03_with_acute</string>
+      <string>e.ss03_with_grave</string>
+      <string>e.ss03_with_circumflex</string>
+      <string>e.ss03_with_caron</string>
+      <string>e.ss03_with_breve</string>
+      <string>e.ss03_with_breveinv</string>
+      <string>e.ss03_with_dotabove</string>
+      <string>e.ss03_with_macron</string>
+      <string>e.ss03_with_tildeabove</string>
+      <string>e.ss03_with_hook</string>
+      <string>e.ss03_with_diaeresis</string>
+      <string>e.ss03_with_gravedbl</string>
+      <string>e.ss03_with_cedilla</string>
+      <string>e.ss03_with_ogonek</string>
+      <string>e.ss03_with_circumflexbelow</string>
+      <string>e.ss03_with_dotbelow</string>
+      <string>e.ss03_with_tildebelow</string>
+      <string>e.ss03_with_circumflex_and_acute</string>
+      <string>e.ss03_with_circumflex_and_grave</string>
+      <string>e.ss03_with_circumflex_and_tildeabove</string>
+      <string>e.ss03_with_circumflex_and_hook</string>
+      <string>e.ss03_with_circumflex_and_dotbelow</string>
+      <string>e.ss03_with_macron_and_acute</string>
+      <string>e.ss03_with_macron_and_grave</string>
+      <string>e.ss03_with_cedilla_and_breve</string>
+      <string>e.ss03_with_dotabove.ss02</string>
+      <string>e.ss03_with_diaeresis.ss02</string>
+      <string>e.ss03_with_dotbelow.ss02</string>
+      <string>e.ss03_with_circumflex_and_dotbelow.ss02</string>
+      <string>b.ss03_with_dotabove</string>
+      <string>b.ss03_with_dotbelow</string>
+      <string>b.ss03_with_macronbelow</string>
+      <string>b.ss03_with_dotabove.ss02</string>
+      <string>b.ss03_with_dotbelow.ss02</string>
+      <string>C.smcp_with_dotabove.ss02</string>
+      <string>D.smcp_with_dotabove.ss02</string>
+      <string>D.smcp_with_commabelow.ss02</string>
+      <string>D.smcp_with_dotbelow.ss02</string>
+      <string>G.smcp_with_dotabove.ss02</string>
+      <string>G.smcp_with_commabelow.ss02</string>
+      <string>O.smcp_with_dotabove.ss02</string>
+      <string>O.smcp_with_diaeresis.ss02</string>
+      <string>O.smcp_with_dotbelow.ss02</string>
+      <string>O.smcp_with_circumflex_and_dotbelow.ss02</string>
+      <string>O.smcp_with_dotabove.ss02_and_macron</string>
+      <string>O.smcp_with_tildeabove_and_diaeresis.ss02</string>
+      <string>O.smcp_with_diaeresis.ss02_and_macron</string>
+      <string>O.smcp_with_horn_and_dotbelow.ss02</string>
+      <string>C.smcp_with_acute</string>
+      <string>C.smcp_with_circumflex</string>
+      <string>C.smcp_with_caron</string>
+      <string>C.smcp_with_dotabove</string>
+      <string>C.smcp_with_cedilla</string>
+      <string>D.smcp_with_caron</string>
+      <string>D.smcp_with_dotabove</string>
+      <string>D.smcp_with_stroke</string>
+      <string>D.smcp_with_commabelow</string>
+      <string>D.smcp_with_circumflexbelow</string>
+      <string>D.smcp_with_dotbelow</string>
+      <string>D.smcp_with_macronbelow</string>
+      <string>G.smcp_with_acute</string>
+      <string>G.smcp_with_circumflex</string>
+      <string>G.smcp_with_caron</string>
+      <string>G.smcp_with_breve</string>
+      <string>G.smcp_with_dotabove</string>
+      <string>G.smcp_with_macron</string>
+      <string>G.smcp_with_commabelow</string>
+      <string>O.smcp_with_acute</string>
+      <string>O.smcp_with_grave</string>
+      <string>O.smcp_with_circumflex</string>
+      <string>O.smcp_with_caron</string>
+      <string>O.smcp_with_breve</string>
+      <string>O.smcp_with_breveinv</string>
+      <string>O.smcp_with_dotabove</string>
+      <string>O.smcp_with_macron</string>
+      <string>O.smcp_with_tildeabove</string>
+      <string>O.smcp_with_hook</string>
+      <string>O.smcp_with_diaeresis</string>
+      <string>O.smcp_with_acutedbl</string>
+      <string>O.smcp_with_gravedbl</string>
+      <string>O.smcp_with_ogonek</string>
+      <string>O.smcp_with_stroke</string>
+      <string>O.smcp_with_horn</string>
+      <string>O.smcp_with_dotbelow</string>
+      <string>C.smcp_with_cedilla_and_acute</string>
+      <string>O.smcp_with_circumflex_and_acute</string>
+      <string>O.smcp_with_circumflex_and_grave</string>
+      <string>O.smcp_with_circumflex_and_tildeabove</string>
+      <string>O.smcp_with_circumflex_and_hook</string>
+      <string>O.smcp_with_circumflex_and_dotbelow</string>
+      <string>O.smcp_with_dotabove_and_macron</string>
+      <string>O.smcp_with_macron_and_acute</string>
+      <string>O.smcp_with_macron_and_grave</string>
+      <string>O.smcp_with_tildeabove_and_acute</string>
+      <string>O.smcp_with_tildeabove_and_macron</string>
+      <string>O.smcp_with_tildeabove_and_diaeresis</string>
+      <string>O.smcp_with_diaeresis_and_macron</string>
+      <string>O.smcp_with_ogonek_and_macron</string>
+      <string>O.smcp_with_stroke_and_acute</string>
+      <string>O.smcp_with_horn_and_acute</string>
+      <string>O.smcp_with_horn_and_grave</string>
+      <string>O.smcp_with_horn_and_tildeabove</string>
+      <string>O.smcp_with_horn_and_hook</string>
+      <string>O.smcp_with_horn_and_dotbelow</string>
+    </array>
+    <key>public.kern1.one</key>
+    <array>
+      <string>one</string>
+      <string>one.ss01</string>
     </array>
     <key>public.kern1.percent</key>
     <array>
@@ -714,26 +1700,41 @@
       <string>ellipsis</string>
       <string>quotelow9</string>
       <string>quotelow9_dbl</string>
+      <string>period.ss02</string>
+      <string>comma.ss02</string>
+      <string>ellipsis.ss02</string>
+      <string>quotelow9.ss02</string>
+      <string>quotelow9_dbl.ss02</string>
     </array>
     <key>public.kern1.pound</key>
     <array>
       <string>pound</string>
       <string>lira</string>
     </array>
+    <key>public.kern1.question</key>
+    <array>
+      <string>question</string>
+      <string>question.ss02</string>
+    </array>
     <key>public.kern1.quotesingle</key>
     <array>
-      <string>quotesingle</string>
-      <string>quotedbl</string>
+      <string>quote</string>
+      <string>quote_dbl</string>
       <string>quoteleft</string>
       <string>quoteright</string>
-      <string>quotedblleft</string>
-      <string>quotedblright</string>
+      <string>quoteleft_dbl</string>
+      <string>quoteright_dbl</string>
       <string>d_with_caron</string>
       <string>l_with_caron</string>
+      <string>quoteleft.ss02</string>
+      <string>quoteright.ss02</string>
+      <string>quoteleft_dbl.ss02</string>
+      <string>quoteright_dbl.ss02</string>
     </array>
     <key>public.kern1.r</key>
     <array>
       <string>r</string>
+      <string>r.ss03</string>
       <string>r_with_acute</string>
       <string>r_with_caron</string>
       <string>r_with_breveinv</string>
@@ -743,10 +1744,28 @@
       <string>r_with_dotbelow</string>
       <string>r_with_macronbelow</string>
       <string>r_with_dotbelow_and_macron</string>
+      <string>r_with_dotabove.ss02</string>
+      <string>r_with_commabelow.ss02</string>
+      <string>r_with_dotbelow.ss02</string>
+      <string>r_with_dotbelow.ss02_and_macron</string>
+      <string>r.ss03_with_acute</string>
+      <string>r.ss03_with_caron</string>
+      <string>r.ss03_with_breveinv</string>
+      <string>r.ss03_with_dotabove</string>
+      <string>r.ss03_with_gravedbl</string>
+      <string>r.ss03_with_commabelow</string>
+      <string>r.ss03_with_dotbelow</string>
+      <string>r.ss03_with_macronbelow</string>
+      <string>r.ss03_with_dotbelow_and_macron</string>
+      <string>r.ss03_with_dotabove.ss02</string>
+      <string>r.ss03_with_commabelow.ss02</string>
+      <string>r.ss03_with_dotbelow.ss02</string>
+      <string>r.ss03_with_dotbelow.ss02_and_macron</string>
     </array>
     <key>public.kern1.s</key>
     <array>
       <string>s</string>
+      <string>s.ss01</string>
       <string>s_with_acute</string>
       <string>s_with_circumflex</string>
       <string>s_with_caron</string>
@@ -757,10 +1776,35 @@
       <string>s_with_acute_and_dotabove</string>
       <string>s_with_caron_and_dotabove</string>
       <string>s_with_dotbelow_and_dotabove</string>
+      <string>s_with_dotabove.ss02</string>
+      <string>s_with_commabelow.ss02</string>
+      <string>s_with_dotbelow.ss02</string>
+      <string>s_with_acute_and_dotabove.ss02</string>
+      <string>s_with_caron_and_dotabove.ss02</string>
+      <string>s_with_dotbelow.ss02_and_dotabove.ss02</string>
+      <string>s.ss01_with_acute</string>
+      <string>s.ss01_with_circumflex</string>
+      <string>s.ss01_with_caron</string>
+      <string>s.ss01_with_dotabove</string>
+      <string>s.ss01_with_cedilla</string>
+      <string>s.ss01_with_commabelow</string>
+      <string>s.ss01_with_dotbelow</string>
+      <string>s.ss01_with_acute_and_dotabove</string>
+      <string>s.ss01_with_caron_and_dotabove</string>
+      <string>s.ss01_with_dotbelow_and_dotabove</string>
+      <string>s.ss01_with_dotabove.ss02</string>
+      <string>s.ss01_with_commabelow.ss02</string>
+      <string>s.ss01_with_dotbelow.ss02</string>
+      <string>s.ss01_with_acute_and_dotabove.ss02</string>
+      <string>s.ss01_with_caron_and_dotabove.ss02</string>
+      <string>s.ss01_with_dotbelow.ss02_and_dotabove.ss02</string>
     </array>
     <key>public.kern1.t</key>
     <array>
       <string>t</string>
+      <string>t.ss01</string>
+      <string>peseta</string>
+      <string>peseta.ss01</string>
       <string>t_with_caron</string>
       <string>t_with_dotabove</string>
       <string>t_with_diaeresis</string>
@@ -770,11 +1814,43 @@
       <string>t_with_circumflexbelow</string>
       <string>t_with_dotbelow</string>
       <string>t_with_macronbelow</string>
+      <string>t_with_dotabove.ss02</string>
+      <string>t_with_commabelow.ss02</string>
+      <string>t_with_dotbelow.ss02</string>
+      <string>t.ss01_with_caron</string>
+      <string>t.ss01_with_dotabove</string>
+      <string>t.ss01_with_diaeresis</string>
+      <string>t.ss01_with_cedilla</string>
+      <string>t.ss01_with_stroke</string>
+      <string>t.ss01_with_commabelow</string>
+      <string>t.ss01_with_circumflexbelow</string>
+      <string>t.ss01_with_dotbelow</string>
+      <string>t.ss01_with_macronbelow</string>
+      <string>t.ss01_with_dotabove.ss02</string>
+      <string>t.ss01_with_commabelow.ss02</string>
+      <string>t.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern1.three</key>
+    <array>
+      <string>three</string>
+      <string>three.ss01</string>
+    </array>
+    <key>public.kern1.uhorn</key>
+    <array>
+      <string>u_with_horn</string>
+      <string>u_with_horn_and_acute</string>
+      <string>u_with_horn_and_grave</string>
+      <string>u_with_horn_and_tildeabove</string>
+      <string>u_with_horn_and_hook</string>
+      <string>u_with_horn_and_dotbelow</string>
     </array>
     <key>public.kern1.v</key>
     <array>
       <string>v</string>
       <string>y</string>
+      <string>v_with_tildeabove</string>
+      <string>v_with_dotbelow</string>
+      <string>v_with_dotbelow.ss02</string>
       <string>y_with_acute</string>
       <string>y_with_grave</string>
       <string>y_with_circumflex</string>
@@ -785,8 +1861,9 @@
       <string>y_with_hook</string>
       <string>y_with_diaeresis</string>
       <string>y_with_dotbelow</string>
-      <string>v_with_tildeabove</string>
-      <string>v_with_dotbelow</string>
+      <string>y_with_dotabove.ss02</string>
+      <string>y_with_diaeresis.ss02</string>
+      <string>y_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.w</key>
     <array>
@@ -798,16 +1875,22 @@
       <string>w_with_dotabove</string>
       <string>w_with_diaeresis</string>
       <string>w_with_dotbelow</string>
+      <string>w_with_dotabove.ss02</string>
+      <string>w_with_diaeresis.ss02</string>
+      <string>w_with_dotbelow.ss02</string>
     </array>
     <key>public.kern1.x</key>
     <array>
       <string>x</string>
       <string>x_with_dotabove</string>
       <string>x_with_diaeresis</string>
+      <string>x_with_dotabove.ss02</string>
+      <string>x_with_diaeresis.ss02</string>
     </array>
     <key>public.kern1.z</key>
     <array>
       <string>z</string>
+      <string>z.ss01</string>
       <string>z_with_acute</string>
       <string>z_with_circumflex</string>
       <string>z_with_caron</string>
@@ -815,11 +1898,23 @@
       <string>z_with_stroke</string>
       <string>z_with_dotbelow</string>
       <string>z_with_macronbelow</string>
+      <string>z_with_dotabove.ss02</string>
+      <string>z_with_dotbelow.ss02</string>
+      <string>z.ss01_with_acute</string>
+      <string>z.ss01_with_circumflex</string>
+      <string>z.ss01_with_caron</string>
+      <string>z.ss01_with_dotabove</string>
+      <string>z.ss01_with_stroke</string>
+      <string>z.ss01_with_dotbelow</string>
+      <string>z.ss01_with_macronbelow</string>
+      <string>z.ss01_with_dotabove.ss02</string>
+      <string>z.ss01_with_dotbelow.ss02</string>
     </array>
     <key>public.kern2.A</key>
     <array>
       <string>A</string>
       <string>increment</string>
+      <string>AE</string>
       <string>A_with_acute</string>
       <string>A_with_grave</string>
       <string>A_with_circumflex</string>
@@ -849,23 +1944,170 @@
       <string>A_with_ring_and_acute</string>
       <string>A_with_dotabove_and_macron</string>
       <string>A_with_diaeresis_and_macron</string>
-    </array>
-    <key>public.kern2.AE</key>
-    <array>
-      <string>AE</string>
+      <string>A_with_dotabove.ss02</string>
+      <string>A_with_diaeresis.ss02</string>
+      <string>A_with_dotbelow.ss02</string>
+      <string>A_with_circumflex_and_dotbelow.ss02</string>
+      <string>A_with_breve_and_dotbelow.ss02</string>
+      <string>A_with_dotabove.ss02_and_macron</string>
+      <string>A_with_diaeresis.ss02_and_macron</string>
       <string>AE_with_acute</string>
       <string>AE_with_macron</string>
     </array>
-    <key>public.kern2.B</key>
+    <key>public.kern2.A.smcp</key>
+    <array>
+      <string>A.smcp</string>
+      <string>AE.smcp</string>
+      <string>A.smcp_with_diaeresis.ss02</string>
+      <string>A.smcp_with_dotbelow.ss02</string>
+      <string>A.smcp_with_circumflex_and_dotbelow.ss02</string>
+      <string>A.smcp_with_breve_and_dotbelow.ss02</string>
+      <string>A.smcp_with_dotabove.ss02_and_macron</string>
+      <string>A.smcp_with_diaeresis.ss02_and_macron</string>
+      <string>A.smcp_with_acute</string>
+      <string>A.smcp_with_grave</string>
+      <string>A.smcp_with_circumflex</string>
+      <string>A.smcp_with_caron</string>
+      <string>A.smcp_with_breve</string>
+      <string>A.smcp_with_breveinv</string>
+      <string>A.smcp_with_ring</string>
+      <string>A.smcp_with_dotabove</string>
+      <string>A.smcp_with_macron</string>
+      <string>A.smcp_with_tildeabove</string>
+      <string>A.smcp_with_hook</string>
+      <string>A.smcp_with_diaeresis</string>
+      <string>A.smcp_with_gravedbl</string>
+      <string>A.smcp_with_ogonek</string>
+      <string>A.smcp_with_ringbelow</string>
+      <string>A.smcp_with_dotbelow</string>
+      <string>AE.smcp_with_acute</string>
+      <string>AE.smcp_with_macron</string>
+      <string>A.smcp_with_circumflex_and_acute</string>
+      <string>A.smcp_with_circumflex_and_grave</string>
+      <string>A.smcp_with_circumflex_and_tildeabove</string>
+      <string>A.smcp_with_circumflex_and_hook</string>
+      <string>A.smcp_with_circumflex_and_dotbelow</string>
+      <string>A.smcp_with_breve_and_acute</string>
+      <string>A.smcp_with_breve_and_grave</string>
+      <string>A.smcp_with_breve_and_tildeabove</string>
+      <string>A.smcp_with_breve_and_hook</string>
+      <string>A.smcp_with_breve_and_dotbelow</string>
+      <string>A.smcp_with_ring_and_acute</string>
+      <string>A.smcp_with_dotabove_and_macron</string>
+      <string>A.smcp_with_diaeresis_and_macron</string>
+    </array>
+    <key>public.kern2.B.ss01</key>
+    <array>
+      <string>B.ss01</string>
+      <string>B.ss01_with_dotabove</string>
+      <string>B.ss01_with_dotbelow</string>
+      <string>B.ss01_with_macronbelow</string>
+      <string>B.ss01_with_dotabove.ss02</string>
+      <string>B.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.E.ss01</key>
+    <array>
+      <string>E.ss01</string>
+      <string>E.ss01_with_acute</string>
+      <string>E.ss01_with_grave</string>
+      <string>E.ss01_with_circumflex</string>
+      <string>E.ss01_with_caron</string>
+      <string>E.ss01_with_breve</string>
+      <string>E.ss01_with_breveinv</string>
+      <string>E.ss01_with_dotabove</string>
+      <string>E.ss01_with_macron</string>
+      <string>E.ss01_with_tildeabove</string>
+      <string>E.ss01_with_hook</string>
+      <string>E.ss01_with_diaeresis</string>
+      <string>E.ss01_with_gravedbl</string>
+      <string>E.ss01_with_cedilla</string>
+      <string>E.ss01_with_ogonek</string>
+      <string>E.ss01_with_circumflexbelow</string>
+      <string>E.ss01_with_dotbelow</string>
+      <string>E.ss01_with_tildebelow</string>
+      <string>E.ss01_with_circumflex_and_acute</string>
+      <string>E.ss01_with_circumflex_and_grave</string>
+      <string>E.ss01_with_circumflex_and_tildeabove</string>
+      <string>E.ss01_with_circumflex_and_hook</string>
+      <string>E.ss01_with_circumflex_and_dotbelow</string>
+      <string>E.ss01_with_macron_and_acute</string>
+      <string>E.ss01_with_macron_and_grave</string>
+      <string>E.ss01_with_cedilla_and_breve</string>
+      <string>E.ss01_with_dotabove.ss02</string>
+      <string>E.ss01_with_diaeresis.ss02</string>
+      <string>E.ss01_with_dotbelow.ss02</string>
+      <string>E.ss01_with_circumflex_and_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.F.ss01</key>
+    <array>
+      <string>F.ss01</string>
+      <string>F.ss01_with_dotabove</string>
+      <string>F.ss01_with_hookleft</string>
+      <string>F.ss01_with_dotabove.ss02</string>
+    </array>
+    <key>public.kern2.H</key>
     <array>
       <string>B</string>
+      <string>D</string>
+      <string>E</string>
+      <string>F</string>
+      <string>H</string>
+      <string>I</string>
+      <string>K</string>
+      <string>L</string>
+      <string>M</string>
+      <string>N</string>
+      <string>P</string>
+      <string>R</string>
+      <string>THORN</string>
+      <string>ENG</string>
+      <string>ETH</string>
       <string>B_with_dotabove</string>
       <string>B_with_dotbelow</string>
       <string>B_with_macronbelow</string>
-    </array>
-    <key>public.kern2.D</key>
-    <array>
-      <string>D</string>
+      <string>B_with_dotabove.ss02</string>
+      <string>B_with_dotbelow.ss02</string>
+      <string>F_with_dotabove</string>
+      <string>F_with_hookleft</string>
+      <string>F_with_dotabove.ss02</string>
+      <string>M_with_acute</string>
+      <string>M_with_dotabove</string>
+      <string>M_with_dotbelow</string>
+      <string>M_with_dotabove.ss02</string>
+      <string>M_with_dotbelow.ss02</string>
+      <string>K_with_acute</string>
+      <string>K_with_caron</string>
+      <string>K_with_commabelow</string>
+      <string>K_with_dotbelow</string>
+      <string>K_with_macronbelow</string>
+      <string>K_with_commabelow.ss02</string>
+      <string>K_with_dotbelow.ss02</string>
+      <string>P_with_acute</string>
+      <string>P_with_dotabove</string>
+      <string>P_with_dotabove.ss02</string>
+      <string>H_with_circumflex</string>
+      <string>H_with_caron</string>
+      <string>H_with_dotabove</string>
+      <string>H_with_diaeresis</string>
+      <string>H_with_cedilla</string>
+      <string>H_with_stroke</string>
+      <string>H_with_dotbelow</string>
+      <string>H_with_dotabove.ss02</string>
+      <string>H_with_diaeresis.ss02</string>
+      <string>H_with_dotbelow.ss02</string>
+      <string>N_with_acute</string>
+      <string>N_with_grave</string>
+      <string>N_with_caron</string>
+      <string>N_with_dotabove</string>
+      <string>N_with_tildeabove</string>
+      <string>N_with_hookleft</string>
+      <string>N_with_commabelow</string>
+      <string>N_with_circumflexbelow</string>
+      <string>N_with_dotbelow</string>
+      <string>N_with_macronbelow</string>
+      <string>N_with_dotabove.ss02</string>
+      <string>N_with_commabelow.ss02</string>
+      <string>N_with_dotbelow.ss02</string>
       <string>D_with_caron</string>
       <string>D_with_dotabove</string>
       <string>D_with_stroke</string>
@@ -873,10 +2115,9 @@
       <string>D_with_circumflexbelow</string>
       <string>D_with_dotbelow</string>
       <string>D_with_macronbelow</string>
-    </array>
-    <key>public.kern2.E</key>
-    <array>
-      <string>E</string>
+      <string>D_with_commabelow.ss02</string>
+      <string>D_with_dotabove.ss02</string>
+      <string>D_with_dotbelow.ss02</string>
       <string>E_with_acute</string>
       <string>E_with_grave</string>
       <string>E_with_circumflex</string>
@@ -902,27 +2143,36 @@
       <string>E_with_macron_and_acute</string>
       <string>E_with_macron_and_grave</string>
       <string>E_with_cedilla_and_breve</string>
-    </array>
-    <key>public.kern2.F</key>
-    <array>
-      <string>F</string>
-      <string>F_with_dotabove</string>
-      <string>F_with_hookleft</string>
-    </array>
-    <key>public.kern2.H</key>
-    <array>
-      <string>H</string>
-      <string>H_with_circumflex</string>
-      <string>H_with_caron</string>
-      <string>H_with_dotabove</string>
-      <string>H_with_diaeresis</string>
-      <string>H_with_cedilla</string>
-      <string>H_with_stroke</string>
-      <string>H_with_dotbelow</string>
-    </array>
-    <key>public.kern2.I</key>
-    <array>
-      <string>I</string>
+      <string>E_with_dotabove.ss02</string>
+      <string>E_with_diaeresis.ss02</string>
+      <string>E_with_dotbelow.ss02</string>
+      <string>E_with_circumflex_and_dotbelow.ss02</string>
+      <string>R_with_acute</string>
+      <string>R_with_caron</string>
+      <string>R_with_breveinv</string>
+      <string>R_with_dotabove</string>
+      <string>R_with_gravedbl</string>
+      <string>R_with_commabelow</string>
+      <string>R_with_dotbelow</string>
+      <string>R_with_macronbelow</string>
+      <string>R_with_dotbelow_and_macron</string>
+      <string>R_with_dotabove.ss02</string>
+      <string>R_with_commabelow.ss02</string>
+      <string>R_with_dotbelow.ss02</string>
+      <string>R_with_dotbelow.ss02_and_macron</string>
+      <string>L_with_acute</string>
+      <string>L_with_caron</string>
+      <string>L_with_stroke</string>
+      <string>L_with_dotmiddle</string>
+      <string>L_with_commabelow</string>
+      <string>L_with_circumflexbelow</string>
+      <string>L_with_dotbelow</string>
+      <string>L_with_macronbelow</string>
+      <string>L_with_dotbelow_and_macron</string>
+      <string>L_with_dotmiddle.ss02</string>
+      <string>L_with_commabelow.ss02</string>
+      <string>L_with_dotbelow.ss02</string>
+      <string>L_with_dotbelow.ss02_and_macron</string>
       <string>I_with_acute</string>
       <string>I_with_grave</string>
       <string>I_with_circumflex</string>
@@ -940,6 +2190,28 @@
       <string>I_with_dotbelow</string>
       <string>I_with_tildebelow</string>
       <string>I_with_diaeresis_and_acute</string>
+      <string>I_with_dotabove.ss02</string>
+      <string>I_with_diaeresis.ss02</string>
+      <string>I_with_dotbelow.ss02</string>
+      <string>I_with_diaeresis.ss02_and_acute</string>
+    </array>
+    <key>public.kern2.H.smcp</key>
+    <array>
+      <string>ETH.smcp</string>
+    </array>
+    <key>public.kern2.H.ss01</key>
+    <array>
+      <string>H.ss01</string>
+      <string>H.ss01_with_circumflex</string>
+      <string>H.ss01_with_caron</string>
+      <string>H.ss01_with_dotabove</string>
+      <string>H.ss01_with_diaeresis</string>
+      <string>H.ss01_with_cedilla</string>
+      <string>H.ss01_with_stroke</string>
+      <string>H.ss01_with_dotbelow</string>
+      <string>H.ss01_with_dotabove.ss02</string>
+      <string>H.ss01_with_diaeresis.ss02</string>
+      <string>H.ss01_with_dotbelow.ss02</string>
     </array>
     <key>public.kern2.J</key>
     <array>
@@ -947,48 +2219,47 @@
       <string>J_with_circumflex</string>
       <string>J_with_acute</string>
     </array>
-    <key>public.kern2.K</key>
+    <key>public.kern2.J.smcp</key>
     <array>
-      <string>K</string>
-      <string>K_with_acute</string>
-      <string>K_with_caron</string>
-      <string>K_with_commabelow</string>
-      <string>K_with_dotbelow</string>
-      <string>K_with_macronbelow</string>
+      <string>J.smcp</string>
+      <string>J.smcp_with_circumflex</string>
     </array>
-    <key>public.kern2.L</key>
+    <key>public.kern2.K.ss01</key>
     <array>
-      <string>L</string>
-      <string>L_with_acute</string>
-      <string>L_with_caron</string>
-      <string>L_with_stroke</string>
-      <string>L_with_dotmiddle</string>
-      <string>L_with_commabelow</string>
-      <string>L_with_circumflexbelow</string>
-      <string>L_with_dotbelow</string>
-      <string>L_with_macronbelow</string>
-      <string>L_with_dotbelow_and_macron</string>
+      <string>K.ss01</string>
+      <string>K.ss01_with_acute</string>
+      <string>K.ss01_with_caron</string>
+      <string>K.ss01_with_commabelow</string>
+      <string>K.ss01_with_dotbelow</string>
+      <string>K.ss01_with_macronbelow</string>
+      <string>K.ss01_with_commabelow.ss02</string>
+      <string>K.ss01_with_dotbelow.ss02</string>
     </array>
-    <key>public.kern2.M</key>
+    <key>public.kern2.L.ss01</key>
     <array>
-      <string>M</string>
-      <string>M_with_acute</string>
-      <string>M_with_dotabove</string>
-      <string>M_with_dotbelow</string>
+      <string>L.ss01</string>
+      <string>L.ss01_with_acute</string>
+      <string>L.ss01_with_caron</string>
+      <string>L.ss01_with_stroke</string>
+      <string>L.ss01_with_dotmiddle</string>
+      <string>L.ss01_with_commabelow</string>
+      <string>L.ss01_with_circumflexbelow</string>
+      <string>L.ss01_with_dotbelow</string>
+      <string>L.ss01_with_macronbelow</string>
+      <string>L.ss01_with_dotbelow_and_macron</string>
+      <string>L.ss01_with_dotmiddle.ss02</string>
+      <string>L.ss01_with_commabelow.ss02</string>
+      <string>L.ss01_with_dotbelow.ss02</string>
+      <string>L.ss01_with_dotbelow.ss02_and_macron</string>
     </array>
-    <key>public.kern2.N</key>
+    <key>public.kern2.M.ss01</key>
     <array>
-      <string>N</string>
-      <string>N_with_acute</string>
-      <string>N_with_grave</string>
-      <string>N_with_caron</string>
-      <string>N_with_dotabove</string>
-      <string>N_with_tildeabove</string>
-      <string>N_with_hookleft</string>
-      <string>N_with_commabelow</string>
-      <string>N_with_circumflexbelow</string>
-      <string>N_with_dotbelow</string>
-      <string>N_with_macronbelow</string>
+      <string>M.ss01</string>
+      <string>M.ss01_with_acute</string>
+      <string>M.ss01_with_dotabove</string>
+      <string>M.ss01_with_dotbelow</string>
+      <string>M.ss01_with_dotabove.ss02</string>
+      <string>M.ss01_with_dotbelow.ss02</string>
     </array>
     <key>public.kern2.O</key>
     <array>
@@ -1004,6 +2275,22 @@
       <string>cedi</string>
       <string>colon_sign</string>
       <string>guarani</string>
+      <string>G_with_acute</string>
+      <string>G_with_circumflex</string>
+      <string>G_with_caron</string>
+      <string>G_with_breve</string>
+      <string>G_with_dotabove</string>
+      <string>G_with_macron</string>
+      <string>G_with_commabelow</string>
+      <string>G_with_dotabove.ss02</string>
+      <string>G_with_commabelow.ss02</string>
+      <string>C_with_acute</string>
+      <string>C_with_circumflex</string>
+      <string>C_with_caron</string>
+      <string>C_with_dotabove</string>
+      <string>C_with_cedilla</string>
+      <string>C_with_cedilla_and_acute</string>
+      <string>C_with_dotabove.ss02</string>
       <string>O_with_acute</string>
       <string>O_with_grave</string>
       <string>O_with_circumflex</string>
@@ -1040,47 +2327,48 @@
       <string>O_with_horn_and_tildeabove</string>
       <string>O_with_horn_and_hook</string>
       <string>O_with_horn_and_dotbelow</string>
-      <string>G_with_acute</string>
-      <string>G_with_circumflex</string>
-      <string>G_with_caron</string>
-      <string>G_with_breve</string>
-      <string>G_with_dotabove</string>
-      <string>G_with_macron</string>
-      <string>G_with_commabelow</string>
-      <string>C_with_acute</string>
-      <string>C_with_circumflex</string>
-      <string>C_with_caron</string>
-      <string>C_with_dotabove</string>
-      <string>C_with_cedilla</string>
-      <string>C_with_cedilla_and_acute</string>
+      <string>O_with_dotabove.ss02</string>
+      <string>O_with_diaeresis.ss02</string>
+      <string>O_with_dotbelow.ss02</string>
+      <string>O_with_circumflex_and_dotbelow.ss02</string>
+      <string>O_with_dotabove.ss02_and_macron</string>
+      <string>O_with_tildeabove_and_diaeresis.ss02</string>
+      <string>O_with_diaeresis.ss02_and_macron</string>
+      <string>O_with_horn_and_dotbelow.ss02</string>
     </array>
-    <key>public.kern2.P</key>
+    <key>public.kern2.P.ss01</key>
     <array>
-      <string>P</string>
-      <string>P_with_acute</string>
-      <string>P_with_dotabove</string>
+      <string>P.ss01</string>
+      <string>P.ss01_with_acute</string>
+      <string>P.ss01_with_dotabove</string>
+      <string>P.ss01_with_dotabove.ss02</string>
     </array>
     <key>public.kern2.PI</key>
     <array>
       <string>PI</string>
       <string>nary_product</string>
     </array>
-    <key>public.kern2.R</key>
+    <key>public.kern2.R.ss01</key>
     <array>
-      <string>R</string>
-      <string>R_with_acute</string>
-      <string>R_with_caron</string>
-      <string>R_with_breveinv</string>
-      <string>R_with_dotabove</string>
-      <string>R_with_gravedbl</string>
-      <string>R_with_commabelow</string>
-      <string>R_with_dotbelow</string>
-      <string>R_with_macronbelow</string>
-      <string>R_with_dotbelow_and_macron</string>
+      <string>R.ss01</string>
+      <string>R.ss01_with_acute</string>
+      <string>R.ss01_with_caron</string>
+      <string>R.ss01_with_breveinv</string>
+      <string>R.ss01_with_dotabove</string>
+      <string>R.ss01_with_gravedbl</string>
+      <string>R.ss01_with_commabelow</string>
+      <string>R.ss01_with_dotbelow</string>
+      <string>R.ss01_with_macronbelow</string>
+      <string>R.ss01_with_dotbelow_and_macron</string>
+      <string>R.ss01_with_dotabove.ss02</string>
+      <string>R.ss01_with_commabelow.ss02</string>
+      <string>R.ss01_with_dotbelow.ss02</string>
+      <string>R.ss01_with_dotbelow.ss02_and_macron</string>
     </array>
     <key>public.kern2.S</key>
     <array>
       <string>S</string>
+      <string>S.ss01</string>
       <string>dollar</string>
       <string>S_with_acute</string>
       <string>S_with_circumflex</string>
@@ -1092,6 +2380,48 @@
       <string>S_with_acute_and_dotabove</string>
       <string>S_with_caron_and_dotabove</string>
       <string>S_with_dotbelow_and_dotabove</string>
+      <string>S_with_dotabove.ss02</string>
+      <string>S_with_commabelow.ss02</string>
+      <string>S_with_dotbelow.ss02</string>
+      <string>S_with_acute_and_dotabove.ss02</string>
+      <string>S_with_caron_and_dotabove.ss02</string>
+      <string>S_with_dotbelow.ss02_and_dotabove.ss02</string>
+      <string>S.ss01_with_acute</string>
+      <string>S.ss01_with_circumflex</string>
+      <string>S.ss01_with_caron</string>
+      <string>S.ss01_with_dotabove</string>
+      <string>S.ss01_with_cedilla</string>
+      <string>S.ss01_with_commabelow</string>
+      <string>S.ss01_with_dotbelow</string>
+      <string>S.ss01_with_acute_and_dotabove</string>
+      <string>S.ss01_with_caron_and_dotabove</string>
+      <string>S.ss01_with_dotbelow_and_dotabove</string>
+      <string>S.ss01_with_dotabove.ss02</string>
+      <string>S.ss01_with_commabelow.ss02</string>
+      <string>S.ss01_with_dotbelow.ss02</string>
+      <string>S.ss01_with_acute_and_dotabove.ss02</string>
+      <string>S.ss01_with_caron_and_dotabove.ss02</string>
+      <string>S.ss01_with_dotbelow.ss02_and_dotabove.ss02</string>
+    </array>
+    <key>public.kern2.S.smcp</key>
+    <array>
+      <string>S.smcp</string>
+      <string>S.smcp_with_dotabove.ss02</string>
+      <string>S.smcp_with_commabelow.ss02</string>
+      <string>S.smcp_with_dotbelow.ss02</string>
+      <string>S.smcp_with_acute_and_dotabove.ss02</string>
+      <string>S.smcp_with_caron_and_dotabove.ss02</string>
+      <string>S.smcp_with_dotbelow.ss02_and_dotabove.ss02</string>
+      <string>S.smcp_with_acute</string>
+      <string>S.smcp_with_circumflex</string>
+      <string>S.smcp_with_caron</string>
+      <string>S.smcp_with_dotabove</string>
+      <string>S.smcp_with_cedilla</string>
+      <string>S.smcp_with_commabelow</string>
+      <string>S.smcp_with_dotbelow</string>
+      <string>S.smcp_with_acute_and_dotabove</string>
+      <string>S.smcp_with_caron_and_dotabove</string>
+      <string>S.smcp_with_dotbelow_and_dotabove</string>
     </array>
     <key>public.kern2.SIGMA</key>
     <array>
@@ -1101,6 +2431,18 @@
     <key>public.kern2.T</key>
     <array>
       <string>T</string>
+      <string>T.ss01</string>
+      <string>T.ss01_with_caron</string>
+      <string>T.ss01_with_dotabove</string>
+      <string>T.ss01_with_cedilla</string>
+      <string>T.ss01_with_stroke</string>
+      <string>T.ss01_with_commabelow</string>
+      <string>T.ss01_with_circumflexbelow</string>
+      <string>T.ss01_with_dotbelow</string>
+      <string>T.ss01_with_macronbelow</string>
+      <string>T.ss01_with_dotabove.ss02</string>
+      <string>T.ss01_with_commabelow.ss02</string>
+      <string>T.ss01_with_dotbelow.ss02</string>
       <string>T_with_caron</string>
       <string>T_with_dotabove</string>
       <string>T_with_cedilla</string>
@@ -1109,10 +2451,68 @@
       <string>T_with_circumflexbelow</string>
       <string>T_with_dotbelow</string>
       <string>T_with_macronbelow</string>
+      <string>T_with_dotabove.ss02</string>
+      <string>T_with_commabelow.ss02</string>
+      <string>T_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.T.smcp</key>
+    <array>
+      <string>T.smcp</string>
+      <string>T.smcp_with_dotabove.ss02</string>
+      <string>T.smcp_with_commabelow.ss02</string>
+      <string>T.smcp_with_dotbelow.ss02</string>
+      <string>T.smcp_with_caron</string>
+      <string>T.smcp_with_dotabove</string>
+      <string>T.smcp_with_cedilla</string>
+      <string>T.smcp_with_stroke</string>
+      <string>T.smcp_with_commabelow</string>
+      <string>T.smcp_with_circumflexbelow</string>
+      <string>T.smcp_with_dotbelow</string>
+      <string>T.smcp_with_macronbelow</string>
     </array>
     <key>public.kern2.U</key>
     <array>
       <string>U</string>
+      <string>U.ss01</string>
+      <string>U.ss01_with_acute</string>
+      <string>U.ss01_with_grave</string>
+      <string>U.ss01_with_circumflex</string>
+      <string>U.ss01_with_caron</string>
+      <string>U.ss01_with_breve</string>
+      <string>U.ss01_with_breveinv</string>
+      <string>U.ss01_with_ring</string>
+      <string>U.ss01_with_macron</string>
+      <string>U.ss01_with_tildeabove</string>
+      <string>U.ss01_with_hook</string>
+      <string>U.ss01_with_diaeresis</string>
+      <string>U.ss01_with_acutedbl</string>
+      <string>U.ss01_with_gravedbl</string>
+      <string>U.ss01_with_ogonek</string>
+      <string>U.ss01_with_horn</string>
+      <string>U.ss01_with_circumflexbelow</string>
+      <string>U.ss01_with_dotbelow</string>
+      <string>U.ss01_with_tildebelow</string>
+      <string>U.ss01_with_diaeresisbelow</string>
+      <string>U.ss01_with_macron_and_diaeresis</string>
+      <string>U.ss01_with_tildeabove_and_acute</string>
+      <string>U.ss01_with_diaeresis_and_acute</string>
+      <string>U.ss01_with_diaeresis_and_grave</string>
+      <string>U.ss01_with_diaeresis_and_caron</string>
+      <string>U.ss01_with_diaeresis_and_macron</string>
+      <string>U.ss01_with_horn_and_acute</string>
+      <string>U.ss01_with_horn_and_grave</string>
+      <string>U.ss01_with_horn_and_tildeabove</string>
+      <string>U.ss01_with_horn_and_hook</string>
+      <string>U.ss01_with_horn_and_dotbelow</string>
+      <string>U.ss01_with_diaeresis.ss02</string>
+      <string>U.ss01_with_dotbelow.ss02</string>
+      <string>U.ss01_with_diaeresisbelow.ss02</string>
+      <string>U.ss01_with_macron_and_diaeresis.ss02</string>
+      <string>U.ss01_with_diaeresis.ss02_and_acute</string>
+      <string>U.ss01_with_diaeresis.ss02_and_grave</string>
+      <string>U.ss01_with_diaeresis.ss02_and_caron</string>
+      <string>U.ss01_with_diaeresis.ss02_and_macron</string>
+      <string>U.ss01_with_horn_and_dotbelow.ss02</string>
       <string>U_with_acute</string>
       <string>U_with_grave</string>
       <string>U_with_circumflex</string>
@@ -1143,12 +2543,72 @@
       <string>U_with_horn_and_tildeabove</string>
       <string>U_with_horn_and_hook</string>
       <string>U_with_horn_and_dotbelow</string>
+      <string>U_with_diaeresis.ss02</string>
+      <string>U_with_dotbelow.ss02</string>
+      <string>U_with_diaeresisbelow.ss02</string>
+      <string>U_with_macron_and_diaeresis.ss02</string>
+      <string>U_with_diaeresis.ss02_and_acute</string>
+      <string>U_with_diaeresis.ss02_and_grave</string>
+      <string>U_with_diaeresis.ss02_and_caron</string>
+      <string>U_with_diaeresis.ss02_and_macron</string>
+      <string>U_with_horn_and_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.U.smcp</key>
+    <array>
+      <string>U.smcp</string>
+      <string>U.smcp_with_diaeresis.ss02</string>
+      <string>U.smcp_with_dotbelow.ss02</string>
+      <string>U.smcp_with_diaeresisbelow.ss02</string>
+      <string>U.smcp_with_macron_and_diaeresis.ss02</string>
+      <string>U.smcp_with_diaeresis.ss02_and_acute</string>
+      <string>U.smcp_with_diaeresis.ss02_and_grave</string>
+      <string>U.smcp_with_diaeresis.ss02_and_caron</string>
+      <string>U.smcp_with_diaeresis.ss02_and_macron</string>
+      <string>U.smcp_with_horn_and_dotbelow.ss02</string>
+      <string>U.smcp_with_acute</string>
+      <string>U.smcp_with_grave</string>
+      <string>U.smcp_with_circumflex</string>
+      <string>U.smcp_with_caron</string>
+      <string>U.smcp_with_breve</string>
+      <string>U.smcp_with_breveinv</string>
+      <string>U.smcp_with_ring</string>
+      <string>U.smcp_with_macron</string>
+      <string>U.smcp_with_tildeabove</string>
+      <string>U.smcp_with_hook</string>
+      <string>U.smcp_with_diaeresis</string>
+      <string>U.smcp_with_acutedbl</string>
+      <string>U.smcp_with_gravedbl</string>
+      <string>U.smcp_with_ogonek</string>
+      <string>U.smcp_with_horn</string>
+      <string>U.smcp_with_circumflexbelow</string>
+      <string>U.smcp_with_dotbelow</string>
+      <string>U.smcp_with_tildebelow</string>
+      <string>U.smcp_with_diaeresisbelow</string>
+      <string>U.smcp_with_macron_and_diaeresis</string>
+      <string>U.smcp_with_tildeabove_and_acute</string>
+      <string>U.smcp_with_diaeresis_and_acute</string>
+      <string>U.smcp_with_diaeresis_and_grave</string>
+      <string>U.smcp_with_diaeresis_and_caron</string>
+      <string>U.smcp_with_diaeresis_and_macron</string>
+      <string>U.smcp_with_horn_and_acute</string>
+      <string>U.smcp_with_horn_and_grave</string>
+      <string>U.smcp_with_horn_and_tildeabove</string>
+      <string>U.smcp_with_horn_and_hook</string>
+      <string>U.smcp_with_horn_and_dotbelow</string>
     </array>
     <key>public.kern2.V</key>
     <array>
       <string>V</string>
       <string>V_with_tildeabove</string>
       <string>V_with_dotbelow</string>
+      <string>V_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.V.smcp</key>
+    <array>
+      <string>V.smcp</string>
+      <string>V.smcp_with_dotbelow.ss02</string>
+      <string>V.smcp_with_tildeabove</string>
+      <string>V.smcp_with_dotbelow</string>
     </array>
     <key>public.kern2.W</key>
     <array>
@@ -1160,16 +2620,60 @@
       <string>W_with_dotabove</string>
       <string>W_with_diaeresis</string>
       <string>W_with_dotbelow</string>
+      <string>W_with_dotabove.ss02</string>
+      <string>W_with_diaeresis.ss02</string>
+      <string>W_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.W.smcp</key>
+    <array>
+      <string>W.smcp</string>
+      <string>W.smcp_with_dotabove.ss02</string>
+      <string>W.smcp_with_diaeresis.ss02</string>
+      <string>W.smcp_with_dotbelow.ss02</string>
+      <string>W.smcp_with_acute</string>
+      <string>W.smcp_with_grave</string>
+      <string>W.smcp_with_circumflex</string>
+      <string>W.smcp_with_dotabove</string>
+      <string>W.smcp_with_diaeresis</string>
+      <string>W.smcp_with_dotbelow</string>
     </array>
     <key>public.kern2.X</key>
     <array>
       <string>X</string>
+      <string>X.ss01</string>
       <string>X_with_dotabove</string>
       <string>X_with_diaeresis</string>
+      <string>X_with_dotabove.ss02</string>
+      <string>X_with_diaeresis.ss02</string>
+      <string>X.ss01_with_dotabove</string>
+      <string>X.ss01_with_diaeresis</string>
+      <string>X.ss01_with_dotabove.ss02</string>
+      <string>X.ss01_with_diaeresis.ss02</string>
+    </array>
+    <key>public.kern2.X.smcp</key>
+    <array>
+      <string>X.smcp</string>
+      <string>X.smcp_with_dotabove.ss02</string>
+      <string>X.smcp_with_diaeresis.ss02</string>
+      <string>X.smcp_with_dotabove</string>
+      <string>X.smcp_with_diaeresis</string>
     </array>
     <key>public.kern2.Y</key>
     <array>
       <string>Y</string>
+      <string>Y.ss01</string>
+      <string>Y.ss01_with_acute</string>
+      <string>Y.ss01_with_grave</string>
+      <string>Y.ss01_with_circumflex</string>
+      <string>Y.ss01_with_dotabove</string>
+      <string>Y.ss01_with_macron</string>
+      <string>Y.ss01_with_tildeabove</string>
+      <string>Y.ss01_with_hook</string>
+      <string>Y.ss01_with_diaeresis</string>
+      <string>Y.ss01_with_dotbelow</string>
+      <string>Y.ss01_with_dotabove.ss02</string>
+      <string>Y.ss01_with_diaeresis.ss02</string>
+      <string>Y.ss01_with_dotbelow.ss02</string>
       <string>Y_with_acute</string>
       <string>Y_with_grave</string>
       <string>Y_with_circumflex</string>
@@ -1179,10 +2683,30 @@
       <string>Y_with_hook</string>
       <string>Y_with_diaeresis</string>
       <string>Y_with_dotbelow</string>
+      <string>Y_with_dotabove.ss02</string>
+      <string>Y_with_diaeresis.ss02</string>
+      <string>Y_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.Y.smcp</key>
+    <array>
+      <string>Y.smcp</string>
+      <string>Y.smcp_with_dotabove.ss02</string>
+      <string>Y.smcp_with_diaeresis.ss02</string>
+      <string>Y.smcp_with_dotbelow.ss02</string>
+      <string>Y.smcp_with_acute</string>
+      <string>Y.smcp_with_grave</string>
+      <string>Y.smcp_with_circumflex</string>
+      <string>Y.smcp_with_dotabove</string>
+      <string>Y.smcp_with_macron</string>
+      <string>Y.smcp_with_tildeabove</string>
+      <string>Y.smcp_with_hook</string>
+      <string>Y.smcp_with_diaeresis</string>
+      <string>Y.smcp_with_dotbelow</string>
     </array>
     <key>public.kern2.Z</key>
     <array>
       <string>Z</string>
+      <string>Z.ss01</string>
       <string>Z_with_acute</string>
       <string>Z_with_circumflex</string>
       <string>Z_with_caron</string>
@@ -1190,11 +2714,37 @@
       <string>Z_with_stroke</string>
       <string>Z_with_dotbelow</string>
       <string>Z_with_macronbelow</string>
+      <string>Z_with_dotabove.ss02</string>
+      <string>Z_with_dotbelow.ss02</string>
+      <string>Z.ss01_with_acute</string>
+      <string>Z.ss01_with_circumflex</string>
+      <string>Z.ss01_with_caron</string>
+      <string>Z.ss01_with_dotabove</string>
+      <string>Z.ss01_with_stroke</string>
+      <string>Z.ss01_with_dotbelow</string>
+      <string>Z.ss01_with_macronbelow</string>
+      <string>Z.ss01_with_dotabove.ss02</string>
+      <string>Z.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.Z.smcp</key>
+    <array>
+      <string>Z.smcp</string>
+      <string>Z.smcp_with_dotabove.ss02</string>
+      <string>Z.smcp_with_dotbelow.ss02</string>
+      <string>Z.smcp_with_acute</string>
+      <string>Z.smcp_with_circumflex</string>
+      <string>Z.smcp_with_caron</string>
+      <string>Z.smcp_with_dotabove</string>
+      <string>Z.smcp_with_stroke</string>
+      <string>Z.smcp_with_dotbelow</string>
+      <string>Z.smcp_with_macronbelow</string>
     </array>
     <key>public.kern2.apostrophe</key>
     <array>
       <string>apostrophe</string>
       <string>turnedcomma</string>
+      <string>apostrophe.ss02</string>
+      <string>turnedcomma.ss02</string>
     </array>
     <key>public.kern2.asterisk</key>
     <array>
@@ -1207,9 +2757,76 @@
     <key>public.kern2.b</key>
     <array>
       <string>b</string>
+      <string>h</string>
+      <string>l</string>
+      <string>k</string>
+      <string>thorn</string>
+      <string>s_long</string>
+      <string>k.ss01</string>
+      <string>h.ss03</string>
+      <string>h.ss03_with_circumflex</string>
+      <string>h.ss03_with_caron</string>
+      <string>h.ss03_with_dotabove</string>
+      <string>h.ss03_with_diaeresis</string>
+      <string>h.ss03_with_cedilla</string>
+      <string>h.ss03_with_stroke</string>
+      <string>h.ss03_with_dotbelow</string>
+      <string>h.ss03_with_macronbelow</string>
+      <string>h.ss03_with_dotabove.ss02</string>
+      <string>h.ss03_with_diaeresis.ss02</string>
+      <string>h.ss03_with_dotbelow.ss02</string>
       <string>b_with_dotabove</string>
       <string>b_with_dotbelow</string>
       <string>b_with_macronbelow</string>
+      <string>b_with_dotabove.ss02</string>
+      <string>b_with_dotbelow.ss02</string>
+      <string>k_with_acute</string>
+      <string>k_with_caron</string>
+      <string>k_with_commabelow</string>
+      <string>k_with_dotbelow</string>
+      <string>k_with_macronbelow</string>
+      <string>k_with_commabelow.ss02</string>
+      <string>k_with_dotbelow.ss02</string>
+      <string>k.ss01_with_acute</string>
+      <string>k.ss01_with_caron</string>
+      <string>k.ss01_with_commabelow</string>
+      <string>k.ss01_with_dotbelow</string>
+      <string>k.ss01_with_macronbelow</string>
+      <string>k.ss01_with_commabelow.ss02</string>
+      <string>k.ss01_with_dotbelow.ss02</string>
+      <string>h_with_circumflex</string>
+      <string>h_with_caron</string>
+      <string>h_with_dotabove</string>
+      <string>h_with_diaeresis</string>
+      <string>h_with_cedilla</string>
+      <string>h_with_stroke</string>
+      <string>h_with_dotbelow</string>
+      <string>h_with_macronbelow</string>
+      <string>h_with_dotabove.ss02</string>
+      <string>h_with_diaeresis.ss02</string>
+      <string>h_with_dotbelow.ss02</string>
+      <string>l_with_acute</string>
+      <string>l_with_caron</string>
+      <string>l_with_stroke</string>
+      <string>l_with_dotmiddle</string>
+      <string>l_with_commabelow</string>
+      <string>l_with_circumflexbelow</string>
+      <string>l_with_dotbelow</string>
+      <string>l_with_macronbelow</string>
+      <string>l_with_dotbelow_and_macron</string>
+      <string>l_with_dotmiddle.ss02</string>
+      <string>l_with_commabelow.ss02</string>
+      <string>l_with_dotbelow.ss02</string>
+      <string>l_with_dotbelow.ss02_and_macron</string>
+    </array>
+    <key>public.kern2.b.ss03</key>
+    <array>
+      <string>b.ss03</string>
+      <string>b.ss03_with_dotabove</string>
+      <string>b.ss03_with_dotbelow</string>
+      <string>b.ss03_with_macronbelow</string>
+      <string>b.ss03_with_dotabove.ss02</string>
+      <string>b.ss03_with_dotbelow.ss02</string>
     </array>
     <key>public.kern2.bracketleft</key>
     <array>
@@ -1233,15 +2850,31 @@
       <string>diesis</string>
       <string>dagger</string>
     </array>
+    <key>public.kern2.eight</key>
+    <array>
+      <string>eight</string>
+      <string>eight.ss01</string>
+    </array>
     <key>public.kern2.eszett</key>
     <array>
       <string>eszett</string>
       <string>ESZETT</string>
     </array>
+    <key>public.kern2.eszett.smcp</key>
+    <array>
+      <string>ESZETT.smcp</string>
+    </array>
+    <key>public.kern2.exclamation</key>
+    <array>
+      <string>exclamation</string>
+      <string>exclamation.ss02</string>
+    </array>
     <key>public.kern2.f</key>
     <array>
       <string>f</string>
       <string>f_with_dotabove</string>
+      <string>f_with_hookleft</string>
+      <string>f_with_dotabove.ss02</string>
     </array>
     <key>public.kern2.greater</key>
     <array>
@@ -1249,18 +2882,6 @@
       <string>greater_equal</string>
       <string>angleright</string>
       <string>angledblright</string>
-    </array>
-    <key>public.kern2.h</key>
-    <array>
-      <string>h</string>
-      <string>h_with_circumflex</string>
-      <string>h_with_caron</string>
-      <string>h_with_dotabove</string>
-      <string>h_with_diaeresis</string>
-      <string>h_with_cedilla</string>
-      <string>h_with_stroke</string>
-      <string>h_with_dotbelow</string>
-      <string>h_with_macronbelow</string>
     </array>
     <key>public.kern2.hyphen</key>
     <array>
@@ -1278,11 +2899,17 @@
       <string>interpunct</string>
       <string>bullet</string>
       <string>plusminus</string>
+      <string>interpunct.ss02</string>
+      <string>bullet.ss02</string>
+      <string>divide.ss02</string>
     </array>
     <key>public.kern2.i</key>
     <array>
       <string>i</string>
       <string>j</string>
+      <string>j_with_circumflex</string>
+      <string>j_with_caron</string>
+      <string>j_with_acute</string>
       <string>i_with_acute</string>
       <string>i_with_grave</string>
       <string>i_with_circumflex</string>
@@ -1295,34 +2922,30 @@
       <string>i_with_diaeresis</string>
       <string>i_with_gravedbl</string>
       <string>i_with_ogonek</string>
+      <string>i_with_stroke</string>
       <string>i_with_dotbelow</string>
       <string>i_with_tildebelow</string>
       <string>i_with_diaeresis_and_acute</string>
-      <string>j_with_circumflex</string>
-      <string>j_with_caron</string>
-      <string>j_with_acute</string>
+      <string>i_with_diaeresis.ss02</string>
+      <string>i_with_diaeresis.ss02_and_acute</string>
     </array>
-    <key>public.kern2.k</key>
+    <key>public.kern2.i.ss02</key>
     <array>
-      <string>k</string>
-      <string>k_with_acute</string>
-      <string>k_with_caron</string>
-      <string>k_with_commabelow</string>
-      <string>k_with_dotbelow</string>
-      <string>k_with_macronbelow</string>
+      <string>i.ss02</string>
+      <string>i.ss02_with_ogonek</string>
+      <string>i.ss02_with_stroke</string>
+      <string>i.ss02_with_dotbelow.ss02</string>
+      <string>i.ss02_with_tildebelow</string>
     </array>
-    <key>public.kern2.l</key>
+    <key>public.kern2.inv_exclamation</key>
     <array>
-      <string>l</string>
-      <string>l_with_acute</string>
-      <string>l_with_caron</string>
-      <string>l_with_stroke</string>
-      <string>l_with_dotmiddle</string>
-      <string>l_with_commabelow</string>
-      <string>l_with_circumflexbelow</string>
-      <string>l_with_dotbelow</string>
-      <string>l_with_macronbelow</string>
-      <string>l_with_dotbelow_and_macron</string>
+      <string>inv_exclamation</string>
+      <string>inv_exclamation.ss02</string>
+    </array>
+    <key>public.kern2.inv_question</key>
+    <array>
+      <string>inv_question</string>
+      <string>inv_question.ss02</string>
     </array>
     <key>public.kern2.less</key>
     <array>
@@ -1338,11 +2961,43 @@
       <string>n</string>
       <string>r</string>
       <string>p</string>
-      <string>lower_i_dotless</string>
-      <string>mu</string>
+      <string>i_dotless</string>
+      <string>j_dotless</string>
+      <string>eng</string>
       <string>kra</string>
+      <string>mu</string>
+      <string>kra.ss01</string>
+      <string>m.ss03</string>
+      <string>n.ss03</string>
+      <string>r.ss03</string>
+      <string>p.ss03</string>
+      <string>B.smcp</string>
+      <string>D.smcp</string>
+      <string>E.smcp</string>
+      <string>F.smcp</string>
+      <string>H.smcp</string>
+      <string>I.smcp</string>
+      <string>K.smcp</string>
+      <string>L.smcp</string>
+      <string>M.smcp</string>
+      <string>N.smcp</string>
+      <string>P.smcp</string>
+      <string>R.smcp</string>
+      <string>THORN.smcp</string>
+      <string>ENG.smcp</string>
+      <string>K.ss01.smcp</string>
+      <string>M.ss01.smcp</string>
       <string>p_with_acute</string>
       <string>p_with_dotabove</string>
+      <string>p_with_dotabove.ss02</string>
+      <string>p.ss03_with_acute</string>
+      <string>p.ss03_with_dotabove</string>
+      <string>p.ss03_with_dotabove.ss02</string>
+      <string>m_with_acute</string>
+      <string>m_with_dotabove</string>
+      <string>m_with_dotbelow</string>
+      <string>m_with_dotabove.ss02</string>
+      <string>m_with_dotbelow.ss02</string>
       <string>r_with_acute</string>
       <string>r_with_caron</string>
       <string>r_with_breveinv</string>
@@ -1352,9 +3007,28 @@
       <string>r_with_dotbelow</string>
       <string>r_with_macronbelow</string>
       <string>r_with_dotbelow_and_macron</string>
-      <string>m_with_acute</string>
-      <string>m_with_dotabove</string>
-      <string>m_with_dotbelow</string>
+      <string>r_with_dotabove.ss02</string>
+      <string>r_with_commabelow.ss02</string>
+      <string>r_with_dotbelow.ss02</string>
+      <string>r_with_dotbelow.ss02_and_macron</string>
+      <string>m.ss03_with_acute</string>
+      <string>m.ss03_with_dotabove</string>
+      <string>m.ss03_with_dotbelow</string>
+      <string>m.ss03_with_dotabove.ss02</string>
+      <string>m.ss03_with_dotbelow.ss02</string>
+      <string>n.ss03_with_acute</string>
+      <string>n.ss03_with_grave</string>
+      <string>n.ss03_with_caron</string>
+      <string>n.ss03_with_dotabove</string>
+      <string>n.ss03_with_tildeabove</string>
+      <string>n.ss03_with_hookleft</string>
+      <string>n.ss03_with_commabelow</string>
+      <string>n.ss03_with_circumflexbelow</string>
+      <string>n.ss03_with_dotbelow</string>
+      <string>n.ss03_with_macronbelow</string>
+      <string>n.ss03_with_dotabove.ss02</string>
+      <string>n.ss03_with_commabelow.ss02</string>
+      <string>n.ss03_with_dotbelow.ss02</string>
       <string>n_with_acute</string>
       <string>n_with_grave</string>
       <string>n_with_caron</string>
@@ -1365,6 +3039,166 @@
       <string>n_with_circumflexbelow</string>
       <string>n_with_dotbelow</string>
       <string>n_with_macronbelow</string>
+      <string>n_with_dotabove.ss02</string>
+      <string>n_with_commabelow.ss02</string>
+      <string>n_with_dotbelow.ss02</string>
+      <string>r.ss03_with_acute</string>
+      <string>r.ss03_with_caron</string>
+      <string>r.ss03_with_breveinv</string>
+      <string>r.ss03_with_dotabove</string>
+      <string>r.ss03_with_gravedbl</string>
+      <string>r.ss03_with_commabelow</string>
+      <string>r.ss03_with_dotbelow</string>
+      <string>r.ss03_with_macronbelow</string>
+      <string>r.ss03_with_dotbelow_and_macron</string>
+      <string>r.ss03_with_dotabove.ss02</string>
+      <string>r.ss03_with_commabelow.ss02</string>
+      <string>r.ss03_with_dotbelow.ss02</string>
+      <string>r.ss03_with_dotbelow.ss02_and_macron</string>
+      <string>B.smcp_with_dotabove.ss02</string>
+      <string>B.smcp_with_dotbelow.ss02</string>
+      <string>D.smcp_with_dotabove.ss02</string>
+      <string>D.smcp_with_commabelow.ss02</string>
+      <string>D.smcp_with_dotbelow.ss02</string>
+      <string>E.smcp_with_dotabove.ss02</string>
+      <string>E.smcp_with_diaeresis.ss02</string>
+      <string>E.smcp_with_dotbelow.ss02</string>
+      <string>F.smcp_with_dotabove.ss02</string>
+      <string>H.smcp_with_dotabove.ss02</string>
+      <string>H.smcp_with_diaeresis.ss02</string>
+      <string>H.smcp_with_dotbelow.ss02</string>
+      <string>I.smcp_with_dotabove.ss02</string>
+      <string>I.smcp_with_diaeresis.ss02</string>
+      <string>I.smcp_with_dotbelow.ss02</string>
+      <string>K.smcp_with_commabelow.ss02</string>
+      <string>K.smcp_with_dotbelow.ss02</string>
+      <string>L.smcp_with_dotmiddle.ss02</string>
+      <string>L.smcp_with_commabelow.ss02</string>
+      <string>L.smcp_with_dotbelow.ss02</string>
+      <string>M.smcp_with_dotabove.ss02</string>
+      <string>M.smcp_with_dotbelow.ss02</string>
+      <string>N.smcp_with_dotabove.ss02</string>
+      <string>N.smcp_with_commabelow.ss02</string>
+      <string>N.smcp_with_dotbelow.ss02</string>
+      <string>P.smcp_with_dotabove.ss02</string>
+      <string>R.smcp_with_dotabove.ss02</string>
+      <string>R.smcp_with_commabelow.ss02</string>
+      <string>R.smcp_with_dotbelow.ss02</string>
+      <string>E.smcp_with_circumflex_and_dotbelow.ss02</string>
+      <string>I.smcp_with_diaeresis.ss02_and_acute</string>
+      <string>L.smcp_with_dotbelow.ss02_and_macron</string>
+      <string>R.smcp_with_dotbelow.ss02_and_macron</string>
+      <string>K.ss01.smcp_with_commabelow.ss02</string>
+      <string>K.ss01.smcp_with_dotbelow.ss02</string>
+      <string>M.ss01.smcp_with_dotabove.ss02</string>
+      <string>M.ss01.smcp_with_dotbelow.ss02</string>
+      <string>B.smcp_with_dotabove</string>
+      <string>B.smcp_with_dotbelow</string>
+      <string>B.smcp_with_macronbelow</string>
+      <string>D.smcp_with_caron</string>
+      <string>D.smcp_with_dotabove</string>
+      <string>D.smcp_with_stroke</string>
+      <string>D.smcp_with_commabelow</string>
+      <string>D.smcp_with_circumflexbelow</string>
+      <string>D.smcp_with_dotbelow</string>
+      <string>D.smcp_with_macronbelow</string>
+      <string>E.smcp_with_acute</string>
+      <string>E.smcp_with_grave</string>
+      <string>E.smcp_with_circumflex</string>
+      <string>E.smcp_with_caron</string>
+      <string>E.smcp_with_breve</string>
+      <string>E.smcp_with_breveinv</string>
+      <string>E.smcp_with_dotabove</string>
+      <string>E.smcp_with_macron</string>
+      <string>E.smcp_with_tildeabove</string>
+      <string>E.smcp_with_hook</string>
+      <string>E.smcp_with_diaeresis</string>
+      <string>E.smcp_with_gravedbl</string>
+      <string>E.smcp_with_cedilla</string>
+      <string>E.smcp_with_ogonek</string>
+      <string>E.smcp_with_circumflexbelow</string>
+      <string>E.smcp_with_dotbelow</string>
+      <string>E.smcp_with_tildebelow</string>
+      <string>F.smcp_with_dotabove</string>
+      <string>F.smcp_with_hookleft</string>
+      <string>H.smcp_with_circumflex</string>
+      <string>H.smcp_with_caron</string>
+      <string>H.smcp_with_dotabove</string>
+      <string>H.smcp_with_diaeresis</string>
+      <string>H.smcp_with_cedilla</string>
+      <string>H.smcp_with_stroke</string>
+      <string>H.smcp_with_dotbelow</string>
+      <string>I.smcp_with_acute</string>
+      <string>I.smcp_with_grave</string>
+      <string>I.smcp_with_circumflex</string>
+      <string>I.smcp_with_caron</string>
+      <string>I.smcp_with_breve</string>
+      <string>I.smcp_with_breveinv</string>
+      <string>I.smcp_with_dotabove</string>
+      <string>I.smcp_with_macron</string>
+      <string>I.smcp_with_tildeabove</string>
+      <string>I.smcp_with_hook</string>
+      <string>I.smcp_with_diaeresis</string>
+      <string>I.smcp_with_gravedbl</string>
+      <string>I.smcp_with_ogonek</string>
+      <string>I.smcp_with_stroke</string>
+      <string>I.smcp_with_dotbelow</string>
+      <string>I.smcp_with_tildebelow</string>
+      <string>K.smcp_with_acute</string>
+      <string>K.smcp_with_caron</string>
+      <string>K.smcp_with_commabelow</string>
+      <string>K.smcp_with_dotbelow</string>
+      <string>K.smcp_with_macronbelow</string>
+      <string>L.smcp_with_acute</string>
+      <string>L.smcp_with_caron</string>
+      <string>L.smcp_with_stroke</string>
+      <string>L.smcp_with_dotmiddle</string>
+      <string>L.smcp_with_commabelow</string>
+      <string>L.smcp_with_circumflexbelow</string>
+      <string>L.smcp_with_dotbelow</string>
+      <string>L.smcp_with_macronbelow</string>
+      <string>M.smcp_with_acute</string>
+      <string>M.smcp_with_dotabove</string>
+      <string>M.smcp_with_dotbelow</string>
+      <string>N.smcp_with_acute</string>
+      <string>N.smcp_with_grave</string>
+      <string>N.smcp_with_caron</string>
+      <string>N.smcp_with_dotabove</string>
+      <string>N.smcp_with_tildeabove</string>
+      <string>N.smcp_with_hookleft</string>
+      <string>N.smcp_with_commabelow</string>
+      <string>N.smcp_with_circumflexbelow</string>
+      <string>N.smcp_with_dotbelow</string>
+      <string>N.smcp_with_macronbelow</string>
+      <string>P.smcp_with_acute</string>
+      <string>P.smcp_with_dotabove</string>
+      <string>R.smcp_with_acute</string>
+      <string>R.smcp_with_caron</string>
+      <string>R.smcp_with_breveinv</string>
+      <string>R.smcp_with_dotabove</string>
+      <string>R.smcp_with_gravedbl</string>
+      <string>R.smcp_with_commabelow</string>
+      <string>R.smcp_with_dotbelow</string>
+      <string>R.smcp_with_macronbelow</string>
+      <string>E.smcp_with_circumflex_and_acute</string>
+      <string>E.smcp_with_circumflex_and_grave</string>
+      <string>E.smcp_with_circumflex_and_tildeabove</string>
+      <string>E.smcp_with_circumflex_and_hook</string>
+      <string>E.smcp_with_circumflex_and_dotbelow</string>
+      <string>E.smcp_with_macron_and_acute</string>
+      <string>E.smcp_with_macron_and_grave</string>
+      <string>E.smcp_with_cedilla_and_breve</string>
+      <string>I.smcp_with_diaeresis_and_acute</string>
+      <string>L.smcp_with_dotbelow_and_macron</string>
+      <string>R.smcp_with_dotbelow_and_macron</string>
+      <string>K.ss01.smcp_with_acute</string>
+      <string>K.ss01.smcp_with_caron</string>
+      <string>K.ss01.smcp_with_commabelow</string>
+      <string>K.ss01.smcp_with_dotbelow</string>
+      <string>K.ss01.smcp_with_macronbelow</string>
+      <string>M.ss01.smcp_with_acute</string>
+      <string>M.ss01.smcp_with_dotabove</string>
+      <string>M.ss01.smcp_with_dotbelow</string>
     </array>
     <key>public.kern2.o</key>
     <array>
@@ -1377,9 +3211,72 @@
       <string>q</string>
       <string>ae</string>
       <string>oe</string>
+      <string>db</string>
+      <string>qp</string>
       <string>eth</string>
       <string>schwa</string>
       <string>dong</string>
+      <string>a.ss03</string>
+      <string>d.ss03</string>
+      <string>e.ss03</string>
+      <string>g.ss03</string>
+      <string>q.ss03</string>
+      <string>ae.ss03</string>
+      <string>db.ss03</string>
+      <string>qp.ss03</string>
+      <string>eth.ss03</string>
+      <string>schwa.ss03</string>
+      <string>C.smcp</string>
+      <string>G.smcp</string>
+      <string>O.smcp</string>
+      <string>Q.smcp</string>
+      <string>OE.smcp</string>
+      <string>SCHWA.smcp</string>
+      <string>ae_with_acute</string>
+      <string>ae_with_macron</string>
+      <string>c_with_acute</string>
+      <string>c_with_circumflex</string>
+      <string>c_with_caron</string>
+      <string>c_with_dotabove</string>
+      <string>c_with_cedilla</string>
+      <string>c_with_cedilla_and_acute</string>
+      <string>c_with_dotabove.ss02</string>
+      <string>a.ss03_with_acute</string>
+      <string>a.ss03_with_grave</string>
+      <string>a.ss03_with_circumflex</string>
+      <string>a.ss03_with_caron</string>
+      <string>a.ss03_with_breve</string>
+      <string>a.ss03_with_breveinv</string>
+      <string>a.ss03_with_ring</string>
+      <string>a.ss03_with_dotabove</string>
+      <string>a.ss03_with_macron</string>
+      <string>a.ss03_with_tildeabove</string>
+      <string>a.ss03_with_hook</string>
+      <string>a.ss03_with_diaeresis</string>
+      <string>a.ss03_with_gravedbl</string>
+      <string>a.ss03_with_ogonek</string>
+      <string>a.ss03_with_ringbelow</string>
+      <string>a.ss03_with_dotbelow</string>
+      <string>a.ss03_with_circumflex_and_acute</string>
+      <string>a.ss03_with_circumflex_and_grave</string>
+      <string>a.ss03_with_circumflex_and_tildeabove</string>
+      <string>a.ss03_with_circumflex_and_hook</string>
+      <string>a.ss03_with_circumflex_and_dotbelow</string>
+      <string>a.ss03_with_breve_and_acute</string>
+      <string>a.ss03_with_breve_and_grave</string>
+      <string>a.ss03_with_breve_and_tildeabove</string>
+      <string>a.ss03_with_breve_and_hook</string>
+      <string>a.ss03_with_breve_and_dotbelow</string>
+      <string>a.ss03_with_ring_and_acute</string>
+      <string>a.ss03_with_dotabove_and_macron</string>
+      <string>a.ss03_with_diaeresis_and_macron</string>
+      <string>a.ss03_with_dotabove.ss02</string>
+      <string>a.ss03_with_diaeresis.ss02</string>
+      <string>a.ss03_with_dotbelow.ss02</string>
+      <string>a.ss03_with_circumflex_and_dotbelow.ss02</string>
+      <string>a.ss03_with_breve_and_dotbelow.ss02</string>
+      <string>a.ss03_with_dotabove.ss02_and_macron</string>
+      <string>a.ss03_with_diaeresis.ss02_and_macron</string>
       <string>e_with_acute</string>
       <string>e_with_grave</string>
       <string>e_with_circumflex</string>
@@ -1405,57 +3302,31 @@
       <string>e_with_macron_and_acute</string>
       <string>e_with_macron_and_grave</string>
       <string>e_with_cedilla_and_breve</string>
-      <string>d_with_caron</string>
-      <string>d_with_dotabove</string>
-      <string>d_with_stroke</string>
-      <string>d_with_commabelow</string>
-      <string>d_with_circumflexbelow</string>
-      <string>d_with_dotbelow</string>
-      <string>d_with_macronbelow</string>
-      <string>g_with_acute</string>
-      <string>g_with_circumflex</string>
-      <string>g_with_caron</string>
-      <string>g_with_breve</string>
-      <string>g_with_dotabove</string>
-      <string>g_with_macron</string>
-      <string>g_with_commabelow</string>
-      <string>c_with_acute</string>
-      <string>c_with_circumflex</string>
-      <string>c_with_caron</string>
-      <string>c_with_dotabove</string>
-      <string>c_with_cedilla</string>
-      <string>c_with_cedilla_and_acute</string>
-      <string>a_with_acute</string>
-      <string>a_with_grave</string>
-      <string>a_with_circumflex</string>
-      <string>a_with_caron</string>
-      <string>a_with_breve</string>
-      <string>a_with_breveinv</string>
-      <string>a_with_ring</string>
-      <string>a_with_dotabove</string>
-      <string>a_with_macron</string>
-      <string>a_with_tildeabove</string>
-      <string>a_with_hook</string>
-      <string>a_with_diaeresis</string>
-      <string>a_with_gravedbl</string>
-      <string>a_with_ogonek</string>
-      <string>a_with_ringbelow</string>
-      <string>a_with_dotbelow</string>
-      <string>a_with_circumflex_and_acute</string>
-      <string>a_with_circumflex_and_grave</string>
-      <string>a_with_circumflex_and_tildeabove</string>
-      <string>a_with_circumflex_and_hook</string>
-      <string>a_with_circumflex_and_dotbelow</string>
-      <string>a_with_breve_and_acute</string>
-      <string>a_with_breve_and_grave</string>
-      <string>a_with_breve_and_tildeabove</string>
-      <string>a_with_breve_and_hook</string>
-      <string>a_with_breve_and_dotbelow</string>
-      <string>a_with_ring_and_acute</string>
-      <string>a_with_dotabove_and_macron</string>
-      <string>a_with_diaeresis_and_macron</string>
-      <string>ae_with_acute</string>
-      <string>ae_with_macron</string>
+      <string>e_with_dotabove.ss02</string>
+      <string>e_with_diaeresis.ss02</string>
+      <string>e_with_dotbelow.ss02</string>
+      <string>e_with_circumflex_and_dotbelow.ss02</string>
+      <string>g.ss03_with_acute</string>
+      <string>g.ss03_with_circumflex</string>
+      <string>g.ss03_with_caron</string>
+      <string>g.ss03_with_breve</string>
+      <string>g.ss03_with_dotabove</string>
+      <string>g.ss03_with_macron</string>
+      <string>g.ss03_with_commabelow</string>
+      <string>g.ss03_with_dotabove.ss02</string>
+      <string>g.ss03_with_commabelow.ss02</string>
+      <string>ae.ss03_with_acute</string>
+      <string>ae.ss03_with_macron</string>
+      <string>d.ss03_with_caron</string>
+      <string>d.ss03_with_dotabove</string>
+      <string>d.ss03_with_stroke</string>
+      <string>d.ss03_with_commabelow</string>
+      <string>d.ss03_with_circumflexbelow</string>
+      <string>d.ss03_with_dotbelow</string>
+      <string>d.ss03_with_macronbelow</string>
+      <string>d.ss03_with_dotabove.ss02</string>
+      <string>d.ss03_with_commabelow.ss02</string>
+      <string>d.ss03_with_dotbelow.ss02</string>
       <string>o_with_acute</string>
       <string>o_with_grave</string>
       <string>o_with_circumflex</string>
@@ -1492,6 +3363,163 @@
       <string>o_with_horn_and_tildeabove</string>
       <string>o_with_horn_and_hook</string>
       <string>o_with_horn_and_dotbelow</string>
+      <string>o_with_dotabove.ss02</string>
+      <string>o_with_diaeresis.ss02</string>
+      <string>o_with_dotbelow.ss02</string>
+      <string>o_with_circumflex_and_dotbelow.ss02</string>
+      <string>o_with_dotabove.ss02_and_macron</string>
+      <string>o_with_tildeabove_and_diaeresis.ss02</string>
+      <string>o_with_diaeresis.ss02_and_macron</string>
+      <string>o_with_horn_and_dotbelow.ss02</string>
+      <string>e.ss03_with_acute</string>
+      <string>e.ss03_with_grave</string>
+      <string>e.ss03_with_circumflex</string>
+      <string>e.ss03_with_caron</string>
+      <string>e.ss03_with_breve</string>
+      <string>e.ss03_with_breveinv</string>
+      <string>e.ss03_with_dotabove</string>
+      <string>e.ss03_with_macron</string>
+      <string>e.ss03_with_tildeabove</string>
+      <string>e.ss03_with_hook</string>
+      <string>e.ss03_with_diaeresis</string>
+      <string>e.ss03_with_gravedbl</string>
+      <string>e.ss03_with_cedilla</string>
+      <string>e.ss03_with_ogonek</string>
+      <string>e.ss03_with_circumflexbelow</string>
+      <string>e.ss03_with_dotbelow</string>
+      <string>e.ss03_with_tildebelow</string>
+      <string>e.ss03_with_circumflex_and_acute</string>
+      <string>e.ss03_with_circumflex_and_grave</string>
+      <string>e.ss03_with_circumflex_and_tildeabove</string>
+      <string>e.ss03_with_circumflex_and_hook</string>
+      <string>e.ss03_with_circumflex_and_dotbelow</string>
+      <string>e.ss03_with_macron_and_acute</string>
+      <string>e.ss03_with_macron_and_grave</string>
+      <string>e.ss03_with_cedilla_and_breve</string>
+      <string>e.ss03_with_dotabove.ss02</string>
+      <string>e.ss03_with_diaeresis.ss02</string>
+      <string>e.ss03_with_dotbelow.ss02</string>
+      <string>e.ss03_with_circumflex_and_dotbelow.ss02</string>
+      <string>g_with_acute</string>
+      <string>g_with_circumflex</string>
+      <string>g_with_caron</string>
+      <string>g_with_breve</string>
+      <string>g_with_dotabove</string>
+      <string>g_with_macron</string>
+      <string>g_with_commabelow</string>
+      <string>g_with_dotabove.ss02</string>
+      <string>g_with_commabelow.ss02</string>
+      <string>d_with_caron</string>
+      <string>d_with_dotabove</string>
+      <string>d_with_stroke</string>
+      <string>d_with_commabelow</string>
+      <string>d_with_circumflexbelow</string>
+      <string>d_with_dotbelow</string>
+      <string>d_with_macronbelow</string>
+      <string>d_with_dotabove.ss02</string>
+      <string>d_with_commabelow.ss02</string>
+      <string>d_with_dotbelow.ss02</string>
+      <string>a_with_acute</string>
+      <string>a_with_grave</string>
+      <string>a_with_circumflex</string>
+      <string>a_with_caron</string>
+      <string>a_with_breve</string>
+      <string>a_with_breveinv</string>
+      <string>a_with_ring</string>
+      <string>a_with_dotabove</string>
+      <string>a_with_macron</string>
+      <string>a_with_tildeabove</string>
+      <string>a_with_hook</string>
+      <string>a_with_diaeresis</string>
+      <string>a_with_gravedbl</string>
+      <string>a_with_ogonek</string>
+      <string>a_with_ringbelow</string>
+      <string>a_with_dotbelow</string>
+      <string>a_with_circumflex_and_acute</string>
+      <string>a_with_circumflex_and_grave</string>
+      <string>a_with_circumflex_and_tildeabove</string>
+      <string>a_with_circumflex_and_hook</string>
+      <string>a_with_circumflex_and_dotbelow</string>
+      <string>a_with_breve_and_acute</string>
+      <string>a_with_breve_and_grave</string>
+      <string>a_with_breve_and_tildeabove</string>
+      <string>a_with_breve_and_hook</string>
+      <string>a_with_breve_and_dotbelow</string>
+      <string>a_with_ring_and_acute</string>
+      <string>a_with_dotabove_and_macron</string>
+      <string>a_with_diaeresis_and_macron</string>
+      <string>a_with_dotabove.ss02</string>
+      <string>a_with_diaeresis.ss02</string>
+      <string>a_with_dotbelow.ss02</string>
+      <string>a_with_circumflex_and_dotbelow.ss02</string>
+      <string>a_with_breve_and_dotbelow.ss02</string>
+      <string>a_with_dotabove.ss02_and_macron</string>
+      <string>a_with_diaeresis.ss02_and_macron</string>
+      <string>C.smcp_with_dotabove.ss02</string>
+      <string>G.smcp_with_dotabove.ss02</string>
+      <string>G.smcp_with_commabelow.ss02</string>
+      <string>O.smcp_with_dotabove.ss02</string>
+      <string>O.smcp_with_diaeresis.ss02</string>
+      <string>O.smcp_with_dotbelow.ss02</string>
+      <string>O.smcp_with_circumflex_and_dotbelow.ss02</string>
+      <string>O.smcp_with_dotabove.ss02_and_macron</string>
+      <string>O.smcp_with_tildeabove_and_diaeresis.ss02</string>
+      <string>O.smcp_with_diaeresis.ss02_and_macron</string>
+      <string>O.smcp_with_horn_and_dotbelow.ss02</string>
+      <string>C.smcp_with_acute</string>
+      <string>C.smcp_with_circumflex</string>
+      <string>C.smcp_with_caron</string>
+      <string>C.smcp_with_dotabove</string>
+      <string>C.smcp_with_cedilla</string>
+      <string>G.smcp_with_acute</string>
+      <string>G.smcp_with_circumflex</string>
+      <string>G.smcp_with_caron</string>
+      <string>G.smcp_with_breve</string>
+      <string>G.smcp_with_dotabove</string>
+      <string>G.smcp_with_macron</string>
+      <string>G.smcp_with_commabelow</string>
+      <string>O.smcp_with_acute</string>
+      <string>O.smcp_with_grave</string>
+      <string>O.smcp_with_circumflex</string>
+      <string>O.smcp_with_caron</string>
+      <string>O.smcp_with_breve</string>
+      <string>O.smcp_with_breveinv</string>
+      <string>O.smcp_with_dotabove</string>
+      <string>O.smcp_with_macron</string>
+      <string>O.smcp_with_tildeabove</string>
+      <string>O.smcp_with_hook</string>
+      <string>O.smcp_with_diaeresis</string>
+      <string>O.smcp_with_acutedbl</string>
+      <string>O.smcp_with_gravedbl</string>
+      <string>O.smcp_with_ogonek</string>
+      <string>O.smcp_with_stroke</string>
+      <string>O.smcp_with_horn</string>
+      <string>O.smcp_with_dotbelow</string>
+      <string>C.smcp_with_cedilla_and_acute</string>
+      <string>O.smcp_with_circumflex_and_acute</string>
+      <string>O.smcp_with_circumflex_and_grave</string>
+      <string>O.smcp_with_circumflex_and_tildeabove</string>
+      <string>O.smcp_with_circumflex_and_hook</string>
+      <string>O.smcp_with_circumflex_and_dotbelow</string>
+      <string>O.smcp_with_dotabove_and_macron</string>
+      <string>O.smcp_with_macron_and_acute</string>
+      <string>O.smcp_with_macron_and_grave</string>
+      <string>O.smcp_with_tildeabove_and_acute</string>
+      <string>O.smcp_with_tildeabove_and_macron</string>
+      <string>O.smcp_with_tildeabove_and_diaeresis</string>
+      <string>O.smcp_with_diaeresis_and_macron</string>
+      <string>O.smcp_with_ogonek_and_macron</string>
+      <string>O.smcp_with_stroke_and_acute</string>
+      <string>O.smcp_with_horn_and_acute</string>
+      <string>O.smcp_with_horn_and_grave</string>
+      <string>O.smcp_with_horn_and_tildeabove</string>
+      <string>O.smcp_with_horn_and_hook</string>
+      <string>O.smcp_with_horn_and_dotbelow</string>
+    </array>
+    <key>public.kern2.one</key>
+    <array>
+      <string>one</string>
+      <string>one.ss01</string>
     </array>
     <key>public.kern2.percent</key>
     <array>
@@ -1505,24 +3533,39 @@
       <string>ellipsis</string>
       <string>quotelow9</string>
       <string>quotelow9_dbl</string>
+      <string>period.ss02</string>
+      <string>comma.ss02</string>
+      <string>ellipsis.ss02</string>
+      <string>quotelow9.ss02</string>
+      <string>quotelow9_dbl.ss02</string>
     </array>
     <key>public.kern2.pound</key>
     <array>
       <string>pound</string>
       <string>lira</string>
     </array>
+    <key>public.kern2.question</key>
+    <array>
+      <string>question</string>
+      <string>question.ss02</string>
+    </array>
     <key>public.kern2.quotesingle</key>
     <array>
-      <string>quotesingle</string>
-      <string>quotedbl</string>
+      <string>quote</string>
+      <string>quote_dbl</string>
       <string>quoteleft</string>
       <string>quoteright</string>
-      <string>quotedblleft</string>
-      <string>quotedblright</string>
+      <string>quoteleft_dbl</string>
+      <string>quoteright_dbl</string>
+      <string>quoteleft.ss02</string>
+      <string>quoteright.ss02</string>
+      <string>quoteleft_dbl.ss02</string>
+      <string>quoteright_dbl.ss02</string>
     </array>
     <key>public.kern2.s</key>
     <array>
       <string>s</string>
+      <string>s.ss01</string>
       <string>s_with_acute</string>
       <string>s_with_circumflex</string>
       <string>s_with_caron</string>
@@ -1533,10 +3576,33 @@
       <string>s_with_acute_and_dotabove</string>
       <string>s_with_caron_and_dotabove</string>
       <string>s_with_dotbelow_and_dotabove</string>
+      <string>s_with_dotabove.ss02</string>
+      <string>s_with_commabelow.ss02</string>
+      <string>s_with_dotbelow.ss02</string>
+      <string>s_with_acute_and_dotabove.ss02</string>
+      <string>s_with_caron_and_dotabove.ss02</string>
+      <string>s_with_dotbelow.ss02_and_dotabove.ss02</string>
+      <string>s.ss01_with_acute</string>
+      <string>s.ss01_with_circumflex</string>
+      <string>s.ss01_with_caron</string>
+      <string>s.ss01_with_dotabove</string>
+      <string>s.ss01_with_cedilla</string>
+      <string>s.ss01_with_commabelow</string>
+      <string>s.ss01_with_dotbelow</string>
+      <string>s.ss01_with_acute_and_dotabove</string>
+      <string>s.ss01_with_caron_and_dotabove</string>
+      <string>s.ss01_with_dotbelow_and_dotabove</string>
+      <string>s.ss01_with_dotabove.ss02</string>
+      <string>s.ss01_with_commabelow.ss02</string>
+      <string>s.ss01_with_dotbelow.ss02</string>
+      <string>s.ss01_with_acute_and_dotabove.ss02</string>
+      <string>s.ss01_with_caron_and_dotabove.ss02</string>
+      <string>s.ss01_with_dotbelow.ss02_and_dotabove.ss02</string>
     </array>
     <key>public.kern2.t</key>
     <array>
       <string>t</string>
+      <string>t.ss01</string>
       <string>t_with_caron</string>
       <string>t_with_dotabove</string>
       <string>t_with_diaeresis</string>
@@ -1546,10 +3612,72 @@
       <string>t_with_circumflexbelow</string>
       <string>t_with_dotbelow</string>
       <string>t_with_macronbelow</string>
+      <string>t_with_dotabove.ss02</string>
+      <string>t_with_commabelow.ss02</string>
+      <string>t_with_dotbelow.ss02</string>
+      <string>t.ss01_with_caron</string>
+      <string>t.ss01_with_dotabove</string>
+      <string>t.ss01_with_diaeresis</string>
+      <string>t.ss01_with_cedilla</string>
+      <string>t.ss01_with_stroke</string>
+      <string>t.ss01_with_commabelow</string>
+      <string>t.ss01_with_circumflexbelow</string>
+      <string>t.ss01_with_dotbelow</string>
+      <string>t.ss01_with_macronbelow</string>
+      <string>t.ss01_with_dotabove.ss02</string>
+      <string>t.ss01_with_commabelow.ss02</string>
+      <string>t.ss01_with_dotbelow.ss02</string>
+    </array>
+    <key>public.kern2.three</key>
+    <array>
+      <string>three</string>
+      <string>three.ss01</string>
     </array>
     <key>public.kern2.u</key>
     <array>
       <string>u</string>
+      <string>u.ss03</string>
+      <string>y.ss04</string>
+      <string>y.ss03.ss04</string>
+      <string>u.ss03_with_acute</string>
+      <string>u.ss03_with_grave</string>
+      <string>u.ss03_with_circumflex</string>
+      <string>u.ss03_with_caron</string>
+      <string>u.ss03_with_breve</string>
+      <string>u.ss03_with_breveinv</string>
+      <string>u.ss03_with_ring</string>
+      <string>u.ss03_with_macron</string>
+      <string>u.ss03_with_tildeabove</string>
+      <string>u.ss03_with_hook</string>
+      <string>u.ss03_with_diaeresis</string>
+      <string>u.ss03_with_acutedbl</string>
+      <string>u.ss03_with_gravedbl</string>
+      <string>u.ss03_with_ogonek</string>
+      <string>u.ss03_with_horn</string>
+      <string>u.ss03_with_circumflexbelow</string>
+      <string>u.ss03_with_dotbelow</string>
+      <string>u.ss03_with_tildebelow</string>
+      <string>u.ss03_with_diaeresisbelow</string>
+      <string>u.ss03_with_macron_and_diaeresis</string>
+      <string>u.ss03_with_tildeabove_and_acute</string>
+      <string>u.ss03_with_diaeresis_and_acute</string>
+      <string>u.ss03_with_diaeresis_and_grave</string>
+      <string>u.ss03_with_diaeresis_and_caron</string>
+      <string>u.ss03_with_diaeresis_and_macron</string>
+      <string>u.ss03_with_horn_and_acute</string>
+      <string>u.ss03_with_horn_and_grave</string>
+      <string>u.ss03_with_horn_and_tildeabove</string>
+      <string>u.ss03_with_horn_and_hook</string>
+      <string>u.ss03_with_horn_and_dotbelow</string>
+      <string>u.ss03_with_diaeresis.ss02</string>
+      <string>u.ss03_with_dotbelow.ss02</string>
+      <string>u.ss03_with_diaeresisbelow.ss02</string>
+      <string>u.ss03_with_macron_and_diaeresis.ss02</string>
+      <string>u.ss03_with_diaeresis.ss02_and_acute</string>
+      <string>u.ss03_with_diaeresis.ss02_and_grave</string>
+      <string>u.ss03_with_diaeresis.ss02_and_caron</string>
+      <string>u.ss03_with_diaeresis.ss02_and_macron</string>
+      <string>u.ss03_with_horn_and_dotbelow.ss02</string>
       <string>u_with_acute</string>
       <string>u_with_grave</string>
       <string>u_with_circumflex</string>
@@ -1580,11 +3708,23 @@
       <string>u_with_horn_and_tildeabove</string>
       <string>u_with_horn_and_hook</string>
       <string>u_with_horn_and_dotbelow</string>
+      <string>u_with_diaeresis.ss02</string>
+      <string>u_with_dotbelow.ss02</string>
+      <string>u_with_diaeresisbelow.ss02</string>
+      <string>u_with_macron_and_diaeresis.ss02</string>
+      <string>u_with_diaeresis.ss02_and_acute</string>
+      <string>u_with_diaeresis.ss02_and_grave</string>
+      <string>u_with_diaeresis.ss02_and_caron</string>
+      <string>u_with_diaeresis.ss02_and_macron</string>
+      <string>u_with_horn_and_dotbelow.ss02</string>
     </array>
     <key>public.kern2.v</key>
     <array>
       <string>v</string>
       <string>y</string>
+      <string>v_with_tildeabove</string>
+      <string>v_with_dotbelow</string>
+      <string>v_with_dotbelow.ss02</string>
       <string>y_with_acute</string>
       <string>y_with_grave</string>
       <string>y_with_circumflex</string>
@@ -1595,8 +3735,9 @@
       <string>y_with_hook</string>
       <string>y_with_diaeresis</string>
       <string>y_with_dotbelow</string>
-      <string>v_with_tildeabove</string>
-      <string>v_with_dotbelow</string>
+      <string>y_with_dotabove.ss02</string>
+      <string>y_with_diaeresis.ss02</string>
+      <string>y_with_dotbelow.ss02</string>
     </array>
     <key>public.kern2.w</key>
     <array>
@@ -1608,16 +3749,22 @@
       <string>w_with_dotabove</string>
       <string>w_with_diaeresis</string>
       <string>w_with_dotbelow</string>
+      <string>w_with_dotabove.ss02</string>
+      <string>w_with_diaeresis.ss02</string>
+      <string>w_with_dotbelow.ss02</string>
     </array>
     <key>public.kern2.x</key>
     <array>
       <string>x</string>
       <string>x_with_dotabove</string>
       <string>x_with_diaeresis</string>
+      <string>x_with_dotabove.ss02</string>
+      <string>x_with_diaeresis.ss02</string>
     </array>
     <key>public.kern2.z</key>
     <array>
       <string>z</string>
+      <string>z.ss01</string>
       <string>z_with_acute</string>
       <string>z_with_circumflex</string>
       <string>z_with_caron</string>
@@ -1625,6 +3772,17 @@
       <string>z_with_stroke</string>
       <string>z_with_dotbelow</string>
       <string>z_with_macronbelow</string>
+      <string>z_with_dotabove.ss02</string>
+      <string>z_with_dotbelow.ss02</string>
+      <string>z.ss01_with_acute</string>
+      <string>z.ss01_with_circumflex</string>
+      <string>z.ss01_with_caron</string>
+      <string>z.ss01_with_dotabove</string>
+      <string>z.ss01_with_stroke</string>
+      <string>z.ss01_with_dotbelow</string>
+      <string>z.ss01_with_macronbelow</string>
+      <string>z.ss01_with_dotabove.ss02</string>
+      <string>z.ss01_with_dotbelow.ss02</string>
     </array>
   </dict>
 </plist>

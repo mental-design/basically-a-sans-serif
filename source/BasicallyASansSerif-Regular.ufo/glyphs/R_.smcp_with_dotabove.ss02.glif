@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.smcp_with_dotabove.ss02" format="2">
+  <advance width="813.3040549147594"/>
+  <unicode hex="E902"/>
+  <anchor x="408.54245172357145" y="-122.77695522648489" name="below" identifier="below"/>
+  <anchor x="407.05915751531336" y="1193.8614421220184" name="above" identifier="above"/>
+  <outline>
+    <contour>
+      <point x="319.75019" y="979.05746" type="line"/>
+      <point x="494.36813" y="979.05746" type="line"/>
+      <point x="494.36813" y="1153.6754" type="line"/>
+      <point x="319.75019" y="1153.6754" type="line"/>
+    </contour>
+    <contour>
+      <point x="216.28040313720703" y="715.7646408081055" type="line"/>
+      <point x="454.7802443975406" y="715.7646408081055" type="line"/>
+      <point x="583.0427996471535" y="715.7646408081055"/>
+      <point x="631.50568" y="632.585675572577"/>
+      <point x="631.50568" y="559.01859" type="curve" smooth="yes"/>
+      <point x="631.50568" y="485.45146405403875"/>
+      <point x="583.0427659875181" y="402.2725301667105"/>
+      <point x="454.780241835488" y="402.27252996924017" type="curve"/>
+      <point x="216.28040313720703" y="402.2725296020508" type="line"/>
+    </contour>
+    <contour>
+      <point x="105.73953247070312" y="0" type="line"/>
+      <point x="216.28040313720703" y="0" type="line"/>
+      <point x="216.28040313720703" y="295.9963607788086" type="line"/>
+      <point x="444.8190612792969" y="295.9963607788086" type="line"/>
+      <point x="638.9213180541992" y="0" type="line"/>
+      <point x="768.8935012817383" y="0" type="line"/>
+      <point x="564.145378112793" y="310.6768569946289" type="line"/>
+      <point x="668.5867420074501" y="346.2140382139839"/>
+      <point x="743.50873" y="442.71908417743"/>
+      <point x="743.50873" y="559.71486" type="curve" smooth="yes"/>
+      <point x="743.50873" y="682.9749422785665"/>
+      <point x="656.0191341834468" y="823.868541030111"/>
+      <point x="454.75962" y="823.8685398863386" type="curve"/>
+      <point x="105.73953247070312" y="823.868537902832" type="line"/>
+    </contour>
+  </outline>
+</glyph>

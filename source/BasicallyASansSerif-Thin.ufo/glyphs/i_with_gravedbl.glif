@@ -1,19 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i_with_gravedbl" format="2">
-  <advance width="271.6363636363636"/>
+  <advance width="271.6363636363637"/>
   <unicode hex="0209"/>
+  <anchor x="135.81818181818184" y="-130.9090909090909" name="below" identifier="below"/>
+  <anchor x="135.81818181818184" y="413.83928571428567" name="stroke" identifier="stroke"/>
+  <anchor x="152.1818181818182" y="0" name="ogonek" identifier="ogonek"/>
   <outline>
     <contour>
-      <point x="71.18178" y="920.96591" type="line"/>
-      <point x="-61.51765" y="1155.51136" type="line"/>
-      <point x="-99.11983" y="1155.51136" type="line"/>
-      <point x="33.5796" y="920.96591" type="line"/>
+      <point x="65.4892" y="920.96591" type="line"/>
+      <point x="-111.62196" y="1193.69318" type="line"/>
+      <point x="-150.64476" y="1193.69318" type="line"/>
+      <point x="26.46641" y="920.96591" type="line"/>
     </contour>
     <contour>
-      <point x="278.45451" y="920.96591" type="line"/>
-      <point x="145.75508" y="1155.51136" type="line"/>
-      <point x="108.1529" y="1155.51136" type="line"/>
-      <point x="240.85233" y="920.96591" type="line"/>
+      <point x="289.12557" y="920.96591" type="line"/>
+      <point x="112.01441" y="1193.69318" type="line"/>
+      <point x="72.99161" y="1193.69318" type="line"/>
+      <point x="250.10277" y="920.96591" type="line"/>
     </contour>
     <contour>
       <point x="119.45455" y="0.0" type="line"/>
